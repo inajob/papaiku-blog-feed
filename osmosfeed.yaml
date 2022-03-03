@@ -5,7 +5,25 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://oton-tech.com/feed/
+  - href: https://note.com/takahi115/rss
+  - href: https://decobocochan.com/feed
+  - href: https://kosodateofmaepchan.blogspot.com/feeds/posts/default
+  - href: https://35saiji.com/feed
+  - href: https://marugeriswitch.com/feed/
+  - href: https://note.com/takaranran_mk/rss
+  - href: https://kokoyayablog.com/feed/
+  - href: https://irodorulife.com/feed/
+  - href: https://note.com/mountainpeace/rss
+  - href: https://brushwoodcape.hatenablog.com/feed
+  - href: https://faxwatch.hatenablog.com/feed
+  - href: https://nicopoco.com/feed
+  - href: https://ikuziman.com/feed/
+  - href: http://rssblog.ameba.jp/ma3100815/rss20.xml
+  - href: https://ny-lifework.com/feed/
+  - href: https://tsukuba-kosodate-papa-blog-honobono-mikandaisuki.net/feed/
+  - href: https://papaganbarumon.com/feed/
+  - href: https://hongzhijintian.com/feed/
+  - href: https://tasogare-home.com/feed/
+  - href: https://r-padre.com/feed
+  - href: https://www.zutti-aspooh.com/feed/
