@@ -1,682 +1,637 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "おとんTechブログ",
+      "feedUrl": "https://oton-tech.com/feed/",
+      "siteUrl": "https://oton-tech.com",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
-          "author": null,
-          "description": "Fixed: Several style issues",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
-          "publishedOn": "2022-02-14T06:58:28.000Z",
-          "wordCount": 257,
-          "title": "v1.14.4",
-          "imageUrl": "https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4"
+          "id": "https://oton-tech.com/?p=4032",
+          "author": "okasan",
+          "description": "Rank Tracker（ランクトラッカー）を複数PC（パソコン）で使いたい、と思ったことはないでしょうか？ ランクトラッカーは複数のパソコンで使えます。 「SEO検索順位チェックツール：Rank Trackerの料金、 […]",
+          "link": "https://oton-tech.com/ranktracker-on-multipc/",
+          "publishedOn": "2022-03-01T12:01:23.000Z",
+          "wordCount": 139,
+          "title": "Rank Trackerを複数PC（パソコン）で使う方法",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/03/RankTracker_multidevice_min.png"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
-          "author": null,
-          "description": "style tweak",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
-          "publishedOn": "2022-02-14T06:29:16.000Z",
-          "wordCount": 254,
-          "title": "v1.14.3",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+          "id": "https://oton-tech.com/?p=3832",
+          "author": "okasan",
+          "description": "この記事では、「ブログを始めよう！」「ブログを始めたはいいけど、この先どうするの？」というブログ初心者に向けて、ブログを運営していくということの全体像と、ブログ運営において最も大事なブログ戦略について紹介しています。 「 […]",
+          "link": "https://oton-tech.com/blog-strategy/",
+          "publishedOn": "2022-02-27T21:00:20.000Z",
+          "wordCount": 118,
+          "title": "ブログを始めるには？ブログ運営の全体像と最も大事なブログ戦略",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/02/blog_strategy_eyecatch_min.png"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
-          "author": null,
-          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
-          "publishedOn": "2022-02-14T05:53:33.000Z",
+          "id": "https://oton-tech.com/?p=3834",
+          "author": "okasan",
+          "description": "「ブログを始めてみようかな」 新しい年、新年度、など節目でなにか新しいことを始めようとしたとき、ブログを思い浮かべる人もいると思います。 この記事では、ブログをオススメする理由、ブログのメリットを紹介しています。 ブログ […]",
+          "link": "https://oton-tech.com/lets-start-blog/",
+          "publishedOn": "2022-02-27T06:54:37.000Z",
+          "wordCount": 130,
+          "title": "ブログをはじめよう！スキルアップにも、副業にも最適な超低リスク／ハイリターン活動",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/02/undraw_content_team_3epn.png"
+        },
+        {
+          "id": "https://oton-tech.com/?p=3952",
+          "author": "okasan",
+          "description": "「ワードプレスでブログを始めたい！」というとき、どうすれば素早くブログを始められるでしょうか？ ワードプレスでブログを始めるにはレンタルサーバを借りる必要がありますが、ConoHa WINGを使うとアカウント登録からワー […]",
+          "link": "https://oton-tech.com/conoha-wing/",
+          "publishedOn": "2022-02-26T10:22:04.000Z",
+          "wordCount": 165,
+          "title": "【ConoHa WING】10分でブログ開始！ワードプレスの始め方",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/02/ConoHaWING_eyecatch_min.png"
+        },
+        {
+          "id": "https://oton-tech.com/?p=3825",
+          "author": "okasan",
+          "description": "「検索からのブログアクセスが少ない！」 「SEO検索順位が上がらない！」 はじめたたばかりのブログでは、こんな悩みばかりではないでしょうか？ Rank Trackerは、マナブさんやクニトミさんなど有名ブロガーも利用して […]",
+          "link": "https://oton-tech.com/ranktracker/",
+          "publishedOn": "2022-02-11T12:25:22.000Z",
+          "wordCount": 290,
+          "title": "SEO検索順位チェックツール：Rank Trackerの料金、導入方法から使い方まで解説",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/02/RankTracker_eyecatch.png"
+        }
+      ]
+    },
+    {
+      "title": "こやたか|隙間時間でスキルアップできる！",
+      "feedUrl": "https://note.com/takahi115/rss",
+      "siteUrl": "https://note.com/takahi115",
+      "articles": []
+    },
+    {
+      "title": "あつまれ！凸凹ちゃん「発達障害？ううん凸凹ちゃんだよ」",
+      "feedUrl": "https://decobocochan.com/feed",
+      "siteUrl": "https://decobocochan.com",
+      "articles": [
+        {
+          "id": "https://decobocochan.com/?p=5091",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/5091",
+          "publishedOn": "2022-03-02T22:35:07.000Z",
+          "wordCount": 347,
+          "title": "発達検査の種類と受けるタイミング",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-80.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=5173",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/5173",
+          "publishedOn": "2022-03-01T07:00:35.000Z",
+          "wordCount": 186,
+          "title": "2月にたくさん読んでもらった記事★TOP 3",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/03/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-79.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=5149",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/5149",
+          "publishedOn": "2022-02-28T14:12:09.000Z",
+          "wordCount": 164,
+          "title": "「障害は特別なことか？」★バリアフリーチャレンジ！記事シェア",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピーのコピーのコピー-31.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=5095",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/5095",
+          "publishedOn": "2022-02-23T08:08:43.000Z",
+          "wordCount": 269,
+          "title": "不登校オンライン親の会『miraicafe』2月開催レポ＆3月のご案内",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/2-1-1024x576.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=4929",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/4929",
+          "publishedOn": "2022-02-20T09:10:59.000Z",
+          "wordCount": 225,
+          "title": "凸凹ちゃんと旅行準備",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/5113264_s.jpg"
+        },
+        {
+          "id": "https://decobocochan.com/?p=4912",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/4912",
+          "publishedOn": "2022-02-19T08:40:08.000Z",
+          "wordCount": 155,
+          "title": "ぱんだちゃんのマヤ暦®ベーシックコースのご案内",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-77.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=4928",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/4928",
+          "publishedOn": "2022-02-17T08:40:27.000Z",
+          "wordCount": 305,
+          "title": "デイサービスを選ぶ6つのポイント",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-78.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=4926",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/4926",
+          "publishedOn": "2022-02-14T12:13:51.000Z",
+          "wordCount": 314,
+          "title": "あなたは防災についてどれくらい備えていますか？",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-76.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=4851",
+          "author": "りょう育ママ",
+          "description": "講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...",
+          "link": "https://decobocochan.com/archives/4851",
+          "publishedOn": "2022-02-12T01:00:15.000Z",
+          "wordCount": 132,
+          "title": "2022年3月セミナー・イベント情報",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピー-30.png"
+        },
+        {
+          "id": "https://decobocochan.com/?p=4849",
+          "author": "りょう育ママ",
+          "description": "りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...",
+          "link": "https://decobocochan.com/archives/4849",
+          "publishedOn": "2022-02-11T02:42:38.000Z",
+          "wordCount": 169,
+          "title": "【レポ】ボーダーレス  VOL.3 with りょう育ママ",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/02/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-72.png"
+        }
+      ]
+    },
+    {
+      "title": "すらぱぱの雑記ブログ〜子育てパパ〜",
+      "feedUrl": "https://kosodateofmaepchan.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://kosodateofmaepchan.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "いのっぷ村",
+      "feedUrl": "https://35saiji.com/feed",
+      "siteUrl": "https://35saiji.com",
+      "articles": []
+    },
+    {
+      "title": "まるげりスイッチ",
+      "feedUrl": "https://marugeriswitch.com/feed/",
+      "siteUrl": "https://marugeriswitch.com",
+      "articles": [
+        {
+          "id": "https://marugeriswitch.com/?p=4036",
+          "author": "まるげり",
+          "description": "ただの日記です。あしからず。\nCopyright © 2022 まるげりスイッチ All Rights Reserved.",
+          "link": "https://marugeriswitch.com/2022-02-diary/",
+          "publishedOn": "2022-02-28T13:55:22.000Z",
+          "wordCount": 322,
+          "title": "【日記】2022年2月｜厳しい戦いが強いられた1ヶ月間だった",
+          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2022/02/eyecatch-image.jpg"
+        }
+      ]
+    },
+    {
+      "title": "たからん",
+      "feedUrl": "https://note.com/takaranran_mk/rss",
+      "siteUrl": "https://note.com/takaranran_mk",
+      "articles": []
+    },
+    {
+      "title": "育休パパのがんばりノート",
+      "feedUrl": "https://kokoyayablog.com/feed/",
+      "siteUrl": "https://kokoyayablog.com",
+      "articles": []
+    },
+    {
+      "title": "otodanblog",
+      "feedUrl": "https://irodorulife.com/feed/",
+      "siteUrl": "https://irodorulife.com",
+      "articles": [
+        {
+          "id": "https://irodorulife.com/?p=2515",
+          "author": "otodan",
+          "description": "双子の育児に奮闘中のオトダン(Otodan_)です。 今回は風力発電について気になる記事をみつけたなので、自分なりの解釈をブログに残します。 ちなみに私が記事を読んで震えたのはこちら 私は幼い頃からの自然豊かな田舎育ち、...\n【風力発電】自然エネルギーは必要か不必要かについて考えてみた first appeared on otodanblog.",
+          "link": "https://irodorulife.com/wind-power-generation/",
+          "publishedOn": "2022-02-22T11:18:17.000Z",
+          "wordCount": 405,
+          "title": "【風力発電】自然エネルギーは必要か不必要かについて考えてみた",
+          "imageUrl": null
+        },
+        {
+          "id": "https://irodorulife.com/?p=2481",
+          "author": "otodan",
+          "description": "もうすぐ2歳になる双子の男の子の育児に奮闘中のオトダン(Otodan_)です。 子どもが小さいとゆっくりご飯食べられないですよね。 私もその気持ちはめちゃくちゃ分かります！笑 特に乳児、幼児の場合は子どものご飯をあげてる...\n【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法 first appeared on otodanblog.",
+          "link": "https://irodorulife.com/parenting-meal/",
+          "publishedOn": "2022-02-18T15:00:24.000Z",
+          "wordCount": 565,
+          "title": "【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://irodorulife.com/?p=2476",
+          "author": "otodan",
+          "description": "どうもこんにちは 現在1歳10ヶ月になる双子の男の子の育児に絶賛奮闘中のオトダン(Otodan)です。 きっとこの記事をみてくれている皆さんの多くは、我が子の体重が増えないで、悩んでいる母ちゃん、父ちゃんが多いのではない...\n【赤ちゃんの体重増えない】ミルクもご飯も食べない我が家の双子が実践したこと first appeared on otodanblog.",
+          "link": "https://irodorulife.com/baby-worries-weight/",
+          "publishedOn": "2022-02-15T10:13:12.000Z",
+          "wordCount": 423,
+          "title": "【赤ちゃんの体重増えない】ミルクもご飯も食べない我が家の双子が実践したこと",
+          "imageUrl": null
+        },
+        {
+          "id": "https://irodorulife.com/?p=2464",
+          "author": "otodan",
+          "description": "こんにちはオトダン(Otodan_)です。 今回は、子育て中になりがちな猫背にならない方法とオススメの猫背矯正ベルトをご紹介します。 猫背が要注意な理由 猫背になると身体の不調として代表的な5つの症状がこちらです。 その...\n【赤ちゃん抱っこ猫背】子育て中になりがちな猫背に要注意｜猫背にならない方法とおすすめの猫背矯正ベルトを紹介 first appeared on otodanblog.",
+          "link": "https://irodorulife.com/parenting-stoop/",
+          "publishedOn": "2022-02-12T15:44:53.000Z",
+          "wordCount": 471,
+          "title": "【赤ちゃん抱っこ猫背】子育て中になりがちな猫背に要注意｜猫背にならない方法とおすすめの猫背矯正ベルトを紹介",
+          "imageUrl": null
+        },
+        {
+          "id": "https://irodorulife.com/?p=2448",
+          "author": "otodan",
+          "description": "双子育児に奮闘中のオトダン(Otodan_)です。 子育てしていると『子どもの抱っこ攻撃』や『料理、洗濯、食器洗い』など、日々あらゆる家事のおかげで家では休む暇なく立ちっぱなしで作業をしているお母さん、お父さんは多いので...\n【足疲れの悩み解消】家事や子育ての立ち作業でも疲れないスリッパ first appeared on otodanblog.",
+          "link": "https://irodorulife.com/tiredleg-slipper/",
+          "publishedOn": "2022-02-10T15:57:54.000Z",
+          "wordCount": 537,
+          "title": "【足疲れの悩み解消】家事や子育ての立ち作業でも疲れないスリッパ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://irodorulife.com/?p=2444",
+          "author": "otodan",
+          "description": "育児は見た目以上にハードだなと身をもって感じているオトダンです。 そんな今回は、育児疲れになりにくい秘訣を教えてくれる本を見つけたのてご紹介します。 子育てでカラダが限界なんですがどうすればいいですか? リンク こちらの...\n【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました first appeared on otodanblog.",
+          "link": "https://irodorulife.com/book-kosodate/",
+          "publishedOn": "2022-02-08T14:40:53.000Z",
           "wordCount": 355,
-          "title": "v1.14.2",
-          "imageUrl": "https://opengraph.githubassets.com/3d1aa7f7484f74c258c25be470129b65acc359f03644040243b05803daae68aa/osmoscraft/osmosfeed/releases/tag/v1.14.2"
+          "title": "【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました",
+          "imageUrl": null
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
-          "author": null,
-          "description": "git typo in gh run url",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
-          "publishedOn": "2022-02-14T05:26:23.000Z",
-          "wordCount": 258,
-          "title": "v1.14.1",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+          "id": "https://irodorulife.com/?p=2427",
+          "author": "otodan",
+          "description": "こんにちはオトダン(Otodan_)です。 我が家はクリスマスプレゼントとして双子に室内滑り台をプレゼントしたのですが、結果的に今も毎日遊んでくれてるのでめちゃくち買って良かったです。 🎅からのクリスマス...\n【室内滑り台】子どもに買って良かった理由｜滑り台をレンタルする選択肢もあるよ first appeared on otodanblog.",
+          "link": "https://irodorulife.com/indoor-slide/",
+          "publishedOn": "2022-02-05T16:01:31.000Z",
+          "wordCount": 471,
+          "title": "【室内滑り台】子どもに買って良かった理由｜滑り台をレンタルする選択肢もあるよ",
+          "imageUrl": null
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
-          "author": null,
-          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
-          "publishedOn": "2022-02-14T05:13:00.000Z",
-          "wordCount": 398,
-          "title": "v1.14.0: V1.14.0 (#79)",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+          "id": "https://irodorulife.com/?p=2402",
+          "author": "otodan",
+          "description": "こんにちはオトダン(Otodan_)です。 今回は、双子を連れて京都府京丹後市にある プラザアピア峰山という施設に家族で遊びに行きました！ 一言で言うと大人もめちゃくちゃ楽しめる場所でした。笑 というのも、子どもを遊ばせ...\n【京都府京丹後市】キッズルームがあるプラザアピア峰山に双子を連れて遊びに行きました first appeared on otodanblog.",
+          "link": "https://irodorulife.com/trip-tango-mineyama/",
+          "publishedOn": "2022-02-04T06:46:23.000Z",
+          "wordCount": 587,
+          "title": "【京都府京丹後市】キッズルームがあるプラザアピア峰山に双子を連れて遊びに行きました",
+          "imageUrl": null
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
-          "author": null,
-          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
-          "publishedOn": "2022-02-13T05:05:17.000Z",
-          "wordCount": 339,
-          "title": "v1.13.0",
-          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
-          "author": null,
-          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
-          "publishedOn": "2022-02-12T17:46:42.000Z",
-          "wordCount": 268,
-          "title": "v1.12.1",
-          "imageUrl": "https://opengraph.githubassets.com/d69790a31f94b1adf743c58bae86b9754de6969cceb83f11b8fbeb28ab1ad632/osmoscraft/osmosfeed/releases/tag/v1.12.1"
+          "id": "https://irodorulife.com/?p=2390",
+          "author": "otodan",
+          "description": "今日は節分ですね。 そう、子どもにとって年に一回鬼さんと遭遇するある意味怖〜い？イベントです^ ^ そんな我が家の双子も本日、人生で初めて鬼と出会い肝っ玉を冷やす経験をしました。 というお話を今回はブログで綴ります。 何...\n【節分】双子初めて鬼との遭遇にびびりまくる first appeared on otodanblog.",
+          "link": "https://irodorulife.com/blog-setsubun/",
+          "publishedOn": "2022-02-03T14:31:20.000Z",
+          "wordCount": 466,
+          "title": "【節分】双子初めて鬼との遭遇にびびりまくる",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "やま｜Kindle評論家",
+      "feedUrl": "https://note.com/mountainpeace/rss",
+      "siteUrl": "https://note.com/mountainpeace",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=364350",
-          "author": "Chris Coyier",
-          "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/performance-links-february-2022/",
-          "publishedOn": "2022-03-02T21:26:50.000Z",
-          "wordCount": 840,
-          "title": "7 Fresh Links on Performance For March 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
+          "id": "https://note.com/mountainpeace/n/nfb6f2a1862c5",
+          "author": null,
+          "description": "＼ 執筆と運動とアイディア ／\n\n著者@kazimendleの実体験をもとに、ランニング、ウォーキング中に記事の発想が浮かぶことが紹介されてます。歴史家、起業家にも運動をしていることが多い事実を、実証をもとに解説してくれてます！\n\nhttps://t.co/4eCeQjadrb\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/nfb6f2a1862c5",
+          "publishedOn": "2022-02-10T23:44:12.000Z",
+          "wordCount": 48,
+          "title": "＼ 執筆と運動とアイディア ／\n\n...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71950728/picture_pc_f48481cfd6c23fe8453c2c22988c472c.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=363882",
-          "author": "Silvestar Bistrović",
-          "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
-          "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1206,
-          "title": "How to Make a “Raise the Curtains” Effect in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
+          "id": "https://note.com/mountainpeace/n/nea82815fba3c",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/mountainpeace/n/nea82815fba3c",
+          "publishedOn": "2022-02-10T11:45:23.000Z",
+          "wordCount": 50,
+          "title": "＼ 嬉しすぎるレビュー！／",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71923006/rectangle_large_type_2_b05bbbd5949a136fbd42ee457daf1982.png?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=363724",
-          "author": "Patrick Brosset",
-          "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
-          "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2489,
-          "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
+          "id": "https://note.com/mountainpeace/n/n2f2374899d8a",
+          "author": null,
+          "description": "＼ 無料キャンペーンします！／\n【本日17時～13日16時59分まで】\n歩くことで、前頭葉が活性化しセロトニンが分泌します。学習効果や記憶力が20%向上し、クリエイティビティが60%UPすると言われています！一緒に歩き出しませんか？\nhttps://t.co/6OxYfmMOg1\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n2f2374899d8a",
+          "publishedOn": "2022-02-10T08:17:25.000Z",
+          "wordCount": 47,
+          "title": "＼ 無料キャンペーンします！／\n【...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71905055/picture_pc_cff6afc79b5480efdc69754d62338fe9.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=364351",
-          "author": "Chris Coyier",
-          "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
-          "publishedOn": "2022-03-01T15:41:16.000Z",
-          "wordCount": 454,
-          "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
+          "id": "https://note.com/mountainpeace/n/n0abfa6818116",
+          "author": null,
+          "description": "＼ 50歳からのツィッター入門 ／\n師匠から学んだ『運用法』がベースになっているので、まとめられていて、わかりやすい！始めて知るツールが２つもあって、勉強になりました。同じような境遇の方に刺さる内容となっています！ \nhttps://amzn.to/3J9tMfw\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n0abfa6818116",
+          "publishedOn": "2022-02-06T13:25:43.000Z",
+          "wordCount": 50,
+          "title": "＼ 50歳からのツィッター入門 ／...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71636021/picture_pc_b329abbb9c0383d6b3e74949e1fdde0d.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=364346",
-          "author": "Chris Coyier",
-          "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
-          "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 859,
-          "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
+          "id": "https://note.com/mountainpeace/n/n0e94a29c723b",
+          "author": null,
+          "description": "＼健康の９割は○○力／納豆にはダイエット、美肌効果。トリプトファンはセロトニン原料になります。納豆メーカーに大豆と市販納豆を入れれば、約１週間分作れます。高級納豆がおすすめの！同じ環境、ストレス下でも、発症する人しない人がいる。最後に大事なのは免疫力。健康は自分で作って行くもの！\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n0e94a29c723b",
+          "publishedOn": "2022-02-05T22:26:01.000Z",
+          "wordCount": 42,
+          "title": "＼健康の９割は○○力／納豆にはダイ...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71567499/picture_pc_deea6fa8cd99693aee2ba4796ba74d02.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=363929",
-          "author": "John Rhea",
-          "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
-          "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2445,
-          "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
+          "id": "https://note.com/mountainpeace/n/ndfbcac543dd9",
+          "author": null,
+          "description": "＼ これは本当スゴい！／ここに書かれていることはおそらく事実です！著者はこの方法を試し、重度のうつ状態から、頭のキレ、回転が早くなり、上司からの信頼を得て、年収までUP!した。しかも、ジャーナル誌で掲載された、エビデンスのある手法！\nhttps://t.co/J7sGFCsaoU\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/ndfbcac543dd9",
+          "publishedOn": "2022-02-05T12:24:58.000Z",
+          "wordCount": 43,
+          "title": "＼ これは本当スゴい！／ここに書か...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71543489/picture_pc_152801f6d41455b5647fc517a4530532.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=364070",
-          "author": "Chris Coyier",
-          "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
-          "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 847,
-          "title": "Trailing Slashes on URLs: Contentious or Settled?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
+          "id": "https://note.com/mountainpeace/n/n7fd324215dbe",
+          "author": null,
+          "description": "＼Audible聴き放題が熱い／1500円×4で既に6000円分。聴き放題で読まなかった分野へのハードルも下がる。今までは執筆に関係する書籍を中心に購入してましたが、Audibleがきっかけで新たなアイデアも閃きそう。しかも初月無料\nhttps://amzn.to/3KGXP01\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n7fd324215dbe",
+          "publishedOn": "2022-02-03T20:46:12.000Z",
+          "wordCount": 46,
+          "title": "＼Audible聴き放題が熱い／1...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71409690/picture_pc_5a65d5c3c9b23324e739df9fb83a84a0.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=363619",
-          "author": "Šime Vidas",
-          "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
-          "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1214,
-          "title": "When to Avoid the text-decoration Shorthand Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
+          "id": "https://note.com/mountainpeace/n/n9446e435e70f",
+          "author": null,
+          "description": "＼ 読み上げ機能はサイコー ／\n【Kindle執筆が大幅に改善中】今さらですが…Wordの下書き原稿を、一時的にPDFで保存すると、スマホの「読み上げ機能」で音声に変換してくれることを発見。耳で聴けるので、便利だし修正が楽し過ぎる！僕は執筆も耳との相性がいい！\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n9446e435e70f",
+          "publishedOn": "2022-02-03T20:42:34.000Z",
+          "wordCount": 53,
+          "title": "＼ 読み上げ機能はサイコー ／\n【...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71409630/picture_pc_a7bcef098f9a1decf026e914785d3d63.jpg?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=364152",
-          "author": "Chris Coyier",
-          "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
-          "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 494,
-          "title": "Manuel Matuzovic’s CSS Specificity Demo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
+          "id": "https://note.com/mountainpeace/n/n53e8307f7973",
+          "author": null,
+          "description": "＼ アスリートの内省法 ／\n教員歴33年。サッカーの顧問として地区大会優勝、県大会出場経験を持つ著者の実践してきた、エビデンスのある『内省法』を学べます。【ピンチに強くなる問題解決法】実例も豊富で、読者自身で実践できるノウハウ！\nhttps://amzn.to/3HqGVRc\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n53e8307f7973",
+          "publishedOn": "2022-02-03T04:43:50.000Z",
+          "wordCount": 48,
+          "title": "＼ アスリートの内省法 ／\n教員歴...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71357382/picture_pc_e14acf97811f6a79d175832c27ac39a1.png?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=364138",
-          "author": "Chris Coyier",
-          "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
-          "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 623,
-          "title": "My white whale: A use case for will-change",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
+          "id": "https://note.com/mountainpeace/n/n603be2fdf167",
+          "author": null,
+          "description": "＼ お金増やすのに必要なのは○○／\n 『知りたくなかったヤバい現実』 \n【5人に1人は年収200万円以下】【コロナ禍で住宅ローン破綻が急増中】現実を直視しながら、実践によって変われることを実体験をもとに学ばせてくれます！\nhttps://amzn.to/3okJpJr\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/n603be2fdf167",
+          "publishedOn": "2022-02-03T04:29:05.000Z",
+          "wordCount": 51,
+          "title": "＼ お金増やすのに必要なのは○○／...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/71356444/picture_pc_cf1bb1928012780ec691ce810c4d9f5b.png?width=800"
         },
         {
-          "id": "https://css-tricks.com/?p=363553",
-          "author": "Anand Chowdhary",
-          "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
-          "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6350,
-          "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363526",
-          "author": "ImageEngine",
-          "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
-          "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2773,
-          "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363937",
-          "author": "Chris Coyier",
-          "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-database-queries/",
-          "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 815,
-          "title": "CSS Database Queries? Sure We Can!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363532",
-          "author": "Daniel Yuschick",
-          "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
-          "publishedOn": "2022-02-23T15:15:33.000Z",
-          "wordCount": 1808,
-          "title": "5 Accessibility Quick Wins You Can Implement Today",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363998",
-          "author": "Chris Coyier",
-          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
-          "publishedOn": "2022-02-22T20:06:57.000Z",
-          "wordCount": 588,
-          "title": "Before I go: When it comes to complaining about web browsers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
+          "id": "https://note.com/mountainpeace/n/n292ad6d749dd",
+          "author": null,
+          "description": "＼ お金に困らない人の裏側 ／\n【稼ぎ続けたければ読んだ方がいい】僕はこういう情報が１番知りたかったのかもしれない。好きなこと、得意なことで稼ぐために必要な考えを学べます。著者の本音話。腰を据えて挑戦していける勇気をもらえました！\n\nhttps://amzn.to/3487P1U 続きをみる",
+          "link": "https://note.com/mountainpeace/n/n292ad6d749dd",
+          "publishedOn": "2022-02-03T00:32:58.000Z",
+          "wordCount": 52,
+          "title": "＼ お金に困らない人の裏側 ／\n【...",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/68603431/profile_e7f561982669a0f8273d94f8f91bc297.png?fit=bounds&format=jpeg&quality=85&width=330"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "共働きで2人姉妹を育てる父親の生き残り戦略",
+      "feedUrl": "https://brushwoodcape.hatenablog.com/feed",
+      "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
-          "author": "hello@smashingmagazine.com (Stephanie Stimac)",
-          "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
-          "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
-          "publishedOn": "2022-03-03T10:30:00.000Z",
-          "wordCount": 3801,
-          "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg"
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/02/15/060116",
+          "author": null,
+          "description": "3歳の長女がバレンタインデーにお菓子を作ってくれました。 父親へのプレゼントとしてお菓子を作ったのは初めてです。 1年前にはそのようなことは到底できなかったので、子どもの成長を感じます。 これは間違いなく良い思い出になるはずでした。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/02/15/060116",
+          "publishedOn": "2022-02-14T21:01:16.000Z",
+          "wordCount": 150,
+          "title": "3歳児が母と作って父にくれたスコーン。楽しいおやつになるはずだったが…",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220215/20220215050430.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
-          "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
-          "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5306,
-          "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
-          "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
-          "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3515,
-          "title": "New CSS Features In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from \"Interface Design Checklists\" PDF to support Ukraine.",
-          "link": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
-          "publishedOn": "2022-02-28T10:00:00.000Z",
-          "wordCount": 1298,
-          "title": "We All Are Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbc9e281-74da-421b-b3ae-4882be4aee66/smashing-stands-with-ukraine.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
-          "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
-          "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2431,
-          "title": "March For Equality (2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/recipe-good-design-system/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.",
-          "link": "https://smashingmagazine.com/2022/02/recipe-good-design-system/",
-          "publishedOn": "2022-02-28T09:00:00.000Z",
-          "wordCount": 2648,
-          "title": "A Recipe For A Good Design System",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77873ca3-a5cc-4a2f-82d9-0443c334ecba/design-systems-dev-backlight.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77873ca3-a5cc-4a2f-82d9-0443c334ecba/design-systems-dev-backlight.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.",
-          "link": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
-          "publishedOn": "2022-02-24T09:30:00.000Z",
-          "wordCount": 1714,
-          "title": "How To Benchmark And Improve Web Vitals With Real User Metrics",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
-          "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
-          "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3485,
-          "title": "Using The WordPress Editor And CPTs To Configure Plugins",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
-          "author": "hello@smashingmagazine.com (Ilya Medvedev)",
-          "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
-          "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
-          "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 2187,
-          "title": "How To Develop A Text Editor For The Web",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.",
-          "link": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
-          "publishedOn": "2022-02-22T06:00:00.000Z",
-          "wordCount": 8590,
-          "title": "Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d599b9c-98ef-4be9-ba35-46d9a9f4a66b/45-smashing-podcast-episode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d599b9c-98ef-4be9-ba35-46d9a9f4a66b/45-smashing-podcast-episode.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
-          "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
-          "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5933,
-          "title": "Testing Pipeline 101 For Frontend Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
-          "author": "hello@smashingmagazine.com (Knut Melvær)",
-          "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
-          "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
-          "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6643,
-          "title": "Thoughts On Markdown",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
-          "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
-          "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3734,
-          "title": "Falling In Love With The Web: Inspiring Websites And Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
-          "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
-          "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3934,
-          "title": "Implications Of WordPress Joining The Block Protocol",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
-          "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
-          "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
-          "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
-          "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4405,
-          "title": "Everything You Want To Know About Creating Voice User Interfaces",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
-          "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
-          "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1700,
-          "title": "Web Design Done Well: Perfectly Pointless",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
-          "author": "hello@smashingmagazine.com (Steven Hoober)",
-          "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
-          "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
-          "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3420,
-          "title": "Fitts’ Law In The Touch Era",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
-          "author": "hello@smashingmagazine.com (Sergey Melukov)",
-          "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
-          "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
-          "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5271,
-          "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
-          "author": "hello@smashingmagazine.com (Stanislav Khrustalev)",
-          "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
-          "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
-          "publishedOn": "2022-02-07T14:00:00.000Z",
-          "wordCount": 2787,
-          "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
-          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
-          "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
-          "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
-          "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3776,
-          "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
-          "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
-          "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2566,
-          "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
-          "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
-          "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4507,
-          "title": "Improving JavaScript Bundle Performance With Code-Splitting",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg"
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/02/12/053816",
+          "author": null,
+          "description": "2021年の春からコロナワクチンの接種が開始され、秋の終わりには接種率が8割を超えました。 これによりコロナ感染は収束するかと思われましたが、新たな変異株の出現によってコロナ禍は2022年2月現在も継続しています。 更なる対策として、コロナワクチンの3回目接種が進められています。 この記事を書いている私も、2月11日に3回目接種を受けてきました。 私自身は30代半ばですが、同じタイミングで接種に来ていたのは高齢の方だけでした。 高齢者が多い理由は1回目&2回目のワクチン接種が早く開始されたためですが、私のように子育て世代でも早く接種する方法があることが分かりました。 仕事と家庭どちらも中断でき…",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/02/12/053816",
+          "publishedOn": "2022-02-11T20:38:16.000Z",
+          "wordCount": 173,
+          "title": "コロナワクチン3回目を早く接種する方法（接種券がなくてもOK！）",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220212/20220212052129.jpg"
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
+      "title": "早起きパパのカジメン生活",
+      "feedUrl": "https://faxwatch.hatenablog.com/feed",
+      "siteUrl": "https://faxwatch.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "まろのみちしるべ",
+      "feedUrl": "https://nicopoco.com/feed",
+      "siteUrl": "https://nicopoco.com",
       "articles": [
         {
-          "id": "621e55eac4d0d306772f23d6",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you'll learn how to use Python's built-in remove() list method. By the end, you'll know how to use remove() to remove an item from a list in Python. Here is what we will cover:  1. Syntax of the remove() method  2. Remove an element from",
-          "link": "https://www.freecodecamp.org/news/python-list-remove-how-to-remove-an-item-from-a-list-in-python/",
-          "publishedOn": "2022-03-02T19:49:19.000Z",
-          "wordCount": 1423,
-          "title": "Python List .remove() - How to Remove an Item from a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pavel-danilyuk-5496463.jpg"
+          "id": "https://nicopoco.com/?p=1791",
+          "author": "MARO",
+          "description": "Life shiftでリンダ・グラットンさんが人生は100年時代ということを言ってから久しいです。 今回は私なりの人生100年時代の生き方といま実践していることを記載していきたいと思います。 リンク  ...\n人生100年時代の働き方について共有させていただきます。 first appeared on まろのみちしるべ.\nCopyright © 2022 まろのみちしるべ All Rights Reserved.",
+          "link": "https://nicopoco.com/life_shift",
+          "publishedOn": "2022-02-04T14:50:00.000Z",
+          "wordCount": 288,
+          "title": "人生100年時代の働き方について共有させていただきます。",
+          "imageUrl": null
         },
         {
-          "id": "621d7632c4d0d306772f1f61",
-          "author": "Jose Vicente Nunez",
-          "description": "Everything is connected to wireless these days. In my case I found that I have LOTS of devices after running a simple nmap command on my home network [/news/enhance-nmap-with-python/#nmap-101-identify-all-the-public-services-in-our-network] : [josevnz@dmaf5 ~]$ sudo nmap -v -n -p- -sT -sV -O --osscan-limit --max-os-tries 1 -oX $HOME/home_scan.xml 192.168.1.0/24 So I started to",
-          "link": "https://www.freecodecamp.org/news/wireless-security-using-raspberry-pi-4-kismet-and-python/",
-          "publishedOn": "2022-03-02T16:22:20.000Z",
-          "wordCount": 4279,
-          "title": "How to Secure Your Home Wireless Infrastructure with Kismet and Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/wireless_security_with_kismet_and_python.png"
-        },
-        {
-          "id": "621f888ec4d0d306772f2d40",
-          "author": "Beau Carnes",
-          "description": "Creating your own eCommerce website is easier than you may think. You don't even need to know how to code. I just created and published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an online store with WooCommerce and WordPress. In this video course,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/",
-          "publishedOn": "2022-03-02T15:44:00.000Z",
-          "wordCount": 483,
-          "title": "How to Create an eCommerce Website Using WooCommerce",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/woocomerce.png"
-        },
-        {
-          "id": "621f860dc4d0d306772f2cf9",
-          "author": "Beau Carnes",
-          "description": "GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn",
-          "link": "https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/",
-          "publishedOn": "2022-03-02T15:05:24.000Z",
-          "wordCount": 513,
-          "title": "DevOps with GitLab CI Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/qomm1soQ.png"
-        },
-        {
-          "id": "621e97a4c4d0d306772f290b",
-          "author": "Daniel Rosa",
-          "description": "In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up",
-          "link": "https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/",
-          "publishedOn": "2022-03-02T00:18:51.000Z",
-          "wordCount": 1507,
-          "title": "How to Install Node.js and npm on Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-digital-buggu-171198--1-.jpg"
-        },
-        {
-          "id": "621903c6c4d0d306772efc76",
-          "author": "Paul Akinyemi",
-          "description": "In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build",
-          "link": "https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/",
-          "publishedOn": "2022-03-01T23:35:30.000Z",
-          "wordCount": 2772,
-          "title": "How to Build a Wordle Clone in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-skitterphoto-695571.jpg"
-        },
-        {
-          "id": "621d6316c4d0d306772f1f16",
-          "author": "David Clinton",
-          "description": "The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with",
-          "link": "https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/",
-          "publishedOn": "2022-03-01T21:06:01.000Z",
-          "wordCount": 2251,
-          "title": "IoT Deployment – How to Secure and Deploy Internet of Things Devices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-designecologist-1779487.jpg"
-        },
-        {
-          "id": "621dfc8cc4d0d306772f220f",
-          "author": "Kolade Chris",
-          "description": "The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way",
-          "link": "https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/",
-          "publishedOn": "2022-03-01T20:46:50.000Z",
-          "wordCount": 887,
-          "title": "npm Uninstall – How to Remove a Package",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shut-down-g5ad24366d_1280.jpg"
-        },
-        {
-          "id": "621e4f3ec4d0d306772f239d",
-          "author": "Reed Barger",
-          "description": "If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to",
-          "link": "https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/",
-          "publishedOn": "2022-03-01T20:41:00.000Z",
-          "wordCount": 1887,
-          "title": "The React useEffect Hook for Absolute Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-useeffect-absolute-beginners.png"
-        },
-        {
-          "id": "621c8bcfc4d0d306772f1263",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to",
-          "link": "https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/",
-          "publishedOn": "2022-03-01T20:30:51.000Z",
-          "wordCount": 1447,
-          "title": "Python .pop() – How to Pop from a List or an Array in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-olia-danilevich-4974912.jpg"
+          "id": "https://nicopoco.com/?p=1772",
+          "author": "MARO",
+          "description": "今回の記事は、まだポイ活、セルフバックをしたことがない方向けに書きます。既に大量にやってるよ～という方の参考にはならないので、悪しからず！！ ポイ活 いわゆるポイントをためまくることを総じてポイ活と呼 ...\nはじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた first appeared on まろのみちしるべ.\nCopyright © 2022 まろのみちしるべ All Rights Reserved.",
+          "link": "https://nicopoco.com/self-back-poi-katsu",
+          "publishedOn": "2022-02-02T14:45:33.000Z",
+          "wordCount": 260,
+          "title": "はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた",
+          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "イクジマンBlog",
+      "feedUrl": "https://ikuziman.com/feed/",
+      "siteUrl": "https://ikuziman.com",
+      "articles": []
+    },
+    {
+      "title": "マサブログ",
+      "feedUrl": "http://rssblog.ameba.jp/ma3100815/rss20.xml",
+      "siteUrl": "https://ameblo.jp/ma3100815/",
+      "articles": []
+    },
+    {
+      "title": "育休先生ブログをはじめる",
+      "feedUrl": "https://ny-lifework.com/feed/",
+      "siteUrl": "https://ny-lifework.com",
+      "articles": [
+        {
+          "id": "https://ny-lifework.com/?p=6475",
+          "author": "Nike",
+          "description": "こんにちは♪育休先生、NIKE（@ny_lifework）です。 今日は、息子の経過について。 うちの息子は、ヒルシュスプルング病という何度聞いても、口に出しても、書いても長い名称の病気をもって生まれ ...\n指ブジー卒業！〜ヒルシュスプルング病の経過〜 first appeared on 育休先生ブログをはじめる.\nCopyright © 2022 育休先生ブログをはじめる All Rights Reserved.",
+          "link": "https://ny-lifework.com/finger-bougie-graduationcourse-of-hirschsprungs-disease/",
+          "publishedOn": "2022-02-10T15:56:45.000Z",
+          "wordCount": 215,
+          "title": "指ブジー卒業！〜ヒルシュスプルング病の経過〜",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "B型パパ の 子育てブログ",
+      "feedUrl": "https://tsukuba-kosodate-papa-blog-honobono-mikandaisuki.net/feed/",
+      "siteUrl": "https://tsukuba-kosodate-papa-blog-honobono-mikandaisuki.net",
+      "articles": []
+    },
+    {
+      "title": "パパ、がんばるもん！～育休パパのハテナ？を解決～",
+      "feedUrl": "https://papaganbarumon.com/feed/",
+      "siteUrl": "https://papaganbarumon.com",
+      "articles": []
+    },
+    {
+      "title": "イクダン先生",
+      "feedUrl": "https://hongzhijintian.com/feed/",
+      "siteUrl": "https://hongzhijintian.com",
+      "articles": [
+        {
+          "id": "https://hongzhijintian.com/?p=515",
+          "author": "イクダン先生",
+          "description": "まだ記事は未完成ですが、明日から友人が「夜間断乳」にチャレンジするみたいなので、力になりたくて投稿しました。見苦しい部分がありますが、お許しください… 夜間断乳って大変って聞くけどよくわからない… 夜間断乳はパパが頑張ら […]\nThe post パパも知っておきたい「夜間断乳」「乳腺炎」「母乳外来」 first appeared on イクダン先生.",
+          "link": "https://hongzhijintian.com/%e3%83%91%e3%83%91%e3%82%82%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%80%8c%e5%a4%9c%e9%96%93%e6%96%ad%e4%b9%b3%e3%80%8d%e3%80%8c%e4%b9%b3%e8%85%ba%e7%82%8e%e3%80%8d%e3%80%8c/",
+          "publishedOn": "2022-02-10T11:30:48.000Z",
+          "wordCount": 262,
+          "title": "パパも知っておきたい「夜間断乳」「乳腺炎」「母乳外来」",
+          "imageUrl": "http://hongzhijintian.com/wp-content/uploads/2022/01/image-1-6.jpg"
+        }
+      ]
+    },
+    {
+      "title": "黄昏ほーむblog",
+      "feedUrl": "https://tasogare-home.com/feed/",
+      "siteUrl": "https://tasogare-home.com",
+      "articles": [
+        {
+          "id": "https://tasogare-home.com/?p=2571",
+          "author": "黄昏ほーむ",
+          "description": "当然復帰するつもりで育休を取得したけれど、退職や転職を考える人も多いのではないでしょうか。 実際に我が家も妻が復帰をせずそのまま退職することとなりました。 そしてトラブルもありました。。。  本記事では、復帰",
+          "link": "https://tasogare-home.com/jobchange-trouble/",
+          "publishedOn": "2022-03-02T00:32:12.000Z",
+          "wordCount": 206,
+          "title": "育休を復帰せずに退職はマナー違反？トラブルとならない伝え方とは",
+          "imageUrl": "https://tasogare-home.com/wp-content/uploads/2022/03/育休を復帰せずに-退職はマナー違反？-トラブルとならない伝え方とは.jpg"
+        },
+        {
+          "id": "https://tasogare-home.com/?p=2522",
+          "author": "黄昏ほーむ",
+          "description": "育休中の転職はあまり良しとされないのではないか、という前評判もありましたが、 一度きりの人生ですし、前向きにやりたいことを目指していきたいと取り組んでみました。 ありがたいことにその意思を理解してくれる人たちに出会えた（",
+          "link": "https://tasogare-home.com/ikukyu-jobchange/",
+          "publishedOn": "2022-03-01T11:59:06.000Z",
+          "wordCount": 248,
+          "title": "【男性育休中の転職経験談】退職理由、志望理由、気を付けたポイント等まとめ",
+          "imageUrl": "https://tasogare-home.com/wp-content/uploads/2022/02/男性育休中の転職！-実際の流れと気を付けたポイント.jpg"
+        },
+        {
+          "id": "https://tasogare-home.com/?p=2527",
+          "author": "黄昏ほーむ",
+          "description": "30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！（現在ダブル育休中） 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計",
+          "link": "https://tasogare-home.com/investmentperformance-2202/",
+          "publishedOn": "2022-02-27T13:57:06.000Z",
+          "wordCount": 253,
+          "title": "【2022年2月度】長期投資実績＆子育て費用公開！",
+          "imageUrl": "https://tasogare-home.com/wp-content/uploads/2022/02/黄昏ほーむの-不労所得投資！-2022年2月度収益実績-1.jpg"
+        },
+        {
+          "id": "https://tasogare-home.com/?p=2510",
+          "author": "黄昏ほーむ",
+          "description": "ビズリーチというとやはりCMのイメージがありますが、実際のところどうなの？と思っている方も多いのではないかと思います。  本記事では私の例を参考にビズリーチの活用法を紹介していきたいと思います。 結論としては",
+          "link": "https://tasogare-home.com/bizreach-jobchange/",
+          "publishedOn": "2022-02-16T14:08:09.000Z",
+          "wordCount": 213,
+          "title": "男性育休中の転職にはビズリーチがおすすめ？スカウトの使い方と登録のポイント",
+          "imageUrl": "https://tasogare-home.com/wp-content/uploads/2022/02/男性育休中の転職には-ビズリーチがおすすめ？-スカウトの使い方と-登録のポイント.jpg"
+        }
+      ]
+    },
+    {
+      "title": "パドレブログ",
+      "feedUrl": "https://r-padre.com/feed",
+      "siteUrl": "https://r-padre.com",
+      "articles": [
+        {
+          "id": "https://r-padre.com/?p=921",
+          "author": "padre",
+          "description": "私はふるさと納税を知ってから始めるのに一年かかりました。 それを踏まえて、本記事は以下のような方にオススメです。 ・ふるさと納税の仕組みを知らない ・ふるさと納税のメリットが分からない ・一時的な支出が大きくて手が出せな\nThe post ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介 first appeared on パドレブログ.",
+          "link": "https://r-padre.com/what-is-the-one-stop-special-system-for-hometown-tax-payment-introducing-3-recommended-sites/",
+          "publishedOn": "2022-02-26T09:43:30.000Z",
+          "wordCount": 493,
+          "title": "ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介",
+          "imageUrl": "https://r-padre.com/wp-content/uploads/2022/02/afacef6555f2f5ea65553497c96a7abe.jpg"
+        },
+        {
+          "id": "https://r-padre.com/?p=895",
+          "author": "padre",
+          "description": "この記事はこんな方におすすめです。 ・ネット銀行の口座を持っていない方 ・UI銀行について知りたい方 ・他のネット銀行と比べてみたい方 UI銀行ってどんな銀行？ UI銀行公式ページはこちら UI銀行について UI銀行はき\nThe post UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較 first appeared on パドレブログ.",
+          "link": "https://r-padre.com/do-you-recommend-ui-bank-compare-fees-and-deposit-rates-with-other-online-banks/",
+          "publishedOn": "2022-02-21T06:38:55.000Z",
+          "wordCount": 652,
+          "title": "UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較",
+          "imageUrl": "https://r-padre.com/wp-content/uploads/2022/02/c7f135b497410932a09601cd8de98604.jpg"
+        },
+        {
+          "id": "https://r-padre.com/?p=870",
+          "author": "padre",
+          "description": "この記事はこんな方におすすめです。 ・動画編集をやったことがない方 ・Macユーザーで動画編集を始めたい方 ・副業でYouTubeを始めたい方 ・有料の動画編集ソフトを検討している方 動画編集の超超超初心者が、動画編集ソ\nThe post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた first appeared on パドレブログ.",
+          "link": "https://r-padre.com/video-editing-beginners-tried-making-youtube-videos-with-final-cut-pro-x/",
+          "publishedOn": "2022-02-19T11:22:03.000Z",
+          "wordCount": 846,
+          "title": "動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた",
+          "imageUrl": "https://r-padre.com/wp-content/uploads/2022/02/ad62eda568d75e0555f1e94cf0ab1ed8.jpg"
+        }
+      ]
+    },
+    {
+      "title": "おっとさん　おとうさん",
+      "feedUrl": "https://www.zutti-aspooh.com/feed/",
+      "siteUrl": "https://www.zutti-aspooh.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"

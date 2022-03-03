@@ -1,603 +1,553 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-03T13:07:07.563Z</id>
+    <id>urn:2022-03-03T13:10:09.035Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T13:07:07.563Z</updated>
+    <updated>2022-03-03T13:10:09.035Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
-        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
-        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
-        <updated>2022-03-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
+        <title type="html"><![CDATA[発達検査の種類と受けるタイミング]]></title>
+        <id>https://decobocochan.com/?p=5091</id>
+        <link href="https://decobocochan.com/archives/5091"/>
+        <updated>2022-03-02T22:35:07.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
-        <id>https://css-tricks.com/?p=364350</id>
-        <link href="https://css-tricks.com/performance-links-february-2022/"/>
-        <updated>2022-03-02T21:26:50.000Z</updated>
-        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
-The new WebPageTest website design
-From fonts to SVG: an icon migration strategy
-…
-7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[育休を復帰せずに退職はマナー違反？トラブルとならない伝え方とは]]></title>
+        <id>https://tasogare-home.com/?p=2571</id>
+        <link href="https://tasogare-home.com/jobchange-trouble/"/>
+        <updated>2022-03-02T00:32:12.000Z</updated>
+        <summary type="html"><![CDATA[当然復帰するつもりで育休を取得したけれど、退職や転職を考える人も多いのではないでしょうか。 実際に我が家も妻が復帰をせずそのまま退職することとなりました。 そしてトラブルもありました。。。  本記事では、復帰]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python List .remove() - How to Remove an Item from a List in Python]]></title>
-        <id>621e55eac4d0d306772f23d6</id>
-        <link href="https://www.freecodecamp.org/news/python-list-remove-how-to-remove-an-item-from-a-list-in-python/"/>
-        <updated>2022-03-02T19:49:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in remove() list method. By the end, you'll know how to use remove() to remove an item from a list in Python. Here is what we will cover:  1. Syntax of the remove() method  2. Remove an element from]]></summary>
+        <title type="html"><![CDATA[Rank Trackerを複数PC（パソコン）で使う方法]]></title>
+        <id>https://oton-tech.com/?p=4032</id>
+        <link href="https://oton-tech.com/ranktracker-on-multipc/"/>
+        <updated>2022-03-01T12:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Rank Tracker（ランクトラッカー）を複数PC（パソコン）で使いたい、と思ったことはないでしょうか？ ランクトラッカーは複数のパソコンで使えます。 「SEO検索順位チェックツール：Rank Trackerの料金、 […]]]></summary>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Secure Your Home Wireless Infrastructure with Kismet and Python]]></title>
-        <id>621d7632c4d0d306772f1f61</id>
-        <link href="https://www.freecodecamp.org/news/wireless-security-using-raspberry-pi-4-kismet-and-python/"/>
-        <updated>2022-03-02T16:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Everything is connected to wireless these days. In my case I found that I have LOTS of devices after running a simple nmap command on my home network [/news/enhance-nmap-with-python/#nmap-101-identify-all-the-public-services-in-our-network] : [josevnz@dmaf5 ~]$ sudo nmap -v -n -p- -sT -sV -O --osscan-limit --max-os-tries 1 -oX $HOME/home_scan.xml 192.168.1.0/24 So I started to]]></summary>
+        <title type="html"><![CDATA[【男性育休中の転職経験談】退職理由、志望理由、気を付けたポイント等まとめ]]></title>
+        <id>https://tasogare-home.com/?p=2522</id>
+        <link href="https://tasogare-home.com/ikukyu-jobchange/"/>
+        <updated>2022-03-01T11:59:06.000Z</updated>
+        <summary type="html"><![CDATA[育休中の転職はあまり良しとされないのではないか、という前評判もありましたが、 一度きりの人生ですし、前向きにやりたいことを目指していきたいと取り組んでみました。 ありがたいことにその意思を理解してくれる人たちに出会えた（]]></summary>
         <author>
-            <name>Jose Vicente Nunez</name>
+            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
-        <id>https://css-tricks.com/?p=363882</id>
-        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
-        <updated>2022-03-02T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
-Here’s an example where I …
-How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[2月にたくさん読んでもらった記事★TOP 3]]></title>
+        <id>https://decobocochan.com/?p=5173</id>
+        <link href="https://decobocochan.com/archives/5173"/>
+        <updated>2022-03-01T07:00:35.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>Silvestar Bistrović</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create an eCommerce Website Using WooCommerce]]></title>
-        <id>621f888ec4d0d306772f2d40</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/"/>
-        <updated>2022-03-02T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating your own eCommerce website is easier than you may think. You don't even need to know how to code. I just created and published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an online store with WooCommerce and WordPress. In this video course,]]></summary>
+        <title type="html"><![CDATA[「障害は特別なことか？」★バリアフリーチャレンジ！記事シェア]]></title>
+        <id>https://decobocochan.com/?p=5149</id>
+        <link href="https://decobocochan.com/archives/5149"/>
+        <updated>2022-02-28T14:12:09.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps with GitLab CI Course]]></title>
-        <id>621f860dc4d0d306772f2cf9</id>
-        <link href="https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/"/>
-        <updated>2022-03-02T15:05:24.000Z</updated>
-        <summary type="html"><![CDATA[GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn]]></summary>
+        <title type="html"><![CDATA[【日記】2022年2月｜厳しい戦いが強いられた1ヶ月間だった]]></title>
+        <id>https://marugeriswitch.com/?p=4036</id>
+        <link href="https://marugeriswitch.com/2022-02-diary/"/>
+        <updated>2022-02-28T13:55:22.000Z</updated>
+        <summary type="html"><![CDATA[ただの日記です。あしからず。
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>まるげり</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
-        <updated>2022-03-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <title type="html"><![CDATA[ブログを始めるには？ブログ運営の全体像と最も大事なブログ戦略]]></title>
+        <id>https://oton-tech.com/?p=3832</id>
+        <link href="https://oton-tech.com/blog-strategy/"/>
+        <updated>2022-02-27T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、「ブログを始めよう！」「ブログを始めたはいいけど、この先どうするの？」というブログ初心者に向けて、ブログを運営していくということの全体像と、ブログ運営において最も大事なブログ戦略について紹介しています。 「 […]]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
-        <id>621e97a4c4d0d306772f290b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
-        <updated>2022-03-02T00:18:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
+        <title type="html"><![CDATA[【2022年2月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=2527</id>
+        <link href="https://tasogare-home.com/investmentperformance-2202/"/>
+        <updated>2022-02-27T13:57:06.000Z</updated>
+        <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！（現在ダブル育休中） 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計]]></summary>
         <author>
-            <name>Daniel Rosa</name>
+            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
-        <id>621903c6c4d0d306772efc76</id>
-        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
-        <updated>2022-03-01T23:35:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
+        <title type="html"><![CDATA[ブログをはじめよう！スキルアップにも、副業にも最適な超低リスク／ハイリターン活動]]></title>
+        <id>https://oton-tech.com/?p=3834</id>
+        <link href="https://oton-tech.com/lets-start-blog/"/>
+        <updated>2022-02-27T06:54:37.000Z</updated>
+        <summary type="html"><![CDATA[「ブログを始めてみようかな」 新しい年、新年度、など節目でなにか新しいことを始めようとしたとき、ブログを思い浮かべる人もいると思います。 この記事では、ブログをオススメする理由、ブログのメリットを紹介しています。 ブログ […]]]></summary>
         <author>
-            <name>Paul Akinyemi</name>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
-        <id>621d6316c4d0d306772f1f16</id>
-        <link href="https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/"/>
-        <updated>2022-03-01T21:06:01.000Z</updated>
-        <summary type="html"><![CDATA[The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with]]></summary>
+        <title type="html"><![CDATA[【ConoHa WING】10分でブログ開始！ワードプレスの始め方]]></title>
+        <id>https://oton-tech.com/?p=3952</id>
+        <link href="https://oton-tech.com/conoha-wing/"/>
+        <updated>2022-02-26T10:22:04.000Z</updated>
+        <summary type="html"><![CDATA[「ワードプレスでブログを始めたい！」というとき、どうすれば素早くブログを始められるでしょうか？ ワードプレスでブログを始めるにはレンタルサーバを借りる必要がありますが、ConoHa WINGを使うとアカウント登録からワー […]]]></summary>
         <author>
-            <name>David Clinton</name>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm Uninstall – How to Remove a Package]]></title>
-        <id>621dfc8cc4d0d306772f220f</id>
-        <link href="https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/"/>
-        <updated>2022-03-01T20:46:50.000Z</updated>
-        <summary type="html"><![CDATA[The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way]]></summary>
+        <title type="html"><![CDATA[ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介]]></title>
+        <id>https://r-padre.com/?p=921</id>
+        <link href="https://r-padre.com/what-is-the-one-stop-special-system-for-hometown-tax-payment-introducing-3-recommended-sites/"/>
+        <updated>2022-02-26T09:43:30.000Z</updated>
+        <summary type="html"><![CDATA[私はふるさと納税を知ってから始めるのに一年かかりました。 それを踏まえて、本記事は以下のような方にオススメです。 ・ふるさと納税の仕組みを知らない ・ふるさと納税のメリットが分からない ・一時的な支出が大きくて手が出せな
+The post ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介 first appeared on パドレブログ.]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>padre</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The React useEffect Hook for Absolute Beginners]]></title>
-        <id>621e4f3ec4d0d306772f239d</id>
-        <link href="https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/"/>
-        <updated>2022-03-01T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to]]></summary>
+        <title type="html"><![CDATA[不登校オンライン親の会『miraicafe』2月開催レポ＆3月のご案内]]></title>
+        <id>https://decobocochan.com/?p=5095</id>
+        <link href="https://decobocochan.com/archives/5095"/>
+        <updated>2022-02-23T08:08:43.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>Reed Barger</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python .pop() – How to Pop from a List or an Array in Python]]></title>
-        <id>621c8bcfc4d0d306772f1263</id>
-        <link href="https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/"/>
-        <updated>2022-03-01T20:30:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to]]></summary>
+        <title type="html"><![CDATA[【風力発電】自然エネルギーは必要か不必要かについて考えてみた]]></title>
+        <id>https://irodorulife.com/?p=2515</id>
+        <link href="https://irodorulife.com/wind-power-generation/"/>
+        <updated>2022-02-22T11:18:17.000Z</updated>
+        <summary type="html"><![CDATA[双子の育児に奮闘中のオトダン(Otodan_)です。 今回は風力発電について気になる記事をみつけたなので、自分なりの解釈をブログに残します。 ちなみに私が記事を読んで震えたのはこちら 私は幼い頃からの自然豊かな田舎育ち、...
+【風力発電】自然エネルギーは必要か不必要かについて考えてみた first appeared on otodanblog.]]></summary>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
-        <id>https://css-tricks.com/?p=363724</id>
-        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
-        <updated>2022-03-01T17:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
-CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較]]></title>
+        <id>https://r-padre.com/?p=895</id>
+        <link href="https://r-padre.com/do-you-recommend-ui-bank-compare-fees-and-deposit-rates-with-other-online-banks/"/>
+        <updated>2022-02-21T06:38:55.000Z</updated>
+        <summary type="html"><![CDATA[この記事はこんな方におすすめです。 ・ネット銀行の口座を持っていない方 ・UI銀行について知りたい方 ・他のネット銀行と比べてみたい方 UI銀行ってどんな銀行？ UI銀行公式ページはこちら UI銀行について UI銀行はき
+The post UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較 first appeared on パドレブログ.]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>padre</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
-        <id>https://css-tricks.com/?p=364351</id>
-        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
-        <updated>2022-03-01T15:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
-The fit-content keyword is actually …
-Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[凸凹ちゃんと旅行準備]]></title>
+        <id>https://decobocochan.com/?p=4929</id>
+        <link href="https://decobocochan.com/archives/4929"/>
+        <updated>2022-02-20T09:10:59.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
-        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
-        <updated>2022-03-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
+        <title type="html"><![CDATA[動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた]]></title>
+        <id>https://r-padre.com/?p=870</id>
+        <link href="https://r-padre.com/video-editing-beginners-tried-making-youtube-videos-with-final-cut-pro-x/"/>
+        <updated>2022-02-19T11:22:03.000Z</updated>
+        <summary type="html"><![CDATA[この記事はこんな方におすすめです。 ・動画編集をやったことがない方 ・Macユーザーで動画編集を始めたい方 ・副業でYouTubeを始めたい方 ・有料の動画編集ソフトを検討している方 動画編集の超超超初心者が、動画編集ソ
+The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた first appeared on パドレブログ.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>padre</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
-        <id>https://css-tricks.com/?p=364346</id>
-        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
-        <updated>2022-02-28T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
-IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[ぱんだちゃんのマヤ暦®ベーシックコースのご案内]]></title>
+        <id>https://decobocochan.com/?p=4912</id>
+        <link href="https://decobocochan.com/archives/4912"/>
+        <updated>2022-02-19T08:40:08.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=363929</id>
-        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
-        <updated>2022-02-28T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
-Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法]]></title>
+        <id>https://irodorulife.com/?p=2481</id>
+        <link href="https://irodorulife.com/parenting-meal/"/>
+        <updated>2022-02-18T15:00:24.000Z</updated>
+        <summary type="html"><![CDATA[もうすぐ2歳になる双子の男の子の育児に奮闘中のオトダン(Otodan_)です。 子どもが小さいとゆっくりご飯食べられないですよね。 私もその気持ちはめちゃくちゃ分かります！笑 特に乳児、幼児の場合は子どものご飯をあげてる...
+【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法 first appeared on otodanblog.]]></summary>
         <author>
-            <name>John Rhea</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
-        <updated>2022-02-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
+        <title type="html"><![CDATA[デイサービスを選ぶ6つのポイント]]></title>
+        <id>https://decobocochan.com/?p=4928</id>
+        <link href="https://decobocochan.com/archives/4928"/>
+        <updated>2022-02-17T08:40:27.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[March For Equality (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/</id>
-        <link href="https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/"/>
-        <updated>2022-02-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.]]></summary>
+        <title type="html"><![CDATA[男性育休中の転職にはビズリーチがおすすめ？スカウトの使い方と登録のポイント]]></title>
+        <id>https://tasogare-home.com/?p=2510</id>
+        <link href="https://tasogare-home.com/bizreach-jobchange/"/>
+        <updated>2022-02-16T14:08:09.000Z</updated>
+        <summary type="html"><![CDATA[ビズリーチというとやはりCMのイメージがありますが、実際のところどうなの？と思っている方も多いのではないかと思います。  本記事では私の例を参考にビズリーチの活用法を紹介していきたいと思います。 結論としては]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Recipe For A Good Design System]]></title>
-        <id>https://smashingmagazine.com/2022/02/recipe-good-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/02/recipe-good-design-system/"/>
-        <updated>2022-02-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.]]></summary>
+        <title type="html"><![CDATA[【赤ちゃんの体重増えない】ミルクもご飯も食べない我が家の双子が実践したこと]]></title>
+        <id>https://irodorulife.com/?p=2476</id>
+        <link href="https://irodorulife.com/baby-worries-weight/"/>
+        <updated>2022-02-15T10:13:12.000Z</updated>
+        <summary type="html"><![CDATA[どうもこんにちは 現在1歳10ヶ月になる双子の男の子の育児に絶賛奮闘中のオトダン(Otodan)です。 きっとこの記事をみてくれている皆さんの多くは、我が子の体重が増えないで、悩んでいる母ちゃん、父ちゃんが多いのではない...
+【赤ちゃんの体重増えない】ミルクもご飯も食べない我が家の双子が実践したこと first appeared on otodanblog.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
-        <id>https://css-tricks.com/?p=364070</id>
-        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
-        <updated>2022-02-25T21:13:08.000Z</updated>
-        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
-1) https://website.com/foo/
-2) https://websites.com/foo
-The first option has a “trailing slash.” The second does not.
-I’ve always preferred this thinking: you use a trailing …
-Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[3歳児が母と作って父にくれたスコーン。楽しいおやつになるはずだったが…]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/02/15/060116</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/02/15/060116"/>
+        <updated>2022-02-14T21:01:16.000Z</updated>
+        <summary type="html"><![CDATA[3歳の長女がバレンタインデーにお菓子を作ってくれました。 父親へのプレゼントとしてお菓子を作ったのは初めてです。 1年前にはそのようなことは到底できなかったので、子どもの成長を感じます。 これは間違いなく良い思い出になるはずでした。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
-        <id>https://css-tricks.com/?p=363619</id>
-        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
-        <updated>2022-02-25T15:28:33.000Z</updated>
-        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
-Let me demonstrate the usefulness of …
-When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[あなたは防災についてどれくらい備えていますか？]]></title>
+        <id>https://decobocochan.com/?p=4926</id>
+        <link href="https://decobocochan.com/archives/4926"/>
+        <updated>2022-02-14T12:13:51.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>Šime Vidas</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
-        <id>https://css-tricks.com/?p=364152</id>
-        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
-        <updated>2022-02-25T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
-One of the ways to help get …
-Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[【赤ちゃん抱っこ猫背】子育て中になりがちな猫背に要注意｜猫背にならない方法とおすすめの猫背矯正ベルトを紹介]]></title>
+        <id>https://irodorulife.com/?p=2464</id>
+        <link href="https://irodorulife.com/parenting-stoop/"/>
+        <updated>2022-02-12T15:44:53.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダン(Otodan_)です。 今回は、子育て中になりがちな猫背にならない方法とオススメの猫背矯正ベルトをご紹介します。 猫背が要注意な理由 猫背になると身体の不調として代表的な5つの症状がこちらです。 その...
+【赤ちゃん抱っこ猫背】子育て中になりがちな猫背に要注意｜猫背にならない方法とおすすめの猫背矯正ベルトを紹介 first appeared on otodanblog.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[2022年3月セミナー・イベント情報]]></title>
+        <id>https://decobocochan.com/?p=4851</id>
+        <link href="https://decobocochan.com/archives/4851"/>
+        <updated>2022-02-12T01:00:15.000Z</updated>
+        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
-        <id>https://css-tricks.com/?p=363553</id>
-        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
-        <updated>2022-02-24T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
-Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[コロナワクチン3回目を早く接種する方法（接種券がなくてもOK！）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/02/12/053816</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/02/12/053816"/>
+        <updated>2022-02-11T20:38:16.000Z</updated>
+        <summary type="html"><![CDATA[2021年の春からコロナワクチンの接種が開始され、秋の終わりには接種率が8割を超えました。 これによりコロナ感染は収束するかと思われましたが、新たな変異株の出現によってコロナ禍は2022年2月現在も継続しています。 更なる対策として、コロナワクチンの3回目接種が進められています。 この記事を書いている私も、2月11日に3回目接種を受けてきました。 私自身は30代半ばですが、同じタイミングで接種に来ていたのは高齢の方だけでした。 高齢者が多い理由は1回目&2回目のワクチン接種が早く開始されたためですが、私のように子育て世代でも早く接種する方法があることが分かりました。 仕事と家庭どちらも中断でき…]]></summary>
         <author>
-            <name>Anand Chowdhary</name>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
-        <id>https://css-tricks.com/?p=363526</id>
-        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
-        <updated>2022-02-24T15:31:49.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
-GatsbyJS is …
-Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[SEO検索順位チェックツール：Rank Trackerの料金、導入方法から使い方まで解説]]></title>
+        <id>https://oton-tech.com/?p=3825</id>
+        <link href="https://oton-tech.com/ranktracker/"/>
+        <updated>2022-02-11T12:25:22.000Z</updated>
+        <summary type="html"><![CDATA[「検索からのブログアクセスが少ない！」 「SEO検索順位が上がらない！」 はじめたたばかりのブログでは、こんな悩みばかりではないでしょうか？ Rank Trackerは、マナブさんやクニトミさんなど有名ブロガーも利用して […]]]></summary>
         <author>
-            <name>ImageEngine</name>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Benchmark And Improve Web Vitals With Real User Metrics]]></title>
-        <id>https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/</id>
-        <link href="https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/"/>
-        <updated>2022-02-24T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
+        <title type="html"><![CDATA[【レポ】ボーダーレス  VOL.3 with りょう育ママ]]></title>
+        <id>https://decobocochan.com/?p=4849</id>
+        <link href="https://decobocochan.com/archives/4849"/>
+        <updated>2022-02-11T02:42:38.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
-        <id>https://css-tricks.com/?p=363937</id>
-        <link href="https://css-tricks.com/css-database-queries/"/>
-        <updated>2022-02-23T20:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
-CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[＼ 執筆と運動とアイディア ／
+
+...]]></title>
+        <id>https://note.com/mountainpeace/n/nfb6f2a1862c5</id>
+        <link href="https://note.com/mountainpeace/n/nfb6f2a1862c5"/>
+        <updated>2022-02-10T23:44:12.000Z</updated>
+        <summary type="html"><![CDATA[＼ 執筆と運動とアイディア ／
+
+著者@kazimendleの実体験をもとに、ランニング、ウォーキング中に記事の発想が浮かぶことが紹介されてます。歴史家、起業家にも運動をしていることが多い事実を、実証をもとに解説してくれてます！
+
+https://t.co/4eCeQjadrb
+続きをみる]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
-        <id>https://css-tricks.com/?p=363532</id>
-        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
-        <updated>2022-02-23T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
-In that spirit, here are five …
-5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[【足疲れの悩み解消】家事や子育ての立ち作業でも疲れないスリッパ]]></title>
+        <id>https://irodorulife.com/?p=2448</id>
+        <link href="https://irodorulife.com/tiredleg-slipper/"/>
+        <updated>2022-02-10T15:57:54.000Z</updated>
+        <summary type="html"><![CDATA[双子育児に奮闘中のオトダン(Otodan_)です。 子育てしていると『子どもの抱っこ攻撃』や『料理、洗濯、食器洗い』など、日々あらゆる家事のおかげで家では休む暇なく立ちっぱなしで作業をしているお母さん、お父さんは多いので...
+【足疲れの悩み解消】家事や子育ての立ち作業でも疲れないスリッパ first appeared on otodanblog.]]></summary>
         <author>
-            <name>Daniel Yuschick</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
-        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
-        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
-        <updated>2022-02-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
+        <title type="html"><![CDATA[指ブジー卒業！〜ヒルシュスプルング病の経過〜]]></title>
+        <id>https://ny-lifework.com/?p=6475</id>
+        <link href="https://ny-lifework.com/finger-bougie-graduationcourse-of-hirschsprungs-disease/"/>
+        <updated>2022-02-10T15:56:45.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは♪育休先生、NIKE（@ny_lifework）です。 今日は、息子の経過について。 うちの息子は、ヒルシュスプルング病という何度聞いても、口に出しても、書いても長い名称の病気をもって生まれ ...
+指ブジー卒業！〜ヒルシュスプルング病の経過〜 first appeared on 育休先生ブログをはじめる.
+Copyright © 2022 育休先生ブログをはじめる All Rights Reserved.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+            <name>Nike</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
-        <id>https://css-tricks.com/?p=363998</id>
-        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
-        <updated>2022-02-22T20:06:57.000Z</updated>
-        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
-Complaining on 
-…
-Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[＼ 嬉しすぎるレビュー！／]]></title>
+        <id>https://note.com/mountainpeace/n/nea82815fba3c</id>
+        <link href="https://note.com/mountainpeace/n/nea82815fba3c"/>
+        <updated>2022-02-10T11:45:23.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
-        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
-        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
-        <updated>2022-02-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
+        <title type="html"><![CDATA[パパも知っておきたい「夜間断乳」「乳腺炎」「母乳外来」]]></title>
+        <id>https://hongzhijintian.com/?p=515</id>
+        <link href="https://hongzhijintian.com/%e3%83%91%e3%83%91%e3%82%82%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%80%8c%e5%a4%9c%e9%96%93%e6%96%ad%e4%b9%b3%e3%80%8d%e3%80%8c%e4%b9%b3%e8%85%ba%e7%82%8e%e3%80%8d%e3%80%8c/"/>
+        <updated>2022-02-10T11:30:48.000Z</updated>
+        <summary type="html"><![CDATA[まだ記事は未完成ですが、明日から友人が「夜間断乳」にチャレンジするみたいなので、力になりたくて投稿しました。見苦しい部分がありますが、お許しください… 夜間断乳って大変って聞くけどよくわからない… 夜間断乳はパパが頑張ら […]
+The post パパも知っておきたい「夜間断乳」「乳腺炎」「母乳外来」 first appeared on イクダン先生.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
+            <name>イクダン先生</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
-        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
-        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
-        <updated>2022-02-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
+        <title type="html"><![CDATA[＼ 無料キャンペーンします！／
+【...]]></title>
+        <id>https://note.com/mountainpeace/n/n2f2374899d8a</id>
+        <link href="https://note.com/mountainpeace/n/n2f2374899d8a"/>
+        <updated>2022-02-10T08:17:25.000Z</updated>
+        <summary type="html"><![CDATA[＼ 無料キャンペーンします！／
+【本日17時～13日16時59分まで】
+歩くことで、前頭葉が活性化しセロトニンが分泌します。学習効果や記憶力が20%向上し、クリエイティビティが60%UPすると言われています！一緒に歩き出しませんか？
+https://t.co/6OxYfmMOg1
+続きをみる]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
-        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
-        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
-        <updated>2022-02-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
+        <title type="html"><![CDATA[【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました]]></title>
+        <id>https://irodorulife.com/?p=2444</id>
+        <link href="https://irodorulife.com/book-kosodate/"/>
+        <updated>2022-02-08T14:40:53.000Z</updated>
+        <summary type="html"><![CDATA[育児は見た目以上にハードだなと身をもって感じているオトダンです。 そんな今回は、育児疲れになりにくい秘訣を教えてくれる本を見つけたのてご紹介します。 子育てでカラダが限界なんですがどうすればいいですか? リンク こちらの...
+【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました first appeared on otodanblog.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thoughts On Markdown]]></title>
-        <id>https://smashingmagazine.com/2022/02/thoughts-on-markdown/</id>
-        <link href="https://smashingmagazine.com/2022/02/thoughts-on-markdown/"/>
-        <updated>2022-02-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.]]></summary>
+        <title type="html"><![CDATA[＼ 50歳からのツィッター入門 ／...]]></title>
+        <id>https://note.com/mountainpeace/n/n0abfa6818116</id>
+        <link href="https://note.com/mountainpeace/n/n0abfa6818116"/>
+        <updated>2022-02-06T13:25:43.000Z</updated>
+        <summary type="html"><![CDATA[＼ 50歳からのツィッター入門 ／
+師匠から学んだ『運用法』がベースになっているので、まとめられていて、わかりやすい！始めて知るツールが２つもあって、勉強になりました。同じような境遇の方に刺さる内容となっています！ 
+https://amzn.to/3J9tMfw
+続きをみる]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Knut Melvær)</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
-        <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
-        <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
-        <updated>2022-02-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
+        <title type="html"><![CDATA[＼健康の９割は○○力／納豆にはダイ...]]></title>
+        <id>https://note.com/mountainpeace/n/n0e94a29c723b</id>
+        <link href="https://note.com/mountainpeace/n/n0e94a29c723b"/>
+        <updated>2022-02-05T22:26:01.000Z</updated>
+        <summary type="html"><![CDATA[＼健康の９割は○○力／納豆にはダイエット、美肌効果。トリプトファンはセロトニン原料になります。納豆メーカーに大豆と市販納豆を入れれば、約１週間分作れます。高級納豆がおすすめの！同じ環境、ストレス下でも、発症する人しない人がいる。最後に大事なのは免疫力。健康は自分で作って行くもの！
+続きをみる]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implications Of WordPress Joining The Block Protocol]]></title>
-        <id>https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/</id>
-        <link href="https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/"/>
-        <updated>2022-02-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.]]></summary>
+        <title type="html"><![CDATA[【室内滑り台】子どもに買って良かった理由｜滑り台をレンタルする選択肢もあるよ]]></title>
+        <id>https://irodorulife.com/?p=2427</id>
+        <link href="https://irodorulife.com/indoor-slide/"/>
+        <updated>2022-02-05T16:01:31.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダン(Otodan_)です。 我が家はクリスマスプレゼントとして双子に室内滑り台をプレゼントしたのですが、結果的に今も毎日遊んでくれてるのでめちゃくち買って良かったです。 🎅からのクリスマス...
+【室内滑り台】子どもに買って良かった理由｜滑り台をレンタルする選択肢もあるよ first appeared on otodanblog.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
-        <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
-        <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
-        <updated>2022-02-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.]]></summary>
+        <title type="html"><![CDATA[＼ これは本当スゴい！／ここに書か...]]></title>
+        <id>https://note.com/mountainpeace/n/ndfbcac543dd9</id>
+        <link href="https://note.com/mountainpeace/n/ndfbcac543dd9"/>
+        <updated>2022-02-05T12:24:58.000Z</updated>
+        <summary type="html"><![CDATA[＼ これは本当スゴい！／ここに書かれていることはおそらく事実です！著者はこの方法を試し、重度のうつ状態から、頭のキレ、回転が早くなり、上司からの信頼を得て、年収までUP!した。しかも、ジャーナル誌で掲載された、エビデンスのある手法！
+https://t.co/J7sGFCsaoU
+続きをみる]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.14.4]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"/>
-        <updated>2022-02-14T06:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Several style issues]]></summary>
+        <title type="html"><![CDATA[人生100年時代の働き方について共有させていただきます。]]></title>
+        <id>https://nicopoco.com/?p=1791</id>
+        <link href="https://nicopoco.com/life_shift"/>
+        <updated>2022-02-04T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Life shiftでリンダ・グラットンさんが人生は100年時代ということを言ってから久しいです。 今回は私なりの人生100年時代の生き方といま実践していることを記載していきたいと思います。 リンク  ...
+人生100年時代の働き方について共有させていただきます。 first appeared on まろのみちしるべ.
+Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>MARO</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.14.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
-        <updated>2022-02-14T06:29:16.000Z</updated>
-        <summary type="html"><![CDATA[style tweak]]></summary>
+        <title type="html"><![CDATA[【京都府京丹後市】キッズルームがあるプラザアピア峰山に双子を連れて遊びに行きました]]></title>
+        <id>https://irodorulife.com/?p=2402</id>
+        <link href="https://irodorulife.com/trip-tango-mineyama/"/>
+        <updated>2022-02-04T06:46:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダン(Otodan_)です。 今回は、双子を連れて京都府京丹後市にある プラザアピア峰山という施設に家族で遊びに行きました！ 一言で言うと大人もめちゃくちゃ楽しめる場所でした。笑 というのも、子どもを遊ばせ...
+【京都府京丹後市】キッズルームがあるプラザアピア峰山に双子を連れて遊びに行きました first appeared on otodanblog.]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.14.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
-        <updated>2022-02-14T05:53:33.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
+        <title type="html"><![CDATA[＼Audible聴き放題が熱い／1...]]></title>
+        <id>https://note.com/mountainpeace/n/n7fd324215dbe</id>
+        <link href="https://note.com/mountainpeace/n/n7fd324215dbe"/>
+        <updated>2022-02-03T20:46:12.000Z</updated>
+        <summary type="html"><![CDATA[＼Audible聴き放題が熱い／1500円×4で既に6000円分。聴き放題で読まなかった分野へのハードルも下がる。今までは執筆に関係する書籍を中心に購入してましたが、Audibleがきっかけで新たなアイデアも閃きそう。しかも初月無料
+https://amzn.to/3KGXP01
+続きをみる]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.14.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
-        <updated>2022-02-14T05:26:23.000Z</updated>
-        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
+        <title type="html"><![CDATA[＼ 読み上げ機能はサイコー ／
+【...]]></title>
+        <id>https://note.com/mountainpeace/n/n9446e435e70f</id>
+        <link href="https://note.com/mountainpeace/n/n9446e435e70f"/>
+        <updated>2022-02-03T20:42:34.000Z</updated>
+        <summary type="html"><![CDATA[＼ 読み上げ機能はサイコー ／
+【Kindle執筆が大幅に改善中】今さらですが…Wordの下書き原稿を、一時的にPDFで保存すると、スマホの「読み上げ機能」で音声に変換してくれることを発見。耳で聴けるので、便利だし修正が楽し過ぎる！僕は執筆も耳との相性がいい！
+続きをみる]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
-        <updated>2022-02-14T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
+        <title type="html"><![CDATA[【節分】双子初めて鬼との遭遇にびびりまくる]]></title>
+        <id>https://irodorulife.com/?p=2390</id>
+        <link href="https://irodorulife.com/blog-setsubun/"/>
+        <updated>2022-02-03T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[今日は節分ですね。 そう、子どもにとって年に一回鬼さんと遭遇するある意味怖〜い？イベントです^ ^ そんな我が家の双子も本日、人生で初めて鬼と出会い肝っ玉を冷やす経験をしました。 というお話を今回はブログで綴ります。 何...
+【節分】双子初めて鬼との遭遇にびびりまくる first appeared on otodanblog.]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>otodan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
+        <title type="html"><![CDATA[＼ アスリートの内省法 ／
+教員歴...]]></title>
+        <id>https://note.com/mountainpeace/n/n53e8307f7973</id>
+        <link href="https://note.com/mountainpeace/n/n53e8307f7973"/>
+        <updated>2022-02-03T04:43:50.000Z</updated>
+        <summary type="html"><![CDATA[＼ アスリートの内省法 ／
+教員歴33年。サッカーの顧問として地区大会優勝、県大会出場経験を持つ著者の実践してきた、エビデンスのある『内省法』を学べます。【ピンチに強くなる問題解決法】実例も豊富で、読者自身で実践できるノウハウ！
+https://amzn.to/3HqGVRc
+続きをみる]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
+        <title type="html"><![CDATA[＼ お金増やすのに必要なのは○○／...]]></title>
+        <id>https://note.com/mountainpeace/n/n603be2fdf167</id>
+        <link href="https://note.com/mountainpeace/n/n603be2fdf167"/>
+        <updated>2022-02-03T04:29:05.000Z</updated>
+        <summary type="html"><![CDATA[＼ お金増やすのに必要なのは○○／
+ 『知りたくなかったヤバい現実』 
+【5人に1人は年収200万円以下】【コロナ禍で住宅ローン破綻が急増中】現実を直視しながら、実践によって変われることを実体験をもとに学ばせてくれます！
+https://amzn.to/3okJpJr
+続きをみる]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
-        <updated>2022-02-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
+        <title type="html"><![CDATA[＼ お金に困らない人の裏側 ／
+【...]]></title>
+        <id>https://note.com/mountainpeace/n/n292ad6d749dd</id>
+        <link href="https://note.com/mountainpeace/n/n292ad6d749dd"/>
+        <updated>2022-02-03T00:32:58.000Z</updated>
+        <summary type="html"><![CDATA[＼ お金に困らない人の裏側 ／
+【稼ぎ続けたければ読んだ方がいい】僕はこういう情報が１番知りたかったのかもしれない。好きなこと、得意なことで稼ぐために必要な考えを学べます。著者の本音話。腰を据えて挑戦していける勇気をもらえました！
+
+https://amzn.to/3487P1U 続きをみる]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
-        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
-        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
-        <updated>2022-02-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
+        <title type="html"><![CDATA[はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた]]></title>
+        <id>https://nicopoco.com/?p=1772</id>
+        <link href="https://nicopoco.com/self-back-poi-katsu"/>
+        <updated>2022-02-02T14:45:33.000Z</updated>
+        <summary type="html"><![CDATA[今回の記事は、まだポイ活、セルフバックをしたことがない方向けに書きます。既に大量にやってるよ～という方の参考にはならないので、悪しからず！！ ポイ活 いわゆるポイントをためまくることを総じてポイ活と呼 ...
+はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた first appeared on まろのみちしるべ.
+Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statoscope: A Course Of Intensive Therapy For Your Bundle]]></title>
-        <id>https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/</id>
-        <link href="https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/"/>
-        <updated>2022-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sergey Melukov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
-        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
-        <updated>2022-02-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
-        <updated>2022-02-04T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
-        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
-        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
-        <updated>2022-02-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
-        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
-        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
-        <updated>2022-02-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>MARO</name>
         </author>
     </entry>
 </feed>
