@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-03-03T13:07:07.563Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-03-03T13:07:07.563Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
+        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
+        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
+        <updated>2022-03-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
+        <id>https://css-tricks.com/?p=364350</id>
+        <link href="https://css-tricks.com/performance-links-february-2022/"/>
+        <updated>2022-03-02T21:26:50.000Z</updated>
+        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
+The new WebPageTest website design
+From fonts to SVG: an icon migration strategy
+…
+7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List .remove() - How to Remove an Item from a List in Python]]></title>
+        <id>621e55eac4d0d306772f23d6</id>
+        <link href="https://www.freecodecamp.org/news/python-list-remove-how-to-remove-an-item-from-a-list-in-python/"/>
+        <updated>2022-03-02T19:49:19.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in remove() list method. By the end, you'll know how to use remove() to remove an item from a list in Python. Here is what we will cover:  1. Syntax of the remove() method  2. Remove an element from]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Home Wireless Infrastructure with Kismet and Python]]></title>
+        <id>621d7632c4d0d306772f1f61</id>
+        <link href="https://www.freecodecamp.org/news/wireless-security-using-raspberry-pi-4-kismet-and-python/"/>
+        <updated>2022-03-02T16:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Everything is connected to wireless these days. In my case I found that I have LOTS of devices after running a simple nmap command on my home network [/news/enhance-nmap-with-python/#nmap-101-identify-all-the-public-services-in-our-network] : [josevnz@dmaf5 ~]$ sudo nmap -v -n -p- -sT -sV -O --osscan-limit --max-os-tries 1 -oX $HOME/home_scan.xml 192.168.1.0/24 So I started to]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=363882</id>
+        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
+        <updated>2022-03-02T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
+Here’s an example where I …
+How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an eCommerce Website Using WooCommerce]]></title>
+        <id>621f888ec4d0d306772f2d40</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/"/>
+        <updated>2022-03-02T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own eCommerce website is easier than you may think. You don't even need to know how to code. I just created and published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an online store with WooCommerce and WordPress. In this video course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps with GitLab CI Course]]></title>
+        <id>621f860dc4d0d306772f2cf9</id>
+        <link href="https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/"/>
+        <updated>2022-03-02T15:05:24.000Z</updated>
+        <summary type="html"><![CDATA[GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
+        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
+        <updated>2022-03-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
+        <id>621e97a4c4d0d306772f290b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
+        <updated>2022-03-02T00:18:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
+        <author>
+            <name>Daniel Rosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
+        <id>621903c6c4d0d306772efc76</id>
+        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
+        <updated>2022-03-01T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
+        <author>
+            <name>Paul Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
+        <id>621d6316c4d0d306772f1f16</id>
+        <link href="https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/"/>
+        <updated>2022-03-01T21:06:01.000Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm Uninstall – How to Remove a Package]]></title>
+        <id>621dfc8cc4d0d306772f220f</id>
+        <link href="https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/"/>
+        <updated>2022-03-01T20:46:50.000Z</updated>
+        <summary type="html"><![CDATA[The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React useEffect Hook for Absolute Beginners]]></title>
+        <id>621e4f3ec4d0d306772f239d</id>
+        <link href="https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/"/>
+        <updated>2022-03-01T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python .pop() – How to Pop from a List or an Array in Python]]></title>
+        <id>621c8bcfc4d0d306772f1263</id>
+        <link href="https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/"/>
+        <updated>2022-03-01T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
+        <id>https://css-tricks.com/?p=363724</id>
+        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
+        <updated>2022-03-01T17:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
+CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
+        <id>https://css-tricks.com/?p=364351</id>
+        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
+        <updated>2022-03-01T15:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
+The fit-content keyword is actually …
+Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
+        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
+        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
+        <updated>2022-03-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
+        <id>https://css-tricks.com/?p=364346</id>
+        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
+        <updated>2022-02-28T23:14:29.000Z</updated>
+        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
+IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
+        <id>https://css-tricks.com/?p=363929</id>
+        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
+        <updated>2022-02-28T15:37:23.000Z</updated>
+        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
+Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
+        <updated>2022-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March For Equality (2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/</id>
+        <link href="https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/"/>
+        <updated>2022-02-28T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recipe For A Good Design System]]></title>
+        <id>https://smashingmagazine.com/2022/02/recipe-good-design-system/</id>
+        <link href="https://smashingmagazine.com/2022/02/recipe-good-design-system/"/>
+        <updated>2022-02-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
+        <id>https://css-tricks.com/?p=364070</id>
+        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
+        <updated>2022-02-25T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
+1) https://website.com/foo/
+2) https://websites.com/foo
+The first option has a “trailing slash.” The second does not.
+I’ve always preferred this thinking: you use a trailing …
+Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
+        <id>https://css-tricks.com/?p=363619</id>
+        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
+        <updated>2022-02-25T15:28:33.000Z</updated>
+        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
+Let me demonstrate the usefulness of …
+When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
+        <id>https://css-tricks.com/?p=364152</id>
+        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
+        <updated>2022-02-25T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
+One of the ways to help get …
+Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
+        <id>https://css-tricks.com/?p=364138</id>
+        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
+        <updated>2022-02-24T20:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Nic Chan:
+[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
+…
+My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
+        <id>https://css-tricks.com/?p=363553</id>
+        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
+        <updated>2022-02-24T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
+Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Anand Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
+        <id>https://css-tricks.com/?p=363526</id>
+        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
+        <updated>2022-02-24T15:31:49.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
+GatsbyJS is …
+Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>ImageEngine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Benchmark And Improve Web Vitals With Real User Metrics]]></title>
+        <id>https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/</id>
+        <link href="https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/"/>
+        <updated>2022-02-24T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
+        <id>https://css-tricks.com/?p=363937</id>
+        <link href="https://css-tricks.com/css-database-queries/"/>
+        <updated>2022-02-23T20:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
+CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
+        <id>https://css-tricks.com/?p=363532</id>
+        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
+        <updated>2022-02-23T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
+In that spirit, here are five …
+5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Yuschick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
+        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
+        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
+        <updated>2022-02-23T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
+        <id>https://css-tricks.com/?p=363998</id>
+        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
+        <updated>2022-02-22T20:06:57.000Z</updated>
+        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
+Complaining on 
+…
+Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
+        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
+        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
+        <updated>2022-02-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
+        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
+        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
+        <updated>2022-02-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
+        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
+        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
+        <updated>2022-02-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts On Markdown]]></title>
+        <id>https://smashingmagazine.com/2022/02/thoughts-on-markdown/</id>
+        <link href="https://smashingmagazine.com/2022/02/thoughts-on-markdown/"/>
+        <updated>2022-02-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Knut Melvær)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
+        <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
+        <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
+        <updated>2022-02-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implications Of WordPress Joining The Block Protocol]]></title>
+        <id>https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/</id>
+        <link href="https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/"/>
+        <updated>2022-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
+        <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
+        <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
+        <updated>2022-02-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.4]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"/>
+        <updated>2022-02-14T06:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Several style issues]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
+        <updated>2022-02-14T06:29:16.000Z</updated>
+        <summary type="html"><![CDATA[style tweak]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
+        <updated>2022-02-14T05:53:33.000Z</updated>
+        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
+        <updated>2022-02-14T05:26:23.000Z</updated>
+        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
+        <updated>2022-02-14T05:13:00.000Z</updated>
+        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.13.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
+        <updated>2022-02-13T05:05:17.000Z</updated>
+        <summary type="html"><![CDATA[New: Thumbnail image display for each article
+New: Improved color, spacing, and typography for easier reading
+New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
+Changed: All sections are expanded by default
+Changed: Switched to vitest for easier testing
+Fixed: Long string (e.g. URL) caused horizontal overflow
+Thank you: @naari3, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.12.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
+        <updated>2022-02-12T17:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
+Fxied: Security vulnerability from axios
+Thank you: @naari3]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
+        <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
+        <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
+        <updated>2022-02-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
+        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
+        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
+        <updated>2022-02-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statoscope: A Course Of Intensive Therapy For Your Bundle]]></title>
+        <id>https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/</id>
+        <link href="https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/"/>
+        <updated>2022-02-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sergey Melukov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
+        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
+        <updated>2022-02-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
+        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
+        <updated>2022-02-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
+        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
+        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
+        <updated>2022-02-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
+        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
+        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
+        <updated>2022-02-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+</feed>
