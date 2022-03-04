@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-03T13:16:52.682Z</id>
+    <id>urn:2022-03-04T00:40:31.259Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T13:16:52.682Z</updated>
+    <updated>2022-03-04T00:40:31.259Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ご案内】ボーダーレス VOL.4 with りょう育ママ]]></title>
+        <id>https://decobocochan.com/?p=5216</id>
+        <link href="https://decobocochan.com/archives/5216"/>
+        <updated>2022-03-03T22:50:50.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[発達検査の種類と受けるタイミング]]></title>
         <id>https://decobocochan.com/?p=5091</id>
@@ -291,16 +301,6 @@ The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみ�
         <summary type="html"><![CDATA[「検索からのブログアクセスが少ない！」 「SEO検索順位が上がらない！」 はじめたたばかりのブログでは、こんな悩みばかりではないでしょうか？ Rank Trackerは、マナブさんやクニトミさんなど有名ブロガーも利用して […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レポ】ボーダーレス  VOL.3 with りょう育ママ]]></title>
-        <id>https://decobocochan.com/?p=4849</id>
-        <link href="https://decobocochan.com/archives/4849"/>
-        <updated>2022-02-11T02:42:38.000Z</updated>
-        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
