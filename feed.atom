@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-04T00:40:31.259Z</id>
+    <id>urn:2022-03-05T00:38:54.382Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-04T00:40:31.259Z</updated>
+    <updated>2022-03-05T00:38:54.382Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[デイの複数利用について]]></title>
+        <id>https://decobocochan.com/?p=5240</id>
+        <link href="https://decobocochan.com/archives/5240"/>
+        <updated>2022-03-04T22:55:40.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ご案内】ボーダーレス VOL.4 with りょう育ママ]]></title>
         <id>https://decobocochan.com/?p=5216</id>
@@ -274,16 +284,6 @@ The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみ�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022年3月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=4851</id>
-        <link href="https://decobocochan.com/archives/4851"/>
-        <updated>2022-02-12T01:00:15.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[コロナワクチン3回目を早く接種する方法（接種券がなくてもOK！）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/02/12/053816</id>
         <link href="https://brushwoodcape.hatenablog.com/entry/2022/02/12/053816"/>
@@ -494,60 +494,6 @@ https://amzn.to/3KGXP01
 【節分】双子初めて鬼との遭遇にびびりまくる first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ アスリートの内省法 ／
-教員歴...]]></title>
-        <id>https://note.com/mountainpeace/n/n53e8307f7973</id>
-        <link href="https://note.com/mountainpeace/n/n53e8307f7973"/>
-        <updated>2022-02-03T04:43:50.000Z</updated>
-        <summary type="html"><![CDATA[＼ アスリートの内省法 ／
-教員歴33年。サッカーの顧問として地区大会優勝、県大会出場経験を持つ著者の実践してきた、エビデンスのある『内省法』を学べます。【ピンチに強くなる問題解決法】実例も豊富で、読者自身で実践できるノウハウ！
-https://amzn.to/3HqGVRc
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ お金増やすのに必要なのは○○／...]]></title>
-        <id>https://note.com/mountainpeace/n/n603be2fdf167</id>
-        <link href="https://note.com/mountainpeace/n/n603be2fdf167"/>
-        <updated>2022-02-03T04:29:05.000Z</updated>
-        <summary type="html"><![CDATA[＼ お金増やすのに必要なのは○○／
- 『知りたくなかったヤバい現実』 
-【5人に1人は年収200万円以下】【コロナ禍で住宅ローン破綻が急増中】現実を直視しながら、実践によって変われることを実体験をもとに学ばせてくれます！
-https://amzn.to/3okJpJr
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ お金に困らない人の裏側 ／
-【...]]></title>
-        <id>https://note.com/mountainpeace/n/n292ad6d749dd</id>
-        <link href="https://note.com/mountainpeace/n/n292ad6d749dd"/>
-        <updated>2022-02-03T00:32:58.000Z</updated>
-        <summary type="html"><![CDATA[＼ お金に困らない人の裏側 ／
-【稼ぎ続けたければ読んだ方がいい】僕はこういう情報が１番知りたかったのかもしれない。好きなこと、得意なことで稼ぐために必要な考えを学べます。著者の本音話。腰を据えて挑戦していける勇気をもらえました！
-
-https://amzn.to/3487P1U 続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた]]></title>
-        <id>https://nicopoco.com/?p=1772</id>
-        <link href="https://nicopoco.com/self-back-poi-katsu"/>
-        <updated>2022-02-02T14:45:33.000Z</updated>
-        <summary type="html"><![CDATA[今回の記事は、まだポイ活、セルフバックをしたことがない方向けに書きます。既に大量にやってるよ～という方の参考にはならないので、悪しからず！！ ポイ活 いわゆるポイントをためまくることを総じてポイ活と呼 ...
-はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた first appeared on まろのみちしるべ.
-Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
