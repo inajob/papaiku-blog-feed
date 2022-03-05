@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-05T04:35:37.315Z</id>
+    <id>urn:2022-03-05T21:08:58.747Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-05T04:35:37.315Z</updated>
+    <updated>2022-03-05T21:08:58.747Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -447,42 +447,6 @@ https://t.co/J7sGFCsaoU
 Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【京都府京丹後市】キッズルームがあるプラザアピア峰山に双子を連れて遊びに行きました]]></title>
-        <id>https://irodorulife.com/?p=2402</id>
-        <link href="https://irodorulife.com/trip-tango-mineyama/"/>
-        <updated>2022-02-04T06:46:23.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはオトダン(Otodan_)です。 今回は、双子を連れて京都府京丹後市にある プラザアピア峰山という施設に家族で遊びに行きました！ 一言で言うと大人もめちゃくちゃ楽しめる場所でした。笑 というのも、子どもを遊ばせ...
-【京都府京丹後市】キッズルームがあるプラザアピア峰山に双子を連れて遊びに行きました first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼Audible聴き放題が熱い／1...]]></title>
-        <id>https://note.com/mountainpeace/n/n7fd324215dbe</id>
-        <link href="https://note.com/mountainpeace/n/n7fd324215dbe"/>
-        <updated>2022-02-03T20:46:12.000Z</updated>
-        <summary type="html"><![CDATA[＼Audible聴き放題が熱い／1500円×4で既に6000円分。聴き放題で読まなかった分野へのハードルも下がる。今までは執筆に関係する書籍を中心に購入してましたが、Audibleがきっかけで新たなアイデアも閃きそう。しかも初月無料
-https://amzn.to/3KGXP01
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ 読み上げ機能はサイコー ／
-【...]]></title>
-        <id>https://note.com/mountainpeace/n/n9446e435e70f</id>
-        <link href="https://note.com/mountainpeace/n/n9446e435e70f"/>
-        <updated>2022-02-03T20:42:34.000Z</updated>
-        <summary type="html"><![CDATA[＼ 読み上げ機能はサイコー ／
-【Kindle執筆が大幅に改善中】今さらですが…Wordの下書き原稿を、一時的にPDFで保存すると、スマホの「読み上げ機能」で音声に変換してくれることを発見。耳で聴けるので、便利だし修正が楽し過ぎる！僕は執筆も耳との相性がいい！
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
 </feed>
