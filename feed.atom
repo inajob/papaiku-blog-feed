@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-05T00:38:54.382Z</id>
+    <id>urn:2022-03-05T04:35:37.315Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-05T00:38:54.382Z</updated>
+    <updated>2022-03-05T04:35:37.315Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -483,17 +483,6 @@ https://amzn.to/3KGXP01
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【節分】双子初めて鬼との遭遇にびびりまくる]]></title>
-        <id>https://irodorulife.com/?p=2390</id>
-        <link href="https://irodorulife.com/blog-setsubun/"/>
-        <updated>2022-02-03T14:31:20.000Z</updated>
-        <summary type="html"><![CDATA[今日は節分ですね。 そう、子どもにとって年に一回鬼さんと遭遇するある意味怖〜い？イベントです^ ^ そんな我が家の双子も本日、人生で初めて鬼と出会い肝っ玉を冷やす経験をしました。 というお話を今回はブログで綴ります。 何...
-【節分】双子初めて鬼との遭遇にびびりまくる first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
         </author>
     </entry>
 </feed>
