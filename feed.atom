@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-06T22:21:36.027Z</id>
+    <id>urn:2022-03-06T23:22:14.762Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-06T22:21:36.027Z</updated>
+    <updated>2022-03-06T23:22:14.762Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PTAのゆがみ]]></title>
+        <id>https://decobocochan.com/?p=4978</id>
+        <link href="https://decobocochan.com/archives/4978"/>
+        <updated>2022-03-06T22:45:20.000Z</updated>
+        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凸凹ちゃんにまつわるお金の話]]></title>
         <id>https://decobocochan.com/?p=5144</id>
@@ -229,16 +239,6 @@ The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみ�
 【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デイサービスを選ぶ6つのポイント]]></title>
-        <id>https://decobocochan.com/?p=4928</id>
-        <link href="https://decobocochan.com/archives/4928"/>
-        <updated>2022-02-17T08:40:27.000Z</updated>
-        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
