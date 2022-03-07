@@ -5,6 +5,7 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
+  - href: https://papaikuq.com/?feed=rss2
   - href: https://oton-tech.com/feed/
   - href: https://note.com/takahi115/rss
   - href: https://decobocochan.com/feed
