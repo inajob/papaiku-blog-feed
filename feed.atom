@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-07T02:42:30.960Z</id>
+    <id>urn:2022-03-07T02:53:59.865Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-07T02:42:30.960Z</updated>
+    <updated>2022-03-07T02:53:59.865Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -229,6 +229,16 @@ The post UI銀行はオススメ？手数料や預金金利を他のネット銀
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【まとめ】男性育休ブログ！紹介します！]]></title>
+        <id>https://papaikuq.com/?p=3786</id>
+        <link href="https://papaikuq.com/?p=3786"/>
+        <updated>2022-02-19T15:54:21.000Z</updated>
+        <summary type="html"><![CDATA[男性育休ブログを執筆されている方が増えてきているのですが、なかなか読者が増えず困っているという声をちらほらと聞きます。 そこで、当ブログ記事では、育休について執筆されているパパさんを応援する意味を込めて「男性育休ブログ」 […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた]]></title>
         <id>https://r-padre.com/?p=870</id>
         <link href="https://r-padre.com/video-editing-beginners-tried-making-youtube-videos-with-final-cut-pro-x/"/>
@@ -407,6 +417,16 @@ https://t.co/6OxYfmMOg1
 【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【男性の育休体験に】ツレのうつをきっかけに育休取得、ミニオンパパさん（6ヶ月取得）]]></title>
+        <id>https://papaikuq.com/?p=3777</id>
+        <link href="https://papaikuq.com/?p=3777"/>
+        <updated>2022-02-08T00:35:34.000Z</updated>
+        <summary type="html"><![CDATA[男性育休は人それぞれです。家庭環境や職場環境等に応じて育休のあり方は異なってきます。 そんな多様な男性育休について、男性育休取得者の体験記を通じてお伝えしてしていきます。 今回の男性育休体験記は「ミニオンパパさん」です。 […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
         </author>
     </entry>
     <entry>
