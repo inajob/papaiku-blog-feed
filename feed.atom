@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-08T01:24:00.176Z</id>
+    <id>urn:2022-03-08T02:38:45.508Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-08T01:24:00.176Z</updated>
+    <updated>2022-03-08T02:38:45.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -427,19 +427,6 @@ https://t.co/6OxYfmMOg1
         <summary type="html"><![CDATA[男性育休は人それぞれです。家庭環境や職場環境等に応じて育休のあり方は異なってきます。 そんな多様な男性育休について、男性育休取得者の体験記を通じてお伝えしてしていきます。 今回の男性育休体験記は「ミニオンパパさん」です。 […]]]></summary>
         <author>
             <name>シカゴリラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ 50歳からのツィッター入門 ／...]]></title>
-        <id>https://note.com/mountainpeace/n/n0abfa6818116</id>
-        <link href="https://note.com/mountainpeace/n/n0abfa6818116"/>
-        <updated>2022-02-06T13:25:43.000Z</updated>
-        <summary type="html"><![CDATA[＼ 50歳からのツィッター入門 ／
-師匠から学んだ『運用法』がベースになっているので、まとめられていて、わかりやすい！始めて知るツールが２つもあって、勉強になりました。同じような境遇の方に刺さる内容となっています！ 
-https://amzn.to/3J9tMfw
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
 </feed>
