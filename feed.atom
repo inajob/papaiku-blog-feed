@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-08T21:19:16.543Z</id>
+    <id>urn:2022-03-08T22:22:41.410Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-08T21:19:16.543Z</updated>
+    <updated>2022-03-08T22:22:41.410Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ランドセルを選ぶ「ラン活」]]></title>
+        <id>https://decobocochan.com/?p=5491</id>
+        <link href="https://decobocochan.com/archives/5491"/>
+        <updated>2022-03-08T22:20:22.000Z</updated>
+        <summary type="html"><![CDATA[ランドセルを選ぶ「ラン活」が、はじまるこの時期 だいたい春から6月に新作がでてきて お盆にピークとなる ネットで購入する場合はカスタマイズして 刺繍の色や形まで選べる そして、なかなか決められない💦 納品日がのびることも ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＃国際女性デー　性別という一属性で、人を区別してもつまらないじゃないか]]></title>
         <id>https://note.com/takaranran_mk/n/n2e2bd7204858</id>
@@ -238,16 +248,6 @@ The post ふるさと納税のワンストップ特例制度とは？オスス�
 The post UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較 first appeared on パドレブログ.]]></summary>
         <author>
             <name>padre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凸凹ちゃんと旅行準備]]></title>
-        <id>https://decobocochan.com/?p=4929</id>
-        <link href="https://decobocochan.com/archives/4929"/>
-        <updated>2022-02-20T09:10:59.000Z</updated>
-        <summary type="html"><![CDATA[りょう育ママとは…3人の凸凹ちゃんを育てるママ 育児についてのリアル話や凸凹お役立ち情報をブログで発信。 凸凹がメガネみたいに当たり前な世の中にしていきたいとジタバタもがいている🤣 ☕️学校と支援の狭間で悩むパパママ向け ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
