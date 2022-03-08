@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-08T14:19:05.901Z</id>
+    <id>urn:2022-03-08T15:23:21.971Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-08T14:19:05.901Z</updated>
+    <updated>2022-03-08T15:23:21.971Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＃国際女性デー　性別という一属性で、人を区別してもつまらないじゃないか]]></title>
+        <id>https://note.com/takaranran_mk/n/n2e2bd7204858</id>
+        <link href="https://note.com/takaranran_mk/n/n2e2bd7204858"/>
+        <updated>2022-03-08T14:36:45.000Z</updated>
+        <summary type="html"><![CDATA[私はかねてから、ジェンダー問題や、男女格差については敏感である。敏感というか、男が、女がという意識の持ち方自体に違和感が拭えない。
+私が男性という立場でありながら、SNS等でも特に女性の問題に対して発信することが多いのは、女性の権利を主張したいとか、女性のために立ち上がろうとか、（もちろんそういう意識もあるが）言いたいのはそういう表面的なことではない。
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通級指導教室をほりさげ！]]></title>
         <id>https://decobocochan.com/?p=4960</id>
