@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-09T11:18:57.634Z</id>
+    <id>urn:2022-03-09T12:36:45.431Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-09T11:18:57.634Z</updated>
+    <updated>2022-03-09T12:36:45.431Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -429,16 +429,6 @@ https://t.co/6OxYfmMOg1
 【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【男性の育休体験に】ツレのうつをきっかけに育休取得、ミニオンパパさん（6ヶ月取得）]]></title>
-        <id>https://papaikuq.com/?p=3777</id>
-        <link href="https://papaikuq.com/?p=3777"/>
-        <updated>2022-02-08T00:35:34.000Z</updated>
-        <summary type="html"><![CDATA[男性育休は人それぞれです。家庭環境や職場環境等に応じて育休のあり方は異なってきます。 そんな多様な男性育休について、男性育休取得者の体験記を通じてお伝えしてしていきます。 今回の男性育休体験記は「ミニオンパパさん」です。 […]]]></summary>
-        <author>
-            <name>シカゴリラ</name>
         </author>
     </entry>
 </feed>
