@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-10T01:39:28.083Z</id>
+    <id>urn:2022-03-10T02:50:04.665Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-10T01:39:28.083Z</updated>
+    <updated>2022-03-10T02:50:04.665Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -418,17 +418,6 @@ https://t.co/6OxYfmMOg1
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました]]></title>
-        <id>https://irodorulife.com/?p=2444</id>
-        <link href="https://irodorulife.com/book-kosodate/"/>
-        <updated>2022-02-08T14:40:53.000Z</updated>
-        <summary type="html"><![CDATA[育児は見た目以上にハードだなと身をもって感じているオトダンです。 そんな今回は、育児疲れになりにくい秘訣を教えてくれる本を見つけたのてご紹介します。 子育てでカラダが限界なんですがどうすればいいですか? リンク こちらの...
-【育児疲れ】子育てで身体が疲れた時に読んでほしい本見つけました first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
         </author>
     </entry>
 </feed>
