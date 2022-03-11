@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-10T23:22:28.742Z</id>
+    <id>urn:2022-03-11T01:35:47.079Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-10T23:22:28.742Z</updated>
+    <updated>2022-03-11T01:35:47.079Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[コロナ後2年での卒業を迎える皆さんへ]]></title>
+        <id>https://note.com/takaranran_mk/n/n3720e6cacd5d</id>
+        <link href="https://note.com/takaranran_mk/n/n3720e6cacd5d"/>
+        <updated>2022-03-10T23:29:34.000Z</updated>
+        <summary type="html"><![CDATA[2022年3月10日
+あちこちで、卒業の声が聞こえ始めてきた。
+中高大学はこの時期の卒業式が多いだろうか。
+うちの子は小学6年、卒業式自体はあと２週間ほど先だが
+皆、人生における一つの区切りを迎えるという事だと思う。
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年4月セミナー・イベント情報]]></title>
         <id>https://decobocochan.com/?p=5326</id>
