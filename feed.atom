@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-11T12:36:29.901Z</id>
+    <id>urn:2022-03-11T13:25:40.586Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-11T12:36:29.901Z</updated>
+    <updated>2022-03-11T13:25:40.586Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[つみたてNISAの出口戦略とは？ポイント改悪後も楽天証券がおすすめな理由]]></title>
+        <id>https://tasogare-home.com/?p=2586</id>
+        <link href="https://tasogare-home.com/tsumitatenisa-exit/"/>
+        <updated>2022-03-11T13:04:46.000Z</updated>
+        <summary type="html"><![CDATA[みなさんはつみたてNISAの出口戦略は決まっていますか？ 意外となんとなくしているという方も多いのではないでしょうか。 ・みんながおすすめっていうからつみたてNISAを始めてみた！ ・つみたてNISAをしてはいるけど出口]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[発売日にスマホを買って冒険の旅へ。ワクワクする大人のドラクエ3現象]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/03/11/215848</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/03/11/215848"/>
+        <updated>2022-03-11T12:58:48.000Z</updated>
+        <summary type="html"><![CDATA[一風変わったタイトルの記事を読みに来ていただきありがとうございます。 これから書く内容は、実際に冒険に出た話ではありません。 単に新しいスマホを買っただけで、そのスマホも安い価格帯のものです。 そのような出来事からスタートして、「大人がワクワクするためにはどうすればいいか」を考えていきたいと思います。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コロナ後2年での卒業を迎える皆さんへ]]></title>
         <id>https://note.com/takaranran_mk/n/n3720e6cacd5d</id>
