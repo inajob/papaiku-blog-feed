@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-12T11:18:18.201Z</id>
+    <id>urn:2022-03-12T12:34:27.184Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-12T11:18:18.201Z</updated>
+    <updated>2022-03-12T12:34:27.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[本業と副業のパラレルワーカーによる2022年1-2月活動履歴]]></title>
+        <id>https://nicopoco.com/?p=1865</id>
+        <link href="https://nicopoco.com/history_2022_feb"/>
+        <updated>2022-03-12T12:32:04.000Z</updated>
+        <summary type="html"><![CDATA[2022年3月になったので2022年1-2月の活動実績を書いていこうと思います。 私にはいくつか収益の柱があるのですが、その収益の柱としての活動実績を追いかけていこうと思います。 本業 新年を迎えてか ...
+本業と副業のパラレルワーカーによる2022年1-2月活動履歴 first appeared on まろのみちしるべ.
+Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文房具は、消耗品だ]]></title>
         <id>https://decobocochan.com/?p=5583</id>
@@ -377,23 +389,6 @@ The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみ�
         <summary type="html"><![CDATA[「検索からのブログアクセスが少ない！」 「SEO検索順位が上がらない！」 はじめたたばかりのブログでは、こんな悩みばかりではないでしょうか？ Rank Trackerは、マナブさんやクニトミさんなど有名ブロガーも利用して […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ 執筆と運動とアイディア ／
-
-...]]></title>
-        <id>https://note.com/mountainpeace/n/nfb6f2a1862c5</id>
-        <link href="https://note.com/mountainpeace/n/nfb6f2a1862c5"/>
-        <updated>2022-02-10T23:44:12.000Z</updated>
-        <summary type="html"><![CDATA[＼ 執筆と運動とアイディア ／
-
-著者@kazimendleの実体験をもとに、ランニング、ウォーキング中に記事の発想が浮かぶことが紹介されてます。歴史家、起業家にも運動をしていることが多い事実を、実証をもとに解説してくれてます！
-
-https://t.co/4eCeQjadrb
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
 </feed>
