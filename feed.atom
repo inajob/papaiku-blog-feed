@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-12T03:23:04.672Z</id>
+    <id>urn:2022-03-12T04:29:44.539Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-12T03:23:04.673Z</updated>
+    <updated>2022-03-12T04:29:44.539Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -394,29 +394,6 @@ https://t.co/4eCeQjadrb
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【足疲れの悩み解消】家事や子育ての立ち作業でも疲れないスリッパ]]></title>
-        <id>https://irodorulife.com/?p=2448</id>
-        <link href="https://irodorulife.com/tiredleg-slipper/"/>
-        <updated>2022-02-10T15:57:54.000Z</updated>
-        <summary type="html"><![CDATA[双子育児に奮闘中のオトダン(Otodan_)です。 子育てしていると『子どもの抱っこ攻撃』や『料理、洗濯、食器洗い』など、日々あらゆる家事のおかげで家では休む暇なく立ちっぱなしで作業をしているお母さん、お父さんは多いので...
-【足疲れの悩み解消】家事や子育ての立ち作業でも疲れないスリッパ first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指ブジー卒業！〜ヒルシュスプルング病の経過〜]]></title>
-        <id>https://ny-lifework.com/?p=6475</id>
-        <link href="https://ny-lifework.com/finger-bougie-graduationcourse-of-hirschsprungs-disease/"/>
-        <updated>2022-02-10T15:56:45.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは♪育休先生、NIKE（@ny_lifework）です。 今日は、息子の経過について。 うちの息子は、ヒルシュスプルング病という何度聞いても、口に出しても、書いても長い名称の病気をもって生まれ ...
-指ブジー卒業！〜ヒルシュスプルング病の経過〜 first appeared on 育休先生ブログをはじめる.
-Copyright © 2022 育休先生ブログをはじめる All Rights Reserved.]]></summary>
-        <author>
-            <name>Nike</name>
         </author>
     </entry>
 </feed>
