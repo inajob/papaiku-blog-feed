@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-13T06:29:31.595Z</id>
+    <id>urn:2022-03-13T07:19:55.532Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-13T06:29:31.595Z</updated>
+    <updated>2022-03-13T07:19:55.532Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保育者じゃない私が保育コミュニティに参加するシンプルな理由]]></title>
+        <id>https://note.com/takaranran_mk/n/n3295fcde08db</id>
+        <link href="https://note.com/takaranran_mk/n/n3295fcde08db"/>
+        <updated>2022-03-13T07:07:13.000Z</updated>
+        <summary type="html"><![CDATA[ただの父親が保育コミュニティに出会う
+私は保育関係者ではありません。
+保育との関わりと言えば、3年前まで子ども達を毎朝保育園に送っていった父親であるというだけで、仕事上も保育に関わる事もないIT系会社員です。
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はたらく未来を･･･]]></title>
         <id>https://decobocochan.com/?p=5627</id>
