@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-16T08:26:09.073Z</id>
+    <id>urn:2022-03-16T09:21:28.088Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-16T08:26:09.073Z</updated>
+    <updated>2022-03-16T09:21:28.088Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -371,16 +371,6 @@ The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみ�
 【赤ちゃんの体重増えない】ミルクもご飯も食べない我が家の双子が実践したこと first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3歳児が母と作って父にくれたスコーン。楽しいおやつになるはずだったが…]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/02/15/060116</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/02/15/060116"/>
-        <updated>2022-02-14T21:01:16.000Z</updated>
-        <summary type="html"><![CDATA[3歳の長女がバレンタインデーにお菓子を作ってくれました。 父親へのプレゼントとしてお菓子を作ったのは初めてです。 1年前にはそのようなことは到底できなかったので、子どもの成長を感じます。 これは間違いなく良い思い出になるはずでした。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
