@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T02:47:54.311Z</id>
+    <id>urn:2022-03-18T03:25:28.411Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-18T02:47:54.311Z</updated>
+    <updated>2022-03-18T03:25:28.411Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[サポートブックは、人間トリセツ]]></title>
+        <id>https://decobocochan.com/?p=5929</id>
+        <link href="https://decobocochan.com/archives/5929"/>
+        <updated>2022-03-18T03:00:44.000Z</updated>
+        <summary type="html"><![CDATA[サポートブックの存在を知ったのは、長女が幼稚園のときだった すでに療育へ通い 小学校入学が控えていたころ 今の彼女の状態を知ってもらうために、すべての項目を一生懸命 記入例を見ながら書いた いろんな人に見せてくださいと渡 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】miraicafe＆4月のご案内]]></title>
         <id>https://decobocochan.com/?p=5742</id>
@@ -175,16 +185,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通級指導教室をほりさげ！]]></title>
-        <id>https://decobocochan.com/?p=4960</id>
-        <link href="https://decobocochan.com/archives/4960"/>
-        <updated>2022-03-07T22:54:31.000Z</updated>
-        <summary type="html"><![CDATA[今回は、小学校の通級指導教室についての記事 意外と知られていない「通級」のお話で 1年前に通級のことを書きましたが いまだにアクセスがあります 今回は、もうちょっと実際の体験談を書くよ 長男が通級に通っていた 在籍は、通 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
