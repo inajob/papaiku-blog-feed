@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-20T02:40:52.882Z</id>
+    <id>urn:2022-03-20T03:22:54.069Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-20T02:40:52.882Z</updated>
+    <updated>2022-03-20T03:22:54.069Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -339,17 +339,6 @@ The post UI銀行はオススメ？手数料や預金金利を他のネット銀
 The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた first appeared on パドレブログ.]]></summary>
         <author>
             <name>padre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法]]></title>
-        <id>https://irodorulife.com/?p=2481</id>
-        <link href="https://irodorulife.com/parenting-meal/"/>
-        <updated>2022-02-18T15:00:24.000Z</updated>
-        <summary type="html"><![CDATA[もうすぐ2歳になる双子の男の子の育児に奮闘中のオトダン(Otodan_)です。 子どもが小さいとゆっくりご飯食べられないですよね。 私もその気持ちはめちゃくちゃ分かります！笑 特に乳児、幼児の場合は子どものご飯をあげてる...
-【育児中はご飯食べれない】お湯を注ぐだけで栄養満点の時短飯を作る方法 first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
         </author>
     </entry>
 </feed>
