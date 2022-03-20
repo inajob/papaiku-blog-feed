@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-20T22:22:03.272Z</id>
+    <id>urn:2022-03-20T23:21:30.400Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-20T22:22:03.272Z</updated>
+    <updated>2022-03-20T23:21:30.400Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】凸凹ちゃんのこと、どれくらい知ってる？]]></title>
+        <id>https://decobocochan.com/?p=5967</id>
+        <link href="https://decobocochan.com/archives/5967"/>
+        <updated>2022-03-20T22:28:48.000Z</updated>
+        <summary type="html"><![CDATA[昨日は、凸凹カフェでしたコロナ禍ということもあり、直前キャンセルが相次ぎマンツーマンレッスンとなりました事前質問にお答えする形ですすめました 最初に凸凹カフェのルール説明 参加者が安心して凸凹カフェにきてもらうために開催 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぱんだちゃんのマヤ暦®️タイプ別セルフコーチング]]></title>
         <id>https://decobocochan.com/?p=4914</id>
@@ -163,16 +173,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=5326</id>
-        <link href="https://decobocochan.com/archives/5326"/>
-        <updated>2022-03-10T23:00:37.000Z</updated>
-        <summary type="html"><![CDATA[毎年4月2日は国連が定める「世界自閉症啓発デー」です 4月2日～8日は、発達障害啓発週間 今年は、10周年となる節目の年 ブルーは自閉症のシンボルカラー 「いやし・希望・おだやか」を表す青色で毎年各地でイベントやライトア ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
