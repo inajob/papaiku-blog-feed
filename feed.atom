@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-20T23:21:30.400Z</id>
+    <id>urn:2022-03-21T01:45:56.321Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-20T23:21:30.400Z</updated>
+    <updated>2022-03-21T01:45:56.321Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -328,17 +328,6 @@ The post UI銀行はオススメ？手数料や預金金利を他のネット銀
         <summary type="html"><![CDATA[男性育休ブログを執筆されている方が増えてきているのですが、なかなか読者が増えず困っているという声をちらほらと聞きます。 そこで、当ブログ記事では、育休について執筆されているパパさんを応援する意味を込めて「男性育休ブログ」 […]]]></summary>
         <author>
             <name>シカゴリラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた]]></title>
-        <id>https://r-padre.com/?p=870</id>
-        <link href="https://r-padre.com/video-editing-beginners-tried-making-youtube-videos-with-final-cut-pro-x/"/>
-        <updated>2022-02-19T11:22:03.000Z</updated>
-        <summary type="html"><![CDATA[この記事はこんな方におすすめです。 ・動画編集をやったことがない方 ・Macユーザーで動画編集を始めたい方 ・副業でYouTubeを始めたい方 ・有料の動画編集ソフトを検討している方 動画編集の超超超初心者が、動画編集ソ
-The post 動画編集初心者がFinal Cut Pro XでYouTube動画を作ってみた first appeared on パドレブログ.]]></summary>
-        <author>
-            <name>padre</name>
         </author>
     </entry>
 </feed>
