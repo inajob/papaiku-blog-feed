@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T21:19:48.935Z</id>
+    <id>urn:2022-03-22T22:21:49.583Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-22T21:19:48.935Z</updated>
+    <updated>2022-03-22T22:21:49.583Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ご感想】凸凹ちゃんのこと、どれくらい知ってる？]]></title>
+        <id>https://decobocochan.com/?p=5992</id>
+        <link href="https://decobocochan.com/archives/5992"/>
+        <updated>2022-03-22T22:16:41.000Z</updated>
+        <summary type="html"><![CDATA[3月凸凹カフェはパパママ参加型「凸凹ちゃんのこと、どれくらい知ってる？」を開催しました 凸凹カフェをより良くするために毎回ご参加いただいた皆様にアンケートをお願いしています。3月のご感想をいただきましたので、こちらに掲載 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【レポ】就労困難から就労への橋渡しを考える]]></title>
         <id>https://decobocochan.com/?p=6015</id>
@@ -116,16 +126,6 @@
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はたらく未来を･･･]]></title>
-        <id>https://decobocochan.com/?p=5627</id>
-        <link href="https://decobocochan.com/archives/5627"/>
-        <updated>2022-03-12T23:00:58.000Z</updated>
-        <summary type="html"><![CDATA[働くって仕事をするだけじゃないんです。 はた（そばにいる人）をラクさせる そんな意味が込められている じゃあ… お子さんの未来は描けていますか？ わたしは、小学生のママとして 就労移行支援の見学に行きました 早いですね… ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
