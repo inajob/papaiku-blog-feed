@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T13:28:51.062Z</id>
+    <id>urn:2022-03-22T14:21:57.496Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-22T13:28:51.062Z</updated>
+    <updated>2022-03-22T14:21:57.496Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -288,17 +288,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介]]></title>
-        <id>https://r-padre.com/?p=921</id>
-        <link href="https://r-padre.com/what-is-the-one-stop-special-system-for-hometown-tax-payment-introducing-3-recommended-sites/"/>
-        <updated>2022-02-26T09:43:30.000Z</updated>
-        <summary type="html"><![CDATA[私はふるさと納税を知ってから始めるのに一年かかりました。 それを踏まえて、本記事は以下のような方にオススメです。 ・ふるさと納税の仕組みを知らない ・ふるさと納税のメリットが分からない ・一時的な支出が大きくて手が出せな
-The post ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介 first appeared on パドレブログ.]]></summary>
-        <author>
-            <name>padre</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【風力発電】自然エネルギーは必要か不必要かについて考えてみた]]></title>
         <id>https://irodorulife.com/?p=2515</id>
         <link href="https://irodorulife.com/wind-power-generation/"/>
@@ -307,17 +296,6 @@ The post ふるさと納税のワンストップ特例制度とは？オスス�
 【風力発電】自然エネルギーは必要か不必要かについて考えてみた first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較]]></title>
-        <id>https://r-padre.com/?p=895</id>
-        <link href="https://r-padre.com/do-you-recommend-ui-bank-compare-fees-and-deposit-rates-with-other-online-banks/"/>
-        <updated>2022-02-21T06:38:55.000Z</updated>
-        <summary type="html"><![CDATA[この記事はこんな方におすすめです。 ・ネット銀行の口座を持っていない方 ・UI銀行について知りたい方 ・他のネット銀行と比べてみたい方 UI銀行ってどんな銀行？ UI銀行公式ページはこちら UI銀行について UI銀行はき
-The post UI銀行はオススメ？手数料や預金金利を他のネット銀行と比較 first appeared on パドレブログ.]]></summary>
-        <author>
-            <name>padre</name>
         </author>
     </entry>
 </feed>
