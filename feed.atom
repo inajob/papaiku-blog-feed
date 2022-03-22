@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T22:21:49.583Z</id>
+    <id>urn:2022-03-22T23:22:50.533Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-22T22:21:49.583Z</updated>
+    <updated>2022-03-22T23:22:50.533Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[俺ってなんだろう]]></title>
+        <id>https://note.com/takaranran_mk/n/n1db5e6acb5f4</id>
+        <link href="https://note.com/takaranran_mk/n/n1db5e6acb5f4"/>
+        <updated>2022-03-22T23:09:54.000Z</updated>
+        <summary type="html"><![CDATA[自分のものの考え方、価値観、好み。
+自分の中の当たり前。
+俺っていう人間が自然と考えている思考ってものがある。
+ある時期まで、それは一つの常識であって、
+全く同じと言わないまでも、ほとんどの人が当然同じように考えていることだと思っていた。
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ご感想】凸凹ちゃんのこと、どれくらい知ってる？]]></title>
         <id>https://decobocochan.com/?p=5992</id>
