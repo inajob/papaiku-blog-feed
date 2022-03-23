@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-23T22:22:49.268Z</id>
+    <id>urn:2022-03-23T23:22:24.384Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-23T22:22:49.268Z</updated>
+    <updated>2022-03-23T23:22:24.384Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[チラシ到着！配布者を募集しております]]></title>
+        <id>https://decobocochan.com/?p=6110</id>
+        <link href="https://decobocochan.com/archives/6110"/>
+        <updated>2022-03-23T23:02:02.000Z</updated>
+        <summary type="html"><![CDATA[「あつまれ！凸凹ちゃん」のチラシ到着！ いろんな方に意見を聞いて修正しまくりました A4を二つ折りで作成！ 「置いてあげるよ♪」 「配ってあげるよ♪」 と仰ってくださる方がいたしたら、 お送りしますので、お気軽にお声かけ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俺ってなんだろう]]></title>
         <id>https://note.com/takaranran_mk/n/n1db5e6acb5f4</id>
@@ -118,16 +128,6 @@
         <summary type="html"><![CDATA[今年もホワイトデーがやってきました。 三十余年の中でホワイトデーが意味のある日になったことはほとんどありませんが、今年は長女からバレンタインデーにお菓子を作ってもらいました。 ホワイトデーでの男性からのお返しは、バレンタインデーのプレゼントの3倍返しと言いますが、手作りの場合はどうなのでしょうか。材料費の3倍相当でしょうか。調理にかかった時間の最低賃金の3倍相当でしょうか。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レポ】関係支援]]></title>
-        <id>https://decobocochan.com/?p=5686</id>
-        <link href="https://decobocochan.com/archives/5686"/>
-        <updated>2022-03-13T22:53:25.000Z</updated>
-        <summary type="html"><![CDATA[特別支援って、名前だけど特別なことをしてほしいんじゃない ちょこっとの声かけ をしてほしいだけ タイムスケジュール 13:30-13:50 自己紹介タイム・チラシ配布・名刺交換など 13:50-14:20 関係支援のお話 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
@@ -311,17 +311,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
 The post ふるさと納税のワンストップ特例制度とは？オススメサイト３選も紹介 first appeared on パドレブログ.]]></summary>
         <author>
             <name>padre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【風力発電】自然エネルギーは必要か不必要かについて考えてみた]]></title>
-        <id>https://irodorulife.com/?p=2515</id>
-        <link href="https://irodorulife.com/wind-power-generation/"/>
-        <updated>2022-02-22T11:18:17.000Z</updated>
-        <summary type="html"><![CDATA[双子の育児に奮闘中のオトダン(Otodan_)です。 今回は風力発電について気になる記事をみつけたなので、自分なりの解釈をブログに残します。 ちなみに私が記事を読んで震えたのはこちら 私は幼い頃からの自然豊かな田舎育ち、...
-【風力発電】自然エネルギーは必要か不必要かについて考えてみた first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
         </author>
     </entry>
 </feed>
