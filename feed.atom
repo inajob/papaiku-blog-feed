@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T07:21:26.932Z</id>
+    <id>urn:2022-03-24T08:26:56.054Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-24T07:21:26.932Z</updated>
+    <updated>2022-03-24T08:26:56.054Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[わんまいるの口コミ・レビュー｜実際に利用してわかったことを教えます]]></title>
+        <id>https://marugeriswitch.com/?p=4046</id>
+        <link href="https://marugeriswitch.com/wanmairu-kuchikomi-review/"/>
+        <updated>2022-03-24T07:29:21.000Z</updated>
+        <summary type="html"><![CDATA[累計300万食以上売り上げている人気のミールキット「わんまいる」。 頼んでみたいけど「味」「料金」「使い心地」「口コミ」などを知りたい方も多いのではないでしょうか。 この記事では、次のような疑問を解決 ... 
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チラシ到着！配布者を募集しております]]></title>
         <id>https://decobocochan.com/?p=6110</id>
