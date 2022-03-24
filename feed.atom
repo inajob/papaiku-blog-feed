@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T18:27:13.751Z</id>
+    <id>urn:2022-03-24T19:17:57.856Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-24T18:27:13.751Z</updated>
+    <updated>2022-03-24T19:17:57.856Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【3/27まで】ワンダーボックス1ヶ月無料お試しキャンペーン！]]></title>
+        <id>https://marugeriswitch.com/?p=4103</id>
+        <link href="https://marugeriswitch.com/wonderbox-free-trial-2/"/>
+        <updated>2022-03-24T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[【無料は3/27まで】ワンダーボックス1ヶ月無料お試しキャンペーンについて紹介しています。
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わんまいるの口コミ・レビュー｜実際に利用してわかったことを教えます]]></title>
         <id>https://marugeriswitch.com/?p=4046</id>
