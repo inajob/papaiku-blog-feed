@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T01:41:58.638Z</id>
+    <id>urn:2022-03-26T02:50:56.330Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-26T01:41:58.638Z</updated>
+    <updated>2022-03-26T02:50:56.330Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[不登校でなにが不便？]]></title>
+        <id>https://decobocochan.com/?p=5629</id>
+        <link href="https://decobocochan.com/archives/5629"/>
+        <updated>2022-03-26T01:45:40.000Z</updated>
+        <summary type="html"><![CDATA[学校行ってくれると 親は、ありがたいです その間、働けるし 栄養バランスのとれた給食も食べられるし お友だちもできる 勉強も教えてもらえる でも… 少子化なのに 不登校は毎年、増えている その現実から目を背けないでほしい ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フラッシュバック①長女のケース]]></title>
         <id>https://decobocochan.com/?p=6128</id>
@@ -128,16 +138,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/5742"/>
         <updated>2022-03-16T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン親の会 さて、今回のmiraicafe 今回のトークスタッフは、6名 テーマは「上手な見守り方って…」 グループにわかれてからは 自己紹介から始まり、テーマについて話 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOSが言えない時のために]]></title>
-        <id>https://decobocochan.com/?p=5809</id>
-        <link href="https://decobocochan.com/archives/5809"/>
-        <updated>2022-03-15T23:00:16.000Z</updated>
-        <summary type="html"><![CDATA[先日、あなたは防災についてどれくらい備えていますか？の記事でもご紹介した 「ヘルプマーク」と「ヘルプカード」 その他にもシンボルマークがあるのをご存知でしょうか？ 見たことがあるだけで終わるのではなく、実物を手にしてみる ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
