@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T19:18:19.614Z</id>
+    <id>urn:2022-03-29T20:23:33.258Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-29T19:18:19.614Z</updated>
+    <updated>2022-03-29T20:23:33.259Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7人の育休パパが語る、育休復帰後の自分らしい働き方のデザイン]]></title>
+        <id>https://papaikuq.com/?p=3806</id>
+        <link href="https://papaikuq.com/?p=3806"/>
+        <updated>2022-03-29T20:14:44.000Z</updated>
+        <summary type="html"><![CDATA[「育休復帰って、育休取得よりも大変！？」 「育休はスタートラインであって、ゴールではない」 育休を取得したパパの多くは育休復帰に際して、このようなことを感じています。 そして、自分らしい働き方を模索し、会社やパートナーと […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子ども用ハーネスの安全性と効果〜英語論文を調べてみた〜]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2022/03/blog-post.html</id>
