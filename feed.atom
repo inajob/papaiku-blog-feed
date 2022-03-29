@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T09:22:20.139Z</id>
+    <id>urn:2022-03-29T11:34:01.944Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-29T09:22:20.139Z</updated>
+    <updated>2022-03-29T11:34:01.944Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【レポ】smileカフェにまたもや行ってきました]]></title>
+        <id>https://decobocochan.com/?p=6252</id>
+        <link href="https://decobocochan.com/archives/6252"/>
+        <updated>2022-03-29T10:00:35.000Z</updated>
+        <summary type="html"><![CDATA[お互い、気ままに思いを伝え合うがコンセプトの 冬期限定smilecafé☕いよいよクローズのラスト企画に行ってきました 前回は、グループセッション 今回は、ぜいたくにもマンツーマン smileさんをひとり占め！ ゆったり ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kyashのメリットとポイント最大還元のおすすめクレジットカードを紹介！]]></title>
         <id>https://r-padre.com/?p=930</id>
@@ -139,16 +149,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/5942"/>
         <updated>2022-03-18T23:00:22.000Z</updated>
         <summary type="html"><![CDATA[わたしが所属しているチームの一つ「バリアフリーチャレンジ！」 チャレンジドやその支援者そして専門職の方の生の声をお届けすることで世の中を暮らしやすくしていく活動のページ。 いろんな立場の方々が様々な情報発信をしています。 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サポートブックは、人間トリセツ]]></title>
-        <id>https://decobocochan.com/?p=5929</id>
-        <link href="https://decobocochan.com/archives/5929"/>
-        <updated>2022-03-18T03:00:44.000Z</updated>
-        <summary type="html"><![CDATA[サポートブックの存在を知ったのは、長女が幼稚園のときだった すでに療育へ通い 小学校入学が控えていたころ 今の彼女の状態を知ってもらうために、すべての項目を一生懸命 記入例を見ながら書いた いろんな人に見せてくださいと渡 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
