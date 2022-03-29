@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T08:27:42.723Z</id>
+    <id>urn:2022-03-29T09:22:20.139Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-29T08:27:42.723Z</updated>
+    <updated>2022-03-29T09:22:20.139Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -293,16 +293,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <author>
             <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブログを始めるには？ブログ運営の全体像と最も大事なブログ戦略]]></title>
-        <id>https://oton-tech.com/?p=3832</id>
-        <link href="https://oton-tech.com/blog-strategy/"/>
-        <updated>2022-02-27T21:00:20.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、「ブログを始めよう！」「ブログを始めたはいいけど、この先どうするの？」というブログ初心者に向けて、ブログを運営していくということの全体像と、ブログ運営において最も大事なブログ戦略について紹介しています。 「 […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
