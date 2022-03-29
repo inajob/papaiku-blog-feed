@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T14:21:11.066Z</id>
+    <id>urn:2022-03-29T15:24:36.509Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-29T14:21:11.066Z</updated>
+    <updated>2022-03-29T15:24:36.509Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[子ども用ハーネスの安全性と効果〜英語論文を調べてみた〜]]></title>
+        <id>https://kosodateofmaepchan.blogspot.com/2022/03/blog-post.html</id>
+        <link href="https://kosodateofmaepchan.blogspot.com/2022/03/blog-post.html"/>
+        <updated>2022-03-29T15:08:00.001Z</updated>
+        <summary type="html"><![CDATA[AbemaTVで、子ども用ハーネスが話題になっていましたね。
+  子ども用ハーネスの着用に対して、『見た目がペットみたいで嫌だな』とか『手をしっかり繋いでいれば必要ないよ』という意見がTwitter上で見られており、AbemaTVで取り上げられていました。 
+そのなかで、ひろゆきは
+
+
+・子どもが交通事故に遭ってしまっても赤の他人は責任を持たない
+・赤の他人で頭の悪い人の言うことをいちいち真に受けないことが大事だと思う
+
+
+と言っています。
+
+
+  我が家は、コロナの影響もあり人が大勢いるような場所にそもそも行く機会がないので、ハーネスは着けていませんが、手を繋いで歩いてくれない年頃の場合は、安全性を考慮して着けてもいいんではないかと思っています。 
+
+
+  ひろゆきが言うように、外からの意見を気にして子供の命を危険に晒す意味はないと思いますからね。 
+
+
+  今回はそんな『子ども用ハーネスの安全性や効果』について検証しているアメリカの内容をざっくりまとめたので、ご紹介したいと思います。 
+ハーネスの安全性について
+アベマTVでは、このように述べられています。
+  
+
+  ・交通事故などを予防する効果
+　⇨特に1〜2歳児は危険予知行動が育っておらず言い聞かせが難しい
+・使用する場合の注意点
+　⇨強く引っ張っての転倒　⇨サイズが合うものを着用
+　⇨歩行者や自転車に絡まないように 
+  一方、アメリカにおいてはハーネスについてこのような意見があります。 
+
+  Data on the safety of kid leashes is scarce, and the chair of the injury   prevention council at the American Academy of Pediatrics recommends against   using th…]]></summary>
+        <author>
+            <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【レポ】smileカフェにまたもや行ってきました]]></title>
         <id>https://decobocochan.com/?p=6252</id>
