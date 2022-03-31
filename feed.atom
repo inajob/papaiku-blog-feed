@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T11:19:04.189Z</id>
+    <id>urn:2022-03-31T12:41:17.349Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-31T11:19:04.189Z</updated>
+    <updated>2022-03-31T12:41:17.349Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -323,16 +323,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育休を復帰せずに退職はマナー違反？トラブルとならない伝え方とは]]></title>
-        <id>https://tasogare-home.com/?p=2571</id>
-        <link href="https://tasogare-home.com/jobchange-trouble/"/>
-        <updated>2022-03-02T00:32:12.000Z</updated>
-        <summary type="html"><![CDATA[当然復帰するつもりで育休を取得したけれど、退職や転職を考える人も多いのではないでしょうか。 実際に我が家も妻が復帰をせずそのまま退職することとなりました。 そしてトラブルもありました。。。  本記事では、復帰]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
