@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T03:35:16.404Z</id>
+    <id>urn:2022-03-31T04:29:19.826Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-03-31T03:35:16.404Z</updated>
+    <updated>2022-03-31T04:29:19.826Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】スペシャルmiraicafe①]]></title>
+        <id>https://decobocochan.com/?p=6294</id>
+        <link href="https://decobocochan.com/archives/6294"/>
+        <updated>2022-03-31T04:20:25.000Z</updated>
+        <summary type="html"><![CDATA[不登校オンライン親の会である、miraicafe 2周年たったので、SPECIAL企画をご用意しました！ スタッフ3名に対し参加者3名 計6人で3回開催 つまり、参加者は計9人 昨年好評をいただいたので、昨年の2回から1 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オンライン飲み会は食事がセットだと話しやすい！料理も楽しめる方法がある]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/03/31/113000</id>
@@ -210,16 +220,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/5967"/>
         <updated>2022-03-20T22:28:48.000Z</updated>
         <summary type="html"><![CDATA[昨日は、凸凹カフェでしたコロナ禍ということもあり、直前キャンセルが相次ぎマンツーマンレッスンとなりました事前質問にお答えする形ですすめました 最初に凸凹カフェのルール説明 参加者が安心して凸凹カフェにきてもらうために開催 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぱんだちゃんのマヤ暦®️タイプ別セルフコーチング]]></title>
-        <id>https://decobocochan.com/?p=4914</id>
-        <link href="https://decobocochan.com/archives/4914"/>
-        <updated>2022-03-19T23:56:24.000Z</updated>
-        <summary type="html"><![CDATA[ぱんだちゃんのマヤ暦Ⓡって占いじゃないので、当たるとか運勢とかそういう話ではなく 「道しるべ」「目標」として自分がどう生かしていくのかが大切。 知っただけ、学んだだけ、はもったいない。 実践してこそわかるスゴさ ぱんだち ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
