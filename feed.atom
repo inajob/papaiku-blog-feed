@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-03T12:36:36.047Z</id>
+    <id>urn:2022-04-03T13:26:26.267Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-03T12:36:36.047Z</updated>
+    <updated>2022-04-03T13:26:26.267Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[小学校受験・中学校受験は必要なのか？オルタナティブ教育の限界について]]></title>
+        <id>https://nicopoco.com/?p=1888</id>
+        <link href="https://nicopoco.com/alternative_education_001"/>
+        <updated>2022-04-03T13:13:50.000Z</updated>
+        <summary type="html"><![CDATA[我が家の教育の話題は尽きることなく続いており、子どもの成長にあわせてどんな教育を提供していくべきなのかを考えることがおおいです。 本日は我が家が考える今後の教育方法について考えていきたいと思います。  ...
+小学校受験・中学校受験は必要なのか？オルタナティブ教育の限界について first appeared on まろのみちしるべ.
+Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年3月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2630</id>
