@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T22:21:58.418Z</id>
+    <id>urn:2022-04-05T23:23:44.421Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-05T22:21:58.419Z</updated>
+    <updated>2022-04-05T23:23:44.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】スペシャルmiraicafe②]]></title>
+        <id>https://decobocochan.com/?p=6327</id>
+        <link href="https://decobocochan.com/archives/6327"/>
+        <updated>2022-04-05T22:44:05.000Z</updated>
+        <summary type="html"><![CDATA[不登校オンライン親の会である、miraicafe 2周年たったので、SPECIAL企画！ スタッフ3名に対し参加者3名 計6人で3回開催 つまり、参加者は計9人 昨年好評をいただいたので、昨年の2回から1回増やして 計3 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フラッシュバック②長男のケース]]></title>
         <id>https://decobocochan.com/?p=6135</id>
@@ -219,16 +229,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
 Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <author>
             <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チラシ到着！いっしょに配ってくれませんか？]]></title>
-        <id>https://decobocochan.com/?p=6110</id>
-        <link href="https://decobocochan.com/archives/6110"/>
-        <updated>2022-03-23T23:02:02.000Z</updated>
-        <summary type="html"><![CDATA[「あつまれ！凸凹ちゃん」のチラシ到着！ いろんな方に意見を聞いて修正しまくりました A4を二つ折りで作成！ あつまれ！凸凹ちゃんのチラシの配布にご協力いただけないでしょうか？ 印刷したものを近隣の施設に届けたり、直接手渡 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
