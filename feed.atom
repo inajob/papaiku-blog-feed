@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T10:27:24.996Z</id>
+    <id>urn:2022-04-06T11:19:49.363Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-06T10:27:24.996Z</updated>
+    <updated>2022-04-06T11:19:49.363Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【一億総子育て計画】人生100年、生きててよかったと思える日本へ]]></title>
+        <id>https://note.com/takaranran_mk/n/n0c7e47fd844e</id>
+        <link href="https://note.com/takaranran_mk/n/n0c7e47fd844e"/>
+        <updated>2022-04-06T11:10:46.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は、筆者たからんの活動理念をまとめたものとなります。
+　4000字を超える長丁場となっています。
+　読んでいただける方は、目次の一見出しずつ見ていただければ幸いです。
+一億総子育て計画（OKUIKU）を掲げるにあたって
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】スペシャルmiraicafe②]]></title>
         <id>https://decobocochan.com/?p=6327</id>
