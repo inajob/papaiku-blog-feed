@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T12:40:44.551Z</id>
+    <id>urn:2022-04-07T13:32:46.981Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-07T12:40:44.551Z</updated>
+    <updated>2022-04-07T13:32:46.981Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[行く行かないは、子どもにゆだねる]]></title>
+        <id>https://decobocochan.com/?p=6393</id>
+        <link href="https://decobocochan.com/archives/6393"/>
+        <updated>2022-04-07T12:57:35.000Z</updated>
+        <summary type="html"><![CDATA[昨夜は、スペシャルmiraicafeでしたがその前に久しぶりに未来地図でコラムを書きましたmiraicafeの予告コラム以外は、かなりご無沙汰してますね💦 始業式がザワザワする方へ夜眠れないという方もいるかなと思いもし、 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【一億総子育て計画】人生100年、生きててよかったと思える日本へ]]></title>
         <id>https://note.com/takaranran_mk/n/n0c7e47fd844e</id>
@@ -209,16 +219,6 @@ The post Kyashのメリットとポイント最大還元のおすすめクレジ
         <link href="https://decobocochan.com/archives/5629"/>
         <updated>2022-03-26T01:45:40.000Z</updated>
         <summary type="html"><![CDATA[学校行ってくれると 親は、ありがたいです その間、働けるし 栄養バランスのとれた給食も食べられるし お友だちもできる 勉強も教えてもらえる でも… 少子化なのに 不登校は毎年、増えている その現実から目を背けないでほしい ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フラッシュバック①長女のケース]]></title>
-        <id>https://decobocochan.com/?p=6128</id>
-        <link href="https://decobocochan.com/archives/6128"/>
-        <updated>2022-03-25T03:58:03.000Z</updated>
-        <summary type="html"><![CDATA[フラッシュバックこの言葉を聞いたことありますか？ ある日、ある時、急に大号泣する でも、原因は その日にその時に 起きた出来事ではなくて…. ささいなことがきっかけで フラッシュバックは、起きる その場で言えなくて抱え込 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
