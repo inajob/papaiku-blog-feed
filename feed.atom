@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T21:20:24.739Z</id>
+    <id>urn:2022-04-07T22:23:11.600Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-07T21:20:24.739Z</updated>
+    <updated>2022-04-07T22:23:11.600Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[行く行かないは、子どもにゆだねる]]></title>
+        <title type="html"><![CDATA[行くか行かないは、子どもにゆだねる]]></title>
         <id>https://decobocochan.com/?p=6393</id>
         <link href="https://decobocochan.com/archives/6393"/>
         <updated>2022-04-07T12:57:35.000Z</updated>
