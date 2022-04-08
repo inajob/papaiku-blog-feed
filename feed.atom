@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T14:21:10.430Z</id>
+    <id>urn:2022-04-08T15:24:48.454Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-08T14:21:10.430Z</updated>
+    <updated>2022-04-08T15:24:48.454Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[宿題の適切な量]]></title>
+        <id>https://decobocochan.com/?p=6390</id>
+        <link href="https://decobocochan.com/archives/6390"/>
+        <updated>2022-04-08T14:45:50.000Z</updated>
+        <summary type="html"><![CDATA[学校のお便りに書いてあったり 先生に確認したりした宿題の適切な量 どれくらいの時間でできるかを 目安に宿題を出しているそうです 小学校は 学年×10分 例えば 小学1年生なら、10分 6年生なら、60分(1時間) 中学校 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読売ジャイアンツのリリーフ立て直しへ向けて]]></title>
+        <id>https://kosodateofmaepchan.blogspot.com/2022/04/blog-post.html</id>
+        <link href="https://kosodateofmaepchan.blogspot.com/2022/04/blog-post.html"/>
+        <updated>2022-04-08T14:38:00.000Z</updated>
+        <summary type="html"><![CDATA[ジャイアンツは好調を維持しています。
+ですが、気になるのは、リリーフ陣の不安定さ。
+  鍬原と大勢という生きの良い若手が出てきておりますが、彼らに重責を担わせすぎないようにしないと後半持ちません。 
+故障離脱中の選手
+昨年、活躍していた中継ぎ陣の中川・鍵谷・田中豊は現在、故障離脱中。
+昨季、活躍していた中継ぎ陣の成績がこちら↓
+
+  
+    巨人　2021年
+主なリリーフ陣
+デラロサ　46試　防2.83
+鍵谷　59試　防3.19
+中川　58試　防2.47
+畠　52試　防3.07
+    (中継ぎでは44試　防2.30)
+ビエイラ　56試　防2.93
+高梨　55試　防3.69
+トヨキン　39試　防2.84
+大江　47試　防4.09
+突出した成績の選手はいないけど総合的に良いリリーフ陣だと思う   
+  — イーニア (@eania7230)   October 24, 2021
+
+
+
+鍵谷は二軍戦に復帰しているため、調子が上がってくれば合流するでしょう。
+そうすると、7回あたりは計算が出来るようになります。
+
+
+  中川は特に情報が出てきてないので、もうしばらくかかると見ていいと思います。 
+
+
+大江も二軍でピリッとしないので、復調が待たれます。
+
+
+デラロサかビエイラが上がってこれないとキツイですね。
+  デラロサは廣岡のエラーも一因での失点だったので、ちょっと判断早ないか？とは思いましたが... 
+広島戦で危険球退場したビエイラは2軍降格が決まりました。
+山口俊の中継ぎ転向報道
+
+  
+    高橋由伸氏、山口俊の中継ぎ起用に「何度も勝ち試合を拾ってくれた」     https://t.co/PCD8Sk0KYB    #巨人    #ジャイアンツ    #読売ジャイアンツ    pic.twitter.com/PdEGlTeRIO  
+  — スポーツ報知 巨人取材班…]]></summary>
+        <author>
+            <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[行くか行かないかは、子どもにゆだねる]]></title>
         <id>https://decobocochan.com/?p=6393</id>
@@ -210,16 +271,6 @@ The post Kyashのメリットとポイント最大還元のおすすめクレジ
         <link href="https://decobocochan.com/archives/6229"/>
         <updated>2022-03-27T07:40:46.000Z</updated>
         <summary type="html"><![CDATA[4月の凸凹カフェは、 オンライン花見🌸 今回は、オープンチャットの グループメンバーのみの参加です 5周年記念企画でした ブログのみで募集し ルールやお願いを決めて お部屋をととのえてからお招きしました ご新規メンバーさ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不登校でなにが不便？]]></title>
-        <id>https://decobocochan.com/?p=5629</id>
-        <link href="https://decobocochan.com/archives/5629"/>
-        <updated>2022-03-26T01:45:40.000Z</updated>
-        <summary type="html"><![CDATA[学校行ってくれると 親は、ありがたいです その間、働けるし 栄養バランスのとれた給食も食べられるし お友だちもできる 勉強も教えてもらえる でも… 少子化なのに 不登校は毎年、増えている その現実から目を背けないでほしい ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
