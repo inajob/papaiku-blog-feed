@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T11:19:22.030Z</id>
+    <id>urn:2022-04-10T12:36:32.053Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-10T11:19:22.030Z</updated>
+    <updated>2022-04-10T12:36:32.053Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【募集開始】5月凸凹カフェ「リアルランチ会」]]></title>
+        <id>https://decobocochan.com/?p=6453</id>
+        <link href="https://decobocochan.com/archives/6453"/>
+        <updated>2022-04-10T12:30:19.000Z</updated>
+        <summary type="html"><![CDATA[4月の凸凹カフェが シークレット開催だったので 今回は、久しぶりのリアル開催 おしゃべりに花咲かせ、おいしいものを食べましょ よいカフェをご紹介したいとし 久しぶりに わたしとリアルでお会いしませんか？ 2時間!たっぷり ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凸凹トリセツ好評♪]]></title>
         <id>https://decobocochan.com/?p=6433</id>
@@ -252,16 +262,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
   Data on the safety of kid leashes is scarce, and the chair of the injury   prevention council at the American Academy of Pediatrics recommends against   using th…]]></summary>
         <author>
             <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レポ】smileカフェにまたもや行ってきました]]></title>
-        <id>https://decobocochan.com/?p=6252</id>
-        <link href="https://decobocochan.com/archives/6252"/>
-        <updated>2022-03-29T10:00:35.000Z</updated>
-        <summary type="html"><![CDATA[お互い、気ままに思いを伝え合うがコンセプトの 冬期限定smilecafé☕いよいよクローズのラスト企画に行ってきました 前回は、グループセッション 今回は、ぜいたくにもマンツーマン smileさんをひとり占め！ ゆったり ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
