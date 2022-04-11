@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T18:30:41.549Z</id>
+    <id>urn:2022-04-11T19:19:00.442Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-11T18:30:41.549Z</updated>
+    <updated>2022-04-11T19:19:00.442Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -331,19 +331,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[今年もホワイトデーがやってきました。 三十余年の中でホワイトデーが意味のある日になったことはほとんどありませんが、今年は長女からバレンタインデーにお菓子を作ってもらいました。 ホワイトデーでの男性からのお返しは、バレンタインデーのプレゼントの3倍返しと言いますが、手作りの場合はどうなのでしょうか。材料費の3倍相当でしょうか。調理にかかった時間の最低賃金の3倍相当でしょうか。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保育者じゃない私が保育コミュニティに参加するシンプルな理由]]></title>
-        <id>https://note.com/takaranran_mk/n/n3295fcde08db</id>
-        <link href="https://note.com/takaranran_mk/n/n3295fcde08db"/>
-        <updated>2022-03-13T07:07:13.000Z</updated>
-        <summary type="html"><![CDATA[ただの父親が保育コミュニティに出会う
-私は保育関係者ではありません。
-保育との関わりと言えば、3年前まで子ども達を毎朝保育園に送っていった父親であるというだけで、仕事上も保育に関わる事もないIT系会社員です。
-続きをみる]]></summary>
-        <author>
-            <name>たからん</name>
         </author>
     </entry>
 </feed>
