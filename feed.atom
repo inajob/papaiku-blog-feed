@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T01:55:49.676Z</id>
+    <id>urn:2022-04-11T03:14:18.662Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-11T01:55:49.677Z</updated>
+    <updated>2022-04-11T03:14:18.663Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[1,000万円貯まる家計簿アプリ紹介！収支改善は固定費から見直し]]></title>
+        <id>https://r-padre.com/?p=977</id>
+        <link href="https://r-padre.com/automate-your-household-account-book-soot-to-improve-household-income-and-expenditure/"/>
+        <updated>2022-04-11T03:00:23.000Z</updated>
+        <summary type="html"><![CDATA[☝︎動画でも解説しているので是非観てみてください。 オススメ家計簿アプリ「マネーフォワードME」 私がオススメする家計簿アプリは、最も人気とされる「マネーフォワードME」です。 本記事では、マネーフォワードMEのメリット
+The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費から見直し first appeared on パドレブログ.]]></summary>
+        <author>
+            <name>padre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマホ名刺作品【2】]]></title>
         <id>https://decobocochan.com/?p=6441</id>
