@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-12T12:40:19.233Z</id>
+    <id>urn:2022-04-12T13:34:27.524Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-12T12:40:19.233Z</updated>
+    <updated>2022-04-12T13:34:27.524Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ConoHa WING】無料で利用可能なアルファSSLの設定方法]]></title>
+        <id>https://oton-tech.com/?p=4121</id>
+        <link href="https://oton-tech.com/conoha-wing-alphassl/"/>
+        <updated>2022-04-12T12:54:07.000Z</updated>
+        <summary type="html"><![CDATA[レンタルサーバーのConoHa WINGで、SSLの国内シェアNo.1：GMOグローバルサイン社が提供するSSLサーバー証明書である『アルファSSL』の提供が”無料”（年6600円相当）で開始されました！（ConoHa  […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】スペシャルmiraicafe③]]></title>
         <id>https://decobocochan.com/?p=6481</id>
