@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T22:24:43.877Z</id>
+    <id>urn:2022-04-14T23:23:22.493Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-14T22:24:43.877Z</updated>
+    <updated>2022-04-14T23:23:22.493Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【レポ】占い武者修行体験企画]]></title>
+        <id>https://decobocochan.com/?p=6564</id>
+        <link href="https://decobocochan.com/archives/6564"/>
+        <updated>2022-04-14T22:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Twitter企画で占い武者修行となんともたのしそうなことをされていたので、はじめましてにも関わらず申し込んでみた♪ ビジネスネーム：皐月祝人（さつきしゅうと） りょう育ママをさらけ出す なにを占ってもらうかをきめる わ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【まんが王国】幽遊白書を全巻お得に買う方法]]></title>
         <id>https://marugeriswitch.com/?p=4281</id>
@@ -211,16 +221,6 @@ The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費
         <link href="https://decobocochan.com/archives/6327"/>
         <updated>2022-04-05T22:44:05.000Z</updated>
         <summary type="html"><![CDATA[不登校オンライン親の会である、miraicafe 2周年たったので、SPECIAL企画！ スタッフ3名に対し参加者3名 計6人で3回開催 つまり、参加者は計9人 昨年好評をいただいたので、昨年の2回から1回増やして 計3 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フラッシュバック②長男のケース]]></title>
-        <id>https://decobocochan.com/?p=6135</id>
-        <link href="https://decobocochan.com/archives/6135"/>
-        <updated>2022-04-05T03:30:55.000Z</updated>
-        <summary type="html"><![CDATA[実は、長男には0才の記憶があります バスチェアに寝かして洗っていた0才時の記憶です わたしですら忘れてます バスチェアの色と形を当てました(現在は、ありません) 記憶力はいいのは、とても良いことです しかし、興味のある特 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
