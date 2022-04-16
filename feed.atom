@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T23:23:37.536Z</id>
+    <id>urn:2022-04-16T01:45:17.282Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-15T23:23:37.536Z</updated>
+    <updated>2022-04-16T01:45:17.282Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「やさしい社会をつくりたい」★バリアフリーチャレンジ！記事シェア]]></title>
+        <id>https://decobocochan.com/?p=6277</id>
+        <link href="https://decobocochan.com/archives/6277"/>
+        <updated>2022-04-16T00:10:18.000Z</updated>
+        <summary type="html"><![CDATA[バリアフリーチャレンジ！の代表である、島本さんとおなじチームメンバーの高木さんとの対談記事をご紹介します 現在、会計トレーニングメンバーでもある、高木さん オンラインでは、お会いしたことあるし チャットでもやりとりさせて ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幽遊白書を全巻買うなら、どの電子コミックがいい？厳選3社を徹底比較]]></title>
         <id>https://marugeriswitch.com/?p=4136</id>
@@ -224,16 +234,6 @@ The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催レポ】スペシャルmiraicafe②]]></title>
-        <id>https://decobocochan.com/?p=6327</id>
-        <link href="https://decobocochan.com/archives/6327"/>
-        <updated>2022-04-05T22:44:05.000Z</updated>
-        <summary type="html"><![CDATA[不登校オンライン親の会である、miraicafe 2周年たったので、SPECIAL企画！ スタッフ3名に対し参加者3名 計6人で3回開催 つまり、参加者は計9人 昨年好評をいただいたので、昨年の2回から1回増やして 計3 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
