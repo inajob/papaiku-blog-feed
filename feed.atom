@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T22:22:08.202Z</id>
+    <id>urn:2022-04-16T23:22:31.611Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-16T22:22:08.202Z</updated>
+    <updated>2022-04-16T23:22:31.611Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[わが子へ贈るたいせつなコト]]></title>
+        <id>https://decobocochan.com/?p=5924</id>
+        <link href="https://decobocochan.com/archives/5924"/>
+        <updated>2022-04-16T23:04:04.000Z</updated>
+        <summary type="html"><![CDATA[誰かから聞いた言葉でも お母さんが自分の言葉として伝えることがたいせつ そこに、ママの想いがこもるから 思ってるだけでは、伝わらない 言葉で伝えないと、伝わらないことって結構あるよ 伝えてるつもりでも 伝わってないことも ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「やさしい社会をつくりたい」★バリアフリーチャレンジ！記事シェア]]></title>
         <id>https://decobocochan.com/?p=6277</id>
@@ -209,16 +219,6 @@ The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費
   — スポーツ報知 巨人取材班…]]></summary>
         <author>
             <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行くか行かないかは、子どもにゆだねる]]></title>
-        <id>https://decobocochan.com/?p=6393</id>
-        <link href="https://decobocochan.com/archives/6393"/>
-        <updated>2022-04-07T12:57:35.000Z</updated>
-        <summary type="html"><![CDATA[昨夜は、スペシャルmiraicafeでしたがその前に久しぶりに未来地図でコラムを書きましたmiraicafeの予告コラム以外は、かなりご無沙汰してますね💦 始業式がザワザワする方へ夜眠れないという方もいるかなと思いもし、 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
