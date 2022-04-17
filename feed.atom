@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T14:20:43.697Z</id>
+    <id>urn:2022-04-17T15:23:56.215Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-17T14:20:43.697Z</updated>
+    <updated>2022-04-17T15:23:56.215Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】miraicafe＆5月のご案内]]></title>
+        <id>https://decobocochan.com/?p=6619</id>
+        <link href="https://decobocochan.com/archives/6619"/>
+        <updated>2022-04-17T15:00:41.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 テーマは「周囲と比較してしまう気持ちどうしていますか？」 グループにわかれてからは自己紹介 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わが子へ贈るたいせつなコト]]></title>
         <id>https://decobocochan.com/?p=5924</id>
@@ -94,7 +104,7 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <id>https://decobocochan.com/?p=6413</id>
         <link href="https://decobocochan.com/archives/6413"/>
         <updated>2022-04-12T22:29:24.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
+        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加く ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
@@ -156,16 +166,6 @@ The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費
         <link href="https://decobocochan.com/archives/6433"/>
         <updated>2022-04-09T02:30:12.000Z</updated>
         <summary type="html"><![CDATA[凸凹トリセツの有料モニターの方から ご感想をいただきましたよ 一緒に作りあげるサポートブックは、 たった一人のためのもの 流れ ご感想いただきました 作ったモノは、ひとつとしておなじものがない 今回、3名の方にご協力いた ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宿題の適切な量]]></title>
-        <id>https://decobocochan.com/?p=6390</id>
-        <link href="https://decobocochan.com/archives/6390"/>
-        <updated>2022-04-08T14:45:50.000Z</updated>
-        <summary type="html"><![CDATA[学校のお便りに書いてあったり 先生に確認したりした宿題の適切な量 どれくらいの時間でできるかを 目安に宿題を出しているそうです 小学校は 学年×10分 例えば 小学1年生なら、10分 6年生なら、60分(1時間) 中学校 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
