@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T19:19:21.632Z</id>
+    <id>urn:2022-04-19T20:25:54.603Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-19T19:19:21.632Z</updated>
+    <updated>2022-04-19T20:25:54.603Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[幽遊白書のアニメを無料体験で全話見たい！おすすめVOD配信サービス]]></title>
+        <id>https://marugeriswitch.com/?p=4342</id>
+        <link href="https://marugeriswitch.com/yuyuhakusyo-animation-vod/"/>
+        <updated>2022-04-19T19:51:25.000Z</updated>
+        <summary type="html"><![CDATA[と思っていませんか？ 実は無料で幽遊白書のアニメを全話見る方法があります。 それはVODサービスの「無料体験期間」を活用する方法です。 この記事では、幽遊白書のアニメを全話無料体験中に見れるVODサー ... 
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GWをどう過ごす？]]></title>
         <id>https://decobocochan.com/?p=6542</id>
