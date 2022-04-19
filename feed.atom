@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T20:25:54.603Z</id>
+    <id>urn:2022-04-19T21:20:52.432Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-19T20:25:54.603Z</updated>
+    <updated>2022-04-19T21:20:52.432Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[幽遊白書を全巻買うなら紙の本？電子コミック？｜子育て世代は◯◯がおすすめ]]></title>
+        <id>https://marugeriswitch.com/?p=4123</id>
+        <link href="https://marugeriswitch.com/yuyuhakusyo-paper-or-electronic/"/>
+        <updated>2022-04-19T20:38:53.000Z</updated>
+        <summary type="html"><![CDATA[という悩みを解決する記事を書きました。 「久しぶりに幽遊白書を読みたくなったから古本屋で買おう」なんて考えていませんか？ 独身時代はそれでもよかったかもしれませんが 子育てを始めた方は、何も考えずに古 ... 
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幽遊白書のアニメを無料体験で全話見たい！おすすめVOD配信サービス]]></title>
         <id>https://marugeriswitch.com/?p=4342</id>
