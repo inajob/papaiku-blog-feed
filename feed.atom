@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T15:24:08.220Z</id>
+    <id>urn:2022-04-24T16:32:18.499Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-24T15:24:08.220Z</updated>
+    <updated>2022-04-24T16:32:18.499Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【幽白育児】寝かしつけで苦戦中のパートナーに使うと喜ばれる名言]]></title>
+        <id>https://marugeriswitch.com/?p=4417</id>
+        <link href="https://marugeriswitch.com/yuhakuikuji-nekashituke-partner/"/>
+        <updated>2022-04-24T15:35:11.000Z</updated>
+        <summary type="html"><![CDATA[【幽白育児】寝かしつけに苦戦するパートナーに使うと喜ばれる名言TOP3を集めました
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【幽白育児】寝かしつけで苦戦しているときに使いたい幽白の名言TOP3]]></title>
+        <id>https://marugeriswitch.com/?p=4372</id>
+        <link href="https://marugeriswitch.com/yuhakuikuji-nekashituke-kusen/"/>
+        <updated>2022-04-24T15:34:37.000Z</updated>
+        <summary type="html"><![CDATA[【幽白育児】寝かしつけで苦戦しているときに使いたい幽白の名言TOP3を集めました
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【幽白育児】レゴを踏んだときに使える幽白の名言TOP3]]></title>
+        <id>https://marugeriswitch.com/?p=4367</id>
+        <link href="https://marugeriswitch.com/yuhakuikuji-lego/"/>
+        <updated>2022-04-24T15:34:07.000Z</updated>
+        <summary type="html"><![CDATA[【幽白育児】レゴを踏んだときに使いたい幽白の名言TOP3を集めました
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【幽白育児】トイトレ中に使える幽白の名言ランキングTOP3]]></title>
+        <id>https://marugeriswitch.com/?p=4364</id>
+        <link href="https://marugeriswitch.com/yuhakuikuji-toitore/"/>
+        <updated>2022-04-24T15:33:02.000Z</updated>
+        <summary type="html"><![CDATA[【幽白育児】トイトレ中に使える幽白の名言TOP3を集めました
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【幽白育児】子どもと遊ぶときに使える幽遊白書のセリフ5選]]></title>
+        <id>https://marugeriswitch.com/?p=4361</id>
+        <link href="https://marugeriswitch.com/yuhakuikuji-playing/"/>
+        <updated>2022-04-24T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[【幽白育児】子どもと遊ぶときに使える幽白のセリフTOP3を集めました
+Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今ある状況の中で、幸せになるにはどうしたらいいのか]]></title>
         <id>https://decobocochan.com/?p=6745</id>
@@ -220,17 +275,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ebookjapan】幽遊白書を全巻お得に買う方法]]></title>
-        <id>https://marugeriswitch.com/?p=4236</id>
-        <link href="https://marugeriswitch.com/ebookjapan-yuyuhakusyo-great-value/"/>
-        <updated>2022-04-14T00:41:08.000Z</updated>
-        <summary type="html"><![CDATA[と思っていませんか？ 実は、初回限定クーポンを使えば3,000円以上安く幽遊白書を全巻購入できるのです。 この記事では「ebookjapanで幽遊白書全巻をお得に買う方法」を紹介します。 記事を読むこ ... 
-Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
-        <author>
-            <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ConoHa WING】無料で利用可能なアルファSSLの設定方法]]></title>
         <id>https://oton-tech.com/?p=4121</id>
         <link href="https://oton-tech.com/conoha-wing-alphassl/"/>
@@ -347,17 +391,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[ライフスタイルに合わせた働き方や新型コロナウイルス感染症対策により、リモートワーク（在宅勤務）が主体となっている方もいらっしゃると思います。 そして仕事のみならず、飲み会もオンラインで行われることが増えてきました。 このオンライン飲み会は手軽なのですが、各自で食べるものを用意すると「おいしさを共有する」という飲み会の要素が縮小して、オンライン会議の延長になりがちです。 「食」の部分をデリバリーで補ったオンライン飲み会が良かったので紹介します。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【日記】2022年3月｜卒園・進級・入学]]></title>
-        <id>https://marugeriswitch.com/?p=4117</id>
-        <link href="https://marugeriswitch.com/2022-03-diary/"/>
-        <updated>2022-03-30T21:01:49.000Z</updated>
-        <summary type="html"><![CDATA[ただの日記です。あしからず。
-Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
-        <author>
-            <name>まるげり</name>
         </author>
     </entry>
     <entry>
