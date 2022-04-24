@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T22:22:54.387Z</id>
+    <id>urn:2022-04-24T23:23:13.050Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-24T22:22:54.387Z</updated>
+    <updated>2022-04-24T23:23:13.050Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[恐怖の班分け]]></title>
+        <id>https://decobocochan.com/?p=6654</id>
+        <link href="https://decobocochan.com/archives/6654"/>
+        <updated>2022-04-24T22:32:26.000Z</updated>
+        <summary type="html"><![CDATA[好きな子と班を決めるのは、とてもたのしいこと でもね、凸凹ちゃんで困るのが班活動 誘ってもらえないと…誘えない 誘っても…断れるかもしれないと思うとコワい 「〇人組みの班を作って」と先生から言われると…恐怖になることがあ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【幽白育児】寝かしつけで苦戦中のパートナーに使うと喜ばれる名言]]></title>
         <id>https://marugeriswitch.com/?p=4417</id>
@@ -240,16 +250,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
 Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <author>
             <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レポ】占い武者修行体験企画]]></title>
-        <id>https://decobocochan.com/?p=6564</id>
-        <link href="https://decobocochan.com/archives/6564"/>
-        <updated>2022-04-14T22:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Twitter企画で占い武者修行となんともたのしそうなことをされていたので、はじめましてにも関わらず申し込んでみた♪ ビジネスネーム：皐月祝人（さつきしゅうと） りょう育ママをさらけ出す なにを占ってもらうかをきめる わ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
