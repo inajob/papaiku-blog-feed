@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-26T21:21:52.885Z</id>
+    <id>urn:2022-04-26T22:23:39.677Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-26T21:21:52.885Z</updated>
+    <updated>2022-04-26T22:23:39.677Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想]]></title>
+        <id>https://decobocochan.com/?p=6754</id>
+        <link href="https://decobocochan.com/archives/6754"/>
+        <updated>2022-04-26T22:22:30.000Z</updated>
+        <summary type="html"><![CDATA[ご家族の生年月日をお聞きし モニターの方にぱんだちゃんのマヤ暦を受けた、ご感想をいただきました アドバンスコース プロコースを受けた今なら また、ちがったお話もできるかと思います ご感想① うんうん✨とうなづいて聞かせて ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大人ひとりで子ども3人をお風呂に入れる裏技]]></title>
         <id>https://decobocochan.com/?p=6918</id>
@@ -227,16 +237,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/6619"/>
         <updated>2022-04-17T15:00:41.000Z</updated>
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 テーマは「周囲と比較してしまう気持ちどうしていますか？」 グループにわかれてからは 自己紹 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[わが子へ贈るたいせつなコト]]></title>
-        <id>https://decobocochan.com/?p=5924</id>
-        <link href="https://decobocochan.com/archives/5924"/>
-        <updated>2022-04-16T23:04:04.000Z</updated>
-        <summary type="html"><![CDATA[誰かから聞いた言葉でも お母さんが自分の言葉として伝えることがたいせつ そこに、ママの想いがこもるから 思ってるだけでは、伝わらない 言葉で伝えないと、伝わらないことって結構あるよ 伝えてるつもりでも 伝わってないことも ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
