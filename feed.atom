@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T22:24:05.174Z</id>
+    <id>urn:2022-04-27T23:26:00.873Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-27T22:24:05.174Z</updated>
+    <updated>2022-04-27T23:26:00.873Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[外出するとトイレも一苦労]]></title>
+        <id>https://decobocochan.com/?p=6983</id>
+        <link href="https://decobocochan.com/archives/6983"/>
+        <updated>2022-04-27T22:27:49.000Z</updated>
+        <summary type="html"><![CDATA[どこへ出かけても混雑しているGWや長期休みは、 どこへ行ってもトイレが混雑していることもある 小学生となるとトイレも1人でいきます ましてや、 異性だとトイレの中まで付き添いもできません 基本的にママがトイレに行きたいと ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピエトロのパスタソースを夫婦で実食！在宅ランチに重宝しそう]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/04/27/200000</id>
@@ -237,16 +247,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/6542"/>
         <updated>2022-04-18T22:40:24.000Z</updated>
         <summary type="html"><![CDATA[GWは、久々にリフレッシュかな？ お仕事かも？ それとも、毎日ご飯をつくる？ お出かけもするかな？ おうちですごすかな？ 夏休み明け問題があるように 今回のような長い連休… 休み明けに子どもが学校に行くことをプレッシャー ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催レポ】miraicafe＆5月のご案内]]></title>
-        <id>https://decobocochan.com/?p=6619</id>
-        <link href="https://decobocochan.com/archives/6619"/>
-        <updated>2022-04-17T15:00:41.000Z</updated>
-        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 テーマは「周囲と比較してしまう気持ちどうしていますか？」 グループにわかれてからは 自己紹 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
