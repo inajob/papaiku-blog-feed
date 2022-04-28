@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T07:22:06.034Z</id>
+    <id>urn:2022-04-28T08:29:52.487Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-28T07:22:06.034Z</updated>
+    <updated>2022-04-28T08:29:52.487Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -438,16 +438,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[ライフスタイルに合わせた働き方や新型コロナウイルス感染症対策により、リモートワーク（在宅勤務）が主体となっている方もいらっしゃると思います。 そして仕事のみならず、飲み会もオンラインで行われることが増えてきました。 このオンライン飲み会は手軽なのですが、各自で食べるものを用意すると「おいしさを共有する」という飲み会の要素が縮小して、オンライン会議の延長になりがちです。 「食」の部分をデリバリーで補ったオンライン飲み会が良かったので紹介します。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7人の育休パパが語る、育休復帰後の自分らしい働き方のデザイン]]></title>
-        <id>https://papaikuq.com/?p=3806</id>
-        <link href="https://papaikuq.com/?p=3806"/>
-        <updated>2022-03-29T20:14:44.000Z</updated>
-        <summary type="html"><![CDATA[「育休復帰って、育休取得よりも大変！？」 「育休はスタートラインであって、ゴールではない」 育休を取得したパパの多くは育休復帰に際して、このようなことを感じています。 そして、自分らしい働き方を模索し、会社やパートナーと […]]]></summary>
-        <author>
-            <name>シカゴリラ</name>
         </author>
     </entry>
 </feed>
