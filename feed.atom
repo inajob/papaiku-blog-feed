@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T23:22:55.417Z</id>
+    <id>urn:2022-05-01T02:31:14.226Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-04-30T23:22:55.417Z</updated>
+    <updated>2022-05-01T02:31:14.226Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2022年4月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=2671</id>
+        <link href="https://tasogare-home.com/investmentperformance-2204/"/>
+        <updated>2022-05-01T00:50:49.000Z</updated>
+        <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彩りゆたかな感情を言葉にする]]></title>
         <id>https://decobocochan.com/?p=6783</id>
