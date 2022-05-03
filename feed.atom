@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T11:22:33.285Z</id>
+    <id>urn:2022-05-03T12:49:52.742Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-03T11:22:33.285Z</updated>
+    <updated>2022-05-03T12:49:52.742Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【愚痴】切ないなぁ…]]></title>
+        <id>https://decobocochan.com/?p=6980</id>
+        <link href="https://decobocochan.com/archives/6980"/>
+        <updated>2022-05-03T12:19:29.000Z</updated>
+        <summary type="html"><![CDATA[本当にたんなる愚痴 はけ口として書くので 読むのがいやな方はスルーしてください まぁ、それなりに修羅場も イヤな想いも しんどい経験もしてきた（じゃないとここまで調べようと思わないよ）けど… 令和になったのに またあるの ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法]]></title>
         <id>https://kokoyayablog.com/?p=2746</id>
@@ -278,16 +288,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/6745"/>
         <updated>2022-04-23T23:11:51.000Z</updated>
         <summary type="html"><![CDATA[ぱんだちゃんのマヤ暦®️は、鑑定する時に 男性・女性問わず、 家族（もしくは、友人関係、職場のメンバーなど）との関係性を見ます 家族という最大で最小の単位 プロコースを受講してる時に 自分の今の家族と 実家をひもとくと  ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パートナーとの関係性]]></title>
-        <id>https://decobocochan.com/?p=6678</id>
-        <link href="https://decobocochan.com/archives/6678"/>
-        <updated>2022-04-22T23:06:55.000Z</updated>
-        <summary type="html"><![CDATA[凸凹ちゃんは、社会的スキルや学習面で問題が出てくることがあります しかし、家でママといる時は、比較的安定していることが多く 普段の声かけで、パニックを回避していることがある パートナーは子どものパニックを見たことがない  ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
