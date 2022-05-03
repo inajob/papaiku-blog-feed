@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T23:24:51.444Z</id>
+    <id>urn:2022-05-03T02:11:10.572Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-02T23:24:51.444Z</updated>
+    <updated>2022-05-03T02:11:10.572Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法]]></title>
+        <id>https://kokoyayablog.com/?p=2746</id>
+        <link href="https://kokoyayablog.com/pcrkensa-loginng-try-3ways/"/>
+        <updated>2022-05-03T01:28:34.000Z</updated>
+        <summary type="html"><![CDATA[沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[どこでも個別鑑定もする！]]></title>
         <id>https://decobocochan.com/?p=6762</id>
@@ -426,18 +436,6 @@ The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小学校受験・中学校受験は必要なのか？オルタナティブ教育の限界について]]></title>
-        <id>https://nicopoco.com/?p=1888</id>
-        <link href="https://nicopoco.com/alternative_education_001"/>
-        <updated>2022-04-03T13:13:50.000Z</updated>
-        <summary type="html"><![CDATA[我が家の教育の話題は尽きることなく続いており、子どもの成長にあわせてどんな教育を提供していくべきなのかを考えることがおおいです。 本日は我が家が考える今後の教育方法について考えていきたいと思います。  ...
-小学校受験・中学校受験は必要なのか？オルタナティブ教育の限界について first appeared on まろのみちしるべ.
-Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
