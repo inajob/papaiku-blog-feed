@@ -35,12 +35,22 @@
       "siteUrl": "https://decobocochan.com",
       "articles": [
         {
+          "id": "https://decobocochan.com/?p=7151",
+          "author": "りょう育ママ",
+          "description": "凸凹ちゃんに限らず【食事】に苦労されているママさんは、多いと思います 成長と共にだいぶ改善されましたが わが子は、3人とも全員に偏食があった 三者三様 長女：茶色いものや初めてのものは、食べない 長男：白いものしか食べな ...",
+          "link": "https://decobocochan.com/archives/7151",
+          "publishedOn": "2022-05-04T10:56:32.000Z",
+          "wordCount": 177,
+          "title": "食へのこだわり",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/05/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-2022-05-04T195024.920.png"
+        },
+        {
           "id": "https://decobocochan.com/?p=6980",
           "author": "りょう育ママ",
           "description": "たまには、愚痴を書いてみる 本当にたんなる愚痴 はけ口として書くので 読むのがいやな方はスルーしてください まぁ、それなりに修羅場も イヤな想いも しんどい経験もしてきた （じゃないとここまで調べようと思わないよ） けど ...",
           "link": "https://decobocochan.com/archives/6980",
           "publishedOn": "2022-05-03T12:19:29.000Z",
-          "wordCount": 210,
+          "wordCount": 212,
           "title": "【愚痴】切ないなぁ…",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/05/4_20220503_205500_0003.png"
         },
@@ -123,16 +133,6 @@
           "wordCount": 168,
           "title": "恐怖の班分け",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/04/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-2022-04-22T164551.120.png"
-        },
-        {
-          "id": "https://decobocochan.com/?p=6745",
-          "author": "りょう育ママ",
-          "description": "ぱんだちゃんのマヤ暦®️は、鑑定する時に 男性・女性問わず、 家族（もしくは、友人関係、職場のメンバーなど）との関係性を見ます 家族という最大で最小の単位 プロコースを受講してる時に 自分の今の家族と 実家をひもとくと  ...",
-          "link": "https://decobocochan.com/archives/6745",
-          "publishedOn": "2022-04-23T23:11:51.000Z",
-          "wordCount": 217,
-          "title": "今ある状況の中で、幸せになるにはどうしたらいいのか",
-          "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/04/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-2022-04-22T112511.121.png"
         }
       ]
     },
@@ -314,7 +314,7 @@
           "description": "沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]",
           "link": "https://kokoyayablog.com/pcrkensa-loginng-try-3ways/",
           "publishedOn": "2022-05-03T01:28:34.000Z",
-          "wordCount": 67,
+          "wordCount": 62,
           "title": "【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/05/c0b53e33-bfe7-4321-b171-8405bfda988f.jpg"
         }

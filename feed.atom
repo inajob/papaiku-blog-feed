@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T10:26:56.285Z</id>
+    <id>urn:2022-05-04T11:18:27.504Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-04T10:26:56.285Z</updated>
+    <updated>2022-05-04T11:18:27.504Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[食へのこだわり]]></title>
+        <id>https://decobocochan.com/?p=7151</id>
+        <link href="https://decobocochan.com/archives/7151"/>
+        <updated>2022-05-04T10:56:32.000Z</updated>
+        <summary type="html"><![CDATA[凸凹ちゃんに限らず【食事】に苦労されているママさんは、多いと思います 成長と共にだいぶ改善されましたが わが子は、3人とも全員に偏食があった 三者三様 長女：茶色いものや初めてのものは、食べない 長男：白いものしか食べな ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【愚痴】切ないなぁ…]]></title>
         <id>https://decobocochan.com/?p=6980</id>
@@ -280,16 +290,6 @@ Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
 Copyright © 2022 まるげりスイッチ All Rights Reserved.]]></summary>
         <author>
             <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今ある状況の中で、幸せになるにはどうしたらいいのか]]></title>
-        <id>https://decobocochan.com/?p=6745</id>
-        <link href="https://decobocochan.com/archives/6745"/>
-        <updated>2022-04-23T23:11:51.000Z</updated>
-        <summary type="html"><![CDATA[ぱんだちゃんのマヤ暦®️は、鑑定する時に 男性・女性問わず、 家族（もしくは、友人関係、職場のメンバーなど）との関係性を見ます 家族という最大で最小の単位 プロコースを受講してる時に 自分の今の家族と 実家をひもとくと  ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
