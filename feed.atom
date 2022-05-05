@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T22:24:54.948Z</id>
+    <id>urn:2022-05-05T23:24:36.961Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-05T22:24:54.948Z</updated>
+    <updated>2022-05-05T23:24:36.961Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -421,21 +421,6 @@ The post 1,000万円貯まる家計簿アプリ紹介！収支改善は固定費
   — スポーツ報知 巨人取材班…]]></summary>
         <author>
             <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【一億総子育て計画】人生100年、生きててよかったと思える日本へ]]></title>
-        <id>https://note.com/takaranran_mk/n/n0c7e47fd844e</id>
-        <link href="https://note.com/takaranran_mk/n/n0c7e47fd844e"/>
-        <updated>2022-04-06T11:10:46.000Z</updated>
-        <summary type="html"><![CDATA[子育てを考えることが、協創の社会を生み出すと信じて
-人生100年時代、100歳までの自分の人生って、どんな風に思い描けますか？
-変わらない社会、希望のない未来、自信のない自分。
-そんな状態で人生100年も生きていられない。
-そう思ったのがきっかけだった気がします。
-続きをみる]]></summary>
-        <author>
-            <name>たからん</name>
         </author>
     </entry>
 </feed>
