@@ -293,7 +293,7 @@
           "description": "沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]",
           "link": "https://kokoyayablog.com/pcrkensa-loginng-try-3ways/",
           "publishedOn": "2022-05-03T01:28:34.000Z",
-          "wordCount": 70,
+          "wordCount": 58,
           "title": "【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/05/c0b53e33-bfe7-4321-b171-8405bfda988f.jpg"
         }
@@ -317,12 +317,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/05/10/200000",
+          "author": null,
+          "description": "一昨日は母の日でした。 母の日の花といえばカーネーションが定番です。 数日前に花屋に行くと、既にカーネーションだらけでした。 そして値段はいつもの2倍でした。（一応、いつもの花束よりは少し華やかな装飾が施してありました。） 価値が高い時に高値を付けて売るのは商売の基本なので、それで売り方としては良いと思います。 一方で私は財布の紐が固めなのと、妻も定型的な贈り物（今回は母の日のカーネーション）にそれほどこだわりがないため、いつもと同じ値段で売られていた花を買いました。 自宅のテーブルに飾った様子 どうやらこの花は自然に近い状態で育てたものではなく、青い染料を溶かした水を与えて青くした菊のようで…",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/05/10/200000",
+          "publishedOn": "2022-05-10T11:00:00.000Z",
+          "wordCount": 122,
+          "title": "母の日と、妻の職場復帰に向けた青い花",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220510/20220510133725.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2022/04/28/200000",
           "author": null,
           "description": "秋の終わりから春の始めまで約半年間、在宅勤務に大活躍した電熱ブランケットを洗うことにしました。 洗濯機で洗えることを確認して買ったため洗おうとしたところ但し書きに驚き、そして洗ってみたところ汚れに驚きました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2022/04/28/200000",
           "publishedOn": "2022-04-28T11:00:00.000Z",
-          "wordCount": 137,
+          "wordCount": 139,
           "title": "洗濯機可なのに手洗いしなければならなかった電熱ブランケット",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220427/20220427142319.jpg"
         },
