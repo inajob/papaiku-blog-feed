@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T02:53:55.550Z</id>
+    <id>urn:2022-05-10T03:32:50.121Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-10T02:53:55.550Z</updated>
+    <updated>2022-05-10T03:32:50.121Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[欠点さえも強みになる]]></title>
+        <id>https://decobocochan.com/?p=7277</id>
+        <link href="https://decobocochan.com/archives/7277"/>
+        <updated>2022-05-10T03:30:12.000Z</updated>
+        <summary type="html"><![CDATA[人間だれしも自分に得意なことや苦手なことがあると思う でも、その苦手なことが もしも「才能」だったら？   リンク   ストレングス・ファインダーは、書籍を購入すると シリアルコードが最後の頁について ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】miraicafe＆6月のご案内]]></title>
         <id>https://decobocochan.com/?p=7245</id>
@@ -111,16 +121,6 @@
         <link href="https://decobocochan.com/archives/6783"/>
         <updated>2022-04-29T23:27:58.000Z</updated>
         <summary type="html"><![CDATA[2021年の夏 宿題で自由課題だった読書感想文に自ら立候補した、長女 テーマは、発達障害 長女は、自分と登場人物をリンクさせた と言えた彼女だからこそ 取り組んでほしいテーマ 絶妙な本を選んでくれた ぱんだちゃんのおうち ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メディア情報（2022.1～2022.4）]]></title>
-        <id>https://decobocochan.com/?p=7027</id>
-        <link href="https://decobocochan.com/archives/7027"/>
-        <updated>2022-04-28T23:28:05.000Z</updated>
-        <summary type="html"><![CDATA[メディア情報は、読み返せなくなることもたまにあるので メモとしてこちらに掲載 凸凹ちゃん関係 なぜ「発達障害で障害者手帳を取ることに損はない」のか？ https://business.nikkei.com/atcl/ge ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
