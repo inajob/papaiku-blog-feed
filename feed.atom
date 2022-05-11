@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T08:32:32.188Z</id>
+    <id>urn:2022-05-11T09:24:20.596Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-11T08:32:32.188Z</updated>
+    <updated>2022-05-11T09:24:20.596Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【緊急告知】ストレングスファインダー振り返りライブ！！]]></title>
+        <id>https://decobocochan.com/?p=7299</id>
+        <link href="https://decobocochan.com/archives/7299"/>
+        <updated>2022-05-11T09:11:37.000Z</updated>
+        <summary type="html"><![CDATA[らむねさんのブログへ アツイアツ〜イ ラブコールをコメントに書いていた すると… 陽さんのオンラインサロン、「ゆるゆる陽だまりサロン」内にて 未来地図スタッフ4人のストレングスを語るライブをやってくれるってさ！ 太っ腹〜 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[母の日と、妻の職場復帰に向けた青い花]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/05/10/200000</id>
@@ -123,16 +133,6 @@
         <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
         <author>
             <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彩りゆたかな感情を言葉にする]]></title>
-        <id>https://decobocochan.com/?p=6783</id>
-        <link href="https://decobocochan.com/archives/6783"/>
-        <updated>2022-04-29T23:27:58.000Z</updated>
-        <summary type="html"><![CDATA[2021年の夏 宿題で自由課題だった読書感想文に自ら立候補した、長女 テーマは、発達障害 長女は、自分と登場人物をリンクさせた と言えた彼女だからこそ 取り組んでほしいテーマ 絶妙な本を選んでくれた ぱんだちゃんのおうち ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
