@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T10:28:33.421Z</id>
+    <id>urn:2022-05-11T11:20:17.362Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-11T10:28:33.421Z</updated>
+    <updated>2022-05-11T11:20:17.363Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[布団を6.7cm広げたら、ゆったり広々と横になれるようになった]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/05/11/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/05/11/200000"/>
+        <updated>2022-05-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[幼児がいる家庭は、いわゆる「川の字」で寝る場合が多いと思います。 特に布団だと並べて敷けるので、自然と横並びに寝ることになります。 布団を縦に並べて敷くことをやめたらゆったりと横になれるようになりました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【緊急告知】ストレングスファインダー振り返りライブ！！]]></title>
         <id>https://decobocochan.com/?p=7299</id>
