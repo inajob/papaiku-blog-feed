@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T11:21:25.456Z</id>
+    <id>urn:2022-05-12T12:50:13.152Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-12T11:21:25.456Z</updated>
+    <updated>2022-05-12T12:50:13.152Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メディア情報（2022.5～）]]></title>
+        <id>https://decobocochan.com/?p=7044</id>
+        <link href="https://decobocochan.com/archives/7044"/>
+        <updated>2022-05-12T12:43:01.000Z</updated>
+        <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神宮暦で日々の子育てに取り入れる季節や自然の知恵と知識]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/05/12/200000</id>
@@ -131,16 +141,6 @@
         <link href="https://decobocochan.com/archives/6762"/>
         <updated>2022-05-02T01:40:50.000Z</updated>
         <summary type="html"><![CDATA[「ぱんだちゃんのマヤ暦Ⓡは、どこでしてますか？」 とよく聞かれるようになりましたが… どこででもやります！！(笑) イベントだけではなく カフェでも フリースペースでも あなたのお店でも 机がある場所ならどこへでも行くよ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月にたくさん読んでもらった記事★TOP 3]]></title>
-        <id>https://decobocochan.com/?p=7050</id>
-        <link href="https://decobocochan.com/archives/7050"/>
-        <updated>2022-05-01T12:26:50.000Z</updated>
-        <summary type="html"><![CDATA[新学期がはじまる季節まぁ、不安定になる時期ですよ春休みだけが唯一、宿題がない長期休みになるのでまったりとおうちで過ごしました 凸凹ちゃんホームページのPV数   記事数 ページビュー数 訪問者数 ドメインパワー ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
