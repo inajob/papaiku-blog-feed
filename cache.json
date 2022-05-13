@@ -282,7 +282,7 @@
           "description": "沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]",
           "link": "https://kokoyayablog.com/pcrkensa-loginng-try-3ways/",
           "publishedOn": "2022-05-03T01:28:34.000Z",
-          "wordCount": 63,
+          "wordCount": 66,
           "title": "【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/05/c0b53e33-bfe7-4321-b171-8405bfda988f.jpg"
         }
@@ -306,12 +306,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/05/13/200000",
+          "author": null,
+          "description": "ピンク色の花が密集して咲く様子が街中で見られるようになってきました。 名前はツツジです。 次女の誕生月の花なので、花の名前に疎い私も見て分かるようになりました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/05/13/200000",
+          "publishedOn": "2022-05-13T11:00:00.000Z",
+          "wordCount": 119,
+          "title": "5月はツツジの季節、人生記念樹の開花に成功。しかし毒に注意",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220513/20220513111456.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2022/05/12/200000",
           "author": null,
           "description": "日々の計画をまとまるに際し、実用面ではカレンダーアプリが使われるようになり、紙のカレンダーを壁に貼る家庭は減ってきていると思います。 それによって、紙のカレンダーに小さく書かれている季節の区分（節気）や行事を目にする機会も減っています。 それ自体は今の大人は紙のカレンダーで育ってきたので自然とインプットされており、また現代では日本の伝統行事を知らなくても問題ないのですが、これからの時代の子育てという観点では悩ましいところです。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2022/05/12/200000",
           "publishedOn": "2022-05-12T11:00:00.000Z",
-          "wordCount": 144,
+          "wordCount": 146,
           "title": "神宮暦で日々の子育てに取り入れる季節や自然の知恵と知識",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220512/20220512162523.jpg"
         },
