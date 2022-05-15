@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T14:21:40.320Z</id>
+    <id>urn:2022-05-15T15:24:53.072Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-15T14:21:40.320Z</updated>
+    <updated>2022-05-15T15:24:53.072Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[すべてつながっているよ]]></title>
+        <id>https://decobocochan.com/?p=7334</id>
+        <link href="https://decobocochan.com/archives/7334"/>
+        <updated>2022-05-15T14:00:47.000Z</updated>
+        <summary type="html"><![CDATA[らむねさんのストレングスファインダーの説明から始まった Facebookグループライブ配信 常に笑ってて、受けまくる Facebookにアーカイブが残っているよ 気になる方は、ぜんぶ見てみて(笑) コメントくれた方、ひと ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月はツツジの季節、人生記念樹の開花に成功。しかし毒に注意]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/05/13/200000</id>
@@ -143,16 +153,6 @@
         <summary type="html"><![CDATA[沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どこでも個別鑑定もする！]]></title>
-        <id>https://decobocochan.com/?p=6762</id>
-        <link href="https://decobocochan.com/archives/6762"/>
-        <updated>2022-05-02T01:40:50.000Z</updated>
-        <summary type="html"><![CDATA[「ぱんだちゃんのマヤ暦Ⓡは、どこでしてますか？」 とよく聞かれるようになりましたが… どこででもやります！！(笑) イベントだけではなく カフェでも フリースペースでも あなたのお店でも 机がある場所ならどこへでも行くよ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
