@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T11:20:56.337Z</id>
+    <id>urn:2022-05-17T12:49:32.197Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-17T11:20:56.337Z</updated>
+    <updated>2022-05-17T12:49:32.197Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【重大予告】出版決定！「男性育休不安解消クラス」が本になる！執筆作業・出版までの経緯・裏側を大公開！]]></title>
+        <id>https://hongzhijintian.com/?p=799</id>
+        <link href="https://hongzhijintian.com/%e3%80%90%e9%87%8d%e5%a4%a7%e4%ba%88%e5%91%8a%e3%80%91%e5%87%ba%e7%89%88%e6%b1%ba%e5%ae%9a%ef%bc%81%e3%80%8c%e7%94%b7%e6%80%a7%e8%82%b2%e4%bc%91%e4%b8%8d%e5%ae%89%e8%a7%a3%e6%b6%88%e3%82%af%e3%83%a9/"/>
+        <updated>2022-05-17T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[出版決定 2022年６～７月に出版が決定しました！！ タイトル「男性育休長期取得のへ道　～イクダン先生が教える！男性育休不安解消クラス～」 Amazonで販売予定です！ 出版社　「　QUASAR　」 執筆期間　「2か月（ […]
+The post 【重大予告】出版決定！「男性育休不安解消クラス」が本になる！執筆作業・出版までの経緯・裏側を大公開！ first appeared on イクダン先生.]]></summary>
+        <author>
+            <name>イクダン先生</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[すべてつながっているよ]]></title>
         <id>https://decobocochan.com/?p=7334</id>
