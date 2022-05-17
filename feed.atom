@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T13:44:34.727Z</id>
+    <id>urn:2022-05-17T14:30:54.223Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-17T13:44:34.727Z</updated>
+    <updated>2022-05-17T14:30:54.223Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[いちご状血管腫]]></title>
+        <id>https://decobocochan.com/?p=7149</id>
+        <link href="https://decobocochan.com/archives/7149"/>
+        <updated>2022-05-17T14:10:30.000Z</updated>
+        <summary type="html"><![CDATA[長女は、生後2～3日で左頬にいちご状血管腫ができた（出産直後にはなかった） いちご状血管腫は血管が集まってできただけ 特に害はない 大きくなるにつれて薄くなるだろうと言われてた 毎日、見えるから気になる 毎回の検診で要観 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【重大予告】出版決定！「男性育休不安解消クラス」が本になる！執筆作業・出版までの経緯・裏側を大公開！]]></title>
         <id>https://hongzhijintian.com/?p=799</id>
@@ -142,16 +152,6 @@ The post 【重大予告】出版決定！「男性育休不安解消クラス�
         <link href="https://decobocochan.com/archives/7151"/>
         <updated>2022-05-04T10:56:32.000Z</updated>
         <summary type="html"><![CDATA[凸凹ちゃんに限らず【食事】に苦労されているママさんは、多いと思います 成長と共にだいぶ改善されましたが わが子は、3人とも全員に偏食があった 三者三様 長女：茶色いものや初めてのものは、食べない 長男：白いものしか食べな ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【愚痴】切ないなぁ…]]></title>
-        <id>https://decobocochan.com/?p=6980</id>
-        <link href="https://decobocochan.com/archives/6980"/>
-        <updated>2022-05-03T12:19:29.000Z</updated>
-        <summary type="html"><![CDATA[たまには、愚痴を書いてみる 本当にたんなる愚痴 はけ口として書くので 読むのがいやな方はスルーしてください まぁ、それなりに修羅場も イヤな想いも しんどい経験もしてきた （じゃないとここまで調べようと思わないよ） けど ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
