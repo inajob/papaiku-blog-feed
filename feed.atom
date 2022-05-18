@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T10:26:53.886Z</id>
+    <id>urn:2022-05-18T11:21:08.731Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-18T10:26:53.886Z</updated>
+    <updated>2022-05-18T11:21:08.731Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[約10円で子どもが喜んでお風呂に入る！ミステリーアイスボールの作り方]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/05/18/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/05/18/200000"/>
+        <updated>2022-05-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[夕方から寝かしつけまでの時間は育児ピークで、どの家庭でも時間のやりくりに頭を悩ませていることと思います。特に子どもがお風呂に入りたがらない問題はよくあるようです。 入浴が遅くなると子どもの寝る時間が遅くなって翌朝にも響きますし、十分に体温が下がらないので眠りも浅くなります。何より親も疲れてしまいます。 お金をかけずに子どもの入浴問題を解消する方法として、わが家で活用しているミステリーアイスボールを紹介します。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ 左利きには天才が多い！]]></title>
         <id>https://note.com/mountainpeace/n/nc08a6a07fea1</id>

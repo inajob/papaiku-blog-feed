@@ -189,7 +189,7 @@
           "description": "みなさんのお子さんはイヤイヤ期を越えましたか？ イヤイヤ期になると、わが子が がわからなくなるときがありますよね。 今回は、そんな「イヤイヤ期の子どもが心で思っていそうな幽白の名言TOP3」を紹介しま ... \nCopyright © 2022 まるげりスイッチ All Rights Reserved.",
           "link": "https://marugeriswitch.com/yuhakuikuji-iyaiyaki-kokoro/",
           "publishedOn": "2022-04-28T01:22:46.000Z",
-          "wordCount": 438,
+          "wordCount": 439,
           "title": "【幽白育児】イヤイヤ期の子どもが心で思っていそうな幽白の名言",
           "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2022/04/85.png"
         },
@@ -282,7 +282,7 @@
           "description": "沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]",
           "link": "https://kokoyayablog.com/pcrkensa-loginng-try-3ways/",
           "publishedOn": "2022-05-03T01:28:34.000Z",
-          "wordCount": 73,
+          "wordCount": 62,
           "title": "【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/05/c0b53e33-bfe7-4321-b171-8405bfda988f.jpg"
         }
@@ -317,12 +317,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/05/18/200000",
+          "author": null,
+          "description": "夕方から寝かしつけまでの時間は育児ピークで、どの家庭でも時間のやりくりに頭を悩ませていることと思います。特に子どもがお風呂に入りたがらない問題はよくあるようです。 入浴が遅くなると子どもの寝る時間が遅くなって翌朝にも響きますし、十分に体温が下がらないので眠りも浅くなります。何より親も疲れてしまいます。 お金をかけずに子どもの入浴問題を解消する方法として、わが家で活用しているミステリーアイスボールを紹介します。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/05/18/200000",
+          "publishedOn": "2022-05-18T11:00:00.000Z",
+          "wordCount": 142,
+          "title": "約10円で子どもが喜んでお風呂に入る！ミステリーアイスボールの作り方",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220517/20220517205811.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2022/05/13/200000",
           "author": null,
           "description": "ピンク色の花が密集して咲く様子が街中で見られるようになってきました。 名前はツツジです。 次女の誕生月の花なので、花の名前に疎い私も見て分かるようになりました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2022/05/13/200000",
           "publishedOn": "2022-05-13T11:00:00.000Z",
-          "wordCount": 119,
+          "wordCount": 121,
           "title": "5月はツツジの季節、人生記念樹の開花に成功。しかし毒に注意",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20220513/20220513111456.jpg"
         },
@@ -453,12 +463,6 @@
           "imageUrl": "https://tasogare-home.com/wp-content/uploads/2022/05/黄昏ほーむの-不労所得投資！-2022年4月度収益実績.jpg"
         }
       ]
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
-      "articles": []
     },
     {
       "title": "おっとさん　おとうさん",
