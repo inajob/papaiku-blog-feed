@@ -13,6 +13,12 @@
       "articles": []
     },
     {
+      "title": "こやたか|隙間時間でスキルアップできる！",
+      "feedUrl": "https://note.com/takahi115/rss",
+      "siteUrl": "https://note.com/takahi115",
+      "articles": []
+    },
+    {
       "title": "あつまれ！凸凹ちゃん「発達障害？ううん凸凹（でこぼこ）ちゃんだよ」",
       "feedUrl": "https://decobocochan.com/feed",
       "siteUrl": "https://decobocochan.com",
@@ -210,6 +216,12 @@
       ]
     },
     {
+      "title": "たからん",
+      "feedUrl": "https://note.com/takaranran_mk/rss",
+      "siteUrl": "https://note.com/takaranran_mk",
+      "articles": []
+    },
+    {
       "title": "育休パパのがんばりノート",
       "feedUrl": "https://kokoyayablog.com/feed/",
       "siteUrl": "https://kokoyayablog.com",
@@ -220,7 +232,7 @@
           "description": "沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]",
           "link": "https://kokoyayablog.com/pcrkensa-loginng-try-3ways/",
           "publishedOn": "2022-05-03T01:28:34.000Z",
-          "wordCount": 70,
+          "wordCount": 67,
           "title": "【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/05/c0b53e33-bfe7-4321-b171-8405bfda988f.jpg"
         }
@@ -231,6 +243,23 @@
       "feedUrl": "https://irodorulife.com/feed/",
       "siteUrl": "https://irodorulife.com",
       "articles": []
+    },
+    {
+      "title": "やま｜Kindle評論家",
+      "feedUrl": "https://note.com/mountainpeace/rss",
+      "siteUrl": "https://note.com/mountainpeace",
+      "articles": [
+        {
+          "id": "https://note.com/mountainpeace/n/nc08a6a07fea1",
+          "author": null,
+          "description": "哲学者のアリストテレス。\nアインシュタイン、エジソン。\nダーウィンなど「天才」と呼ばれる\n偉人には、左利きが多いと言われて\nいます。\nまた、モーツアルト。\nレオナルド・ダ・ビンチ。\nピカソなどの\n世界的に有名な芸術家にも、\n左利きが多いと言います。\n近年では、\nマイクロソフトのビル・ゲイツ。\nオバマ元アメリカ大統領も\n左利きです。\n今回は、\n右手だけを使うよりも、\n左手も使った方が圧倒的に\n脳の活性化にいいという\n話をしたいと思います！\nこんにちは、kindle評論家のやまです。\n8冊目を執筆中です。\nまとめたこと、気づいたことなどを\n書いて行きたいと思います。\nよろしくお願いします。\n\n『すごい左利き』の著者、\n加藤俊徳 医学博士によると、\n人は手を動かすことで、脳を\n発達させてきたと言います。\n200万年前、\nアフリカのサルが\n樹上から地上に降りてきて、\n直立二足移動をするようになった\nのが、私たち人類のスタートと\nなります。\n直立二足歩行になったことで\n両手が自由に使えるようになり、\n細かく作業を分けて行うことが\n出来るようになりました。\n転びそうになったり、何かに\n襲われそうになったりなどの\n危機的な状況に陥ったとき、\nとっさに右手でかばうなどの\n優先順位があらかじめ決まって\nいると、\nムダな動きが減って\n危険を回避する確率が高まり\n生命維持にも直結するため、\n人には「右利き」や「左利き」が\n出来てきたと言われています。\n １万人の脳を見た名医が教える すごい左利き――「選ばれた才能」を１２０％活かす方法amzn.to 1,158円(2022年05月18日 05:05時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
+          "link": "https://note.com/mountainpeace/n/nc08a6a07fea1",
+          "publishedOn": "2022-05-17T20:08:33.000Z",
+          "wordCount": 59,
+          "title": "◆ 左利きには天才が多い！",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/78776827/rectangle_large_type_2_eefa2c974df76e3af355d66789904d1e.png?width=800"
+        }
+      ]
     },
     {
       "title": "共働きで2人姉妹を育てる父親の生き残り戦略",
