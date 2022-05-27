@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T23:21:42.284Z</id>
+    <id>urn:2022-05-27T02:05:09.363Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-26T23:21:42.284Z</updated>
+    <updated>2022-05-27T02:05:09.363Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[講師としてのお仕事]]></title>
+        <id>https://decobocochan.com/?p=6787</id>
+        <link href="https://decobocochan.com/archives/6787"/>
+        <updated>2022-05-27T00:15:49.000Z</updated>
+        <summary type="html"><![CDATA[昨年は、ガイドヘルパー養成研修会の講師として3回登壇してお仕事をさせていただきました 凸凹ちゃんを育てているママとして どんな支援者がいたら助かるかの視点でお話することがメイン 毎回、受講者からいろんな質問がでるので 資 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[会いたい人に会える幸せ]]></title>
         <id>https://decobocochan.com/?p=7436</id>
@@ -223,16 +233,6 @@ The post 【重大予告】出版決定！「男性育休不安解消クラス�
         <link href="https://decobocochan.com/archives/6895"/>
         <updated>2022-05-07T13:31:29.000Z</updated>
         <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジブンの親子関係を語る]]></title>
-        <id>https://decobocochan.com/?p=7112</id>
-        <link href="https://decobocochan.com/archives/7112"/>
-        <updated>2022-05-06T14:29:46.000Z</updated>
-        <summary type="html"><![CDATA[フラットもしくは、ニュートラルな子育てを意識するようになったのはやはり、育てられた環境も大きかったと思う今回は、わたしの親子関係をだれも知りたくないわー🤣かもしれないけど、書いてみました 父は、わたしの結婚前に病死母とわ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
