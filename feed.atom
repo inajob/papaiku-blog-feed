@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T23:24:31.798Z</id>
+    <id>urn:2022-05-29T02:21:58.473Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-28T23:24:31.798Z</updated>
+    <updated>2022-05-29T02:21:58.473Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想【2】]]></title>
+        <id>https://decobocochan.com/?p=7476</id>
+        <link href="https://decobocochan.com/archives/7476"/>
+        <updated>2022-05-29T00:56:24.000Z</updated>
+        <summary type="html"><![CDATA[生年月日より260種類kinの中のたった1つあなただけのkinナンバーを知り家族や周りの方の関係性を知ることができます オンラインセッション用にスライド資料を作成しました こちらのカラーは、テキストや鑑定書とおなじような ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[講師としてのお仕事]]></title>
         <id>https://decobocochan.com/?p=6787</id>
@@ -223,16 +233,6 @@ The post 【重大予告】出版決定！「男性育休不安解消クラス�
         <link href="https://decobocochan.com/archives/7245"/>
         <updated>2022-05-08T13:50:28.000Z</updated>
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 テーマは「頭ではわかっているけど、うまくいかないときどうしていますか？」 TODAY ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=6895</id>
-        <link href="https://decobocochan.com/archives/6895"/>
-        <updated>2022-05-07T13:31:29.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
