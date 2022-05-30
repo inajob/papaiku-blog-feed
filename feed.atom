@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T12:47:56.019Z</id>
+    <id>urn:2022-05-30T13:46:30.613Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-05-30T12:47:56.019Z</updated>
+    <updated>2022-05-30T13:46:30.613Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -257,16 +257,6 @@ The post 【重大予告】出版決定！「男性育休不安解消クラス�
         <summary type="html"><![CDATA[沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022年4月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=2671</id>
-        <link href="https://tasogare-home.com/investmentperformance-2204/"/>
-        <updated>2022-05-01T00:50:49.000Z</updated>
-        <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
