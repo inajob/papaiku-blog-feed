@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T12:54:33.798Z</id>
+    <id>urn:2022-06-01T13:53:41.506Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-01T12:54:33.798Z</updated>
+    <updated>2022-06-01T13:53:41.506Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -296,16 +296,6 @@ The post 【重大予告】出版決定！「男性育休不安解消クラス�
         <summary type="html"><![CDATA[一昨日は母の日でした。 母の日の花といえばカーネーションが定番です。 数日前に花屋に行くと、既にカーネーションだらけでした。 そして値段はいつもの2倍でした。（一応、いつもの花束よりは少し華やかな装飾が施してありました。） 価値が高い時に高値を付けて売るのは商売の基本なので、それで売り方としては良いと思います。 一方で私は財布の紐が固めなのと、妻も定型的な贈り物（今回は母の日のカーネーション）にそれほどこだわりがないため、いつもと同じ値段で売られていた花を買いました。 自宅のテーブルに飾った様子 どうやらこの花は自然に近い状態で育てたものではなく、青い染料を溶かした水を与えて青くした菊のようで…]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【検査結果確認】沖縄県PCRセンターからのメールにログインできない時に試した3つの方法]]></title>
-        <id>https://kokoyayablog.com/?p=2746</id>
-        <link href="https://kokoyayablog.com/pcrkensa-loginng-try-3ways/"/>
-        <updated>2022-05-03T01:28:34.000Z</updated>
-        <summary type="html"><![CDATA[沖縄県PCR検査センターからはメールで結果通知が来ます。 しかしながら、メール内に結果の記載はありません。 検査結果を見るためには、結果の記載のあるページにログインが必要です。 ログインがうまくいかなかった私が、無事ログ […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
