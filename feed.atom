@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T23:23:12.836Z</id>
+    <id>urn:2022-06-03T01:54:06.238Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-02T23:23:12.836Z</updated>
+    <updated>2022-06-03T01:54:06.238Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ご感想】リアルランチ会]]></title>
+        <id>https://decobocochan.com/?p=7554</id>
+        <link href="https://decobocochan.com/archives/7554"/>
+        <updated>2022-06-03T01:20:39.000Z</updated>
+        <summary type="html"><![CDATA[03前日にご家族の体調不良がおありで、お休みされた方がいらっしゃいました 5月凸凹カフェは、わたしとお2人の参加者さんでゆったりとお話しました そのお2人からご感想をいただきました♪ ありがとうございます わたしの開催レ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未来への投資か？勝利か？〜巨人打線の打順組み替え議論〜]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2022/06/blog-post.html</id>
@@ -309,16 +319,6 @@ The post 【重大予告】出版決定！「男性育休不安解消クラス�
         <summary type="html"><![CDATA[ピンク色の花が密集して咲く様子が街中で見られるようになってきました。 名前はツツジです。 次女の誕生月の花なので、花の名前に疎い私も見て分かるようになりました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メディア情報（2022.5）]]></title>
-        <id>https://decobocochan.com/?p=7044</id>
-        <link href="https://decobocochan.com/archives/7044"/>
-        <updated>2022-05-12T12:43:01.000Z</updated>
-        <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
