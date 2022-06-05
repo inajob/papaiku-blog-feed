@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-05T12:37:43.642Z</id>
+    <id>urn:2022-06-05T13:27:11.823Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-05T12:37:43.642Z</updated>
+    <updated>2022-06-05T13:27:11.823Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】miraicafe＆7月のご案内]]></title>
+        <id>https://decobocochan.com/?p=7298</id>
+        <link href="https://decobocochan.com/archives/7298"/>
+        <updated>2022-06-05T13:14:12.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、4名 今回は、父の日スペシャルとして トミヒロさんトーーーーーク を追加しました いつも自己紹介 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年5月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2707</id>
@@ -309,16 +319,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 The post 【重大予告】出版決定！「男性育休不安解消クラス」が本になる！執筆作業・出版までの経緯・裏側を大公開！ first appeared on イクダン先生.]]></summary>
         <author>
             <name>イクダン先生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[すべてつながっているよ]]></title>
-        <id>https://decobocochan.com/?p=7334</id>
-        <link href="https://decobocochan.com/archives/7334"/>
-        <updated>2022-05-15T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[らむねさんのストレングスファインダーの説明から始まった Facebookグループライブ配信 常に笑ってて、受けまくる Facebookにアーカイブが残っているよ 気になる方は、ぜんぶ見てみて(笑) コメントくれた方、ひと ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
