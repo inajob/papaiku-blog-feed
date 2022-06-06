@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-06T12:49:20.211Z</id>
+    <id>urn:2022-06-06T13:43:36.001Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-06T12:49:20.211Z</updated>
+    <updated>2022-06-06T13:43:36.001Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[福祉をデザイン]]></title>
+        <id>https://decobocochan.com/?p=7131</id>
+        <link href="https://decobocochan.com/archives/7131"/>
+        <updated>2022-06-06T13:12:39.000Z</updated>
+        <summary type="html"><![CDATA[3年就労の壁ということをよく耳にするようになりました 働くことがそんなにたいへんなのか？ …お金をかせぐのは、たいへん でも、続けることはもっとたいへん 3年以内の退職率が多い 特に給与があがらないと 本人の意欲に影響が ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】miraicafe＆7月のご案内]]></title>
         <id>https://decobocochan.com/?p=7298</id>
@@ -298,16 +308,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いちご状血管腫]]></title>
-        <id>https://decobocochan.com/?p=7149</id>
-        <link href="https://decobocochan.com/archives/7149"/>
-        <updated>2022-05-17T14:10:30.000Z</updated>
-        <summary type="html"><![CDATA[長女は、生後2～3日で左頬にいちご状血管腫ができた（出産直後にはなかった） いちご状血管腫は血管が集まってできただけ 特に害はない 大きくなるにつれて薄くなるだろうと言われてた 毎日、見えるから気になる 毎回の検診で要観 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
