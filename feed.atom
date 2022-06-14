@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T11:18:56.956Z</id>
+    <id>urn:2022-06-14T12:48:00.830Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-14T11:18:56.956Z</updated>
+    <updated>2022-06-14T12:48:00.830Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[おこづかいは、給料]]></title>
+        <id>https://decobocochan.com/?p=7604</id>
+        <link href="https://decobocochan.com/archives/7604"/>
+        <updated>2022-06-14T11:45:11.000Z</updated>
+        <summary type="html"><![CDATA[わが家は、おこづかいを給料だと言って 現在長女と長男だけに渡しています 将来、自立したときに 給料を1カ月もたすことができるか？ 給料をためるだけではなく、使うこともできるか？ の練習と思ってやっている お年玉は、学費の ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マンツーマン鑑定ご感想【3】]]></title>
         <id>https://decobocochan.com/?p=7601</id>
@@ -235,16 +245,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <link href="https://decobocochan.com/archives/7476"/>
         <updated>2022-05-29T00:56:24.000Z</updated>
         <summary type="html"><![CDATA[生年月日より260種類kinの中のたった1つあなただけのkinナンバーを知り家族や周りの方の関係性を知ることができます オンラインセッション用にスライド資料を作成しました こちらのカラーは、テキストや鑑定書とおなじような ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[講師としてのお仕事]]></title>
-        <id>https://decobocochan.com/?p=6787</id>
-        <link href="https://decobocochan.com/archives/6787"/>
-        <updated>2022-05-27T00:15:49.000Z</updated>
-        <summary type="html"><![CDATA[昨年は、ガイドヘルパー養成研修会の講師として3回登壇してお仕事をさせていただきました 凸凹ちゃんを育てているママとして どんな支援者がいたら助かるかの視点でお話することがメイン 毎回、受講者からいろんな質問がでるので 資 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
