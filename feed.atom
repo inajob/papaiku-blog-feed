@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-15T07:23:04.796Z</id>
+    <id>urn:2022-06-15T08:31:06.904Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-15T07:23:04.796Z</updated>
+    <updated>2022-06-15T08:31:06.904Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[昼呑みレポ]]></title>
+        <id>https://decobocochan.com/?p=7661</id>
+        <link href="https://decobocochan.com/archives/7661"/>
+        <updated>2022-06-15T07:50:34.000Z</updated>
+        <summary type="html"><![CDATA[待ちに待った「昼呑み」の日 思い思いの飲み物を持ち寄って オンラインでただひたすらに飲みながら、おしゃべりしたよ これが、たのしい！ わたしは、張り切って 夕飯を作って冷蔵庫に入れておき 長女の習い事の送迎も… むしろ、 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おこづかいは、給料]]></title>
         <id>https://decobocochan.com/?p=7604</id>
@@ -237,16 +247,6 @@
 Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マンツーマン鑑定ご感想【2】]]></title>
-        <id>https://decobocochan.com/?p=7476</id>
-        <link href="https://decobocochan.com/archives/7476"/>
-        <updated>2022-05-29T00:56:24.000Z</updated>
-        <summary type="html"><![CDATA[生年月日より260種類kinの中のたった1つあなただけのkinナンバーを知り家族や周りの方の関係性を知ることができます オンラインセッション用にスライド資料を作成しました こちらのカラーは、テキストや鑑定書とおなじような ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
