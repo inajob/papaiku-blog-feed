@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T02:09:02.160Z</id>
+    <id>urn:2022-06-17T03:54:50.911Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-17T02:09:02.160Z</updated>
+    <updated>2022-06-17T03:54:50.911Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【募集開始】7月凸凹カフェコラボイベント「言葉と子ども～先生であり発達障害者から 伝えたいコト～」]]></title>
+        <id>https://decobocochan.com/?p=7736</id>
+        <link href="https://decobocochan.com/archives/7736"/>
+        <updated>2022-06-17T02:45:14.000Z</updated>
+        <summary type="html"><![CDATA[7月の凸凹カフェは、予告していた通り 発達障害当事者かつ ファイナンシャルプランナーで 学童保育の先生と家庭教師、 発達障害に関する講師活動を行なっている みやっち先生とのコラボイベント！ 7/30（土）15：00スター ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年7月セミナー・イベント情報]]></title>
         <id>https://decobocochan.com/?p=7505</id>
@@ -225,16 +235,6 @@
   注意する点としては、それぞれお金が一…]]></summary>
         <author>
             <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集開始】6月凸凹カフェ「フリーなオンラインカフェ」]]></title>
-        <id>https://decobocochan.com/?p=7509</id>
-        <link href="https://decobocochan.com/archives/7509"/>
-        <updated>2022-05-31T01:35:52.000Z</updated>
-        <summary type="html"><![CDATA[公式LINEアカウントご登録者さま限定に 6月オンライン凸凹カフェ日を決める権利のプレゼントのメッセージをおくると… まさかの 瞬殺 でした 平日の午後だから ゆったり待っていようと思いましたが すぐにお申込者が決定 う ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
