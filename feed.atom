@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T11:18:20.082Z</id>
+    <id>urn:2022-06-18T12:38:10.425Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-18T11:18:20.082Z</updated>
+    <updated>2022-06-18T12:38:10.425Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想【4】]]></title>
+        <id>https://decobocochan.com/?p=7776</id>
+        <link href="https://decobocochan.com/archives/7776"/>
+        <updated>2022-06-18T11:45:50.000Z</updated>
+        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用にさらにスライド資料を追加 もはや最初の方は、別物になってるかもしれない ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集開始】7月凸凹カフェコラボイベント「言葉と子ども～先生であり発達障害者から 伝えたいコト～」]]></title>
         <id>https://decobocochan.com/?p=7736</id>
@@ -176,16 +186,6 @@
   7,8,9番と3人の安パイが続くとなると、相手としては…]]></summary>
         <author>
             <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月にたくさん読んでもらった記事★TOP 3]]></title>
-        <id>https://decobocochan.com/?p=7535</id>
-        <link href="https://decobocochan.com/archives/7535"/>
-        <updated>2022-06-01T03:00:14.000Z</updated>
-        <summary type="html"><![CDATA[5月は、久しぶりにリアル開催でランチ会をしましたケース会議や中学校の在籍をどこにするのかを決める就学指導の保護者説明会にも参加講師としても登壇しつつぱんだちゃんのマヤ暦セッションをしたり未来地図スタッフのmiraicaf ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
