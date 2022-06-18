@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T18:27:16.886Z</id>
+    <id>urn:2022-06-18T19:18:21.403Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-18T18:27:16.886Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-18T19:18:21.403Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[マンツーマン鑑定ご感想【4】]]></title>
