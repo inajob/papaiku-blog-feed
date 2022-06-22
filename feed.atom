@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T05:25:39.851Z</id>
+    <id>urn:2022-06-22T06:29:06.655Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-22T05:25:39.851Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-22T06:29:06.655Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[しーほさんの個性たっぷりな「しーほ館」]]></title>
