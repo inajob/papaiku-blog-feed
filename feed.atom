@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T23:24:04.848Z</id>
+    <id>urn:2022-06-23T02:08:07.698Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-22T23:24:04.848Z</updated>
+    <updated>2022-06-23T02:08:07.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ルークなお部屋]]></title>
+        <id>https://decobocochan.com/?p=7794</id>
+        <link href="https://decobocochan.com/archives/7794"/>
+        <updated>2022-06-23T00:56:45.000Z</updated>
+        <summary type="html"><![CDATA[らむねさんの共感性さんあつまれ〜♪に参加してきました らむねコンサルで使用しているストレングスファインダーには、34個に分類されている人類の才能。 同じ才能を持つ人たちが集まって話したら、どうなる！？ 初回はわたしのトッ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パリーテニスでガイド支援]]></title>
         <id>https://decobocochan.com/?p=6781</id>
@@ -111,16 +121,6 @@
         <link href="https://decobocochan.com/archives/7316"/>
         <updated>2022-06-07T12:20:52.000Z</updated>
         <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福祉をデザイン]]></title>
-        <id>https://decobocochan.com/?p=7131</id>
-        <link href="https://decobocochan.com/archives/7131"/>
-        <updated>2022-06-06T13:12:39.000Z</updated>
-        <summary type="html"><![CDATA[3年就労の壁ということをよく耳にするようになりました 働くことがそんなにたいへんなのか？ …お金をかせぐのは、たいへん でも、続けることはもっとたいへん 3年以内の退職率が多い 特に給与があがらないと 本人の意欲に影響が ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
