@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T02:14:25.431Z</id>
+    <id>urn:2022-06-24T04:01:37.007Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-24T02:14:25.431Z</updated>
+    <updated>2022-06-24T04:01:37.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[びっくりする、この「あつかい」]]></title>
+        <id>https://decobocochan.com/?p=7817</id>
+        <link href="https://decobocochan.com/archives/7817"/>
+        <updated>2022-06-24T03:51:35.000Z</updated>
+        <summary type="html"><![CDATA[皆さんのところもそうなのだろうか？うちの市は、療育手帳と自立支援医療の更新のお知らせが…来ない療育手帳は、更新月が書かれているだけで期限をこえたからといっても使えるしそこから手続きをしても更新となる でも、自立支援医療は ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ルークなお部屋]]></title>
         <id>https://decobocochan.com/?p=7794</id>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[こんにちは！ポンパパ夫婦（@ponkotsupapa)です。 我が家の息子は、なんとなく全体的に発達が遅いです。 首のすわりも、離乳食の進みも、言葉も、目安よりは遅めに成長しています。 そんな息子、1歳11カ月になりまし]]></summary>
         <author>
             <name>ponkotupapa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メディア情報（2022.6）]]></title>
-        <id>https://decobocochan.com/?p=7316</id>
-        <link href="https://decobocochan.com/archives/7316"/>
-        <updated>2022-06-07T12:20:52.000Z</updated>
-        <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
