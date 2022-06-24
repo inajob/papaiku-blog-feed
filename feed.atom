@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T20:24:09.588Z</id>
+    <id>urn:2022-06-24T21:20:41.973Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-24T20:24:09.588Z</updated>
+    <updated>2022-06-24T21:20:41.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[誕生日の風船飾りで大苦戦！そして母親が底力を出すための裏技の発見]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/06/25/060000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/06/25/060000"/>
+        <updated>2022-06-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[次女が2歳の誕生日を迎えました。 トップ画像の通りに華やかな風船飾りで誕生日を迎えることができました。 しかしその裏には数々の（父親の）苦労がありまして…]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[びっくりする、この「あつかい」]]></title>
         <id>https://decobocochan.com/?p=7817</id>
