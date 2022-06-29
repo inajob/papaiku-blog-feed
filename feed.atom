@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T08:32:15.108Z</id>
+    <id>urn:2022-06-29T09:25:25.386Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-29T08:32:15.108Z</updated>
+    <updated>2022-06-29T09:25:25.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】フリーなオンラインカフェ]]></title>
+        <id>https://decobocochan.com/?p=7897</id>
+        <link href="https://decobocochan.com/archives/7897"/>
+        <updated>2022-06-29T08:40:22.000Z</updated>
+        <summary type="html"><![CDATA[6月の凸凹カフェは、 出入り自由なオンライン 3時間スペシャルでした 最初に凸凹カフェのルール説明 参加者が安心して凸凹カフェにきてもらうために 開催ルールは、毎回お話させていただきます 自己紹介は、プラスα 呼ばれたい ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誕生日の風船飾りで大苦戦！そして母親が底力を出すための裏技の発見]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/06/25/060000</id>
@@ -101,16 +111,6 @@
         <link href="https://decobocochan.com/archives/7604"/>
         <updated>2022-06-14T11:45:11.000Z</updated>
         <summary type="html"><![CDATA[わが家は、おこづかいを給料だと言って 現在長女と長男だけに渡しています 将来、自立したときに 給料を1カ月もたすことができるか？ 給料をためるだけではなく、使うこともできるか？ の練習と思ってやっている お年玉は、学費の ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マンツーマン鑑定ご感想【3】]]></title>
-        <id>https://decobocochan.com/?p=7601</id>
-        <link href="https://decobocochan.com/archives/7601"/>
-        <updated>2022-06-13T01:30:27.000Z</updated>
-        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用にスライド資料 こちらのカラーは、テキストや鑑定書と おなじような色で統 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
