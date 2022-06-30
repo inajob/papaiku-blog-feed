@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T04:01:05.308Z</id>
+    <id>urn:2022-06-30T05:28:36.902Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-06-30T04:01:05.308Z</updated>
+    <updated>2022-06-30T05:28:36.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想【5】]]></title>
+        <id>https://decobocochan.com/?p=7862</id>
+        <link href="https://decobocochan.com/archives/7862"/>
+        <updated>2022-06-30T05:28:19.000Z</updated>
+        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用スライド 口頭だけで伝えるよりも 関係性などは、初めてだと相関図を見せる ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】フリーなオンラインカフェ]]></title>
         <id>https://decobocochan.com/?p=7897</id>
@@ -101,16 +111,6 @@
         <link href="https://decobocochan.com/archives/7661"/>
         <updated>2022-06-15T07:50:34.000Z</updated>
         <summary type="html"><![CDATA[待ちに待った「昼呑み」の日 思い思いの飲み物を持ち寄って オンラインでただひたすらに飲みながら、おしゃべりしたよ これが、たのしい！ わたしは、張り切って 夕飯を作って冷蔵庫に入れておき 長女の習い事の送迎も… むしろ、 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おこづかいは、給料]]></title>
-        <id>https://decobocochan.com/?p=7604</id>
-        <link href="https://decobocochan.com/archives/7604"/>
-        <updated>2022-06-14T11:45:11.000Z</updated>
-        <summary type="html"><![CDATA[わが家は、おこづかいを給料だと言って 現在長女と長男だけに渡しています 将来、自立したときに 給料を1カ月もたすことができるか？ 給料をためるだけではなく、使うこともできるか？ の練習と思ってやっている お年玉は、学費の ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
