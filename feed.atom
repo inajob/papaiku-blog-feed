@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T15:28:00.919Z</id>
+    <id>urn:2022-07-04T16:35:14.829Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-04T15:28:00.919Z</updated>
+    <updated>2022-07-04T16:35:14.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【検証】iPhoneSE 2，3でワードプレスブログは書けるのか(ブラウザ編)]]></title>
+        <id>https://kokoyayablog.com/?p=2738</id>
+        <link href="https://kokoyayablog.com/iphonesewordpressblog/"/>
+        <updated>2022-07-04T15:43:08.000Z</updated>
+        <summary type="html"><![CDATA[そう思って、スマホでブログを書くことにしましたが、私の使っているスマホはiPhoneSE 2で4.7インチのため、現在販売されているiPhoneの中では、最も小さい画面サイズです。 今回は、この画面サイズでも、ブログが書 […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年6月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2738</id>

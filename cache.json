@@ -99,7 +99,7 @@
           "description": "7月の凸凹カフェは、予告していた通り 発達障害当事者かつ ファイナンシャルプランナーで 学童保育の先生と家庭教師、 発達障害に関する講師活動を行なっている みやっち先生とのコラボイベント！ 7/30（土）15：00スター ...",
           "link": "https://decobocochan.com/archives/7736",
           "publishedOn": "2022-06-17T02:45:14.000Z",
-          "wordCount": 1325,
+          "wordCount": 1327,
           "title": "【募集開始】7月凸凹カフェコラボイベント「言葉と子ども～先生であり発達障害者から 伝えたいコト～」",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2022/06/りょう育ママって、-なにをしてる人？のコピーのコピーのコピーのコピーのコピーのコピーのコピー-2022-06-17T001100.542.png"
         },
@@ -153,7 +153,18 @@
       "title": "育休パパのがんばりノート",
       "feedUrl": "https://kokoyayablog.com/feed/",
       "siteUrl": "https://kokoyayablog.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kokoyayablog.com/?p=2738",
+          "author": "ここやや",
+          "description": "そう思って、スマホでブログを書くことにしましたが、私の使っているスマホはiPhoneSE 2で4.7インチのため、現在販売されているiPhoneの中では、最も小さい画面サイズです。 今回は、この画面サイズでも、ブログが書 […]",
+          "link": "https://kokoyayablog.com/iphonesewordpressblog/",
+          "publishedOn": "2022-07-04T15:43:08.000Z",
+          "wordCount": 9030,
+          "title": "【検証】iPhoneSE 2，3でワードプレスブログは書けるのか(ブラウザ編)",
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/07/6AF65185-52C6-473F-9756-0F96AD4DF8E9.jpg"
+        }
+      ]
     },
     {
       "title": "otodanblog",
@@ -263,12 +274,6 @@
           "imageUrl": "https://tasogare-home.com/wp-content/uploads/2022/07/黄昏ほーむの-不労所得投資！-2022年6月度収益実績.jpg"
         }
       ]
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
-      "articles": []
     },
     {
       "title": "おっとさん　おとうさん",
