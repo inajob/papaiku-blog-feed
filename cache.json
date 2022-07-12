@@ -10,7 +10,18 @@
       "title": "おとんTechブログ",
       "feedUrl": "https://oton-tech.com/feed/",
       "siteUrl": "https://oton-tech.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://oton-tech.com/?p=1609",
+          "author": "okasan",
+          "description": "大学時代のMacintoshからはじまり、IT業界で20年以上、いろんなパソコンを使い続けているおかさん（@OtonTech）です。 我が家でも本格的に子供のオンライン学習が始まり、スマホだと画面が見づらいため、パソコン […]",
+          "link": "https://oton-tech.com/online-learning-pc/",
+          "publishedOn": "2022-07-12T03:19:48.000Z",
+          "wordCount": 9590,
+          "title": "【予算帯別】オンライン授業／学習のおすすめパソコンはこれ！",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2021/10/online_learning_pc_eyacatch_min.jpg"
+        }
+      ]
     },
     {
       "title": "こやたか|隙間時間でスキルアップできる！",
@@ -69,7 +80,7 @@
           "description": "子どもが不登校になってくれたおかげで見えた景色、広がったご縁や感謝の気持ちをを書いてる ハスキーなお声で くちびるがアイコンなしーほさん💋 とLIVEではなく、 コラボイベントをすることになりました！ しかも…2回 どう ...",
           "link": "https://decobocochan.com/archives/7943",
           "publishedOn": "2022-07-06T01:35:32.000Z",
-          "wordCount": 1334,
+          "wordCount": 1335,
           "title": "【緊急招集】しーほ with りょう育ママ コラボトーーーーク",
           "enclosure": {
             "url": "https://decobocochan.com/wp-content/uploads/2022/07/20220706_2054081.mp4",
