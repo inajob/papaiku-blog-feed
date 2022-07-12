@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T23:23:18.560Z</id>
+    <id>urn:2022-07-12T02:28:48.535Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-11T23:23:18.560Z</updated>
+    <updated>2022-07-12T02:28:48.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【レポ】カフェ コンフェイト企画]]></title>
+        <id>https://decobocochan.com/?p=8023</id>
+        <link href="https://decobocochan.com/archives/8023"/>
+        <updated>2022-07-10T13:45:54.000Z</updated>
+        <summary type="html"><![CDATA[ねこmimiさんのオンラインマンツーマンおしゃべり会へ行ってきました ねこmimiさんは、先日凸凹カフェにも来てくださったので 初対面ではなかったので、気楽に参加させていただきました ねこmimiさんってこんなおヒト 娘 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏休み最後の夜に(2022年version)]]></title>
         <id>https://decobocochan.com/?p=8005</id>
@@ -121,16 +131,6 @@
         <link href="https://decobocochan.com/archives/7817"/>
         <updated>2022-06-24T03:51:35.000Z</updated>
         <summary type="html"><![CDATA[皆さんのところもそうなのだろうか？うちの市は、療育手帳と自立支援医療の更新のお知らせが…来ない療育手帳は、更新月が書かれているだけで期限をこえたからといっても使えるしそこから手続きをしても更新となる でも、自立支援医療は ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ルークなお部屋]]></title>
-        <id>https://decobocochan.com/?p=7794</id>
-        <link href="https://decobocochan.com/archives/7794"/>
-        <updated>2022-06-23T00:56:45.000Z</updated>
-        <summary type="html"><![CDATA[らむねさんの共感性さんあつまれ〜♪に参加してきました らむねコンサルで使用しているストレングスファインダーには、34個に分類されている人類の才能。 同じ才能を持つ人たちが集まって話したら、どうなる！？ 初回はわたしのトッ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
