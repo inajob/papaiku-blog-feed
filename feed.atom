@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-12T23:23:34.493Z</id>
+    <id>urn:2022-07-13T02:21:16.209Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-12T23:23:34.493Z</updated>
+    <updated>2022-07-13T02:21:16.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Amazon Music Unlimited】知らないうちに有料登録にはご注意！便利なアマゾンミュージックの落とし穴]]></title>
+        <id>https://oton-tech.com/?p=310</id>
+        <link href="https://oton-tech.com/amazon-prime-music/"/>
+        <updated>2022-07-11T21:57:00.000Z</updated>
+        <summary type="html"><![CDATA[子供が家で過ごすおうち時間が長いときに、スマートスピーカーのお世話になっている方も多いのではないでしょうか。 我が家は、これで失敗しました。。 ふだんは “ アマゾンプライムミュージック ” を良 […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】miraicafe＆8月のご案内]]></title>
+        <id>https://decobocochan.com/?p=8027</id>
+        <link href="https://decobocochan.com/archives/8027"/>
+        <updated>2022-07-11T11:45:39.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 ということは…？ 裏方は、陽さん！ お部屋をまわりながら、ちゃきちゃき取り仕切ってください ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【レポ】カフェ コンフェイト企画]]></title>
         <id>https://decobocochan.com/?p=8023</id>
         <link href="https://decobocochan.com/archives/8023"/>
@@ -23,6 +43,16 @@
         <summary type="html"><![CDATA[ねこmimiさんのオンラインマンツーマンおしゃべり会へ行ってきました ねこmimiさんは、先日凸凹カフェにも来てくださったので 初対面ではなかったので、気楽に参加させていただきました ねこmimiさんってこんなおヒト 娘 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazon Audible】聴き放題のオーディブルの会員登録・料金・使い方からオススメ利用シーンまで紹介]]></title>
+        <id>https://oton-tech.com/?p=3382</id>
+        <link href="https://oton-tech.com/amazon-audible/"/>
+        <updated>2022-07-10T01:09:00.000Z</updated>
+        <summary type="html"><![CDATA[「本を読む時間がぜんぜんない！」「でも、本からのインプットはしたい！」 そんな悩みを抱えている方は多いと思いますし、私もその一人でした。通勤途中や家事の時間などを有効活用したいと思っても、紙の本にしろ電子書籍にしろ、目で […]]]></summary>
+        <author>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>
@@ -133,16 +163,6 @@
         <summary type="html"><![CDATA[次女が2歳の誕生日を迎えました。 トップ画像の通りに華やかな風船飾りで誕生日を迎えることができました。 しかしその裏には数々の（父親の）苦労がありまして…]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[びっくりする、この「あつかい」]]></title>
-        <id>https://decobocochan.com/?p=7817</id>
-        <link href="https://decobocochan.com/archives/7817"/>
-        <updated>2022-06-24T03:51:35.000Z</updated>
-        <summary type="html"><![CDATA[皆さんのところもそうなのだろうか？うちの市は、療育手帳と自立支援医療の更新のお知らせが…来ない療育手帳は、更新月が書かれているだけで期限をこえたからといっても使えるしそこから手続きをしても更新となる でも、自立支援医療は ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
