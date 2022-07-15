@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T21:20:54.259Z</id>
+    <id>urn:2022-07-15T22:22:46.001Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-15T21:20:54.259Z</updated>
+    <updated>2022-07-15T22:22:46.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[麦茶ポットを洗浄しなくても毎日清潔に麦茶を飲めるようになる方法]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/07/16/071126</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/07/16/071126"/>
+        <updated>2022-07-15T22:11:26.000Z</updated>
+        <summary type="html"><![CDATA[梅雨が明けて夏本番と思いきや再び長雨に戻ったり、不安定な天気が続いています。 しかしいずれはうだるような暑さがやってきます。 そんな時に役に立つのが麦茶です。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麦茶ポットを洗浄しなくても毎日清潔に麦茶を飲めるようになる方法]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/07/16/063505</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/07/16/063505"/>
+        <updated>2022-07-15T21:35:05.000Z</updated>
+        <summary type="html"><![CDATA[梅雨が明けて夏本番と思いきや再び長雨に戻ったり、不安定な天気が続いています。 しかしいずれはうだるような暑さがやってきます。 そんな時に役に立つのが麦茶です。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[双子育児は想像の10000倍の地獄]]></title>
         <id>https://irodorulife.com/?p=2542</id>
