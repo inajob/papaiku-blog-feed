@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T23:24:28.589Z</id>
+    <id>urn:2022-07-21T02:24:06.595Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-20T23:24:28.589Z</updated>
+    <updated>2022-07-21T02:24:06.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[チームタスクにおすすめタスクワールド（Taskworld）はなぜこんなに使いやすいのか！？]]></title>
+        <id>https://r-padre.com/?p=1011</id>
+        <link href="https://r-padre.com/recommended-for-team-tasks-why-is-taskworld-so-easy-to-use/"/>
+        <updated>2022-07-21T00:22:55.000Z</updated>
+        <summary type="html"><![CDATA[・チームタスクの管理方法がわからない ・綿密な計画を立てたいけど良いツールを探している ・リモートワークの普及により業務のチーム内連携に困っている こんな方にオススメしたいのが、「タスクワールド（Taskworld）」で
+The post チームタスクにおすすめタスクワールド（Taskworld）はなぜこんなに使いやすいのか！？ first appeared on パドレブログ.]]></summary>
+        <author>
+            <name>padre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保護中: 発達ゆっくりパパママ会【応募方法】]]></title>
         <id>https://papaganbarumon.com/?p=1602</id>
