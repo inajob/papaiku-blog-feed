@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T08:28:47.346Z</id>
+    <id>urn:2022-07-24T09:23:02.941Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-24T08:28:47.346Z</updated>
+    <updated>2022-07-24T09:23:02.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -249,16 +249,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用スライド 口頭だけで伝えるよりも 関係性などは、初めてだと相関図を見せる ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誕生日の風船飾りで大苦戦！そして母親が底力を出すための裏技の発見]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/06/25/060000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/06/25/060000"/>
-        <updated>2022-06-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[次女が2歳の誕生日を迎えました。 トップ画像の通りに華やかな風船飾りで誕生日を迎えることができました。 しかしその裏には数々の（父親の）苦労がありまして…]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
