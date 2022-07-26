@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T14:21:30.576Z</id>
+    <id>urn:2022-07-26T15:28:08.400Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-26T14:21:30.576Z</updated>
+    <updated>2022-07-26T15:28:08.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた]]></title>
+        <id>https://nicopoco.com/?p=1772</id>
+        <link href="https://nicopoco.com/self-back-poi-katsu"/>
+        <updated>2022-07-26T14:45:33.000Z</updated>
+        <summary type="html"><![CDATA[今回の記事は、まだポイ活、セルフバックをしたことがない方向けに書きます。既に大量にやってるよ～という方の参考にはならないので、悪しからず！！ ポイ活 いわゆるポイントをためまくることを総じてポイ活と呼 ...
+はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた first appeared on まろのみちしるべ.
+Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【検証】ファミマでレッドブル1本買うと50円割引券がもらえるキャンペーン中！！様々な買い方でクーポンが貰えるか確認しました]]></title>
         <id>https://kokoyayablog.com/?p=2917</id>
