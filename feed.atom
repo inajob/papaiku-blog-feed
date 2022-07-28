@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-28T14:26:02.070Z</id>
+    <id>urn:2022-07-28T15:27:03.950Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-28T14:26:02.070Z</updated>
+    <updated>2022-07-28T15:27:03.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[転職サイトと転職エージェントを徹底的に比較する企画]]></title>
-        <id>https://nicopoco.com/?p=1984</id>
-        <link href="https://nicopoco.com/agent"/>
-        <updated>2022-07-28T12:31:38.000Z</updated>
-        <summary type="html"><![CDATA[最近、転職サイト、転職エージェントが多くて、どこに登録していいかわからないと感じるようになりました。 今回は転職エージェントを徹底的に比較する企画を立案します。是非ご確認いただければと思います。 登録 ...
-転職サイトと転職エージェントを徹底的に比較する企画 first appeared on まろのみちしるべ.
-Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【多様性】子供の頃の入院が私に「普通」がないことを教えてくれた]]></title>
         <id>https://note.com/takaranran_mk/n/nf7d07bbb2fa1</id>
