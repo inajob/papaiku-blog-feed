@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-28T02:22:02.511Z</id>
+    <id>urn:2022-07-28T04:04:52.927Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-28T02:22:02.511Z</updated>
+    <updated>2022-07-28T04:04:52.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【多様性】子供の頃の入院が私に「普通」がないことを教えてくれた]]></title>
+        <id>https://note.com/takaranran_mk/n/nf7d07bbb2fa1</id>
+        <link href="https://note.com/takaranran_mk/n/nf7d07bbb2fa1"/>
+        <updated>2022-07-28T03:51:05.000Z</updated>
+        <summary type="html"><![CDATA[私は「普通」って言葉を毛嫌いしている。
+使うことを強く否定まではしないが、どうも「普通」という言葉を使われると違和感が拭えないから、やはり毛嫌いって感じ。自分ではあまり使わないようにしている。（いやまあ、そうは言っても普通に使うこともあるんだけど）
+「普通は・・・でしょ」と、あたかもこの世の摂理のような、一般論みたいに使う人が多いが、すごくおかしいと思っている。
+誰かひとりにとっての「普通」をそれぞれが持っているのであって、誰にも当てはまる「普通」なんて存在しない、という感覚が強いのだ。
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はじめたことな人のために、セルフバックするかポイ活するかについてを書いてみた]]></title>
         <id>https://nicopoco.com/?p=1772</id>
