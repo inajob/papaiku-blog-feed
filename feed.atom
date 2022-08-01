@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T23:23:42.875Z</id>
+    <id>urn:2022-08-01T02:31:39.470Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-07-31T23:23:42.875Z</updated>
+    <updated>2022-08-01T02:31:39.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -109,7 +109,7 @@ The post チームタスクにおすすめタスクワールド（Taskworld）�
         <id>https://decobocochan.com/?p=7970</id>
         <link href="https://decobocochan.com/archives/7970"/>
         <updated>2022-07-20T03:20:19.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加く ...]]></summary>
+        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
@@ -287,16 +287,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
         <author>
             <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月にたくさん読んでもらった記事★TOP 3]]></title>
-        <id>https://decobocochan.com/?p=7919</id>
-        <link href="https://decobocochan.com/archives/7919"/>
-        <updated>2022-07-02T12:12:34.000Z</updated>
-        <summary type="html"><![CDATA[6月は、ブログ開設5周年記念としてフリーなオンラインカフェを開催しました出入りフリー好きにきて好きにおしゃべりしてねの3時間コースわたしも学び…リアルで話ができないとの悲痛な想いを聞きました 凸凹ちゃんホームページのPV ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
