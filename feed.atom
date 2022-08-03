@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T08:33:17.704Z</id>
+    <id>urn:2022-08-03T09:23:25.574Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-03T08:33:17.704Z</updated>
+    <updated>2022-08-03T09:23:25.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,17 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[トイレに座らせておしっこができるようになる、つまりトイレトレーニングが終わると、子育ての負担がかなり下がるような気がします。 汚物処理をしなくて済むようになるので、心理的に抵抗感のある作業が減るからだと思います。 今回はトイレトレーニングの次の段階、「トイレに一人で行く」ということに焦点を当てて、我が家で効果があったことを紹介します。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームタスクにおすすめタスクワールド（Taskworld）はなぜこんなに使いやすいのか！？]]></title>
+        <id>https://r-padre.com/?p=1011</id>
+        <link href="https://r-padre.com/recommended-for-team-tasks-why-is-taskworld-so-easy-to-use/"/>
+        <updated>2022-07-21T00:22:55.000Z</updated>
+        <summary type="html"><![CDATA[・チームタスクの管理方法がわからない ・綿密な計画を立てたいけど良いツールを探している ・リモートワークの普及により業務のチーム内連携に困っている こんな方にオススメしたいのが、「タスクワールド（Taskworld）」で
+The post チームタスクにおすすめタスクワールド（Taskworld）はなぜこんなに使いやすいのか！？ first appeared on パドレブログ.]]></summary>
+        <author>
+            <name>padre</name>
         </author>
     </entry>
     <entry>
