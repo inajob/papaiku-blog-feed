@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-05T22:23:00.136Z</id>
+    <id>urn:2022-08-05T23:23:36.241Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-05T22:23:00.136Z</updated>
+    <updated>2022-08-05T23:23:36.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[海外から見ると、実は「日本の育児」はすごい！？]]></title>
+        <id>https://papaikuq.com/?p=3849</id>
+        <link href="https://papaikuq.com/?p=3849"/>
+        <updated>2022-08-05T22:31:09.000Z</updated>
+        <summary type="html"><![CDATA[日本にいると日本のことしか見えてこないため、ついつい日本の育児の良くない部分が目についてしまうことがあります。 ただ、実際に海外の育児に目を向けると、必ずしも海外の育児が完璧ではないことが分かります。 今回の記事では、イ […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年7月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2769</id>
