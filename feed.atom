@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-07T10:25:10.198Z</id>
+    <id>urn:2022-08-07T11:20:00.763Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-07T10:25:10.198Z</updated>
+    <updated>2022-08-07T11:20:00.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -227,16 +227,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[「本を読む時間がぜんぜんない！」「でも、本からのインプットはしたい！」 そんな悩みを抱えている方は多いと思いますし、私もその一人でした。通勤途中や家事の時間などを有効活用したいと思っても、紙の本にしろ電子書籍にしろ、目で […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏休み最後の夜に(2022年version)]]></title>
-        <id>https://decobocochan.com/?p=8005</id>
-        <link href="https://decobocochan.com/archives/8005"/>
-        <updated>2022-07-08T23:00:53.000Z</updated>
-        <summary type="html"><![CDATA[今年もやります！ 2020年は、個人で行っていました 2021年から未来地図で行っています 各地で夏休み明けのタイミングがちがうので、タイトルを少しだけ変えました 子どもの自殺が多くなる、夏休み明け （令和２年 児童生徒 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
