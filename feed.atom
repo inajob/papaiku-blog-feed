@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-08T12:50:16.418Z</id>
+    <id>urn:2022-08-08T13:47:25.620Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-08T12:50:16.418Z</updated>
+    <updated>2022-08-08T13:47:25.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -217,16 +217,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[ねこmimiさんのオンラインマンツーマンおしゃべり会へ行ってきました ねこmimiさんは、先日凸凹カフェにも来てくださったので 初対面ではなかったので、気楽に参加させていただきました ねこmimiさんってこんなおヒト 娘 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazon Audible】聴き放題のオーディブルの会員登録・料金・使い方からオススメ利用シーンまで紹介]]></title>
-        <id>https://oton-tech.com/?p=3382</id>
-        <link href="https://oton-tech.com/amazon-audible/"/>
-        <updated>2022-07-10T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[「本を読む時間がぜんぜんない！」「でも、本からのインプットはしたい！」 そんな悩みを抱えている方は多いと思いますし、私もその一人でした。通勤途中や家事の時間などを有効活用したいと思っても、紙の本にしろ電子書籍にしろ、目で […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
