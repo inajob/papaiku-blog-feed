@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T22:23:52.537Z</id>
+    <id>urn:2022-08-09T23:24:56.132Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-09T22:23:52.537Z</updated>
+    <updated>2022-08-09T23:24:56.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[子どものマイナンバーカードの登録、マイナポイント第２弾（最大２０,０００円分）に向けての準備｜赤ちゃんでも作れるの？更新しなきゃいけないの？]]></title>
+        <id>https://ikuziman.com/?p=798</id>
+        <link href="https://ikuziman.com/2022/08/10/mynumber_kids/"/>
+        <updated>2022-08-09T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[自分のマイナンバーカードもまだ作成できていなくて、通知カードのまま。という方もいるのではないでしょうか。２０２２年６月３０日から、マイナポイント事業が開始されました。新規登録の方は最大２０,０００円分のポイントを受け取る […]
+子どものマイナンバーカードの登録、マイナポイント第２弾（最大２０,０００円分）に向けての準備｜赤ちゃんでも作れるの？更新しなきゃいけないの？ first appeared on イクジマンBlog.]]></summary>
+        <author>
+            <name>satoshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【米英独の育児経験者にインタビュー】実は「日本の育児」はすごい！？]]></title>
         <id>https://papaikuq.com/?p=3849</id>
