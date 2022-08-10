@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T23:24:56.132Z</id>
+    <id>urn:2022-08-10T01:59:09.278Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-09T23:24:56.133Z</updated>
+    <updated>2022-08-10T01:59:09.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -208,16 +208,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[子供が家で過ごすおうち時間が長いときに、スマートスピーカーのお世話になっている方も多いのではないでしょうか。 我が家は、これで失敗しました。。 ふだんは “ アマゾンプライムミュージック ” を良 […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催レポ】miraicafe＆8月のご案内]]></title>
-        <id>https://decobocochan.com/?p=8027</id>
-        <link href="https://decobocochan.com/archives/8027"/>
-        <updated>2022-07-11T11:45:39.000Z</updated>
-        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 ということは…？ 裏方は、陽さん！ お部屋をまわりながら、ちゃきちゃき取り仕切ってください ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
