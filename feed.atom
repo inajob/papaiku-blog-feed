@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-10T14:22:09.937Z</id>
+    <id>urn:2022-08-10T15:24:53.353Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-10T14:22:09.937Z</updated>
+    <updated>2022-08-10T15:24:53.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -188,16 +188,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【予算帯別】オンライン授業／学習のおすすめパソコンはこれ！]]></title>
-        <id>https://oton-tech.com/?p=1609</id>
-        <link href="https://oton-tech.com/online-learning-pc/"/>
-        <updated>2022-07-12T03:19:48.000Z</updated>
-        <summary type="html"><![CDATA[大学時代のMacintoshからはじまり、IT業界で20年以上、いろんなパソコンを使い続けているおかさん（@OtonTech）です。 我が家でも本格的に子供のオンライン学習が始まり、スマホだと画面が見づらいため、パソコン […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
