@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T04:32:59.589Z</id>
+    <id>urn:2022-08-11T05:22:30.500Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-11T04:32:59.589Z</updated>
+    <updated>2022-08-11T05:22:30.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「男性育休不安解消クラス　職場復帰編」育休復帰後４ヵ月のまとめ～仕事と家庭の二刀流～]]></title>
+        <id>https://hongzhijintian.com/?p=907</id>
+        <link href="https://hongzhijintian.com/%e3%80%8c%e7%94%b7%e6%80%a7%e8%82%b2%e4%bc%91%e4%b8%8d%e5%ae%89%e8%a7%a3%e6%b6%88%e3%82%af%e3%83%a9%e3%82%b9%e3%80%80%e8%81%b7%e5%a0%b4%e5%be%a9%e5%b8%b0%e7%b7%a8%e3%80%8d%e8%82%b2%e4%bc%91%e5%be%a9/"/>
+        <updated>2022-08-11T04:58:02.000Z</updated>
+        <summary type="html"><![CDATA[男性育休取得後の大きな悩みが「職場復帰」 男性育休はまだかなりの少数派。前例が少なくどんな不安があるのかすらわからない… 復帰までに準備は何をどうしたらよいのか… そして、実際に育休終了後の職場復帰はどんなものなのか…  […]
+The post 「男性育休不安解消クラス　職場復帰編」育休復帰後４ヵ月のまとめ～仕事と家庭の二刀流～ first appeared on イクダン先生.]]></summary>
+        <author>
+            <name>イクダン先生</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子どものマイナンバーカードの登録、マイナポイント第２弾（最大２０,０００円分）に向けての準備｜赤ちゃんでも作れるの？更新しなきゃいけないの？]]></title>
         <id>https://ikuziman.com/?p=798</id>
