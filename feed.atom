@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T23:24:04.264Z</id>
+    <id>urn:2022-08-12T02:15:21.155Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-11T23:24:04.264Z</updated>
+    <updated>2022-08-12T02:15:21.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マイナポイント第２弾｜最大２０,０００円分、締切迫る！！｜2022年9月末までの申請が必要？！]]></title>
+        <id>https://ikuziman.com/?p=815</id>
+        <link href="https://ikuziman.com/2022/08/12/mynumber_point/"/>
+        <updated>2022-08-12T02:14:11.000Z</updated>
+        <summary type="html"><![CDATA[マイナポイント第２弾の申し込みが始まり、２ヶ月が経過しました。あなたはもう申請しましたか？マイナンバーカードの申請まだの方は、こちらの記事にありますので、参考にしてみてください。 この記事はこんな方におすすめ ・マイナン […]
+マイナポイント第２弾｜最大２０,０００円分、締切迫る！！｜2022年9月末までの申請が必要？！ first appeared on イクジマンBlog.]]></summary>
+        <author>
+            <name>satoshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダブル育休復帰後に夫婦でフルタイム復帰を選んだ理由]]></title>
         <id>https://tasogare-home.com/?p=2800</id>
@@ -197,18 +208,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 双子育児は想像の10000倍の地獄 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏到来！歳が６歳離れていても楽しめるおでかけスポットを紹介！！]]></title>
-        <id>https://nicopoco.com/?p=2006</id>
-        <link href="https://nicopoco.com/spot_to_play"/>
-        <updated>2022-07-13T13:14:03.000Z</updated>
-        <summary type="html"><![CDATA[7/13よりブログ駅伝が始まりました！ パパ育コミュ＠ブログ部における「ブログ駅伝」の活動として、2023年7月の「テーマ1：夏におすすめ、子供と一緒に行くお出かけスポット、テーマ2：最近買って良かっ ...
-夏到来！歳が６歳離れていても楽しめるおでかけスポットを紹介！！ first appeared on まろのみちしるべ.
-Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
