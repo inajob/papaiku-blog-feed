@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-13T05:20:49.043Z</id>
+    <id>urn:2022-08-13T06:28:32.269Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-13T05:20:49.043Z</updated>
+    <updated>2022-08-13T06:28:32.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ウォーキング読書で脳が活性化]]></title>
+        <id>https://note.com/mountainpeace/n/n22ee2f9a6d7f</id>
+        <link href="https://note.com/mountainpeace/n/n22ee2f9a6d7f"/>
+        <updated>2022-08-13T05:38:48.000Z</updated>
+        <summary type="html"><![CDATA[僕のストレス軽減に活用する
+耳読書の効用は以下の3つです。
+①嫌なことがあったら耳読書
+②複数冊よむと答えが見つかる
+③ウォーキング読書で脳が活性化
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[68%のストレスフリー効果]]></title>
         <id>https://note.com/mountainpeace/n/ne5af0ef652ee</id>
