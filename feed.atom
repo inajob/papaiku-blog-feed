@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T23:23:12.478Z</id>
+    <id>urn:2022-08-13T02:03:58.094Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-12T23:23:12.478Z</updated>
+    <updated>2022-08-13T02:03:58.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[68%のストレスフリー効果]]></title>
+        <id>https://note.com/mountainpeace/n/ne5af0ef652ee</id>
+        <link href="https://note.com/mountainpeace/n/ne5af0ef652ee"/>
+        <updated>2022-08-13T01:54:37.000Z</updated>
+        <summary type="html"><![CDATA[「6分間の読書で
+68%のストレス軽減効果がある」
+これってすごくないですか？
+こんにちは、kindle評論家のやまです。
+8冊目を執筆中です。
+まとめたこと、気づいたことなどを
+書いて行きたいと思います。
+よろしくお願いします。
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイナポイント第２弾｜最大２０,０００円分、締切迫る！！｜2022年9月末までの申請が必要？！]]></title>
         <id>https://ikuziman.com/?p=815</id>
