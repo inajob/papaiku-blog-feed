@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-14T10:25:08.800Z</id>
+    <id>urn:2022-08-14T11:19:56.028Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-14T10:25:08.800Z</updated>
+    <updated>2022-08-14T11:19:56.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -224,16 +224,6 @@ The post チームタスクにおすすめタスクワールド（Taskworld）�
 Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポイント還元】Amazon でのお買い物は、Amazon ギフト券へのチャージがお得！]]></title>
-        <id>https://oton-tech.com/?p=869</id>
-        <link href="https://oton-tech.com/amazon-gift-charge/"/>
-        <updated>2022-07-15T22:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazonでのお買い物、クレジットカードや現金払いなどを、そのまま利用していませんか？ 同じお買い物をするなら、お得にポイントを獲得しましょう。 Amazonギフト券へあらかじめチャージしておくことで、チャージ額に応じ […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
