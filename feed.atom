@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T16:40:41.121Z</id>
+    <id>urn:2022-08-18T17:39:22.258Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-18T16:40:41.121Z</updated>
+    <updated>2022-08-18T17:39:22.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -192,16 +192,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 The post チームタスクにおすすめタスクワールド（Taskworld）はなぜこんなに使いやすいのか！？ first appeared on パドレブログ.]]></summary>
         <author>
             <name>padre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護中: 発達ゆっくりパパママ会【応募方法】]]></title>
-        <id>https://papaganbarumon.com/?p=1602</id>
-        <link href="https://papaganbarumon.com/papa-mama-kai/"/>
-        <updated>2022-07-20T05:30:42.000Z</updated>
-        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
-        <author>
-            <name>ponkotupapa</name>
         </author>
     </entry>
 </feed>
