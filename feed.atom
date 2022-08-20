@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-20T22:23:03.267Z</id>
+    <id>urn:2022-08-20T23:22:31.848Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-20T22:23:03.267Z</updated>
+    <updated>2022-08-20T23:22:31.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【おわりに】を、また書いちゃった]]></title>
+        <id>https://note.com/mountainpeace/n/n08f9f04b4618</id>
+        <link href="https://note.com/mountainpeace/n/n08f9f04b4618"/>
+        <updated>2022-08-20T22:55:05.000Z</updated>
+        <summary type="html"><![CDATA[「8冊目ムリだな…
+僕にはもともと無理。才能もない。
+努力もできない。継続力なんて皆無だ…」
+ここ数日は、軽く打ちひしがれていました😅
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[群馬県みなかみ町『なかや旅館』子連れ旅行(10ヶ月&4歳)：宿泊体験記]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2022/08/10.html</id>
