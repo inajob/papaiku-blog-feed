@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T08:28:03.186Z</id>
+    <id>urn:2022-08-21T09:22:20.952Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-21T08:28:03.186Z</updated>
+    <updated>2022-08-21T09:22:20.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -223,16 +223,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
         <summary type="html"><![CDATA[記事の最後に、今回のブログ駅伝のオススメ記事も載せていますので、ぜひご覧ください！ 山梨県：シャトレーゼの工場見学 我が家の夏の定番の一つ、キャンプに行って、シャトレーゼの工場見学に寄って帰ってくる。 メロンやぶどうのカ […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スイッチに細工したら3歳児が1人でトイレに行ってくれるようになった話]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/07/23/060000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/07/23/060000"/>
-        <updated>2022-07-22T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トイレに座らせておしっこができるようになる、つまりトイレトレーニングが終わると、子育ての負担がかなり下がるような気がします。 汚物処理をしなくて済むようになるので、心理的に抵抗感のある作業が減るからだと思います。 今回はトイレトレーニングの次の段階、「トイレに一人で行く」ということに焦点を当てて、我が家で効果があったことを紹介します。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
