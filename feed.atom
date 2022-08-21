@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T16:32:33.060Z</id>
+    <id>urn:2022-08-21T17:22:59.885Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-21T16:32:33.060Z</updated>
+    <updated>2022-08-21T17:22:59.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -213,16 +213,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 続きをみる]]></summary>
         <author>
             <name>たからん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暑い夏だからこそ子供と楽しめるオススメスポット３選【関東圏】]]></title>
-        <id>https://oton-tech.com/?p=4264</id>
-        <link href="https://oton-tech.com/summer-recommend-spot/"/>
-        <updated>2022-07-23T05:14:31.000Z</updated>
-        <summary type="html"><![CDATA[記事の最後に、今回のブログ駅伝のオススメ記事も載せていますので、ぜひご覧ください！ 山梨県：シャトレーゼの工場見学 我が家の夏の定番の一つ、キャンプに行って、シャトレーゼの工場見学に寄って帰ってくる。 メロンやぶどうのカ […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
