@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T10:26:56.250Z</id>
+    <id>urn:2022-08-23T11:20:19.251Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-23T10:26:56.250Z</updated>
+    <updated>2022-08-23T11:20:19.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[すべては、モルックからはじまる]]></title>
+        <id>https://decobocochan.com/?p=8075</id>
+        <link href="https://decobocochan.com/archives/8075"/>
+        <updated>2022-08-23T10:45:34.000Z</updated>
+        <summary type="html"><![CDATA[パパ育コミュ＠ブログ部における「ブログ駅伝」の活動として 第5回を2022年7月14日（木）から始まった駅伝レース ゴールは8月中旬予定 の両方をミックスさせて書きますよ 【イグアス】チームの走者は以下の通りです。 モル ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[33歳妻子持ち教師のドキドキ初転職活動の記録と学び！]]></title>
         <id>https://hongzhijintian.com/?p=909</id>
