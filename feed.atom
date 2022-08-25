@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T04:45:36.309Z</id>
+    <id>urn:2022-08-25T05:57:25.214Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-25T04:45:36.309Z</updated>
+    <updated>2022-08-25T05:57:25.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,7 +16,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[みんなでキャッチコピー考えながら未来予想図を語ろうの会]]></title>
+        <title type="html"><![CDATA[【募集中】みんなでキャッチコピー考えながら未来予想図を語ろうの会]]></title>
         <id>https://decobocochan.com/?p=8196</id>
         <link href="https://decobocochan.com/archives/8196"/>
         <updated>2022-08-23T21:10:42.000Z</updated>
