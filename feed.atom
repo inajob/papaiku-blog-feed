@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-28T22:23:20.372Z</id>
+    <id>urn:2022-08-28T23:24:13.464Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-28T22:23:20.372Z</updated>
+    <updated>2022-08-28T23:24:13.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『音読の血流効果がすごい』]]></title>
+        <id>https://note.com/mountainpeace/n/nbfeebe3a10b1</id>
+        <link href="https://note.com/mountainpeace/n/nbfeebe3a10b1"/>
+        <updated>2022-08-28T23:16:55.000Z</updated>
+        <summary type="html"><![CDATA[7月、
+小学生に上がったばかりの長男が
+ランドセルから国語の教科書を
+取り出しました。
+6月頃から
+わが家では、夕食を食べお風呂に
+入る直前に、長男が
+学校の宿題で、教科書を音読する
+ようになりました。
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コークオンのキャンペーン再び。しかもトリプルキャンペーン]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/08/28/222257</id>
