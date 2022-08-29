@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T14:23:56.417Z</id>
+    <id>urn:2022-08-29T15:26:30.803Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-29T14:23:56.417Z</updated>
+    <updated>2022-08-29T15:26:30.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】miraicafe＆9月のご案内]]></title>
+        <id>https://decobocochan.com/?p=8310</id>
+        <link href="https://decobocochan.com/archives/8310"/>
+        <updated>2022-08-29T14:22:24.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『音読の血流効果がすごい』]]></title>
         <id>https://note.com/mountainpeace/n/nbfeebe3a10b1</id>
