@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T22:24:22.867Z</id>
+    <id>urn:2022-08-29T23:25:53.678Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-29T22:24:22.867Z</updated>
+    <updated>2022-08-29T23:25:53.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【開催レポ】miraicafe＆9月のご案内]]></title>
+        <title type="html"><![CDATA[速聴で頭がよくなる！]]></title>
+        <id>https://note.com/mountainpeace/n/nf8ca733c519f</id>
+        <link href="https://note.com/mountainpeace/n/nf8ca733c519f"/>
+        <updated>2022-08-29T22:34:08.000Z</updated>
+        <summary type="html"><![CDATA[＼ マジですか心が震えた ／
+「速聴で頭の回転が速くなる」とか、
+「音読をすると脳が活性化する」とか、
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【miraicafeレポ】私の辛さを手放すにはどうしたらいいの？＆9月のご案内]]></title>
         <id>https://decobocochan.com/?p=8310</id>
         <link href="https://decobocochan.com/archives/8310"/>
         <updated>2022-08-29T14:22:24.000Z</updated>
