@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T10:28:08.077Z</id>
+    <id>urn:2022-08-29T11:21:52.527Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-29T10:28:08.077Z</updated>
+    <updated>2022-08-29T11:21:52.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -22,6 +22,16 @@
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あなたに贈る「夏休み最後の夜に(2022年version)」]]></title>
+        <id>https://decobocochan.com/?p=8283</id>
+        <link href="https://decobocochan.com/archives/8283"/>
+        <updated>2022-08-28T14:59:42.000Z</updated>
+        <summary type="html"><![CDATA[夏休み、終わりましたか？ 新学期はじまったでしょうか？ 親にとっては、ようやく学校に行ってくれると思う時期 でも 子どもにとっては、ちがうかもしれません 眠れない夜をすごしている、子どもがいる 明けない夜に絶望している、 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
