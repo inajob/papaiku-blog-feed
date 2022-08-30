@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T04:55:22.827Z</id>
+    <id>urn:2022-08-30T06:16:50.118Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-30T04:55:22.827Z</updated>
+    <updated>2022-08-30T06:16:50.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【開催レポ】しーほ with りょう育ママ コラボトーーーーク「2回目」]]></title>
+        <id>https://decobocochan.com/?p=8295</id>
+        <link href="https://decobocochan.com/archives/8295"/>
+        <updated>2022-08-30T05:52:13.000Z</updated>
+        <summary type="html"><![CDATA[前回は、土曜日の夜に行った、コラボトーク 2回目は、平日の昼間開催 参加者も 雰囲気もガラッと変わりました しーほさんのユーモアセンス 前回、しいさんのターバンをつけて参加した、わたし それを見て、似たような感じなのを作 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[速聴で頭がよくなる！]]></title>
         <id>https://note.com/mountainpeace/n/nf8ca733c519f</id>
