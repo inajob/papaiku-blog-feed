@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T11:21:01.558Z</id>
+    <id>urn:2022-08-31T12:52:46.928Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-08-31T11:21:01.558Z</updated>
+    <updated>2022-08-31T12:52:46.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[耳読書を４倍速で聴く方法【iPhone編】]]></title>
+        <id>https://note.com/mountainpeace/n/nfda49e2d9b37</id>
+        <link href="https://note.com/mountainpeace/n/nfda49e2d9b37"/>
+        <updated>2022-08-31T11:59:12.000Z</updated>
+        <summary type="html"><![CDATA[速聴など、
+能力開発の分野では、
+【速聴は4倍速から真価を発揮する】
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メディア情報（2022.8）]]></title>
+        <id>https://decobocochan.com/?p=7959</id>
+        <link href="https://decobocochan.com/archives/7959"/>
+        <updated>2022-08-31T11:30:27.000Z</updated>
+        <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催レポ】しーほ with りょう育ママ コラボトーーーーク「2回目」]]></title>
         <id>https://decobocochan.com/?p=8295</id>
