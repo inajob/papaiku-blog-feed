@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T16:36:50.081Z</id>
+    <id>urn:2022-09-06T17:30:30.369Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-06T16:36:50.081Z</updated>
+    <updated>2022-09-06T17:30:30.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[【2022年8月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=2812</id>
-        <link href="https://tasogare-home.com/investmentperformance-2208/"/>
-        <updated>2022-09-04T12:48:38.000Z</updated>
-        <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[8月にたくさん読んでもらった記事★TOP 3]]></title>
         <id>https://decobocochan.com/?p=8394</id>
@@ -377,16 +367,6 @@ Copyright © 2022 まろのみちしるべ All Rights Reserved.]]></summary>
 マイナポイント第２弾｜最大２０,０００円分、締切迫る！！｜2022年9月末までの申請が必要？！ first appeared on イクジマンBlog.]]></summary>
         <author>
             <name>satoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダブル育休復帰後に夫婦でフルタイム復帰を選んだ理由]]></title>
-        <id>https://tasogare-home.com/?p=2800</id>
-        <link href="https://tasogare-home.com/fulltime-reason/"/>
-        <updated>2022-08-11T13:03:55.000Z</updated>
-        <summary type="html"><![CDATA[我が家は夫婦でフルタイム復帰を選びましたが、その理由を本記事で紹介していこうと思います！ 実際に夫婦で話し合った流れに沿って説明していきます。 最後には実際にフルタイム勤務での生活を送ってみての実情を書いていきます。]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
