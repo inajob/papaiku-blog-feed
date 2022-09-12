@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T20:28:27.905Z</id>
+    <id>urn:2022-09-12T21:24:49.287Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-12T20:28:27.905Z</updated>
+    <updated>2022-09-12T21:24:49.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -341,19 +341,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
   赤ちゃん用のおしり拭きや、子供・赤ちゃん用の歯ブ…]]></summary>
         <author>
             <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【おわりに】を書いてみた8冊目原稿]]></title>
-        <id>https://note.com/mountainpeace/n/n41e6a239fcc4</id>
-        <link href="https://note.com/mountainpeace/n/n41e6a239fcc4"/>
-        <updated>2022-08-14T09:07:37.000Z</updated>
-        <summary type="html"><![CDATA[【おわりに】
-
-
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
 </feed>
