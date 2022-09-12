@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T14:31:30.115Z</id>
+    <id>urn:2022-09-12T15:31:18.488Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-12T14:31:30.115Z</updated>
+    <updated>2022-09-12T15:31:18.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【miraicafeレポ】お子さんにどんな期待を していますか？＆10月のご案内]]></title>
+        <id>https://decobocochan.com/?p=8514</id>
+        <link href="https://decobocochan.com/archives/8514"/>
+        <updated>2022-09-11T14:55:33.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、4名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[転職エージェント比較：en worldとJAC Recruitment]]></title>
         <id>https://nicopoco.com/?p=2110</id>
@@ -267,16 +277,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/8251"/>
         <updated>2022-08-25T22:00:28.000Z</updated>
         <summary type="html"><![CDATA[7月は、後半夏休みに入りご飯を作り作り作り続けて…凸凹カフェのリアル開催をいたしました 凸凹ちゃんホームページのPV数   記事数 ページビュー数 訪問者数 ドメインパワー Googleアドセンス 1月 27  ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年9月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=8177</id>
-        <link href="https://decobocochan.com/archives/8177"/>
-        <updated>2022-08-24T22:12:02.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
