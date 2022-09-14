@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T11:23:23.669Z</id>
+    <id>urn:2022-09-14T12:54:50.000Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-14T11:23:23.669Z</updated>
+    <updated>2022-09-14T12:54:50.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【募集】10月凸凹カフェオンラインコラボ「子どもに向き合うために必要な支援ーお金編。〜様々な制度を知り子育てをラクにする～」]]></title>
+        <id>https://decobocochan.com/?p=8551</id>
+        <link href="https://decobocochan.com/archives/8551"/>
+        <updated>2022-09-14T11:59:42.000Z</updated>
+        <summary type="html"><![CDATA[7月の凸凹カフェでご好評イただきました みやっち先生と 今度は、オンラインでコラボ！ 発達障害当事者かつ ファイナンシャルプランナーで 学童保育の先生と家庭教師をしながら 発達障害に関する講師活動を行なっている みやっち ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【miraicafeレポ】お子さんにどんな期待を していますか？＆10月のご案内]]></title>
         <id>https://decobocochan.com/?p=8514</id>
@@ -269,16 +279,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
 Copyright © 2022 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月にたくさん読んでもらった記事★TOP 3]]></title>
-        <id>https://decobocochan.com/?p=8251</id>
-        <link href="https://decobocochan.com/archives/8251"/>
-        <updated>2022-08-25T22:00:28.000Z</updated>
-        <summary type="html"><![CDATA[7月は、後半夏休みに入りご飯を作り作り作り続けて…凸凹カフェのリアル開催をいたしました 凸凹ちゃんホームページのPV数   記事数 ページビュー数 訪問者数 ドメインパワー Googleアドセンス 1月 27  ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
