@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T11:23:36.820Z</id>
+    <id>urn:2022-09-15T12:57:40.385Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-15T11:23:36.820Z</updated>
+    <updated>2022-09-15T12:57:40.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想【6】]]></title>
+        <id>https://decobocochan.com/?p=8579</id>
+        <link href="https://decobocochan.com/archives/8579"/>
+        <updated>2022-09-15T11:47:34.000Z</updated>
+        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用スライド あれもこれも言いたい！となると どんどんスライドふえていくよね ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】10月凸凹カフェオンラインコラボ「子どもに向き合うために必要な支援ーお金編。〜様々な制度を知り子育てをラクにする～」]]></title>
         <id>https://decobocochan.com/?p=8551</id>
@@ -257,16 +267,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[2021年末のキャンペーン以降、毎日5000歩以上歩くようになりました。 その時のキャンペーンは、文字通りスタンプ祭りでした。 brushwoodcape.hatenablog.com そして再び、コークオンのキャンペーンが実施されています。 今回は前回よりもさらにパワーアップしたトリプルキャンペーンとなっており、それぞれキャンペーンについて説明します。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催レポ】しーほ with りょう育ママ コラボトーーーーク「1回目」]]></title>
-        <id>https://decobocochan.com/?p=8021</id>
-        <link href="https://decobocochan.com/archives/8021"/>
-        <updated>2022-08-26T21:48:16.000Z</updated>
-        <summary type="html"><![CDATA[1回目は、初回と言うこともあり 何が飛び出すのかわからない たのしい ワクワクな感じでした しーほさんの想い 当初LIVE配信を予定していたけど ヒトをいじるのを大好きだから、オンラインとなった 相手の反応がわかる ゆっ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
