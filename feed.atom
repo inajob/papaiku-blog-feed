@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T06:20:39.791Z</id>
+    <id>urn:2022-09-19T07:45:23.128Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-19T06:20:39.791Z</updated>
+    <updated>2022-09-19T07:45:23.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メディア情報（2022.9)]]></title>
+        <id>https://decobocochan.com/?p=8369</id>
+        <link href="https://decobocochan.com/archives/8369"/>
+        <updated>2022-09-19T07:20:01.000Z</updated>
+        <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマホ名刺作品【3】]]></title>
         <id>https://decobocochan.com/?p=8601</id>
         <link href="https://decobocochan.com/archives/8601"/>
-        <updated>2022-09-19T05:00:01.000Z</updated>
+        <updated>2022-09-18T05:00:01.000Z</updated>
         <summary type="html"><![CDATA[ねこmimiさんとのコラボきっかけになった「スマホ名刺」 大阪まで来ていただいた時に直接！ご依頼くださいました 肩書も キャッチコピーもないけど 名刺つくれませんか？と 肩書なくても名刺つくれるよ 正直、自己紹介するとき ...]]></summary>
         <author>
             <name>りょう育ママ</name>
@@ -213,16 +223,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/7959"/>
         <updated>2022-08-31T11:30:27.000Z</updated>
         <summary type="html"><![CDATA[凸凹ちゃん、不登校、こもりむし、教育関連、またわたしが興味を持ったメディア情報をまとめました ご自身の興味があるものだけを見ていただければ…と思います ネットサーフィン不安な時期は、見なくても大丈夫 メディア情報は、読み ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催レポ】しーほ with りょう育ママ コラボトーーーーク「2回目」]]></title>
-        <id>https://decobocochan.com/?p=8295</id>
-        <link href="https://decobocochan.com/archives/8295"/>
-        <updated>2022-08-30T05:52:13.000Z</updated>
-        <summary type="html"><![CDATA[前回は、土曜日の夜に行った、コラボトーク 2回目は、平日の昼間開催 参加者も 雰囲気もガラッと変わりました しーほさんのユーモアセンス 前回、しいさんのターバンをつけて参加した、わたし それを見て、似たような感じなのを作 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
