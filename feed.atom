@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T10:31:07.218Z</id>
+    <id>urn:2022-09-19T11:23:07.958Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-19T10:31:07.218Z</updated>
+    <updated>2022-09-19T11:23:07.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -289,20 +289,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[ようやく真夏のピークを過ぎて猛暑の日は減ってきましたが、まだまだ暑い日が続いています。 毎日エアコンがフル稼働している家庭も多いのではないでしょうか。 我が家も極度に暑がりの幼児がいるため、できる限り子供の体感温度に合わせて室内の温度調節をしていました。 しかしある猛暑日の昼間に帰宅してエアコンを起動したらエラーが出て作動しない非常事態が発生！]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【おわりに】を、また書いちゃった]]></title>
-        <id>https://note.com/mountainpeace/n/n08f9f04b4618</id>
-        <link href="https://note.com/mountainpeace/n/n08f9f04b4618"/>
-        <updated>2022-08-20T22:55:05.000Z</updated>
-        <summary type="html"><![CDATA[「8冊目ムリだな…
-僕にはもともと無理。才能もない。
-努力もできない。継続力なんて皆無だ…」
-ここ数日は、軽く打ちひしがれていました😅
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
 </feed>
