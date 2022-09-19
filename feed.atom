@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T04:58:53.082Z</id>
+    <id>urn:2022-09-19T06:20:39.791Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-19T04:58:53.082Z</updated>
+    <updated>2022-09-19T06:20:39.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スマホ名刺作品【3】]]></title>
+        <id>https://decobocochan.com/?p=8601</id>
+        <link href="https://decobocochan.com/archives/8601"/>
+        <updated>2022-09-19T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[ねこmimiさんとのコラボきっかけになった「スマホ名刺」 大阪まで来ていただいた時に直接！ご依頼くださいました 肩書も キャッチコピーもないけど 名刺つくれませんか？と 肩書なくても名刺つくれるよ 正直、自己紹介するとき ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【9/11 開催レポ】みんなでキャッチコピー考えながら未来予想図を語ろうの会]]></title>
         <id>https://decobocochan.com/?p=8516</id>
@@ -228,16 +238,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【miraicafeレポ】私のつらさを手放すにはどうしたらいいの？＆9月のご案内]]></title>
-        <id>https://decobocochan.com/?p=8310</id>
-        <link href="https://decobocochan.com/archives/8310"/>
-        <updated>2022-08-29T14:22:24.000Z</updated>
-        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
