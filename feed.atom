@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T14:00:27.908Z</id>
+    <id>urn:2022-09-21T14:35:58.096Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-21T14:00:27.908Z</updated>
+    <updated>2022-09-21T14:35:58.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -349,16 +349,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
 Copyright © 2022 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暑すぎるとエアコンが使えない非常事態！あるものを使ってエラー解消]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/08/23/113000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/08/23/113000"/>
-        <updated>2022-08-23T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ようやく真夏のピークを過ぎて猛暑の日は減ってきましたが、まだまだ暑い日が続いています。 毎日エアコンがフル稼働している家庭も多いのではないでしょうか。 我が家も極度に暑がりの幼児がいるため、できる限り子供の体感温度に合わせて室内の温度調節をしていました。 しかしある猛暑日の昼間に帰宅してエアコンを起動したらエラーが出て作動しない非常事態が発生！]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
