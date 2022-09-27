@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T23:33:13.986Z</id>
+    <id>urn:2022-09-27T02:36:51.405Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-26T23:33:13.986Z</updated>
+    <updated>2022-09-27T02:36:51.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -337,16 +337,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コークオンのキャンペーン再び。しかもトリプルキャンペーン]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/08/28/222257</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/08/28/222257"/>
-        <updated>2022-08-28T13:22:57.000Z</updated>
-        <summary type="html"><![CDATA[2021年末のキャンペーン以降、毎日5000歩以上歩くようになりました。 その時のキャンペーンは、文字通りスタンプ祭りでした。 brushwoodcape.hatenablog.com そして再び、コークオンのキャンペーンが実施されています。 今回は前回よりもさらにパワーアップしたトリプルキャンペーンとなっており、それぞれキャンペーンについて説明します。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
