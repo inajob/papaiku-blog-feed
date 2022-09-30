@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T14:03:17.848Z</id>
+    <id>urn:2022-09-30T15:31:46.773Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-09-30T14:03:17.848Z</updated>
+    <updated>2022-09-30T15:31:46.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【動画あり】ヘルメットシールドの曇り対策！アライアストラルXにピンロックシートを貼り付け【貼り付け方解説あり】]]></title>
+        <id>https://kokoyayablog.com/?p=2637</id>
+        <link href="https://kokoyayablog.com/arai-asutorox-install-the-pinlocksheet/"/>
+        <updated>2022-09-30T15:11:28.000Z</updated>
+        <summary type="html"><![CDATA[沖縄の年間降水日数は129日！※政府統計（統計で見る都道府県・市町村のすがた）から引用。 意外と雨降りが多く、毎日バイクに乗る通勤ライダーには雨対策、曇り対策は必須です。 私の所有するアストラルXには、ピンロックシート用 […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[円安を味方につける外貨活用法、海外旅行の余りの小銭も手軽に換金]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/09/26/215612</id>
