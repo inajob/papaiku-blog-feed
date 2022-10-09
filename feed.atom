@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-09T14:26:03.490Z</id>
+    <id>urn:2022-10-09T15:30:10.141Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-10-09T14:26:03.490Z</updated>
+    <updated>2022-10-09T15:30:10.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -225,16 +225,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【予算帯別】オンライン授業／学習のおすすめパソコンはこれ！]]></title>
-        <id>https://oton-tech.com/?p=1609</id>
-        <link href="https://oton-tech.com/online-learning-pc/"/>
-        <updated>2022-09-10T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[大学時代のMacintoshからはじまり、IT業界で20年以上、いろんなパソコンを使い続けているおかさん（@OtonTech）です。 我が家でも本格的に子供のオンライン学習が始まり、スマホだと画面が見づらいため、パソコン […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
