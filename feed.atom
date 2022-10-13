@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T23:33:37.345Z</id>
+    <id>urn:2022-10-13T02:40:43.694Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-10-12T23:33:37.345Z</updated>
+    <updated>2022-10-13T02:40:43.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2022年11月セミナー・イベント情報]]></title>
+        <id>https://decobocochan.com/?p=8689</id>
+        <link href="https://decobocochan.com/archives/8689"/>
+        <updated>2022-10-13T00:57:18.000Z</updated>
+        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年9月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2840</id>
