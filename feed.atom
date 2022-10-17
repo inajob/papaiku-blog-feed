@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-17T21:25:25.520Z</id>
+    <id>urn:2022-10-17T22:30:37.810Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-10-17T21:25:25.520Z</updated>
+    <updated>2022-10-17T22:30:37.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2022年9月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=2840</id>
-        <link href="https://tasogare-home.com/investmentperformance-2209/"/>
-        <updated>2022-10-02T14:02:55.000Z</updated>
-        <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【深大寺の散策前後に読みたい本】深大寺をより楽しむために]]></title>
         <id>https://oton-tech.com/?p=4314</id>
         <link href="https://oton-tech.com/book-about-jindaiji/"/>
@@ -46,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【検証】ファミマでレッドブル1本買うと50円割引券がもらえるキャンペーン中！！様々な買い方でクーポンが貰えるか確認しました(2022年9月27日~2022年10月24日)]]></title>
-        <id>https://kokoyayablog.com/?p=3011</id>
-        <link href="https://kokoyayablog.com/20220927-20221024-familymartredbullcampaign/"/>
-        <updated>2022-10-01T01:46:18.000Z</updated>
-        <summary type="html"><![CDATA[2022年9月27日(火)〜10月24日(月)までファミリーマートにて対象のレッドブルを買うと次回使える50円割引券がもらえるキャンペーンが実施されています。 8月の開催時はファミリーマートの公式サイトに記載がありました […]]]></summary>
-        <author>
-            <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[子供が小さいうちはホテル素泊まりが手軽で楽しい、という話]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/10/01/100000</id>
         <link href="https://brushwoodcape.hatenablog.com/entry/2022/10/01/100000"/>
@@ -63,16 +43,6 @@
         <summary type="html"><![CDATA[3歳と2歳の姉妹はまだまだ手がかかります。 歩ける距離も短いし、動きも遅いです。 そんな子供たちなので連れ歩くのは一苦労ですが、コロナ禍の自粛ばかりではなく、非日常の体験を味わってもらいたいです。 そこで旅行というよりはホテルに泊まるための遠出をしたところ、素泊まりで十分、いや素泊まりが最高ということが分かりました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【動画あり】ヘルメットシールドの曇り対策！アライアストラルXにピンロックシートを貼り付け【貼り付け方解説あり】]]></title>
-        <id>https://kokoyayablog.com/?p=2637</id>
-        <link href="https://kokoyayablog.com/arai-asutorox-install-the-pinlocksheet/"/>
-        <updated>2022-09-30T15:11:28.000Z</updated>
-        <summary type="html"><![CDATA[沖縄の年間降水日数は129日！※政府統計（統計で見る都道府県・市町村のすがた）から引用。 意外と雨降りが多く、毎日バイクに乗る通勤ライダーには雨対策、曇り対策は必須です。 私の所有するアストラルXには、ピンロックシート用 […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
     <entry>
