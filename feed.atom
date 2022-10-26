@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T23:30:13.227Z</id>
+    <id>urn:2022-10-26T02:25:52.896Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-10-25T23:30:13.227Z</updated>
+    <updated>2022-10-26T02:25:52.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,16 +73,6 @@
         <summary type="html"><![CDATA[沖縄の年間降水日数は129日！※政府統計（統計で見る都道府県・市町村のすがた）から引用。 意外と雨降りが多く、毎日バイクに乗る通勤ライダーには雨対策、曇り対策は必須です。 私の所有するアストラルXには、ピンロックシート用 […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[円安を味方につける外貨活用法、海外旅行の余りの小銭も手軽に換金]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/09/26/215612</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/09/26/215612"/>
-        <updated>2022-09-26T12:56:12.000Z</updated>
-        <summary type="html"><![CDATA[円安が進行しています。2022年3月までは1ドル115円程度でしたが、この記事を執筆している9月後半には144円まで円安が進行し、わずか半年で25%もアメリカドルの価値が上昇しました。このドル円相場は実に24年ぶりとなっています。 そして円安の進行によって海外から輸入する製品の値上げが相次いでいます。特に食料品の値上がりで、家計に直接的な影響を感じられている人もいると思います。こんな時に役立つ方法として、手軽にできる外貨両替のやり方を紹介します。 海外旅行後に残った現地通貨があれば、すぐに現金化できます。高額紙幣のより良い両替方法に加え、少額の小銭の両替も紹介します。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
