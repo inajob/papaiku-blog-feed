@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-30T12:48:33.784Z</id>
+    <id>urn:2022-10-30T13:37:24.028Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-10-30T12:48:33.784Z</updated>
+    <updated>2022-10-30T13:37:24.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -63,16 +63,6 @@
         <summary type="html"><![CDATA[2022年9月27日(火)〜10月24日(月)までファミリーマートにて対象のレッドブルを買うと次回使える50円割引券がもらえるキャンペーンが実施されています。 8月の開催時はファミリーマートの公式サイトに記載がありました […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子供が小さいうちはホテル素泊まりが手軽で楽しい、という話]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/10/01/100000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/10/01/100000"/>
-        <updated>2022-10-01T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3歳と2歳の姉妹はまだまだ手がかかります。 歩ける距離も短いし、動きも遅いです。 そんな子供たちなので連れ歩くのは一苦労ですが、コロナ禍の自粛ばかりではなく、非日常の体験を味わってもらいたいです。 そこで旅行というよりはホテルに泊まるための遠出をしたところ、素泊まりで十分、いや素泊まりが最高ということが分かりました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
