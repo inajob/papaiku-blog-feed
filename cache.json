@@ -10,18 +10,7 @@
       "title": "おとんTechブログ",
       "feedUrl": "https://oton-tech.com/feed/",
       "siteUrl": "https://oton-tech.com",
-      "articles": [
-        {
-          "id": "https://oton-tech.com/?p=4314",
-          "author": "okasan",
-          "description": "調布にある深大寺、都心から1時間以内のパワースポットで多くの観光客で賑わっています。 調布駅前の調布市観光案内所「ぬくもりステーション」や、深大寺観光案内所があり、予備知識なく訪れても何とでもなるのですが、行く前に見てお […]",
-          "link": "https://oton-tech.com/book-about-jindaiji/",
-          "publishedOn": "2022-10-02T03:38:45.000Z",
-          "wordCount": 9835,
-          "title": "【深大寺の散策前後に読みたい本】深大寺をより楽しむために",
-          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/10/jindaiji_reference_book_min.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "こやたか|隙間時間でスキルアップできる！",
