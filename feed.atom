@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T07:26:32.459Z</id>
+    <id>urn:2022-11-01T08:33:01.116Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-01T07:26:32.459Z</updated>
+    <updated>2022-11-01T08:33:01.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【miraicafeレポ】登校しないでいいと多くの本に書いてあるけど、 それ本当？＆12月のご案内]]></title>
+        <id>https://decobocochan.com/?p=8765</id>
+        <link href="https://decobocochan.com/archives/8765"/>
+        <updated>2022-11-01T08:15:39.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 今回は、夜なのでmiraibar スライドも少しかえてシックにしました barがOPENする前に ミュージックとスライドショーをしています 飲み物をご準 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[妹を褒めたらワザとお漏らし3回!? 上の子への継続的な声掛けの重要性]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/10/28/200000</id>
