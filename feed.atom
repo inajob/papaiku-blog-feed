@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T14:25:42.384Z</id>
+    <id>urn:2022-11-03T15:33:26.088Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-03T14:25:42.384Z</updated>
+    <updated>2022-11-03T15:33:26.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『39歳でオーストラリア移住決断、嬉しかったこと、大変だったことは？』]]></title>
+        <id>https://note.com/mountainpeace/n/n7e492bf71d2f</id>
+        <link href="https://note.com/mountainpeace/n/n7e492bf71d2f"/>
+        <updated>2022-11-03T14:35:20.000Z</updated>
+        <summary type="html"><![CDATA[先日オーストラリアの、Kindle作家かずのこさんと対談した、Twitterスペース音声を、YouTuberにUPしました。オーストラリアは日本の国土の約20倍、時差も国土が広いため平均2時間の時差がありますが、かずのこさんの在住地は約1時間半の時差。国土の広さを感じました✨
+https://youtu.be/rEhsf6lLLNc
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【miraicafeレポ】登校しないでいいと多くの本に書いてあるけど、 それ本当？＆12月のご案内]]></title>
         <id>https://decobocochan.com/?p=8765</id>
