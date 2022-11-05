@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T10:26:36.913Z</id>
+    <id>urn:2022-11-05T11:18:39.982Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-05T10:26:36.913Z</updated>
+    <updated>2022-11-05T11:18:39.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[学習絵本「めばえ」12月号付録のパウパトロール自動販売機の再現度がすごい]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/11/05/201345</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/11/05/201345"/>
+        <updated>2022-11-05T11:13:45.000Z</updated>
+        <summary type="html"><![CDATA[小学館が発行している2～4歳児向けの学習絵本「めばえ」を買ってみました。 幼児向け雑誌なので付録は切り貼りして遊ぶものだろうと思っていたら、再現度の高いギミックのあるおもちゃが出てきて驚きました。 子どもたちに大人気のパウパトロールが使われていることもあり、幼児におすすめの本として紹介していきます。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022深大寺そばまつり】今年も開催！深大寺そば巡り！]]></title>
         <id>https://oton-tech.com/?p=4401</id>
