@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T02:10:37.138Z</id>
+    <id>urn:2022-11-05T03:51:06.724Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-05T02:10:37.138Z</updated>
+    <updated>2022-11-05T03:51:06.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2022深大寺そばまつり】今年も開催！深大寺そば巡り！]]></title>
+        <id>https://oton-tech.com/?p=4401</id>
+        <link href="https://oton-tech.com/jindaiji-soba-festival/"/>
+        <updated>2022-11-05T03:14:24.000Z</updated>
+        <summary type="html"><![CDATA[今年も恒例の『深大寺そばまつり（第41回）』が開催されます！ この記事では地元民の私が、2022年11月26日（土）～12月4日（日）に開催の、深大寺そばまつりについて紹介します。 2022年の深大寺そばまつり（第41回 […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三浦優樹さんスペース初登場！withきくちしんいちさん♪]]></title>
         <id>https://note.com/mountainpeace/n/n9f2aa0cd055e</id>
