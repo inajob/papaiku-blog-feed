@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-11T10:29:42.816Z</id>
+    <id>urn:2022-11-11T11:21:47.848Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-11T10:29:42.816Z</updated>
+    <updated>2022-11-11T11:21:47.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[赤ちゃんから幼児への成長を感じた瞬間は「髪を切った時」でした]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/11/11/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/11/11/200000"/>
+        <updated>2022-11-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[赤ちゃんから幼児への成長を感じる瞬間と聞かれたら、何を思い浮かべるでしょうか? しっかり歩けるようになった時、自分でご飯を食べられるようになった時、1日お出かけできた時…人によって様々だと思います。 娘がいる父親である私の場合には、その瞬間は何といっても「髪を切った時」です。 髪を切ることは大人にとっては定期的な日常生活の一部です。また男の子であれば、特段の感慨もなく自宅で親がセルフカットしたケースも少なくないと思います。 しかし、もし「生まれてから3年以上伸ばし続けた髪の毛を初めて切る」という場合はどうでしょうか?]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[290円の基本料金！キッズ携帯SH-03Mを格安SIMで使う方法]]></title>
         <id>https://nicopoco.com/?p=2190</id>
