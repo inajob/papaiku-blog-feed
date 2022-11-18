@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T14:23:08.344Z</id>
+    <id>urn:2022-11-18T15:24:08.487Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-18T14:23:08.344Z</updated>
+    <updated>2022-11-18T15:24:08.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【『新刊 言語化の魔力』対談】]]></title>
+        <id>https://note.com/mountainpeace/n/ne7284598982b</id>
+        <link href="https://note.com/mountainpeace/n/ne7284598982b"/>
+        <updated>2022-11-18T14:43:58.000Z</updated>
+        <summary type="html"><![CDATA[【 『新刊 言語化の魔力』対談 】 新刊出版されたベストセラー作家 樺沢紫苑さんと、Instagramフォロワー10万人のじゅんじゅんさんのインスタライブ、新刊を書いた経緯や、内容の解説が聴けて、本書への理解がさらに深まりました！＃樺沢紫苑 #じゅんじゅん https://www.instagram.com/tv/ClGlWJ3J5UO/?utm_source=ig_web_copy_link
+続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶりに子どもが「美味しい」と完食してくれた！『ざば缶のジンジャートマトパスタ』と『オートミールと野菜の豆乳スープ』、レシピ本を置いていってくれた、実家の母に感謝]]></title>
         <id>https://note.com/mountainpeace/n/n3e1a9b5ab795</id>
