@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T07:21:36.440Z</id>
+    <id>urn:2022-11-21T08:30:28.228Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-21T07:21:36.440Z</updated>
+    <updated>2022-11-21T08:30:28.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -215,6 +215,16 @@ https://youtu.be/rEhsf6lLLNc
         <summary type="html"><![CDATA[上の子は4歳でお漏らしの心配はなく過ごしていたところ、ある日突然再発しました。 しかしよくよく様子をうかがってみると、親の声掛けが十分でなかったと分かりました。 それにまつわる背景や理由を考察していきます。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【終了】10/26限定！凸凹カフェゲリラ企画]]></title>
+        <id>https://decobocochan.com/?p=8957</id>
+        <link href="https://decobocochan.com/archives/8957"/>
+        <updated>2022-10-25T07:32:13.000Z</updated>
+        <summary type="html"><![CDATA[ゲリラ企画！をします その名も オンラインもくもくの会 1人よりも お部屋掃除がすすむかも？ 仕事がすすむかも？？ 気がすすまないことでも おしゃべりしながらだったら はかどるんじゃない？との企画です 前回、わたしが一人 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
