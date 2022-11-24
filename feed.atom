@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T22:20:33.155Z</id>
+    <id>urn:2022-11-24T23:23:42.584Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-24T22:20:33.155Z</updated>
+    <updated>2022-11-24T23:23:42.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【緊急凸凹カフェ】特別支援学級いったいどうすりゃいいの？]]></title>
+        <id>https://decobocochan.com/?p=8979</id>
+        <link href="https://decobocochan.com/archives/8979"/>
+        <updated>2022-11-24T23:21:54.000Z</updated>
+        <summary type="html"><![CDATA[特別支援学級のことでザワザワしていませんか？ 文部科学省が4月に各教育委員会へだしたこちらの通知で みんなのザワザワがとまらない…💦 「特別支援学級及び通級による指導の適切な運用について （通知）」 11/28（月）10 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年】Amazonブラックフライデーのオトクな買い方・オススメ商品]]></title>
         <id>https://oton-tech.com/?p=4451</id>
