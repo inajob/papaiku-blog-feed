@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-26T22:20:15.575Z</id>
+    <id>urn:2022-11-26T23:21:28.395Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-26T22:20:15.575Z</updated>
+    <updated>2022-11-26T23:21:28.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -247,16 +247,6 @@ https://youtu.be/rEhsf6lLLNc
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 今回は、夜なのでmiraibar スライドも少しかえてシックにしました barがOPENする前に ミュージックとスライドショーをしています 飲み物をご準 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妹を褒めたらワザとお漏らし3回!? 上の子への継続的な声掛けの重要性]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/10/28/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/10/28/200000"/>
-        <updated>2022-10-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[上の子は4歳でお漏らしの心配はなく過ごしていたところ、ある日突然再発しました。 しかしよくよく様子をうかがってみると、親の声掛けが十分でなかったと分かりました。 それにまつわる背景や理由を考察していきます。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
