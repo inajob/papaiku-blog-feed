@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-29T02:57:17.583Z</id>
+    <id>urn:2022-11-29T03:32:12.794Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-29T02:57:17.583Z</updated>
+    <updated>2022-11-29T03:32:12.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,7 +16,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Rank Tracker】オトクに購入／更新／解約する方法]]></title>
+        <title type="html"><![CDATA[【Rank Tracker】オトクに購入する、更新／解約する方法]]></title>
         <id>https://oton-tech.com/?p=4237</id>
         <link href="https://oton-tech.com/ranktracker-subscription/"/>
         <updated>2022-11-26T15:21:00.000Z</updated>
