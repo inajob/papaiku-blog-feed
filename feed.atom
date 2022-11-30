@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T19:17:59.045Z</id>
+    <id>urn:2022-11-30T20:23:15.259Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-11-30T19:17:59.045Z</updated>
+    <updated>2022-11-30T20:23:15.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -257,16 +257,6 @@ https://youtu.be/rEhsf6lLLNc
         <summary type="html"><![CDATA[30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二つ]]></summary>
         <author>
             <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【miraicafeレポ】登校しないでいいと多くの本に書いてあるけど、 それ本当？＆12月のご案内]]></title>
-        <id>https://decobocochan.com/?p=8765</id>
-        <link href="https://decobocochan.com/archives/8765"/>
-        <updated>2022-11-01T08:15:39.000Z</updated>
-        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 今回は、夜なのでmiraibar スライドも少しかえてシックにしました barがOPENする前に ミュージックとスライドショーをしています 飲み物をご準 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
