@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-03T15:19:44.990Z</id>
+    <id>urn:2022-12-03T16:27:12.897Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-03T15:19:44.990Z</updated>
+    <updated>2022-12-03T16:27:12.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -213,17 +213,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[今年も恒例の『深大寺そばまつり（第41回）』が開催されます！ この記事では地元民の私が、2022年11月26日（土）～12月4日（日）に開催の、深大寺そばまつりについて紹介します。 2022年の深大寺そばまつり（第41回 […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三浦優樹さんスペース初登場！withきくちしんいちさん♪]]></title>
-        <id>https://note.com/mountainpeace/n/n9f2aa0cd055e</id>
-        <link href="https://note.com/mountainpeace/n/n9f2aa0cd055e"/>
-        <updated>2022-11-04T03:22:50.000Z</updated>
-        <summary type="html"><![CDATA[25歳ですでに出版数は35冊、『Kindle出版サロン ブルーバード』のリーダーでもある三浦優樹さん。同じく小説Kindle作家、きくちしんいちさんと3人で対談をした時の音声です。初の音声収録だった三浦さん、「声がめちゃくちゃよかった」と話題になりました。作品に対するイメージと、音声のギャップ、これも対談の魅力です。新刊『夜活のすすめ』を熱く語って頂きました。
-続きをみる]]></summary>
-        <author>
-            <name>やま｜Kindle評論家</name>
         </author>
     </entry>
 </feed>
