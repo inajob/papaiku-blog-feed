@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-04T14:17:46.645Z</id>
+    <id>urn:2022-12-04T15:19:46.486Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-04T14:17:46.645Z</updated>
+    <updated>2022-12-04T15:19:46.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -213,16 +213,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[小学館が発行している2～4歳児向けの学習絵本「めばえ」を買ってみました。 幼児向け雑誌なので付録は切り貼りして遊ぶものだろうと思っていたら、再現度の高いギミックのあるおもちゃが出てきて驚きました。 子どもたちに大人気のパウパトロールが使われていることもあり、幼児におすすめの本として紹介していきます。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022深大寺そばまつり】今年も開催！深大寺そば巡り！]]></title>
-        <id>https://oton-tech.com/?p=4401</id>
-        <link href="https://oton-tech.com/jindaiji-soba-festival/"/>
-        <updated>2022-11-05T03:14:24.000Z</updated>
-        <summary type="html"><![CDATA[今年も恒例の『深大寺そばまつり（第41回）』が開催されます！ この記事では地元民の私が、2022年11月26日（土）～12月4日（日）に開催の、深大寺そばまつりについて紹介します。 2022年の深大寺そばまつり（第41回 […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
