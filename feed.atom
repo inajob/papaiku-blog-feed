@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-04T05:18:10.865Z</id>
+    <id>urn:2022-12-04T06:24:20.204Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-04T05:18:10.865Z</updated>
+    <updated>2022-12-04T06:24:20.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2022年11月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=2897</id>
+        <link href="https://tasogare-home.com/investmentperformance-2211/"/>
+        <updated>2022-12-03T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazonブラックフライデー2022で育児用品をお得に買おう！]]></title>
         <id>https://papaganbarumon.com/?p=1619</id>
