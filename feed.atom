@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T22:18:47.379Z</id>
+    <id>urn:2022-12-10T23:20:37.074Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-10T22:18:47.379Z</updated>
+    <updated>2022-12-10T23:20:37.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -126,16 +126,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[わたしがリアルでおしゃべりする、こちらのイベント わたしの経験談を話したあとは ご参加の皆さんと一緒に対話をしていきたいと思っています。 慎重さんなわたしが、台本なしのフリートーク！？ なにをくっちゃべるかは、出たとこ勝 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤ちゃんから幼児への成長を感じた瞬間は「髪を切った時」でした]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/11/11/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/11/11/200000"/>
-        <updated>2022-11-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[赤ちゃんから幼児への成長を感じる瞬間と聞かれたら、何を思い浮かべるでしょうか? しっかり歩けるようになった時、自分でご飯を食べられるようになった時、1日お出かけできた時…人によって様々だと思います。 娘がいる父親である私の場合には、その瞬間は何といっても「髪を切った時」です。 髪を切ることは大人にとっては定期的な日常生活の一部です。また男の子であれば、特段の感慨もなく自宅で親がセルフカットしたケースも少なくないと思います。 しかし、もし「生まれてから3年以上伸ばし続けた髪の毛を初めて切る」という場合はどうでしょうか?]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
