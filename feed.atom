@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T07:17:07.183Z</id>
+    <id>urn:2022-12-16T08:24:21.918Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-16T07:17:07.183Z</updated>
+    <updated>2022-12-16T08:24:21.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【音声入力で簡単】アレクサとぴよログを連携して楽に育児日記をつけよう!]]></title>
+        <id>https://kokoyayablog.com/?p=3152</id>
+        <link href="https://kokoyayablog.com/make-a-record-withamazon-alexapiyolog/"/>
+        <updated>2022-12-16T07:44:36.000Z</updated>
+        <summary type="html"><![CDATA[我が家では、第三子が産まれたことをきっかけに、ぴよログで育児記録をつけるようになりましたが、アレクサ使用して記録をつけています。 アレクサに入力を依頼することで様々なメリットがありますよ。 1. アレクサとぴよログを連携 […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【組み合わせ自由】ファミマでレッドブル2本買うと40円割引キャンペーン中！！2022年11月22日~2022年12月26日)]]></title>
         <id>https://kokoyayablog.com/?p=3177</id>
