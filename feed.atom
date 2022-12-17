@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-17T14:16:33.019Z</id>
+    <id>urn:2022-12-17T15:18:07.483Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-17T14:16:33.019Z</updated>
+    <updated>2022-12-17T15:18:07.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,16 +136,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11/9 発達凸凹の子育てを語る、よ]]></title>
-        <id>https://decobocochan.com/?p=8880</id>
-        <link href="https://decobocochan.com/archives/8880"/>
-        <updated>2022-11-18T02:52:34.000Z</updated>
-        <summary type="html"><![CDATA[わたしがリアルでおしゃべりする、こちらのイベント わたしの経験談を話したあとは ご参加の皆さんと一緒に対話をしていきたいと思っています。 慎重さんなわたしが、台本なしのフリートーク！？ なにをくっちゃべるかは、出たとこ勝 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
