@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-18T13:21:48.170Z</id>
+    <id>urn:2022-12-18T14:16:10.074Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-18T13:21:48.170Z</updated>
+    <updated>2022-12-18T14:16:10.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -103,16 +103,6 @@ Copyright © 2022 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/8915"/>
         <updated>2022-11-20T14:44:42.000Z</updated>
         <summary type="html"><![CDATA[一般社団法人いきがいさがしさん主催の講演会、 「居場所のカタチ」が、無事？におわりました ★主催の方もブログで書いてますが、今からでも視聴がお申込できます！ 笑いたい方は、ぜひ 居場所の作り方は、本当にさまざまです 3つ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特別支援学級にざわつく]]></title>
-        <id>https://decobocochan.com/?p=8900</id>
-        <link href="https://decobocochan.com/archives/8900"/>
-        <updated>2022-11-19T01:33:17.000Z</updated>
-        <summary type="html"><![CDATA[突然ですが、去年あたりから 特別支援学級かいわいが、ザワついてるの知ってますか？ 文部科学省が4月に各教育委員会へだした こちらの通知でザワザワがとまらない…💦 「特別支援学級及び通級による指導の適切な運用について （通 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
