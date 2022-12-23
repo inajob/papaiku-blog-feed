@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T10:21:47.405Z</id>
+    <id>urn:2022-12-23T11:16:58.336Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-23T10:21:47.405Z</updated>
+    <updated>2022-12-23T11:16:58.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[在宅勤務も3画面あると便利。むしろ今後のPC業務には必須か!?]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/12/23/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/12/23/200000"/>
+        <updated>2022-12-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症の世界的な流行によって、オフィスワークからリモートワーク（在宅勤務）へのシフトが急速に進みました。私自身、オフィスではノートPCの画面と外部モニターの2画面で仕事をしていたのですが、在宅勤務環境を3画面にしたら便利ということに気づきました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子どもは親の鼻の穴を見ている!? お絵描きで知った子どもの視点]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2022/12/19/200000</id>

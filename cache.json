@@ -81,7 +81,7 @@
           "description": "我が家では、第三子が産まれたことをきっかけに、ぴよログで育児記録をつけるようになりましたが、アレクサ使用して記録をつけています。 アレクサに入力を依頼することで様々なメリットがありますよ。 1. アレクサとぴよログを連携 […]",
           "link": "https://kokoyayablog.com/make-a-record-withamazon-alexapiyolog/",
           "publishedOn": "2022-12-16T07:44:36.000Z",
-          "wordCount": 10028,
+          "wordCount": 10036,
           "title": "【音声入力で簡単に記録】アレクサとぴよログを連携して楽に育児日記をつけよう!",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2022/12/アレクサとぴよログを連携して楽に育児記録をつけよう.jpeg"
         },
@@ -115,12 +115,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/12/23/200000",
+          "author": null,
+          "description": "新型コロナウイルス感染症の世界的な流行によって、オフィスワークからリモートワーク（在宅勤務）へのシフトが急速に進みました。私自身、オフィスではノートPCの画面と外部モニターの2画面で仕事をしていたのですが、在宅勤務環境を3画面にしたら便利ということに気づきました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/12/23/200000",
+          "publishedOn": "2022-12-23T11:00:00.000Z",
+          "wordCount": 428,
+          "title": "在宅勤務も3画面あると便利。むしろ今後のPC業務には必須か!?",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20221221/20221221142029.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2022/12/19/200000",
           "author": null,
           "description": "物事に対する子どもの感じ方は、大人とは大きく異なります。それは感性によるものであったり、物理的な違いからくるものだったりします。今回は物理的な違いによって発生した、ある種の親の宿命とも言える話です。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2022/12/19/200000",
           "publishedOn": "2022-12-19T11:00:00.000Z",
-          "wordCount": 436,
+          "wordCount": 438,
           "title": "子どもは親の鼻の穴を見ている!? お絵描きで知った子どもの視点",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20221219/20221219163747.jpg"
         }
