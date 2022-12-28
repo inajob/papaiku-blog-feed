@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-28T10:21:43.738Z</id>
+    <id>urn:2022-12-28T11:16:10.868Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2022-12-28T10:21:43.738Z</updated>
+    <updated>2022-12-28T11:16:10.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[全国旅行支援でホテルが実質無料になっていた話（大人2人＋幼児2人）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/12/28/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/12/28/200000"/>
+        <updated>2022-12-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全国旅行支援の40%割引が12/27で終わりました。 我が家でも何度か利用させてもらいました。 そうしたら家族構成によって、実質無料で宿泊できていた、ということに気づきました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPressブログでGoogleサーチコンソールの登録／設定／使い方]]></title>
         <id>https://oton-tech.com/?p=4650</id>
