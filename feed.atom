@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T13:26:37.603Z</id>
+    <id>urn:2023-01-04T14:20:03.555Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-04T13:26:37.603Z</updated>
+    <updated>2023-01-04T14:20:03.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2022年12月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=2933</id>
+        <link href="https://tasogare-home.com/investmentperformance-2212/"/>
+        <updated>2023-01-03T12:50:02.000Z</updated>
+        <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ディズニーかんたんおしゃれ年賀状2023のソフトに、他の年賀状のソフトの住所録を読み込んだら文字化けした際の対処法]]></title>
         <id>https://kokoyayablog.com/?p=3334</id>
