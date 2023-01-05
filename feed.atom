@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-05T11:17:22.166Z</id>
+    <id>urn:2023-01-05T12:38:34.962Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-05T11:17:22.166Z</updated>
+    <updated>2023-01-05T12:38:34.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【募集】1月凸凹カフェオンラインコラボ「語る制度とお金。そして明日を切り拓く〜お金を知るオンラインセミナー：第1回～」]]></title>
+        <id>https://decobocochan.com/?p=9104</id>
+        <link href="https://decobocochan.com/archives/9104"/>
+        <updated>2023-01-05T09:19:51.000Z</updated>
+        <summary type="html"><![CDATA[昨年10月の凸凹コラボカフェでご好評いただきました みやっち先生と 今度は、連続セミナーを開催します！ 発達障害当事者かつ ファイナンシャルプランナーで 現在は家庭教師と通信制高校の支援員の傍ら発達障害についての講師を行 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年12月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2933</id>
