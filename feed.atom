@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T21:18:47.412Z</id>
+    <id>urn:2023-01-10T22:20:26.512Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-10T21:18:47.412Z</updated>
+    <updated>2023-01-10T22:20:26.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[１歳半検診でひっかかったその後二次検診を受けなかった話【体験談】]]></title>
+        <id>https://papaganbarumon.com/?p=1649</id>
+        <link href="https://papaganbarumon.com/1andahalf-years-old-medical-examination/"/>
+        <updated>2023-01-10T21:48:21.000Z</updated>
+        <summary type="html"><![CDATA[２歳で歩き、 ３週間ほど前から ２語文が出始めた ２歳半の息子。 Instagram（@ponkotsu.papa）で投稿へのリクエストを募ったところ、 「１歳半検診で できたこと、 できなかったこと 教えて！」 という]]></summary>
+        <author>
+            <name>ponkotupapa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】1月凸凹カフェオンラインコラボ「語る制度とお金。そして明日を切り拓く〜お金を知るオンラインセミナー：第1回～」]]></title>
         <id>https://decobocochan.com/?p=9104</id>
