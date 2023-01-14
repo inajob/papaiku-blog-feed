@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T05:17:43.390Z</id>
+    <id>urn:2023-01-14T06:23:40.049Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-14T05:17:43.390Z</updated>
+    <updated>2023-01-14T06:23:40.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[40代の副業は【ブログ】がオススメ！その理由は？]]></title>
+        <id>https://oton-tech.com/?p=4764</id>
+        <link href="https://oton-tech.com/sidejob-for-40s/"/>
+        <updated>2023-01-14T05:43:17.000Z</updated>
+        <summary type="html"><![CDATA[この記事を読んで下さっているあなたは、40代（もしくは40代前後）で何らかの副業を探している方、かと思います。 どれも、私も40代になって考えたことです。 そして、色々考えた結果、本業は継続しつつ、複数の副業で月10万円 […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【初心者向け】家庭菜園の簡単な始め方を農業会社員が解説。家族で野菜を作ろう！]]></title>
         <id>https://35saiji.com/?p=2038</id>
