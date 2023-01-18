@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T10:22:58.990Z</id>
+    <id>urn:2023-01-18T11:16:57.346Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-18T10:22:58.990Z</updated>
+    <updated>2023-01-18T11:16:57.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -240,16 +240,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[新型コロナウイルス感染症の世界的な流行によって、オフィスワークからリモートワーク（在宅勤務）へのシフトが急速に進みました。私自身、オフィスではノートPCの画面と外部モニターの2画面で仕事をしていたのですが、在宅勤務環境を3画面にしたら便利ということに気づきました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年1月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=9030</id>
-        <link href="https://decobocochan.com/archives/9030"/>
-        <updated>2022-12-19T22:57:45.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
