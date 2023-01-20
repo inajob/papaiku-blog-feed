@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T01:45:09.977Z</id>
+    <id>urn:2023-01-20T02:49:40.444Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-20T01:45:09.977Z</updated>
+    <updated>2023-01-20T02:49:40.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#5『 ぼくが失敗から学んだネット副業術 』 音声レビュー♪]]></title>
+        <id>https://note.com/mountainpeace/n/nd44936fafc59</id>
+        <link href="https://note.com/mountainpeace/n/nd44936fafc59"/>
+        <updated>2023-01-20T02:37:24.000Z</updated>
+        <summary type="html"><![CDATA[『 ぼくが失敗から学んだネット副業術 』
+https://amzn.to/3GTsm9I
+
+ミツさんTwitter
+https://twitter.com/mitsu_kindle/status/1609269703582814208?s=20&t=RKaQ1wMcsMYlNp1j0B488w
+
+やまの書籍のレビューツィート
+https://twitter.com/yama_kindle/status/1616256612603416576?s=20&t=RKaQ1wMcsMYlNp1j0B488w
+
+やまのリットリンク
+https://lit.link/yama25utsukarano
+サウンドをひらく]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#4『 Kindle作家の“生存競争”』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/nda51958312b8</id>
