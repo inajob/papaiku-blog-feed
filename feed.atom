@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T12:34:58.114Z</id>
+    <id>urn:2023-01-21T13:22:24.608Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-21T12:34:58.114Z</updated>
+    <updated>2023-01-21T13:22:24.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2022年】共働き夫婦の家計支出(育休期間あり) ＆ 投資実績を公開]]></title>
+        <id>https://tasogare-home.com/?p=2961</id>
+        <link href="https://tasogare-home.com/householdbudget-investment-2022/"/>
+        <updated>2023-01-21T06:10:10.000Z</updated>
+        <summary type="html"><![CDATA[我が家では夫である僕がお金の管理をしています。 小遣い制などもなく、大きな買い物でもない限り事前申請などは要りませんが、すべて申告する（レシートなどを提出）ということだけルールにしています。 本記事では2022年の家計の]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[読売ジャイアンツがブリンソン外野手を獲得！〜開幕予想オーダー〜]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2023/01/blog-post.html</id>
