@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T22:17:59.340Z</id>
+    <id>urn:2023-01-21T23:19:17.161Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-21T22:17:59.340Z</updated>
+    <updated>2023-01-21T23:19:17.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -339,16 +339,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[年賀状の宛名印刷をカラリオ年賀アプリで行おうとしましたが、上記の用に困った事象が起きました。 カラリオ年賀アプリを使用していく中で、解決の糸口が見つかったので共有します。 1. 発生している事象 まずは、私のカラリオ年賀 […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在宅勤務も3画面あると便利。むしろ今後のPC業務には必須か!?]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2022/12/23/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2022/12/23/200000"/>
-        <updated>2022-12-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症の世界的な流行によって、オフィスワークからリモートワーク（在宅勤務）へのシフトが急速に進みました。私自身、オフィスではノートPCの画面と外部モニターの2画面で仕事をしていたのですが、在宅勤務環境を3画面にしたら便利ということに気づきました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
