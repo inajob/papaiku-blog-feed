@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T05:17:59.071Z</id>
+    <id>urn:2023-01-22T06:24:05.295Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-22T05:17:59.071Z</updated>
+    <updated>2023-01-22T06:24:05.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -329,16 +329,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[全国旅行支援の40%割引が12/27で終わりました。 我が家でも何度か利用させてもらいました。 そうしたら家族構成によって、実質無料で宿泊できていた、ということに気づきました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カラリオ年賀アプリでExcelの住所録の読み込みができない場合や、共有メニューにカラリオ年賀アプリが出ない時の対処法]]></title>
-        <id>https://kokoyayablog.com/?p=3291</id>
-        <link href="https://kokoyayablog.com/about-the-solution-for-thereisnotshare-button-ofkararionengaapp/"/>
-        <updated>2022-12-23T17:51:25.000Z</updated>
-        <summary type="html"><![CDATA[年賀状の宛名印刷をカラリオ年賀アプリで行おうとしましたが、上記の用に困った事象が起きました。 カラリオ年賀アプリを使用していく中で、解決の糸口が見つかったので共有します。 1. 発生している事象 まずは、私のカラリオ年賀 […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
