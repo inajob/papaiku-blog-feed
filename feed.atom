@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T09:20:02.830Z</id>
+    <id>urn:2023-01-23T10:22:27.333Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-23T09:20:02.830Z</updated>
+    <updated>2023-01-23T10:22:27.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[今からはじめて、間に合わせる！]]></title>
+        <id>https://decobocochan.com/?p=9252</id>
+        <link href="https://decobocochan.com/archives/9252"/>
+        <updated>2023-01-23T09:55:44.000Z</updated>
+        <summary type="html"><![CDATA[入学前の準備で不安ですか？ 正直、通ってみないとわからないこと いっぱいある 先生によっても 学校によっても ルールってちがうのよね でも、 困っていることを話さないと だれもわからないです いちばんは、子どもが落ち着く ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【統合版】マインクラフトiOS版でサインアウト後も同じアカウントが表示されるときの対応方法]]></title>
         <id>https://kokoyayablog.com/?p=3356</id>
@@ -112,6 +122,16 @@ https://lit.link/yama25utsukarano
 サウンドをひらく]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年会のお誘い！]]></title>
+        <id>https://decobocochan.com/?p=9245</id>
+        <link href="https://decobocochan.com/archives/9245"/>
+        <updated>2023-01-19T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[新年あけましたねー ちょろっと(？)ブログをお休みしてますが 体調不良では、ないので ご安心くださいませ 今年は、いろんなことに「整えて」いこうと思います チラシのブラッシュアップ 凸凹ちゃん啓発活動として小冊子 家庭療 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
@@ -292,7 +312,7 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【miraicafeレポ】子供の不登校を受け止めるには…＆1月のご案内]]></title>
+        <title type="html"><![CDATA[【miraicafeレポ】子どもの不登校を受け止めるには…＆1月のご案内]]></title>
         <id>https://decobocochan.com/?p=9139</id>
         <link href="https://decobocochan.com/archives/9139"/>
         <updated>2023-01-06T14:09:36.000Z</updated>
