@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T01:43:22.701Z</id>
+    <id>urn:2023-01-24T02:41:25.597Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-24T01:43:22.701Z</updated>
+    <updated>2023-01-24T02:41:25.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[わたしの子育ては、アフォガード]]></title>
+        <id>https://decobocochan.com/?p=9259</id>
+        <link href="https://decobocochan.com/archives/9259"/>
+        <updated>2023-01-24T02:11:08.000Z</updated>
+        <summary type="html"><![CDATA[と褒めてもらえる機会が増えました ありがたい！ でも、それは 今！だから 昔のブロ友さんは、知っていると思いますが 最初からこんな感じではなかった 当たり前やけど💦 子どもを追いかけるために スニーカーやジーパン 寒くな ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今からはじめて、間に合わせる！]]></title>
         <id>https://decobocochan.com/?p=9252</id>
