@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T21:17:26.107Z</id>
+    <id>urn:2023-01-24T22:18:46.688Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-24T21:17:26.107Z</updated>
+    <updated>2023-01-24T22:18:46.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【募集】2月凸凹カフェオンラインコラボ「備える年金。 公的年金以外を活用する〜お金を知るオンラインセミナー第2回～」]]></title>
+        <id>https://decobocochan.com/?p=9269</id>
+        <link href="https://decobocochan.com/archives/9269"/>
+        <updated>2023-01-24T21:53:08.000Z</updated>
+        <summary type="html"><![CDATA[第1弾といっしょにお申込みいただけます！ こちらは、もっとお金のことが知りたい！方向けとなっております ★2日ともどちらか1日だけでもご参加できますよ そして、2日とも受けた方は みやっち先生の無料体験レッスンが 90分 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わたしの子育ては、アフォガード]]></title>
         <id>https://decobocochan.com/?p=9259</id>
