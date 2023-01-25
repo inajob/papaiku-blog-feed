@@ -133,9 +133,9 @@
           "description": "ここでは初心者でも分かりやすいように家庭菜園の始め方を簡単に説明しています。 家庭菜園に興味を持って調べても「○○農法」「有機栽培」などが出てくると「何か難しそうだなぁ。」と思ってしまいますが、初心者が趣味としてやるのな",
           "link": "https://35saiji.com/how-to-start-a-home-garden",
           "publishedOn": "2023-01-11T20:08:53.000Z",
-          "wordCount": 3307,
+          "wordCount": null,
           "title": "【初心者向け】家庭菜園の簡単な始め方を農業会社員が解説。家族で野菜を作ろう！",
-          "imageUrl": "https://35saiji.com/wp-content/uploads/2023/01/5c61ebf064f4257566a0f27a85c1a060-1.png"
+          "imageUrl": null
         }
       ]
     },
@@ -179,6 +179,12 @@
       ]
     },
     {
+      "title": "otodanblog",
+      "feedUrl": "https://irodorulife.com/feed/",
+      "siteUrl": "https://irodorulife.com",
+      "articles": []
+    },
+    {
       "title": "やま｜Kindle評論家",
       "feedUrl": "https://note.com/mountainpeace/rss",
       "siteUrl": "https://note.com/mountainpeace",
@@ -189,7 +195,7 @@
           "description": "『 ぼくが失敗から学んだネット副業術 』\nhttps://amzn.to/3GTsm9I\n\nミツさんTwitter\nhttps://twitter.com/mitsu_kindle/status/1609269703582814208?s=20&t=RKaQ1wMcsMYlNp1j0B488w\n\nやまの書籍のレビューツィート\nhttps://twitter.com/yama_kindle/status/1616256612603416576?s=20&t=RKaQ1wMcsMYlNp1j0B488w\n\nやまのリットリンク\nhttps://lit.link/yama25utsukarano\nサウンドをひらく",
           "link": "https://note.com/mountainpeace/n/nd44936fafc59",
           "publishedOn": "2023-01-20T02:37:24.000Z",
-          "wordCount": 1263,
+          "wordCount": null,
           "title": "#5『 ぼくが失敗から学んだネット副業術 』 音声レビュー♪",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/96045839/square_large_d1ca3e47f2df6bdf9f3e2042e0c9ff5b.jpg?width=800"
         },
@@ -199,7 +205,7 @@
           "description": "『 Kindle作家の“生存競争”』\n\nhttps://amzn.to/3CUsHrn\n\n\n\nけんいちさんTwitter\n\nhttps://twitter.com/pandaken_ken/status/1614367122947203076?t=ATLOn1BupIxM8OAyOHHHTQ&s=19\n\n\n\nやまの書籍のレビューツィート\n\nhttps://twitter.com/yama_kindle/status/1615184700636823552?s=46&t=Ie6b3UA-VQFF01AZpWv86w\nサウンドをひらく",
           "link": "https://note.com/mountainpeace/n/nda51958312b8",
           "publishedOn": "2023-01-18T01:57:59.000Z",
-          "wordCount": 1248,
+          "wordCount": null,
           "title": "#4『 Kindle作家の“生存競争”』音声レビュー",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/95900516/square_large_122275fe86d95fcc75a72e2cad40de2b.jpg?width=800"
         },
@@ -209,7 +215,7 @@
           "description": "『ほしいを引き出す 言葉の信号機の法則』\n\nhttps://amzn.to/3GxxlwA\n\n\n堤さんTwitter\n\nhttps://twitter.com/tsutsumifuji/status/1595359393653981184?t=AKEHhkAAkmyrJ5NTkQmgag&s=19\n\n\n書籍のレビューツィート\n\nhttps://twitter.com/yama_kindle/status/1598299000058232832?t=N7EQT_VSr3KgF5vfXcow7Q&s=19\n\nサウンドをひらく",
           "link": "https://note.com/mountainpeace/n/n829aab49f4f1",
           "publishedOn": "2023-01-18T01:56:03.000Z",
-          "wordCount": 1248,
+          "wordCount": null,
           "title": "#3『ほしいを引き出す 言葉の信号機の法則』音声レビュー",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/95900548/square_large_4417b9bacff4122550071821305ebc46.jpg?width=800"
         },
@@ -219,7 +225,7 @@
           "description": "『最短で人生を変えたい人はノートを今すぐ用意して。』\n\nhttps://amzn.to/3QyauFP\n\nminさんTwitter\n\nhttps://twitter.com/min_star777/status/1612316529332473858?s=46&t=Ex79NZvpNypsZBiI9kvvAw\n\n本書のツィートレビューはこちら♪\n\nhttps://twitter.com/yama_kindle/status/1613716362232496129?s=46&t=Ex79NZvpNypsZBiI9kvvAw\n\n\n\n\n\n\n\n\nサウンドをひらく",
           "link": "https://note.com/mountainpeace/n/n9a0d3f165994",
           "publishedOn": "2023-01-18T01:53:44.000Z",
-          "wordCount": 1240,
+          "wordCount": null,
           "title": "#2『最短で人生を変えたい人はノートを今すぐ用意して。』",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/95900563/square_large_6277493e884d2a9929148d2485b58b85.jpg?width=800"
         },
@@ -229,9 +235,36 @@
           "description": "『１度きりの人生海外旅行を200%楽しもう』\n\nhttps://amzn.to/3QA1rnV\n\nまにゃさんTwitter\n\nhttps://twitter.com/manya_mama_/status/1612918661802774528?s=46&t=Ex79NZvpNypsZBiI9kvvAw\n\n本書のツィートレビューはこちら♪\n\nhttps://twitter.com/yama_kindle/status/1612443217324298241?t=YD972-69xy_xiOFncXzUyQ&s=19\n\n\n\n\n\n\nサウンドをひらく",
           "link": "https://note.com/mountainpeace/n/n91022fde63fe",
           "publishedOn": "2023-01-18T01:50:35.000Z",
-          "wordCount": 1241,
+          "wordCount": null,
           "title": "#１『１度きりの人生海外旅行を200%楽しもう』音声レビュー",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/95900574/square_large_619fae9e3d1bd69c4f7a65ceac680fab.jpg?width=800"
+        }
+      ]
+    },
+    {
+      "title": "共働きで2人姉妹を育てる父親の生き残り戦略",
+      "feedUrl": "https://brushwoodcape.hatenablog.com/feed",
+      "siteUrl": "https://brushwoodcape.hatenablog.com/",
+      "articles": [
+        {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2023/01/16/205023",
+          "author": null,
+          "description": "冬真っ盛り、一年で最も寒い時期になりました。 外に出るのも億劫になりがちですが、家の中も寒いです。 その一方で燃料価格の急上昇によって、暖房をガンガン使うのも気が引けます。 また在宅勤務で日中に自分だけになることが増えたため、そういう時間帯の暖房は最小限にしたいところです。 どうすべきかと考えて、まずは室内の温度変化を計測することにしました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2023/01/16/205023",
+          "publishedOn": "2023-01-16T11:50:23.000Z",
+          "wordCount": null,
+          "title": "真冬に暖房を切ると室温はどれほど下がる? 暖房、換気、加湿効果を検証",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2022/12/28/200000",
+          "author": null,
+          "description": "全国旅行支援の40%割引が12/27で終わりました。 我が家でも何度か利用させてもらいました。 そうしたら家族構成によって、実質無料で宿泊できていた、ということに気づきました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2022/12/28/200000",
+          "publishedOn": "2022-12-28T11:00:00.000Z",
+          "wordCount": null,
+          "title": "全国旅行支援でホテルが実質無料になっていた話（大人2人＋幼児2人）",
+          "imageUrl": null
         }
       ]
     },
@@ -254,6 +287,68 @@
           "publishedOn": "2023-01-15T12:38:59.000Z",
           "wordCount": null,
           "title": "子どもの英会話を見直しています",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "イクジマンBlog",
+      "feedUrl": "https://ikuziman.com/feed/",
+      "siteUrl": "https://ikuziman.com",
+      "articles": []
+    },
+    {
+      "title": "マサブログ",
+      "feedUrl": "http://rssblog.ameba.jp/ma3100815/rss20.xml",
+      "siteUrl": "https://ameblo.jp/ma3100815/",
+      "articles": []
+    },
+    {
+      "title": "育休先生ブログをはじめる",
+      "feedUrl": "https://ny-lifework.com/feed/",
+      "siteUrl": "https://ny-lifework.com",
+      "articles": []
+    },
+    {
+      "title": "パパ、がんばるもん！～育休パパのハテナ？を解決～",
+      "feedUrl": "https://papaganbarumon.com/feed/",
+      "siteUrl": "https://papaganbarumon.com",
+      "articles": [
+        {
+          "id": "https://papaganbarumon.com/?p=1649",
+          "author": "ponkotupapa",
+          "description": "２歳で歩き、 ３週間ほど前から ２語文が出始めた ２歳半の息子。 Instagram（@ponkotsu.papa）で投稿へのリクエストを募ったところ、 「１歳半検診で できたこと、 できなかったこと 教えて！」 という",
+          "link": "https://papaganbarumon.com/1andahalf-years-old-medical-examination/",
+          "publishedOn": "2023-01-10T21:48:21.000Z",
+          "wordCount": null,
+          "title": "１歳半検診でひっかかったその後二次検診を受けなかった話【体験談】",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "黄昏ほーむblog",
+      "feedUrl": "https://tasogare-home.com/feed/",
+      "siteUrl": "https://tasogare-home.com",
+      "articles": [
+        {
+          "id": "https://tasogare-home.com/?p=2961",
+          "author": "黄昏ほーむ",
+          "description": "我が家では夫である僕がお金の管理をしています。 小遣い制などもなく、大きな買い物でもない限り事前申請などは要りませんが、すべて申告する（レシートなどを提出）ということだけルールにしています。 本記事では2022年の家計の",
+          "link": "https://tasogare-home.com/householdbudget-investment-2022/",
+          "publishedOn": "2023-01-21T06:10:10.000Z",
+          "wordCount": null,
+          "title": "【2022年】共働き夫婦の家計支出(育休期間あり) ＆ 投資実績を公開",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tasogare-home.com/?p=2933",
+          "author": "黄昏ほーむ",
+          "description": "1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して",
+          "link": "https://tasogare-home.com/investmentperformance-2212/",
+          "publishedOn": "2023-01-03T12:50:02.000Z",
+          "wordCount": null,
+          "title": "【2022年12月度】長期投資実績＆子育て費用公開！",
           "imageUrl": null
         }
       ]

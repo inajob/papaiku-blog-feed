@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T07:25:30.287Z</id>
+    <id>urn:2023-01-25T08:25:21.864Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-25T07:25:30.287Z</updated>
+    <updated>2023-01-25T08:25:21.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,16 @@
         <summary type="html"><![CDATA[家族でマインクラフトをやろうと思い、妻のスマホにアプリを導入後、テストで私(夫)のマイクロソフトアカウントを入れたところ、アカウントの連携の解除がうまくできなくなってしまいました。 何度サインアウトを行っても、Minec […]]]></summary>
         <author>
             <name>ここやや</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2022年】共働き夫婦の家計支出(育休期間あり) ＆ 投資実績を公開]]></title>
+        <id>https://tasogare-home.com/?p=2961</id>
+        <link href="https://tasogare-home.com/householdbudget-investment-2022/"/>
+        <updated>2023-01-21T06:10:10.000Z</updated>
+        <summary type="html"><![CDATA[我が家では夫である僕がお金の管理をしています。 小遣い制などもなく、大きな買い物でもない限り事前申請などは要りませんが、すべて申告する（レシートなどを提出）ということだけルールにしています。 本記事では2022年の家計の]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
@@ -250,6 +260,16 @@ https://twitter.com/yama_kindle/status/1612443217324298241?t=YD972-69xy_xiOFncXz
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[真冬に暖房を切ると室温はどれほど下がる? 暖房、換気、加湿効果を検証]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/01/16/205023</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/01/16/205023"/>
+        <updated>2023-01-16T11:50:23.000Z</updated>
+        <summary type="html"><![CDATA[冬真っ盛り、一年で最も寒い時期になりました。 外に出るのも億劫になりがちですが、家の中も寒いです。 その一方で燃料価格の急上昇によって、暖房をガンガン使うのも気が引けます。 また在宅勤務で日中に自分だけになることが増えたため、そういう時間帯の暖房は最小限にしたいところです。 どうすべきかと考えて、まずは室内の温度変化を計測することにしました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[子どもの英会話を見直しています]]></title>
         <id>https://nicopoco.com/?p=2269</id>
         <link href="https://nicopoco.com/english_for_children"/>
@@ -292,6 +312,16 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[１歳半検診でひっかかったその後二次検診を受けなかった話【体験談】]]></title>
+        <id>https://papaganbarumon.com/?p=1649</id>
+        <link href="https://papaganbarumon.com/1andahalf-years-old-medical-examination/"/>
+        <updated>2023-01-10T21:48:21.000Z</updated>
+        <summary type="html"><![CDATA[２歳で歩き、 ３週間ほど前から ２語文が出始めた ２歳半の息子。 Instagram（@ponkotsu.papa）で投稿へのリクエストを募ったところ、 「１歳半検診で できたこと、 できなかったこと 教えて！」 という]]></summary>
+        <author>
+            <name>ponkotupapa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【miraicafeレポ】子どもの不登校を受け止めるには…＆1月のご案内]]></title>
         <id>https://decobocochan.com/?p=9139</id>
         <link href="https://decobocochan.com/archives/9139"/>
@@ -312,6 +342,16 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【2022年12月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=2933</id>
+        <link href="https://tasogare-home.com/investmentperformance-2212/"/>
+        <updated>2023-01-03T12:50:02.000Z</updated>
+        <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ディズニーかんたんおしゃれ年賀状2023のソフトに、他の年賀状のソフトの住所録を読み込んだら文字化けした際の対処法]]></title>
         <id>https://kokoyayablog.com/?p=3334</id>
         <link href="https://kokoyayablog.com/disnynew-years-cardkitgarbled-characters-how-to-respond/"/>
@@ -319,6 +359,16 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[ディズニーかんたんおしゃれ年賀状2023という本を購入したので、早速年賀状の宛名印刷を行おうとしましたが、上記の用に困った事象が起きました。 色々試していく中で、発生していた事象の解決の糸口が見つかったので共有します。  […]]]></summary>
         <author>
             <name>ここやや</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国旅行支援でホテルが実質無料になっていた話（大人2人＋幼児2人）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2022/12/28/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2022/12/28/200000"/>
+        <updated>2022-12-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全国旅行支援の40%割引が12/27で終わりました。 我が家でも何度か利用させてもらいました。 そうしたら家族構成によって、実質無料で宿泊できていた、ということに気づきました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
