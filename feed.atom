@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T12:40:57.447Z</id>
+    <id>urn:2023-01-26T13:30:15.047Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-26T12:40:57.447Z</updated>
+    <updated>2023-01-26T13:30:15.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【miraicafeレポ】子どものつらさや苦しみ、どう和らげたらいいの？＆2月のご案内]]></title>
+        <id>https://decobocochan.com/?p=9312</id>
+        <link href="https://decobocochan.com/archives/9312"/>
+        <updated>2023-01-26T13:00:57.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[がんばれ！は、エールになるの？]]></title>
         <id>https://decobocochan.com/?p=9260</id>
@@ -392,16 +402,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
         <author>
             <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[素材集]]></title>
-        <id>https://decobocochan.com/?p=5543</id>
-        <link href="https://decobocochan.com/archives/5543"/>
-        <updated>2023-01-01T14:21:54.000Z</updated>
-        <summary type="html"><![CDATA[りょう育ママが家庭療育のためにつくった素材 個人の活用範囲では、利用可能 ただし、著作権は放棄しておりません ご利用にあたって こちらの画像の著作権は、『りょう育ママ』に帰属します。 印刷にかかる費用は、恐れ入りますがご ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
