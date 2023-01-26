@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T20:20:22.131Z</id>
+    <id>urn:2023-01-26T21:17:23.577Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-26T20:20:22.132Z</updated>
+    <updated>2023-01-26T21:17:23.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【リクエスト開催】2月凸凹ランチ会]]></title>
+        <id>https://decobocochan.com/?p=9291</id>
+        <link href="https://decobocochan.com/archives/9291"/>
+        <updated>2023-01-26T21:00:08.000Z</updated>
+        <summary type="html"><![CDATA[「オンラインではなくリアルでりょう育ママさんに会いたい」と リクエストされたので（うれしいから♥）ランチ会をいたします おしゃべりに花咲かせ、おいしいものを食べましょ 2時間!たっぷりお話しましょー おいしいものを食べて ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【miraicafeレポ】子どものつらさや苦しみ、どう和らげたらいいの？＆2月のご案内]]></title>
         <id>https://decobocochan.com/?p=9312</id>
@@ -380,16 +390,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/9139"/>
         <updated>2023-01-06T14:09:36.000Z</updated>
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】1月凸凹カフェオンラインコラボ「語る制度とお金。そして明日を切り拓く〜お金を知るオンラインセミナー：第1回～」]]></title>
-        <id>https://decobocochan.com/?p=9104</id>
-        <link href="https://decobocochan.com/archives/9104"/>
-        <updated>2023-01-05T09:19:51.000Z</updated>
-        <summary type="html"><![CDATA[昨年10月の凸凹コラボカフェでご好評いただきました みやっち先生と 今度は、連続セミナーを開催します！ 発達障害当事者かつ ファイナンシャルプランナーで 現在は家庭教師と通信制高校の支援員の傍ら発達障害についての講師を行 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
