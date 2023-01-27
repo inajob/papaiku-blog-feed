@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T19:15:51.873Z</id>
+    <id>urn:2023-01-27T20:20:50.441Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-27T19:15:51.873Z</updated>
+    <updated>2023-01-27T20:20:50.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[歯垢が光って磨き残しが一目瞭然！自宅で簡単セルフチェック用ライト]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/01/28/050000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/01/28/050000"/>
+        <updated>2023-01-27T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎日欠かさずやっている歯磨き、しっかり磨けているでしょうか? 鏡を見ながら落ち着いて歯磨きができればいいのですが、子育て中はそうはいかず、子どもを目で追いかけながら、なかば無意識に歯ブラシを動かしている人もいると思います。 それでも虫歯にならないくらいには磨けるし、歯科に行く時間も簡単には取れない。そんな人でも自宅で簡単に磨き残しのチェックができる道具が発売されました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学童野球における盗塁のあり方]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2023/01/blog-post_27.html</id>
