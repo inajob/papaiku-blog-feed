@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T05:17:54.789Z</id>
+    <id>urn:2023-01-28T06:23:46.660Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-01-28T05:17:54.789Z</updated>
+    <updated>2023-01-28T06:23:46.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -463,16 +463,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
         <author>
             <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディズニーかんたんおしゃれ年賀状2023のソフトに、他の年賀状のソフトの住所録を読み込んだら文字化けした際の対処法]]></title>
-        <id>https://kokoyayablog.com/?p=3334</id>
-        <link href="https://kokoyayablog.com/disnynew-years-cardkitgarbled-characters-how-to-respond/"/>
-        <updated>2022-12-29T17:46:28.000Z</updated>
-        <summary type="html"><![CDATA[ディズニーかんたんおしゃれ年賀状2023という本を購入したので、早速年賀状の宛名印刷を行おうとしましたが、上記の用に困った事象が起きました。 色々試していく中で、発生していた事象の解決の糸口が見つかったので共有します。  […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
