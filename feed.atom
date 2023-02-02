@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T10:22:10.677Z</id>
+    <id>urn:2023-02-02T11:16:37.290Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-02T10:22:10.677Z</updated>
+    <updated>2023-02-02T11:16:37.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「 オム塩焼きそば 」と「 わかめ卵スープ 」、長男と一緒に育てた「 豆苗と しらたきのチャプチェ 」。子どもの反応は正直すぎるから、食べてくれるか毎回ドキドキする。]]></title>
+        <id>https://note.com/mountainpeace/n/nfdbae9631ee0</id>
+        <link href="https://note.com/mountainpeace/n/nfdbae9631ee0"/>
+        <updated>2023-02-02T10:41:01.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【20％OFF】AmazonタイムセールでM２搭載 2022MacBookAirが164,800円から131,990円と13万円代まで値引き中！]]></title>
         <id>https://kokoyayablog.com/?p=3523</id>
