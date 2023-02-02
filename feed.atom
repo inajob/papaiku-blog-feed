@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T13:30:30.905Z</id>
+    <id>urn:2023-02-02T14:18:26.431Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-02T13:30:30.905Z</updated>
+    <updated>2023-02-02T14:18:26.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2023年1月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=2975</id>
+        <link href="https://tasogare-home.com/investmentperformance-2301/"/>
+        <updated>2023-02-02T13:47:51.000Z</updated>
+        <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【深大寺だるま市】2023年3月の調布：深大寺だるま市情報]]></title>
         <id>https://oton-tech.com/?p=4930</id>
