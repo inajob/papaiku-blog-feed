@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T23:20:27.203Z</id>
+    <id>urn:2023-02-02T01:46:16.352Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-01T23:20:27.203Z</updated>
+    <updated>2023-02-02T01:46:16.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -520,16 +520,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022年12月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=2933</id>
-        <link href="https://tasogare-home.com/investmentperformance-2212/"/>
-        <updated>2023-01-03T12:50:02.000Z</updated>
-        <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
