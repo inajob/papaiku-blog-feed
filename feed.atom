@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T11:16:37.290Z</id>
+    <id>urn:2023-02-02T12:40:57.828Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-02T11:16:37.290Z</updated>
+    <updated>2023-02-02T12:40:57.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【深大寺だるま市】2023年3月の調布：深大寺だるま市情報]]></title>
+        <id>https://oton-tech.com/?p=4930</id>
+        <link href="https://oton-tech.com/jindaiji-darumaichi-2023/"/>
+        <updated>2023-02-02T11:23:16.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、2023年3月3日、4日に開催予定の調布市の深大寺だるま市の情報とレポート（だるま市後に追記）を紹介しています。 昨年の2022年の深大寺だるま市も縮小開催でしたが（参考：2022年3月の調布：深大寺だるま […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「 オム塩焼きそば 」と「 わかめ卵スープ 」、長男と一緒に育てた「 豆苗と しらたきのチャプチェ 」。子どもの反応は正直すぎるから、食べてくれるか毎回ドキドキする。]]></title>
         <id>https://note.com/mountainpeace/n/nfdbae9631ee0</id>
