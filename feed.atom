@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T03:21:44.248Z</id>
+    <id>urn:2023-02-02T04:24:50.252Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-02T03:21:44.248Z</updated>
+    <updated>2023-02-02T04:24:50.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【20％OFF】AmazonタイムセールでM２搭載 2022MacBookAirが164,800円から131,990円と13万円代まで値引き中！]]></title>
+        <id>https://kokoyayablog.com/?p=3523</id>
+        <link href="https://kokoyayablog.com/amazontimesalecampaign-macbookair2022/"/>
+        <updated>2023-02-02T04:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazonタイムセールが本日9:00から開始されました！ なんとなくスマホの通知からAmazonを開くとアップル製品がタイムセール商品に 更に、M2チップ搭載のMacBookAir2022が164,800円から131, […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お年玉企画】新年会]]></title>
+        <id>https://decobocochan.com/?p=9349</id>
+        <link href="https://decobocochan.com/archives/9349"/>
+        <updated>2023-02-02T03:20:30.000Z</updated>
+        <summary type="html"><![CDATA[オンラインで新年会したーい！と手をあげてくださった方々と日程をあわせました 2時間!たっぷりおしゃべりしましょ お好きな飲み物とおつまみを用意していっぱいおしゃべりして発散しましょうね なんでも聴き放題！しゃべり放題！な ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いのっぷ家庭菜園2022年秋冬①（キャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコン）]]></title>
         <id>https://35saiji.com/?p=2152</id>
@@ -510,16 +530,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[２歳で歩き、 ３週間ほど前から ２語文が出始めた ２歳半の息子。 Instagram（@ponkotsu.papa）で投稿へのリクエストを募ったところ、 「１歳半検診で できたこと、 できなかったこと 教えて！」 という]]></summary>
         <author>
             <name>ponkotupapa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【miraicafeレポ】子どもの不登校を受け止めるには…＆1月のご案内]]></title>
-        <id>https://decobocochan.com/?p=9139</id>
-        <link href="https://decobocochan.com/archives/9139"/>
-        <updated>2023-01-06T14:09:36.000Z</updated>
-        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 スタッフトーーーーーク を追加しました お申し込み時に自己紹介と共にいただくご質問の中から ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
