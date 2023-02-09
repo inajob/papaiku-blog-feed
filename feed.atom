@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T09:20:32.551Z</id>
+    <id>urn:2023-02-09T10:21:42.098Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-09T09:20:32.551Z</updated>
+    <updated>2023-02-09T10:21:42.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -822,16 +822,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[ここでは初心者でも分かりやすいように家庭菜園の始め方を簡単に説明しています。 家庭菜園に興味を持って調べても「○○農法」「有機栽培」などが出てくると「何か難しそうだなぁ。」と思ってしまいますが、初心者が趣味としてやるのな]]></summary>
         <author>
             <name>いのっぷ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[１歳半検診でひっかかったその後二次検診を受けなかった話【体験談】]]></title>
-        <id>https://papaganbarumon.com/?p=1649</id>
-        <link href="https://papaganbarumon.com/1andahalf-years-old-medical-examination/"/>
-        <updated>2023-01-10T21:48:21.000Z</updated>
-        <summary type="html"><![CDATA[２歳で歩き、 ３週間ほど前から ２語文が出始めた ２歳半の息子。 Instagram（@ponkotsu.papa）で投稿へのリクエストを募ったところ、 「１歳半検診で できたこと、 できなかったこと 教えて！」 という]]></summary>
-        <author>
-            <name>ponkotupapa</name>
         </author>
     </entry>
 </feed>
