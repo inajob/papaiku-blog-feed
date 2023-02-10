@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T07:19:14.587Z</id>
+    <id>urn:2023-02-10T08:26:17.339Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-10T07:19:14.587Z</updated>
+    <updated>2023-02-10T08:26:17.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -812,16 +812,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者向け】家庭菜園の簡単な始め方を農業会社員が解説。家族で野菜を作ろう！]]></title>
-        <id>https://35saiji.com/?p=2038</id>
-        <link href="https://35saiji.com/how-to-start-a-home-garden"/>
-        <updated>2023-01-11T20:08:53.000Z</updated>
-        <summary type="html"><![CDATA[ここでは初心者でも分かりやすいように家庭菜園の始め方を簡単に説明しています。 家庭菜園に興味を持って調べても「○○農法」「有機栽培」などが出てくると「何か難しそうだなぁ。」と思ってしまいますが、初心者が趣味としてやるのな]]></summary>
-        <author>
-            <name>いのっぷ</name>
         </author>
     </entry>
 </feed>
