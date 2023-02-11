@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T23:20:57.329Z</id>
+    <id>urn:2023-02-11T01:39:48.526Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-10T23:20:57.329Z</updated>
+    <updated>2023-02-11T01:39:48.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[いのっぷ家庭菜園2022年秋冬②（キャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコン）]]></title>
+        <id>https://35saiji.com/?p=2257</id>
+        <link href="https://35saiji.com/inoopu-farm-2022autumn-winter-2"/>
+        <updated>2023-02-10T23:25:08.000Z</updated>
+        <summary type="html"><![CDATA[2022年秋冬作で育てたキャベツ、カリフラワー、ブロッコリー観察日記の続きです。 ここでは定植26日後～定植56日後の様子を観察しています。大きくなってきたので防虫ネットを外しました。カリフラワーの花蕾が少しのぞいてきて]]></summary>
+        <author>
+            <name>いのっぷ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いのっぷ家庭菜園2022年秋冬④（キャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコン）]]></title>
+        <id>https://35saiji.com/?p=2269</id>
+        <link href="https://35saiji.com/inoopu-farm-2022autumn-winter-4"/>
+        <updated>2023-02-10T23:24:56.000Z</updated>
+        <summary type="html"><![CDATA[2022年秋冬作で育てたキャベツ、カリフラワー、ブロッコリー観察日記の続きです。 ここでは定植74日後～定植82日後の様子を観察しています。ブロッコリー、キャベツが収穫になりました。 栽培概要を知りたい方、観察日記を始め]]></summary>
+        <author>
+            <name>いのっぷ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いのっぷ家庭菜園2022年秋冬③（キャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコン）]]></title>
+        <id>https://35saiji.com/?p=2263</id>
+        <link href="https://35saiji.com/inoopu-farm-2022autumn-winter-3"/>
+        <updated>2023-02-10T23:24:47.000Z</updated>
+        <summary type="html"><![CDATA[2022年秋冬作で育てたキャベツ、カリフラワー、ブロッコリー観察日記の続きです。 ここでは定植日61後～定植日64後の様子を観察しています。とうとうトンガリキャベツとカリフラワーが収穫になりました。 栽培概要を知りたい方]]></summary>
+        <author>
+            <name>いのっぷ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#12 『 マイノリティ デザイン 』音声レビュー♪]]></title>
         <id>https://note.com/mountainpeace/n/n2cb56a122c87</id>
