@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T23:20:59.404Z</id>
+    <id>urn:2023-02-15T01:49:37.251Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-14T23:20:59.404Z</updated>
+    <updated>2023-02-15T01:49:37.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1000,16 +1000,6 @@ https://twitter.com/yama_kindle/status/1612443217324298241?t=YD972-69xy_xiOFncXz
 サウンドをひらく]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真冬に暖房を切ると室温はどれほど下がる? 暖房、換気、加湿効果を検証]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/01/16/205023</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/01/16/205023"/>
-        <updated>2023-01-16T11:50:23.000Z</updated>
-        <summary type="html"><![CDATA[冬真っ盛り、一年で最も寒い時期になりました。 外に出るのも億劫になりがちですが、家の中も寒いです。 その一方で燃料価格の急上昇によって、暖房をガンガン使うのも気が引けます。 また在宅勤務で日中に自分だけになることが増えたため、そういう時間帯の暖房は最小限にしたいところです。 どうすべきかと考えて、まずは室内の温度変化を計測することにしました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
