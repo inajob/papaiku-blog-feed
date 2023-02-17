@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T04:25:47.283Z</id>
+    <id>urn:2023-02-17T05:19:30.679Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-17T04:25:47.283Z</updated>
+    <updated>2023-02-17T05:19:30.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#14『 支払いは暗号資産で 2 』音声レビュー♪]]></title>
+        <id>https://note.com/mountainpeace/n/n1af296b490bb</id>
+        <link href="https://note.com/mountainpeace/n/n1af296b490bb"/>
+        <updated>2023-02-17T04:59:05.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>やま｜Kindle評論家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【miraicafeレポ】しんどい、ツライのマイナス感情も押さえつけずに味わう。…＆3月のご案内]]></title>
         <id>https://decobocochan.com/?p=9459</id>
