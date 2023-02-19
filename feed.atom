@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T17:17:24.576Z</id>
+    <id>urn:2023-02-19T18:23:53.903Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-19T17:17:24.576Z</updated>
+    <updated>2023-02-19T18:23:53.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -890,16 +890,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[家族でマインクラフトをやろうと思い、妻のスマホにアプリを導入後、テストで私(夫)のマイクロソフトアカウントを入れたところ、アカウントの連携の解除がうまくできなくなってしまいました。 何度サインアウトを行っても、Minec […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022年】共働き夫婦の家計支出(育休期間あり) ＆ 投資実績を公開]]></title>
-        <id>https://tasogare-home.com/?p=2961</id>
-        <link href="https://tasogare-home.com/householdbudget-investment-2022/"/>
-        <updated>2023-01-21T06:10:10.000Z</updated>
-        <summary type="html"><![CDATA[我が家では夫である僕がお金の管理をしています。 小遣い制などもなく、大きな買い物でもない限り事前申請などは要りませんが、すべて申告する（レシートなどを提出）ということだけルールにしています。 本記事では2022年の家計の]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
