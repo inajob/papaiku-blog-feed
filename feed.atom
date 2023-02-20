@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T12:40:12.113Z</id>
+    <id>urn:2023-02-20T13:28:15.036Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-20T12:40:12.113Z</updated>
+    <updated>2023-02-20T13:28:15.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【プラフリー】スタッシャーサンドイッチ、スタンドアップミディアムのサイズ感を画像つきで紹介]]></title>
+        <id>https://kokoyayablog.com/?p=3637</id>
+        <link href="https://kokoyayablog.com/stashersandwich-standupmedium-size/"/>
+        <updated>2023-02-20T13:09:49.000Z</updated>
+        <summary type="html"><![CDATA[我が家ではプラスチックの保存袋を使い続けていたのですが、脱プラの目的でスタッシャーに少しずつ切り替えて1年ほどたちました。 スタッシャー便利ですよ！ と疑問に思う方のために、サイズ感がどのくらいかという点や、どのくらい物 […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#15 『 心に効く スロージョギング 』音声レビュー♪]]></title>
         <id>https://note.com/mountainpeace/n/n2052b5a266da</id>
