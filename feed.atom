@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T09:20:28.204Z</id>
+    <id>urn:2023-02-23T10:23:17.947Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-23T09:20:28.204Z</updated>
+    <updated>2023-02-23T10:23:17.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1175,16 +1175,6 @@ https://lit.link/yama25utsukarano
 サウンドをひらく]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[がんばれ！は、エールになるの？]]></title>
-        <id>https://decobocochan.com/?p=9260</id>
-        <link href="https://decobocochan.com/archives/9260"/>
-        <updated>2023-01-24T21:53:04.000Z</updated>
-        <summary type="html"><![CDATA[がんばれって言葉は、 エール(応援)にもなるけど プレッシャーにもなる 「うつ病の人に『がんばれ』は言わない方がいい」が 浸透してきたけど 凸凹ちゃんもそうだなぁと思う、この頃 ガンバレって言うと 実力以上のチカラを出そ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
