@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T08:27:48.750Z</id>
+    <id>urn:2023-02-28T09:21:47.683Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-28T08:27:48.750Z</updated>
+    <updated>2023-02-28T09:21:47.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1014,16 +1014,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[オンラインで新年会したーい！ と手をあげてくださった方々と 日程をあわせました 2時間!たっぷりおしゃべりしましょ お好きな飲み物と おつまみを用意して いっぱい おしゃべりして 発散しましょうね なんでも聴き放題！ し ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いのっぷ家庭菜園2022年秋冬①（キャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコン）]]></title>
-        <id>https://35saiji.com/?p=2152</id>
-        <link href="https://35saiji.com/inoopu-farm-2022autumn-winter"/>
-        <updated>2023-01-29T20:52:43.000Z</updated>
-        <summary type="html"><![CDATA[2022年秋冬作ではキャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコンを育てました。 家に作った畑では初めての栽培でしたが、思っていたよりも良いものが収穫できました。 娘は一緒に野菜作りをしてくれるかな？と不安でし]]></summary>
-        <author>
-            <name>いのっぷ</name>
         </author>
     </entry>
 </feed>
