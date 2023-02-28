@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T13:29:37.499Z</id>
+    <id>urn:2023-02-28T14:20:19.149Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-02-28T13:29:37.499Z</updated>
+    <updated>2023-02-28T14:20:19.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[なぜ３年経ったいま転職を考えるか？]]></title>
+        <id>https://nicopoco.com/?p=2286</id>
+        <link href="https://nicopoco.com/3years_cycle"/>
+        <updated>2023-02-28T14:13:16.000Z</updated>
+        <summary type="html"><![CDATA[私は人生は３年サイクルだなと思っています。 石の上にも三年とありますが、、もっと身近に３年を感じられることってありませんか？   幼稚園：年少、年中、年長（３年） 小学校低学年：１，２，３年 ...
+なぜ３年経ったいま転職を考えるか？ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブログ用おすすめパソコン【予算帯別】の紹介と10分で終わる選び方]]></title>
         <id>https://oton-tech.com/?p=4806</id>
