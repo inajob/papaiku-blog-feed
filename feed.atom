@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T15:22:09.662Z</id>
+    <id>urn:2023-03-03T16:28:12.369Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-03T15:22:09.662Z</updated>
+    <updated>2023-03-03T16:28:12.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1026,16 +1026,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【20％OFF】AmazonタイムセールでM２搭載 2022MacBookAirが164,800円から131,990円と13万円代まで値引き中！]]></title>
-        <id>https://kokoyayablog.com/?p=3523</id>
-        <link href="https://kokoyayablog.com/amazontimesalecampaign-macbookair2022/"/>
-        <updated>2023-02-02T04:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Amazonタイムセールが本日9:00から開始されました！ なんとなくスマホの通知からAmazonを開くとアップル製品がタイムセール商品に 更に、M2チップ搭載のMacBookAir2022が164,800円から131, […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
