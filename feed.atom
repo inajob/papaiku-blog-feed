@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T22:20:08.320Z</id>
+    <id>urn:2023-03-03T03:33:53.370Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-02T22:20:08.320Z</updated>
+    <updated>2023-03-03T03:33:53.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2歳の保育参観でわが子が動かない…原因は保育園と家での立場の違い!?]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/03/03/113000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/03/03/113000"/>
+        <updated>2023-03-03T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[保育参観といえば、普段は見られないわが子の保育園での様子を見ることができる貴重な機会です。さらに新型コロナウイルス感染症の拡大によって保育参観が中止となっていた期間があったため、親としてはより期待が膨らみます。意気込んで参観に行ったものの、タイトルの通りの結果となってしまいました。そこには子どもなりの事情があるようで…。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年2月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=2999</id>
