@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T01:46:07.766Z</id>
+    <id>urn:2023-03-04T02:48:04.750Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-04T01:46:07.766Z</updated>
+    <updated>2023-03-04T02:48:04.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1089,16 +1089,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[2月3日は、節分です 皆さんは、どう過ごしましたか？ 関西では 節分の夜に 恵方(良い方角)に向かって 願い事を思い浮かべながら丸かぶりしながら だまって最後まで食べきると願い事がかなう と言われてます 恵方巻きも中の具 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023年1月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=2975</id>
-        <link href="https://tasogare-home.com/investmentperformance-2301/"/>
-        <updated>2023-02-02T13:47:51.000Z</updated>
-        <summary type="html"><![CDATA[1歳の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画して]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
