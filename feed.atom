@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T23:19:58.218Z</id>
+    <id>urn:2023-03-05T02:00:59.154Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-04T23:19:58.218Z</updated>
+    <updated>2023-03-05T02:00:59.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1079,16 +1079,6 @@ https://lit.link/yama25utsukarano
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年もこの日がやってきた]]></title>
-        <id>https://decobocochan.com/?p=9396</id>
-        <link href="https://decobocochan.com/archives/9396"/>
-        <updated>2023-02-03T13:04:40.000Z</updated>
-        <summary type="html"><![CDATA[2月3日は、節分です 皆さんは、どう過ごしましたか？ 関西では 節分の夜に 恵方(良い方角)に向かって 願い事を思い浮かべながら丸かぶりしながら だまって最後まで食べきると願い事がかなう と言われてます 恵方巻きも中の具 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
