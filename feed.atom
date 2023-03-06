@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T01:50:47.437Z</id>
+    <id>urn:2023-03-06T02:55:04.922Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-06T01:50:47.437Z</updated>
+    <updated>2023-03-06T02:55:04.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1014,16 +1014,6 @@ https://lit.link/yama25utsukarano
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonタイムセール祭りで 2022iPad Air(第5世代) 64GBが14%Offの79,600円に！おすすめできる5つの理由を紹介します。]]></title>
-        <id>https://kokoyayablog.com/?p=3551</id>
-        <link href="https://kokoyayablog.com/amazontimesalecampaign-ipadair2022/"/>
-        <updated>2023-02-04T14:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Amazonタイムセール祭りが2月5日23：59まで開催中！ M2、M1チップ搭載のMacBookAirは一瞬で売り切れてしまいましたが、iPadAirはまだタイムセール祭りのお得な価格で購入可能です！！ 安いのはわかっ […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
