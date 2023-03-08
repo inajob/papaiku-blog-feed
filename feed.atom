@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T07:18:58.927Z</id>
+    <id>urn:2023-03-08T08:27:23.459Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-08T07:18:58.927Z</updated>
+    <updated>2023-03-08T08:27:23.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ミモザで伝える妻への感謝、マイナー記念日に花を贈る価値]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/03/08/162630</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/03/08/162630"/>
+        <updated>2023-03-08T07:26:30.000Z</updated>
+        <summary type="html"><![CDATA[ミモザという花をご存知でしょうか。 私はこの花の名前を聞いてもイメージできませんでした。 マイナーな花を、マイナーな記念日に妻に贈ってみました。 あえてマイナーなやり方をしたら、思いのほか良い効果があるのではないか、と感じる結果になりました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小学生のセキュリティ対策、なぜBOT＋SH-03Mにしたのか？]]></title>
         <id>https://nicopoco.com/?p=2289</id>
