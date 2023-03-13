@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T05:19:44.316Z</id>
+    <id>urn:2023-03-13T06:26:20.709Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-13T05:19:44.316Z</updated>
+    <updated>2023-03-13T06:26:20.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スタッシャーの価格が安いサイトはどこ？シリーズ・サイズ別に10個のサイトを調べて表にしました]]></title>
+        <id>https://kokoyayablog.com/?p=3886</id>
+        <link href="https://kokoyayablog.com/cheapestprice-ofstasher-from-the10site/"/>
+        <updated>2023-03-13T05:54:13.000Z</updated>
+        <summary type="html"><![CDATA[プラフリーに向けてスタッシャーを購入したかったのですが、結構値段が高く様々なサイトの価格を調べてみました。 せっかくなので表形式にして確認できるようにしたので、購入前の参考としてご覧ください。 また大きな表はスマホでは見 […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[# 19 花粉症は１日で治る！音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/ndb7973e0bd30</id>
