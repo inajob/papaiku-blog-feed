@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T02:36:13.573Z</id>
+    <id>urn:2023-03-14T03:22:02.505Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-14T02:36:13.573Z</updated>
+    <updated>2023-03-14T03:22:02.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -876,16 +876,6 @@ https://lit.link/yama25utsukarano
         <link href="https://35saiji.com/inoopu-farm-2022autumn-winter-6"/>
         <updated>2023-02-12T15:49:23.000Z</updated>
         <summary type="html"><![CDATA[2022年秋冬作で育てたキャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコンの観察日記です。 ここではハクサイ、ダイコンを植えて（播いて）25日後～48日後の生育をまとめました。ダイコンは早生のミニダイコンなので収穫]]></summary>
-        <author>
-            <name>いのっぷ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いのっぷ家庭菜園2022年秋冬⑤（キャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコン）]]></title>
-        <id>https://35saiji.com/?p=2220</id>
-        <link href="https://35saiji.com/inoopu-farm-2022autumn-winter-5"/>
-        <updated>2023-02-12T15:20:11.000Z</updated>
-        <summary type="html"><![CDATA[2022年秋冬作で育てたキャベツ、カリフラワー、ブロッコリー、ハクサイ、ダイコンの観察日記です。 ここではハクサイ、ダイコンを植える（播く）ところから生育をまとめました。ダイコンは多めに播いたので間引きをしました。ハクサ]]></summary>
         <author>
             <name>いのっぷ</name>
         </author>
