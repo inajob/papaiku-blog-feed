@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T17:19:16.128Z</id>
+    <id>urn:2023-03-16T18:25:40.320Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-16T17:19:16.128Z</updated>
+    <updated>2023-03-16T18:25:40.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -827,16 +827,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、3名 と見せかけて… 新スタッフが登場！！ smileさん みんな違ってみんないい～末っ子次男の ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグルカレンダーで旧暦を設定し、指定の日付にリマインドを一括設定する方法]]></title>
-        <id>https://kokoyayablog.com/?p=3448</id>
-        <link href="https://kokoyayablog.com/how-to-set-in-lunacalendarforgooglecalendar/"/>
-        <updated>2023-02-15T06:22:53.000Z</updated>
-        <summary type="html"><![CDATA[沖縄では未だに旧暦に沿った行事が多数あり、気候が旧暦にあっているような場面も多いなと感じることもあります。 特におじい、おばあから注意されるのが、旧暦の毎月1日、15日にヒヌカン(火ヌ神)火の神様へ行う、うーとーとーなの […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
