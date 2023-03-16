@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T09:20:44.796Z</id>
+    <id>urn:2023-03-16T10:22:37.344Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-16T09:20:44.796Z</updated>
+    <updated>2023-03-16T10:22:37.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -837,27 +837,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[沖縄では未だに旧暦に沿った行事が多数あり、気候が旧暦にあっているような場面も多いなと感じることもあります。 特におじい、おばあから注意されるのが、旧暦の毎月1日、15日にヒヌカン(火ヌ神)火の神様へ行う、うーとーとーなの […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タイピングってどう向上させるか？]]></title>
-        <id>https://note.com/takahi115/n/n4148e6e3a9bf</id>
-        <link href="https://note.com/takahi115/n/n4148e6e3a9bf"/>
-        <updated>2023-02-14T21:43:15.000Z</updated>
-        <summary type="html"><![CDATA[みなさんはタイピングはどのように練習をしたことはありますか？
-私は大学生になってやりましたが、中々上達しているのかがわからず。。。
-今はブラインドタッチになりましたが、
-タイピング練習が続かない原因としては、
-・飽きる
-・人と比較して上達している？
-などの他にもいろいろ理由があります。
-しかし、今回は、そんなお悩みが解決できるかもしれないものを見つけた！
-楽しくタイピング練習ができて、かつ無料で誰でもできるタイピング無料サービス『Ankey』
-​Ankey（https://ankey.io/）​
- Ankey 作って楽しくタイピング練習ゲームAnkey は、手軽に好きな用語集を作成して楽しくタイピング練習ゲームで遊んだりブラインドタッチの練習ができます。フラッシankey.io 
-続きをみる]]></summary>
-        <author>
-            <name>こやたか|隙間時間でスキルアップできる！</name>
         </author>
     </entry>
 </feed>
