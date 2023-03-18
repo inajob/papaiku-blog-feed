@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T15:18:57.123Z</id>
+    <id>urn:2023-03-18T16:25:27.143Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-18T15:18:57.123Z</updated>
+    <updated>2023-03-18T16:25:27.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -817,16 +817,6 @@ https://lit.link/yama25utsukarano
 続きをみる]]></summary>
         <author>
             <name>やま｜Kindle評論家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【miraicafeレポ】しんどい、ツライのマイナス感情も押さえつけずに味わう。…＆3月のご案内]]></title>
-        <id>https://decobocochan.com/?p=9459</id>
-        <link href="https://decobocochan.com/archives/9459"/>
-        <updated>2023-02-17T03:20:46.000Z</updated>
-        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、3名 と見せかけて… 新スタッフが登場！！ smileさん みんな違ってみんないい～末っ子次男の ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
