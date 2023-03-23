@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T05:17:41.237Z</id>
+    <id>urn:2023-03-23T06:24:57.629Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-23T05:17:41.237Z</updated>
+    <updated>2023-03-23T06:24:57.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -380,16 +380,6 @@ https://lit.link/yama25utsukarano
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2023年2月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=2999</id>
-        <link href="https://tasogare-home.com/investmentperformance-2302/"/>
-        <updated>2023-03-02T13:00:58.000Z</updated>
-        <summary type="html"><![CDATA[1歳8か月の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[なぜ３年経ったいま転職を考えるか？]]></title>
         <id>https://nicopoco.com/?p=2286</id>
         <link href="https://nicopoco.com/3years_cycle"/>
@@ -409,16 +399,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[「ブログ運営用のパソコンが買いたいけど、どうやって選べばいいの？」 WindowsにMacやChromebook、メモリにCPUにSSD、と種類も多くて、専門用語だらけ・・・。何を基準に選べば良いか分からない、ですよね。 […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【想定外過ぎた】双子出産帝王切開体験談]]></title>
-        <id>https://papaganbarumon.com/?p=1659</id>
-        <link href="https://papaganbarumon.com/twins-childbirth/"/>
-        <updated>2023-02-26T06:15:05.000Z</updated>
-        <summary type="html"><![CDATA[2023年1月30日。 37週1日になる日の10：26に男の子、10：27に女の子の双子を出産しました。 予定帝王切開を三日後に控えている中での、緊急帝王切開でした。 女児の方は「胎児発育不全」と診断されており、出生体重]]></summary>
-        <author>
-            <name>ponkotupapa</name>
         </author>
     </entry>
     <entry>
