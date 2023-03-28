@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T14:19:40.940Z</id>
+    <id>urn:2023-03-28T15:21:35.149Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-28T14:19:40.940Z</updated>
+    <updated>2023-03-28T15:21:35.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東急ロイヤルクラブでプラチナ条件を満たしたのでゴールドカードへ]]></title>
+        <id>https://nicopoco.com/?p=2310</id>
+        <link href="https://nicopoco.com/tokyu_royal_club_platinum"/>
+        <updated>2023-03-28T14:43:34.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは2023年は東急ロイヤルクラブのプラチナ条件を満たしたので申請をすることにしました この記事を見られている方は 東急ロイヤルクラブってどんなサービス？ 上級会員になるとどうなるの？ あたりが ...
+東急ロイヤルクラブでプラチナ条件を満たしたのでゴールドカードへ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンセントカバーはシンプルでいいと言う結論：かわいさは他の物で補給しよう]]></title>
         <id>https://kokoyayablog.com/?p=4679</id>
