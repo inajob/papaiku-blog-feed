@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T18:24:32.824Z</id>
+    <id>urn:2023-03-28T19:15:22.921Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-28T18:24:32.824Z</updated>
+    <updated>2023-03-28T19:15:22.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -433,16 +433,6 @@ https://lit.link/yama25utsukarano
 Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブログ用おすすめパソコン【予算帯別】の紹介と10分で終わる選び方]]></title>
-        <id>https://oton-tech.com/?p=4806</id>
-        <link href="https://oton-tech.com/pc-for-blog/"/>
-        <updated>2023-02-27T07:03:14.000Z</updated>
-        <summary type="html"><![CDATA[「ブログ運営用のパソコンが買いたいけど、どうやって選べばいいの？」 WindowsにMacやChromebook、メモリにCPUにSSD、と種類も多くて、専門用語だらけ・・・。何を基準に選べば良いか分からない、ですよね。 […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
