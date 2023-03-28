@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T16:38:42.401Z</id>
+    <id>urn:2023-03-28T17:18:52.626Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-03-28T16:38:42.401Z</updated>
+    <updated>2023-03-28T17:18:52.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RENOSYのセルフバックに申し込んで50,000円貰ったよ]]></title>
+        <id>https://nicopoco.com/?p=2276</id>
+        <link href="https://nicopoco.com/renosy"/>
+        <updated>2023-03-28T17:05:39.000Z</updated>
+        <summary type="html"><![CDATA[最近不動産界隈でよく見る企業があります。それはRenosyです。 不動産投資に興味はないかもしれませんが、サラリーマンの方はブログをきっかけに セルフバックで情報収集をしながら面談をしてみるといいと思 ...
+RENOSYのセルフバックに申し込んで50,000円貰ったよ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東急ロイヤルクラブでプラチナ条件を満たしたのでゴールドカードへ]]></title>
         <id>https://nicopoco.com/?p=2310</id>
