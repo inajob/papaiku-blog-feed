@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T03:18:46.475Z</id>
+    <id>urn:2023-04-04T04:22:22.706Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-04T03:18:46.475Z</updated>
+    <updated>2023-04-04T04:22:22.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -316,18 +316,6 @@ https://lit.link/yama25utsukarano
         <summary type="html"><![CDATA[ミモザという花をご存知でしょうか。 私はこの花の名前を聞いてもイメージできませんでした。 マイナーな花を、マイナーな記念日に妻に贈ってみました。 あえてマイナーなやり方をしたら、思いのほか良い効果があるのではないか、と感じる結果になりました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子ども用GPS：セキュリティ対策はBOT＋キッズケータイがいい？]]></title>
-        <id>https://nicopoco.com/?p=2289</id>
-        <link href="https://nicopoco.com/security_for_children"/>
-        <updated>2023-03-05T16:04:26.000Z</updated>
-        <summary type="html"><![CDATA[子育てをしている親にとって子どものセキュリティ対策は成人するまでは永遠の課題です。 今回は我が家のセキュリティ対策を紹介しながら子どもとメディア、セキュリティなどをどのように考えていけばいいかを考察し ...
-子ども用GPS：セキュリティ対策はBOT＋キッズケータイがいい？ first appeared on まろの育児ときどき転職、ところにより副業.
-Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
