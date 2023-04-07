@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T08:22:48.544Z</id>
+    <id>urn:2023-04-07T09:17:23.009Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-07T08:22:48.544Z</updated>
+    <updated>2023-04-07T09:17:23.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スペシャルmiraicafeレポ】十人十色の不登校。miraicafeに来ているあなたはスゴイ！…＆5月のご案内]]></title>
+        <id>https://decobocochan.com/?p=9547</id>
+        <link href="https://decobocochan.com/archives/9547"/>
+        <updated>2023-04-07T09:14:04.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、6名 さーらーにー 新スタッフが登場！！ ねこmimiさん 「娘の不登校は新しい世界を教えてくれ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年3月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=3035</id>
