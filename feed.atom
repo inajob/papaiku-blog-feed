@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T14:15:23.216Z</id>
+    <id>urn:2023-04-08T15:17:07.880Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-08T14:15:23.216Z</updated>
+    <updated>2023-04-08T15:17:07.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[難しいことだけど、教育を多様な人達で支えていく体制を作りたい]]></title>
+        <id>https://note.com/takaranran_mk/n/n457be74001b3</id>
+        <link href="https://note.com/takaranran_mk/n/n457be74001b3"/>
+        <updated>2023-04-08T15:07:37.000Z</updated>
+        <summary type="html"><![CDATA[地域と学校が協力して、教育の場を考える。
+コミュニティ・スクール、というものを最近勉強しています。
+今日もそのオンラインセミナーに参加してきました。
+https://20230408-cs.peatix.com/
+続きをみる]]></summary>
+        <author>
+            <name>たからん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スペシャルmiraicafeレポ】十人十色の不登校。miraicafeに来ているあなたはスゴイ！…＆5月のご案内]]></title>
         <id>https://decobocochan.com/?p=9547</id>
