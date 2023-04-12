@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T16:24:40.373Z</id>
+    <id>urn:2023-04-12T17:17:06.447Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-12T16:24:40.373Z</updated>
+    <updated>2023-04-12T17:17:06.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -74,16 +74,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[コンセントカバーはシンプルでいいと言う結論：かわいさは他の物で補給しよう]]></title>
-        <id>https://kokoyayablog.com/?p=4679</id>
-        <link href="https://kokoyayablog.com/outlet-cover-simple-good-conclusion/"/>
-        <updated>2023-03-25T11:31:23.000Z</updated>
-        <summary type="html"><![CDATA[コンセントカバーをお探しの皆さん、お仕事に育児に日々お疲れ様です。 コンセントカバーって様々な種類がありますよね。コンセントに直接刺すタイプから、大きなカバーで全て覆うもの。ミッキーにロディー、キャラクターの絵柄など。ど […]]]></summary>
-        <author>
-            <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[子育て中の卒業記念！賞状とギフトがもらえるキャンペーン【隠れ節目祝い】]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2023/03/23/113000</id>
         <link href="https://brushwoodcape.hatenablog.com/entry/2023/03/23/113000"/>
@@ -101,16 +91,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 と見せかけて… 新スタッフが登場！！ エリーさん 「しあわせは自分の心が決める」というタイ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最大30％OFF】スタッシャーシリコンバッグを安く購入する4つの方法]]></title>
-        <id>https://kokoyayablog.com/?p=4396</id>
-        <link href="https://kokoyayablog.com/buystashercheaplywith30off-4ways/"/>
-        <updated>2023-03-21T01:35:08.000Z</updated>
-        <summary type="html"><![CDATA[スタッシャーシリコンバッグを購入する際に値段が少々高いと感じたことはありませんか？この記事ではスタッシャーシリコンバッグを安く購入する4つの方法を紹介しています。この記事を読めば通常価格より最大30％オフでスタッシャーを購入することも可能です。プラフリーのためにスタッシャーを購入してみたい方はぜひご覧ください。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
