@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T13:25:39.420Z</id>
+    <id>urn:2023-04-13T14:17:35.529Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-13T13:25:39.420Z</updated>
+    <updated>2023-04-13T14:17:35.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[小学校２年生：中学校受験は山あり、谷ありで親のほうがドキドキ]]></title>
+        <id>https://nicopoco.com/?p=2332</id>
+        <link href="https://nicopoco.com/junior_high_school_002"/>
+        <updated>2023-04-13T14:02:43.000Z</updated>
+        <summary type="html"><![CDATA[中学校受験の準備を開始して２年が経ちました。 １年生から続けてきたSAPIX 小学校１年生：中学校受験の準備開始（塾の比較とSAPIXに通い始めて） | まろの育児ときどき転職、ところにより副業 (n ...
+小学校２年生：中学校受験は山あり、谷ありで親のほうがドキドキ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[難しいことだけど、教育を多様な人達で支えていく体制を作りたい]]></title>
         <id>https://note.com/takaranran_mk/n/n457be74001b3</id>
