@@ -39,7 +39,7 @@
           "description": "miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、5名 と見せかけて… 新スタッフが登場！！ エリーさん 「しあわせは自分の心が決める」というタイ ...",
           "link": "https://decobocochan.com/archives/9517",
           "publishedOn": "2023-03-21T02:30:51.000Z",
-          "wordCount": 1538,
+          "wordCount": 1539,
           "title": "【miraicafeレポ】応援したいけど、自分もしんどいときある…＆4月のご案内",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/03/1-1024x576.jpg"
         }
@@ -97,6 +97,26 @@
       "siteUrl": "https://kokoyayablog.com",
       "articles": [
         {
+          "id": "https://kokoyayablog.com/?p=4785",
+          "author": "ここやや",
+          "description": "固定資産税をファミペイで支払うことが可能とご存知ですか？筆者の僕は2019年からファミペイで固定資産税を仕払し少しだけお得に生活しています。この記事ではファミペイで固定資産税を払う際に少しだけお得になる4つの方法を紹介しています。これまで現金で固定資産税を払っていた方は、この記事の方法のうち1つでも実践していただけると少しお得に支払うことができますよ。",
+          "link": "https://kokoyayablog.com/poikatsu-famipay-koteishisanzei-otok-pay/",
+          "publishedOn": "2023-04-17T14:48:00.000Z",
+          "wordCount": 11461,
+          "title": "【ポイ活】ファミペイを利用して固定資産税を少しお得に払う方法",
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/7a719e3d-a291-4091-b8b2-4418deb91636.jpg"
+        },
+        {
+          "id": "https://kokoyayablog.com/?p=5148",
+          "author": "ここやや",
+          "description": "2023年4月17日(月)から「楽天ペイ（請求書払い）」、地方税統一QRコード「eL-QR」利用可能になりました。 ちょうど固定資産税の納付書が届いていたので、実際に支払いを試してみました。 1｜支払い可能か確認する ま […]",
+          "link": "https://kokoyayablog.com/el-qr-property-tax-payment-rakuten-pay-review/",
+          "publishedOn": "2023-04-17T14:26:38.000Z",
+          "wordCount": 11453,
+          "title": "【検証】楽天ペイでeL-QRが利用可能に！固定資産税を実際に払ってみました",
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/楽天ペイ固定資産税.jpg"
+        },
+        {
           "id": "https://kokoyayablog.com/?p=3855",
           "author": "ここやや",
           "description": "Macでゲームをする際にWindows対応のゲームのため諦めた経験はありませんか。プロセッサがintelのMacではBootCampと言ってWindowsを導入することが可能です。この記事ではMacにBootCampを使用してWindows10を導入する方法を解説しています。ゲームの要求スペックにもよりますが、PCがMacでWindowsゲームを諦めていた方はこの記事を参考に一度お試しください。",
@@ -112,7 +132,7 @@
           "description": "コンセントカバーをお探しの皆さん、お仕事に育児に日々お疲れ様です。 コンセントカバーって様々な種類がありますよね。コンセントに直接刺すタイプから、大きなカバーで全て覆うもの。ミッキーにロディー、キャラクターの絵柄など。ど […]",
           "link": "https://kokoyayablog.com/outlet-cover-simple-good-conclusion/",
           "publishedOn": "2023-03-25T11:31:23.000Z",
-          "wordCount": 11500,
+          "wordCount": 11506,
           "title": "コンセントカバーはシンプルでいいと言う結論：かわいさは他の物で補給しよう",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/03/コンセントカバーはシンプルでいいという結論-641e8088cfd96.jpg"
         },
@@ -122,7 +142,7 @@
           "description": "スタッシャーシリコンバッグを購入する際に値段が少々高いと感じたことはありませんか？この記事ではスタッシャーシリコンバッグを安く購入する4つの方法を紹介しています。この記事を読めば通常価格より最大30％オフでスタッシャーを購入することも可能です。プラフリーのためにスタッシャーを購入してみたい方はぜひご覧ください。",
           "link": "https://kokoyayablog.com/buystashercheaplywith30off-4ways/",
           "publishedOn": "2023-03-21T01:35:08.000Z",
-          "wordCount": 11507,
+          "wordCount": 11513,
           "title": "【最大30％OFF】スタッシャーシリコンバッグを安く購入する4つの方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/03/DC892FB1-D8AC-4BC2-B39D-6AB057361512.jpeg"
         }
