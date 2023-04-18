@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T20:20:03.772Z</id>
+    <id>urn:2023-04-18T21:16:52.842Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-18T20:20:03.772Z</updated>
+    <updated>2023-04-18T21:16:52.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「家庭菜園は難しい。。。」初心者が失敗する12個のポイントと簡単な解決方法]]></title>
+        <id>https://35saiji.com/?p=2392</id>
+        <link href="https://35saiji.com/failure-points-of-home-garden"/>
+        <updated>2023-04-18T20:48:17.000Z</updated>
+        <summary type="html"><![CDATA[「家庭菜園に興味はあるけど、難しそうで始められない。」 「挑戦したけど、野菜をうまく育てられなかった。」 「作業が思ったよりも大変だった。続けるのは無理。」 この記事はそんな方へ向けて書いてあります。 野菜栽培に慣れてい]]></summary>
+        <author>
+            <name>いのっぷ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポイ活】ファミペイを利用して固定資産税を少しお得に払う方法]]></title>
         <id>https://kokoyayablog.com/?p=4785</id>
