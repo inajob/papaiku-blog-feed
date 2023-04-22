@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T03:19:13.876Z</id>
+    <id>urn:2023-04-22T04:22:24.448Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-22T03:19:13.876Z</updated>
+    <updated>2023-04-22T04:22:24.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【検証】楽天ペイでeL-QRが利用可能に！固定資産税を実際に払ってみました]]></title>
+        <title type="html"><![CDATA[【eL-QR】楽天ペイで請求書払いが利用可能に！固定資産税を実際に払ってみました]]></title>
         <id>https://kokoyayablog.com/?p=5148</id>
         <link href="https://kokoyayablog.com/el-qr-property-tax-payment-rakuten-pay-review/"/>
         <updated>2023-04-17T14:26:38.000Z</updated>
