@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T23:18:08.005Z</id>
+    <id>urn:2023-04-24T01:37:07.469Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-23T23:18:08.005Z</updated>
+    <updated>2023-04-24T01:37:07.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -133,16 +133,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
 Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンセントカバーはシンプルでいいと言う結論：かわいさは他の物で補給しよう]]></title>
-        <id>https://kokoyayablog.com/?p=4679</id>
-        <link href="https://kokoyayablog.com/outlet-cover-simple-good-conclusion/"/>
-        <updated>2023-03-25T11:31:23.000Z</updated>
-        <summary type="html"><![CDATA[コンセントカバーをお探しの皆さん、お仕事に育児に日々お疲れ様です。 コンセントカバーって様々な種類がありますよね。コンセントに直接刺すタイプから、大きなカバーで全て覆うもの。ミッキーにロディー、キャラクターの絵柄など。ど […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
