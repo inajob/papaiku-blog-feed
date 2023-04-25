@@ -97,6 +97,16 @@
       "siteUrl": "https://kokoyayablog.com",
       "articles": [
         {
+          "id": "https://kokoyayablog.com/?p=4976",
+          "author": "ここやや",
+          "description": "2023年4月14日にロックマンエグゼアドバンスドコレクションが発売されました！PCでもプレイ可能ですが、対象のOSはWindowsのみです。筆者のPCはMacですがBootCamp機能を利用しWindowsOSを入れロックマンエグゼアドバンスドコレクションがプレイ可能か確認しました。ロックマンエグゼアドバンスドコレクションを購入したいが、PCの環境がMacでできないと諦めていた方やBootCamp環境できちんと動作するか不安な方の参考になると思います。よけばご覧ください。",
+          "link": "https://kokoyayablog.com/megaman-exe-advanced-collection-verification-on-mac-with-bootcamp-windows/",
+          "publishedOn": "2023-04-25T13:58:46.000Z",
+          "wordCount": 11524,
+          "title": "【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）",
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/ロックマンエグゼアドバンスドコレクションBootCampの.jpg"
+        },
+        {
           "id": "https://kokoyayablog.com/?p=4785",
           "author": "ここやや",
           "description": "固定資産税をファミペイで支払うことが可能とご存知ですか？筆者の僕は2019年からファミペイで固定資産税を仕払し少しだけお得に生活しています。この記事ではファミペイで固定資産税を払う際に少しだけお得になる4つの方法を紹介しています。これまで現金で固定資産税を払っていた方は、この記事の方法のうち1つでも実践していただけると少しお得に支払うことができますよ。",
@@ -122,7 +132,7 @@
           "description": "Macでゲームをする際にWindows対応のゲームのため諦めた経験はありませんか。プロセッサがintelのMacではBootCampと言ってWindowsを導入することが可能です。この記事ではMacにBootCampを使用してWindows10を導入する方法を解説しています。ゲームの要求スペックにもよりますが、PCがMacでWindowsゲームを諦めていた方はこの記事を参考に一度お試しください。",
           "link": "https://kokoyayablog.com/windows-boot-camp-for-mac-steam-games/",
           "publishedOn": "2023-04-14T02:10:57.000Z",
-          "wordCount": 11485,
+          "wordCount": 11488,
           "title": "【Boot Camp】Macでsteamゲームを遊ぶためWindowsを入れる方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/BootCampMacでSteamゲームを遊ぶためWindows入れる方法.jpg"
         }
