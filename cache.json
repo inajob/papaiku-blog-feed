@@ -29,7 +29,7 @@
           "description": "miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、6名 さーらーにー 新スタッフが登場！！ ねこmimiさん 「娘の不登校は新しい世界を教えてくれ ...",
           "link": "https://decobocochan.com/archives/9547",
           "publishedOn": "2023-04-07T09:14:04.000Z",
-          "wordCount": 1574,
+          "wordCount": 1573,
           "title": "【スペシャルmiraicafeレポ】十人十色の不登校。miraicafeに来ているあなたはスゴイ！…＆5月のご案内",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/04/2-1024x576.png"
         }
@@ -39,7 +39,18 @@
       "title": "すらぱぱの雑記ブログ〜子育てパパ〜",
       "feedUrl": "https://kosodateofmaepchan.blogspot.com/feeds/posts/default",
       "siteUrl": "https://kosodateofmaepchan.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kosodateofmaepchan.blogspot.com/2023/04/blog-post.html",
+          "author": null,
+          "description": "こんにちは！すらぱぱ(@slimechans)です！\n\n\n  \n\n\n  今回は、『野球初心者でも分かる！基本的な統計指標から詳細解説！』の記事です。\n\n\n  　　励みになるのでクリックしてね！\nはじめに\nこの記事では、代表的な統計指標やその使い方、野球分析について解説していきます。\n\n\n  DAZN公式HPへ\n  \n\n  \nスポーツ見るならDAZNで！\n\n  \n(公式HP)\n        \n    \n\n  \n\n    \n  \nチームの勝率を予測する統計指標もあります。\n具体的には、以下の式で計算されます。 \n \n\n\n・wRC+は打点を加味したOPSの改良版です。\n\n\n・OPS+はリーグ平均を100としたOPSの指標です。\n\n\n\n  ・K/BB率は投手の制球力を表し、K/9率とBB/9率はそれぞれ投手の奪三振数と与四球数を評価する指標です。 \n\n\n\n\n\n   ・GPA（Gross Production Average）\n  GPAは、OPSとwOBAを組み合わせた指標で、OPSに比べてより正確に打者の能力を評価することができます。\n \n\n\n   ・OPS+（On-base Plus Slugging Plus）\n  OPS+はOPSをリーグ平均に対する指標に補正したもので、選手間の比較に使われます。100を超えるとリーグ平均よりも優れていることを示します。 \n\n\n\n\n\n   ・K/BB率、K/9率、BB/9率\n  これらの指標は、投手の制球力や奪三振能力を測定するためのものです。\n\n\n\n\n\n\n\n    指標名\n    定義\n  \nOPS\n    出塁率と長打率を合わせた指標\n  \nwOBA\n    打者の打撃成績を統計的に扱いやすくするための指標\n  \nGPA\n    打率や出塁率、長打率を総合的に評価した指標\n  \nOPS+\n    OPSをリーグ平均や球場要因などを考慮…",
+          "link": "https://kosodateofmaepchan.blogspot.com/2023/04/blog-post.html",
+          "publishedOn": "2023-04-26T04:32:00.002Z",
+          "wordCount": 4447,
+          "title": "野球初心者でも分かる！基本的な統計指標から詳細解説！",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihLGQHTvzkSeaMWSWIb1GHdRwrCpqEVDYEZRW_9qO3uN2qDGjNqa8vCKKdrJhvJV3limnRpM_Erkt27OusKIoELW755UYQxRpA7qkNovgEGsZLQhzBEgpsPrEFFiYJzZoMc78xrIPDVNBn8dFrhoF6Lj41jNcSBqGI8r8QulkZzEqMu31wwOA1_aLvRQ/w1200-h630-p-k-no-nu/%E9%87%8E%E7%90%83%E3%81%AE%E6%8C%87%E6%A8%99.png"
+        }
+      ]
     },
     {
       "title": "いのっぷ村",

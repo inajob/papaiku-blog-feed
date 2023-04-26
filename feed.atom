@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T04:22:35.781Z</id>
+    <id>urn:2023-04-26T05:17:42.366Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-26T04:22:35.781Z</updated>
+    <updated>2023-04-26T05:17:42.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[野球初心者でも分かる！基本的な統計指標から詳細解説！]]></title>
+        <id>https://kosodateofmaepchan.blogspot.com/2023/04/blog-post.html</id>
+        <link href="https://kosodateofmaepchan.blogspot.com/2023/04/blog-post.html"/>
+        <updated>2023-04-26T04:32:00.002Z</updated>
+        <summary type="html"><![CDATA[こんにちは！すらぱぱ(@slimechans)です！
+
+
+  
+
+
+  今回は、『野球初心者でも分かる！基本的な統計指標から詳細解説！』の記事です。
+
+
+  　　励みになるのでクリックしてね！
+はじめに
+この記事では、代表的な統計指標やその使い方、野球分析について解説していきます。
+
+
+  DAZN公式HPへ
+  
+
+  
+スポーツ見るならDAZNで！
+
+  
+(公式HP)
+        
+    
+
+  
+
+    
+  
+チームの勝率を予測する統計指標もあります。
+具体的には、以下の式で計算されます。 
+ 
+
+
+・wRC+は打点を加味したOPSの改良版です。
+
+
+・OPS+はリーグ平均を100としたOPSの指標です。
+
+
+
+  ・K/BB率は投手の制球力を表し、K/9率とBB/9率はそれぞれ投手の奪三振数と与四球数を評価する指標です。 
+
+
+
+
+
+   ・GPA（Gross Production Average）
+  GPAは、OPSとwOBAを組み合わせた指標で、OPSに比べてより正確に打者の能力を評価することができます。
+ 
+
+
+   ・OPS+（On-base Plus Slugging Plus）
+  OPS+はOPSをリーグ平均に対する指標に補正したもので、選手間の比較に使われます。100を超えるとリーグ平均よりも優れていることを示します。 
+
+
+
+
+
+   ・K/BB率、K/9率、BB/9率
+  これらの指標は、投手の制球力や奪三振能力を測定するためのものです。
+
+
+
+
+
+
+
+    指標名
+    定義
+  
+OPS
+    出塁率と長打率を合わせた指標
+  
+wOBA
+    打者の打撃成績を統計的に扱いやすくするための指標
+  
+GPA
+    打率や出塁率、長打率を総合的に評価した指標
+  
+OPS+
+    OPSをリーグ平均や球場要因などを考慮…]]></summary>
+        <author>
+            <name>すらぱぱの雑記ブログ〜子育てパパ〜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）]]></title>
         <id>https://kokoyayablog.com/?p=4976</id>
