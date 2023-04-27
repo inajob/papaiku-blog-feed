@@ -113,9 +113,9 @@
           "description": "2023年4月14日にロックマンエグゼアドバンスドコレクションが発売されました！PCでもプレイ可能ですが、対象のOSはWindowsのみです。筆者のPCはMacですがBootCamp機能を利用しWindowsOSを入れロックマンエグゼアドバンスドコレクションがプレイ可能か確認しました。ロックマンエグゼアドバンスドコレクションを購入したいが、PCの環境がMacでできないと諦めていた方やBootCamp環境できちんと動作するか不安な方の参考になると思います。よけばご覧ください。",
           "link": "https://kokoyayablog.com/megaman-exe-advanced-collection-verification-on-mac-with-bootcamp-windows/",
           "publishedOn": "2023-04-25T13:58:46.000Z",
-          "wordCount": 11199,
+          "wordCount": 11524,
           "title": "【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）",
-          "imageUrl": "https://www.kokoyayablog.com/wp-content/uploads/2023/04/ロックマンエグゼアドバンスドコレクションBootCampの.jpg"
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/ロックマンエグゼアドバンスドコレクションBootCampの.jpg"
         },
         {
           "id": "https://kokoyayablog.com/?p=4785",
@@ -123,9 +123,9 @@
           "description": "固定資産税をファミペイで支払うことが可能とご存知ですか？筆者の僕は2019年からファミペイで固定資産税を仕払し少しだけお得に生活しています。この記事ではファミペイで固定資産税を払う際に少しだけお得になる4つの方法を紹介しています。これまで現金で固定資産税を払っていた方は、この記事の方法のうち1つでも実践していただけると少しお得に支払うことができますよ。",
           "link": "https://kokoyayablog.com/poikatsu-famipay-koteishisanzei-otok-pay/",
           "publishedOn": "2023-04-17T14:48:00.000Z",
-          "wordCount": 11144,
+          "wordCount": 11461,
           "title": "【ポイ活】ファミペイを利用して固定資産税を少しお得に払う方法",
-          "imageUrl": "https://www.kokoyayablog.com/wp-content/uploads/2023/04/7a719e3d-a291-4091-b8b2-4418deb91636.jpg"
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/7a719e3d-a291-4091-b8b2-4418deb91636.jpg"
         },
         {
           "id": "https://kokoyayablog.com/?p=5148",
@@ -133,7 +133,7 @@
           "description": "2023年4月17日(月)から「楽天ペイ（請求書払い）」、地方税統一QRコード「eL-QR」利用可能になりました。 ちょうど固定資産税の納付書が届いていたので、実際に支払いを試してみました。 1｜支払い可能か確認する ま […]",
           "link": "https://kokoyayablog.com/el-qr-property-tax-payment-rakuten-pay-review/",
           "publishedOn": "2023-04-17T14:26:38.000Z",
-          "wordCount": 11138,
+          "wordCount": 11455,
           "title": "【eL-QR】楽天ペイで請求書払いが利用可能に！固定資産税を実際に払ってみました",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/楽天ペイ固定資産税.jpg"
         },
@@ -143,9 +143,9 @@
           "description": "Macでゲームをする際にWindows対応のゲームのため諦めた経験はありませんか。プロセッサがintelのMacではBootCampと言ってWindowsを導入することが可能です。この記事ではMacにBootCampを使用してWindows10を導入する方法を解説しています。ゲームの要求スペックにもよりますが、PCがMacでWindowsゲームを諦めていた方はこの記事を参考に一度お試しください。",
           "link": "https://kokoyayablog.com/windows-boot-camp-for-mac-steam-games/",
           "publishedOn": "2023-04-14T02:10:57.000Z",
-          "wordCount": 11171,
+          "wordCount": 11496,
           "title": "【Boot Camp】Macでsteamゲームを遊ぶためWindowsを入れる方法",
-          "imageUrl": "https://www.kokoyayablog.com/wp-content/uploads/2023/04/BootCampMacでSteamゲームを遊ぶためWindows入れる方法.jpg"
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/BootCampMacでSteamゲームを遊ぶためWindows入れる方法.jpg"
         }
       ]
     },
