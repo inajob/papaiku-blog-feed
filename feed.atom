@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T20:18:23.118Z</id>
+    <id>urn:2023-04-29T21:15:27.846Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-29T20:18:23.118Z</updated>
+    <updated>2023-04-29T21:15:27.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[トイレトレーニングのマンネリ打破、毎日行きたくなる作戦]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/04/30/060000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/04/30/060000"/>
+        <updated>2023-04-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4歳の長女はいわゆるトイレトレーニングが完了し、オムツを履くこともなくなりました。 そのためトイレトレーニングは完了しているものの、トイレ間隔が半日以上空くことがあり、我慢しすぎが親の悩みでした。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）]]></title>
         <id>https://kokoyayablog.com/?p=4976</id>
