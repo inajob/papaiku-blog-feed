@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T09:16:53.584Z</id>
+    <id>urn:2023-04-29T10:18:30.906Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-29T09:16:53.584Z</updated>
+    <updated>2023-04-29T10:18:30.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）]]></title>
+        <id>https://kokoyayablog.com/?p=4976</id>
+        <link href="https://kokoyayablog.com/megaman-exe-advanced-collection-verification-on-mac-with-bootcamp-windows/"/>
+        <updated>2023-04-29T09:24:17.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月14日にロックマンエグゼアドバンスドコレクションが発売されました！PCでもプレイ可能ですが、対象のOSはWindowsのみとなっていました。筆者のPCはMacですがBootCamp機能を利用しWindowsOSを入れロックマンエグゼアドバンスドコレクションがプレイ可能か確認しました。ロックマンエグゼアドバンスドコレクションを購入したいが、PCの環境がMacでできないと諦めていた方やBootCamp環境できちんと動作するか不安な方の参考になると思います。よけばご覧ください。]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野球初心者でも分かる！基本的な統計指標から詳細解説！]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2023/04/blog-post.html</id>
