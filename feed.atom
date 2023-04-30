@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T20:18:15.391Z</id>
+    <id>urn:2023-04-30T21:15:03.350Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-30T20:18:15.391Z</updated>
+    <updated>2023-04-30T21:15:03.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[初心者むけ畑選びガイド]家庭菜園はプランター？庭で土作り？貸し農園？]]></title>
+        <id>https://35saiji.com/?p=2423</id>
+        <link href="https://35saiji.com/field-selection-guide"/>
+        <updated>2023-04-29T22:59:18.000Z</updated>
+        <summary type="html"><![CDATA[「家庭菜園を始めたいけど、どこで始めたらいいか分からない。」 「家庭菜園に興味はあるけど、継続する自信がない。」 「家庭菜園をする場所がない」 このような初心者の方を対象に、家庭菜園の畑選びをお手伝いする記事です。 経験]]></summary>
+        <author>
+            <name>いのっぷ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トイレトレーニングのマンネリ打破、毎日行きたくなる作戦]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2023/04/30/060000</id>
