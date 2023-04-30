@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T10:18:23.586Z</id>
+    <id>urn:2023-04-30T11:14:25.649Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-04-30T10:18:23.586Z</updated>
+    <updated>2023-04-30T11:14:25.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -210,16 +210,6 @@ https://20230408-cs.peatix.com/
         <summary type="html"><![CDATA[1歳9か月の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計]]></summary>
         <author>
             <name>黄昏ほーむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「育児中は趣味をあきらめた。。。」→パパ、ママには手軽な家庭菜園がオススメ]]></title>
-        <id>https://35saiji.com/?p=2348</id>
-        <link href="https://35saiji.com/giving-up-hobbies-while-raising-children"/>
-        <updated>2023-03-31T22:54:12.000Z</updated>
-        <summary type="html"><![CDATA[「育児中にできる趣味を探している。」 「毎日、家事、育児と仕事だけで終わっていて、息苦しさをかんじている。」 「たまには一人の時間が欲しいけど、家族に気を使って言えない。」 この記事はそんな方へ向けて書いてあります。 子]]></summary>
-        <author>
-            <name>いのっぷ</name>
         </author>
     </entry>
 </feed>
