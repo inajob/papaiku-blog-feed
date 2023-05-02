@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T23:20:00.191Z</id>
+    <id>urn:2023-05-02T01:35:26.478Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-01T23:20:00.191Z</updated>
+    <updated>2023-05-02T01:35:26.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -282,18 +282,6 @@ OPS+
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小学校２年生：中学校受験は山あり、谷ありで親のほうがドキドキ]]></title>
-        <id>https://nicopoco.com/?p=2332</id>
-        <link href="https://nicopoco.com/junior_high_school_002"/>
-        <updated>2023-04-13T14:02:43.000Z</updated>
-        <summary type="html"><![CDATA[中学校受験の準備を開始して２年が経ちました。 １年生から続けてきたSAPIX 小学校１年生：中学校受験の準備開始（塾の比較とSAPIXに通い始めて） | まろの育児ときどき転職、ところにより副業 (n ...
-小学校２年生：中学校受験は山あり、谷ありで親のほうがドキドキ first appeared on まろの育児ときどき転職、ところにより副業.
-Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[難しいことだけど、教育を多様な人達で支えていく体制を作りたい]]></title>
         <id>https://note.com/takaranran_mk/n/n457be74001b3</id>
         <link href="https://note.com/takaranran_mk/n/n457be74001b3"/>
@@ -315,16 +303,6 @@ https://20230408-cs.peatix.com/
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、6名 さーらーにー 新スタッフが登場！！ ねこmimiさん 「娘の不登校は新しい世界を教えてくれ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023年3月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=3035</id>
-        <link href="https://tasogare-home.com/investmentperformance-2303/"/>
-        <updated>2023-04-03T13:26:42.000Z</updated>
-        <summary type="html"><![CDATA[1歳9か月の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
