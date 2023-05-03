@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T23:17:57.449Z</id>
+    <id>urn:2023-05-03T01:34:29.973Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-02T23:17:57.449Z</updated>
+    <updated>2023-05-03T01:34:29.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[怒鳴らない育児で、子どもとの関係をより良くしよう！]]></title>
+        <id>https://kosodateofmaepchan.blogspot.com/2023/05/blog-post.html</id>
+        <link href="https://kosodateofmaepchan.blogspot.com/2023/05/blog-post.html"/>
+        <updated>2023-05-03T00:19:00.003Z</updated>
+        <summary type="html"><![CDATA[@slimechans)です！
+
+
+  
+子どもに、ついつい怒鳴ってしまうことをやめたい！
+
+そんな風に思いますよね！今回は、『怒鳴らない育児をする』ための記事です。
+親が怒鳴る理由とは？
+そして、怒鳴ってしまった後、後悔しますよね。
+それを列挙していきます。
+・親自身のストレスや疲れ：
+親は子育てや家事や仕事などで多くの責任やプレッシャーを抱えています。
+そのため、心に余裕がなくなり、子供の言動に対して感情的に反応してしまうことがあります。 
+・ 親の期待と子供の発達のずれ：
+親は子供に自分の思い通りに行動してほしいという期待を持っていますが、子供はまだ自分の感情や欲求をコントロールできないことが多く、親の指示に従わなかったり、反抗したりすることがあります。
+その際、親は子供を叱る必要があると感じますが、過度に怒ってしまうこともあります。 
+・親の幼少期の体験や記憶：
+親は自分が子供だった頃に受けた教育や影響を 無意識のうちに子供にも与えようとすることがあります。
+例えば、自分が怒鳴られたり暴力を受けたりした経験がある場合、それが正しいしつけだと思い込んだり、自分の感情を表現する方法として怒鳴ることを選んだりすることがあります。
+怒鳴らないための方法 
+自分の感情やストレスの原因を見つけることが大切です。
+
+
+  自分がイライラしているときや疲れているときは、子どもに対しても辛く当たりやすくなります。
+
+
+  そのような時は、子どもに「今は話せない」と伝えて、一旦落ち着く時間を作りましょう。
+
+
+  深呼吸したり、水を飲んだり、好きな音楽を聴いたりすることで、気持ちをリセットすることができます
+
+
+  また、栄養バランスの良い食事や十分な睡眠をとることで、脳の状態を整えることも大切です。 
+
+親自身の感情をコントロールする方法 
+子どもは親の感情に敏感に反応します。
+
+
+…]]></summary>
+        <author>
+            <name>すらぱぱチャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#22 『 僕たち夫婦はうまくいっているはず 』音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/nd862677096fa</id>
@@ -315,16 +363,6 @@ https://20230408-cs.peatix.com/
         <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、6名 さーらーにー 新スタッフが登場！！ ねこmimiさん 「娘の不登校は新しい世界を教えてくれ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023年3月度】長期投資実績＆子育て費用公開！]]></title>
-        <id>https://tasogare-home.com/?p=3035</id>
-        <link href="https://tasogare-home.com/investmentperformance-2303/"/>
-        <updated>2023-04-03T13:26:42.000Z</updated>
-        <summary type="html"><![CDATA[1歳9か月の娘をもつ30代共働き夫婦の投資と子育ての実費についての月次まとめ記事となります！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計]]></summary>
-        <author>
-            <name>黄昏ほーむ</name>
         </author>
     </entry>
 </feed>
