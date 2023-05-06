@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T21:15:28.373Z</id>
+    <id>urn:2023-05-06T22:16:38.059Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-06T21:15:28.373Z</updated>
+    <updated>2023-05-06T22:16:38.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -169,7 +169,7 @@ https://lit.link/yama25utsukarano
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[初心者むけ畑選びガイド]家庭菜園はプランター？庭で土作り？貸し農園？]]></title>
+        <title type="html"><![CDATA[[初心者の畑選び]家庭菜園はプランター？庭で土作り？市民農園？シェア畑？]]></title>
         <id>https://35saiji.com/?p=2423</id>
         <link href="https://35saiji.com/field-selection-guide"/>
         <updated>2023-04-29T22:59:18.000Z</updated>
