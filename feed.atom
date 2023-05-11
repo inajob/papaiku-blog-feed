@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T14:17:02.413Z</id>
+    <id>urn:2023-05-11T15:19:10.585Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-11T14:17:02.413Z</updated>
+    <updated>2023-05-11T15:19:10.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[育児疲れから抜け出す方法とストレス解消解消グッズを紹介]]></title>
+        <id>https://irodorulife.com/?p=2607</id>
+        <link href="https://irodorulife.com/%e8%82%b2%e5%85%90%e7%96%b2%e3%82%8c%e3%81%8b%e3%82%89%e6%8a%9c%e3%81%91%e5%87%ba%e3%81%99%e6%96%b9%e6%b3%95%e3%81%a8%e3%82%b9%e3%83%88%e3%83%ac%e3%82%b9%e8%a7%a3%e6%b6%88%e8%a7%a3%e6%b6%88%e3%82%b0/"/>
+        <updated>2023-05-11T15:16:56.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダンです。 育児はとてもやりがいがありますが、同時に疲れとストレスもたくさん抱えてしまうことが多いですよね。 以上の2点をまとめました。 育児疲れから抜け出す方法 ちょっとした息抜きをする 例えば、子供が寝...
+育児疲れから抜け出す方法とストレス解消解消グッズを紹介 first appeared on otodanblog.]]></summary>
+        <author>
+            <name>otodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幼児にプログラミングの教育をするメリット・デメリット]]></title>
         <id>https://irodorulife.com/?p=2595</id>
