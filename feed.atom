@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T13:20:42.065Z</id>
+    <id>urn:2023-05-12T14:16:22.160Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-12T13:20:42.065Z</updated>
+    <updated>2023-05-12T14:16:22.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】楽天ペイで請求書払い！自動車税と軽自動車税を実際に払ってみました]]></title>
+        <id>https://kokoyayablog.com/?p=5622</id>
+        <link href="https://kokoyayablog.com/review-rakuten-pay-paying-bills-automobile-tax-light-vehicle-tax/"/>
+        <updated>2023-05-12T13:34:15.000Z</updated>
+        <summary type="html"><![CDATA[楽天ペイで自動車税、軽自動車税を払う方法について実際の写真を用いて紹介します。楽天ペイで自動車税、軽自動車税を支払う際にそのまま払うより得する方法や、不具合が出た際の対処法を紹介しています。また、ご自身の自動車税の支払い以外に家族に届いた自動車税の支払いが可能か確認しました。実際の写真を用いて紹介していますので支払いの手順が不安な方も参個にご覧ください。]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#2３ 『 ペンギンのたからもの 』 音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/n68edd3a31031</id>
@@ -474,7 +484,7 @@ OPS+
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【eL-QR】楽天ペイで請求書払いが利用可能に！固定資産税を実際に払ってみました]]></title>
+        <title type="html"><![CDATA[【検証】楽天ペイで請求書払いが利用可能に！固定資産税を実際に払ってみました]]></title>
         <id>https://kokoyayablog.com/?p=5148</id>
         <link href="https://kokoyayablog.com/el-qr-property-tax-payment-rakuten-pay-review/"/>
         <updated>2023-04-17T14:26:38.000Z</updated>
