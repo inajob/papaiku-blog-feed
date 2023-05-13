@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T14:15:22.770Z</id>
+    <id>urn:2023-05-13T15:16:43.516Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-13T14:15:22.770Z</updated>
+    <updated>2023-05-13T15:16:43.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【自宅で簡単】SOELUパーソナルトレーニングで産後ダイエット]]></title>
+        <id>https://irodorulife.com/?p=2613</id>
+        <link href="https://irodorulife.com/%e3%80%90%e8%87%aa%e5%ae%85%e3%81%a7%e7%b0%a1%e5%8d%98%e3%80%91soelu%e3%83%91%e3%83%bc%e3%82%bd%e3%83%8a%e3%83%ab%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%a7%e7%94%a3%e5%be%8c/"/>
+        <updated>2023-05-12T14:56:51.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダンです。 今回は産後ダイエットを考えている方や、オンラインパーソナルトレーニングのメリット・デメリットを紹介します。 こんな方にオンラインパーソナルトレーニングはオススメ 以上がパーソナルトレーニングの利...
+【自宅で簡単】SOELUパーソナルトレーニングで産後ダイエット first appeared on otodanblog.]]></summary>
+        <author>
+            <name>otodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【レビュー】楽天ペイで請求書払い！自動車税と軽自動車税を実際に払ってみました]]></title>
         <id>https://kokoyayablog.com/?p=5622</id>
