@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T01:26:40.492Z</id>
+    <id>urn:2023-05-13T02:32:14.933Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-13T01:26:40.492Z</updated>
+    <updated>2023-05-13T02:32:14.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -501,18 +501,6 @@ OPS+
         <summary type="html"><![CDATA[Macでゲームをする際にWindows対応のゲームのため諦めた経験はありませんか。プロセッサがintelのMacではBootCampと言ってWindowsを導入することが可能です。この記事ではMacにBootCampを使用してWindows10を導入する方法を解説しています。ゲームの要求スペックにもよりますが、PCがMacでWindowsゲームを諦めていた方はこの記事を参考に一度お試しください。]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小学校２年生：中学校受験は山あり、谷ありで親のほうがドキドキ]]></title>
-        <id>https://nicopoco.com/?p=2332</id>
-        <link href="https://nicopoco.com/junior_high_school_002"/>
-        <updated>2023-04-13T14:02:43.000Z</updated>
-        <summary type="html"><![CDATA[中学校受験の準備を開始して２年が経ちました。 １年生から続けてきたSAPIX 小学校１年生：中学校受験の準備開始（塾の比較とSAPIXに通い始めて） | まろの育児ときどき転職、ところにより副業 (n ...
-小学校２年生：中学校受験は山あり、谷ありで親のほうがドキドキ first appeared on まろの育児ときどき転職、ところにより副業.
-Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
