@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T14:15:23.941Z</id>
+    <id>urn:2023-05-14T15:17:07.407Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-14T14:15:23.941Z</updated>
+    <updated>2023-05-14T15:17:07.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【TRICK】育児に役立つ本]]></title>
+        <id>https://irodorulife.com/?p=2648</id>
+        <link href="https://irodorulife.com/%e3%80%90trick%e3%80%91%e8%82%b2%e5%85%90%e3%81%ab%e5%bd%b9%e7%ab%8b%e3%81%a4%e6%9c%ac/"/>
+        <updated>2023-05-14T14:39:35.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダンです。 最近、育児に役立つ本を久しぶりに見つけた気がするので紹介します！ TRICK TRICK エスター・ヴォジスキーの本は、「トリック思考」という考え方を提唱した本です。 この本には、ビジネスや人生...
+【TRICK】育児に役立つ本 first appeared on otodanblog.]]></summary>
+        <author>
+            <name>otodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自宅で簡単】SOELUパーソナルトレーニングで産後ダイエット]]></title>
         <id>https://irodorulife.com/?p=2613</id>
