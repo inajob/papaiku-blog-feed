@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T02:35:25.539Z</id>
+    <id>urn:2023-05-17T03:19:20.472Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-17T02:35:25.539Z</updated>
+    <updated>2023-05-17T03:19:20.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -493,16 +493,6 @@ OPS+
         <summary type="html"><![CDATA[「家庭菜園に興味はあるけど、難しそうで始められない。」 「挑戦したけど、野菜をうまく育てられなかった。」 「作業が思ったよりも大変だった。続けるのは無理。」 家庭菜園の経験がないと、このようなことで困っている方もいるので]]></summary>
         <author>
             <name>いのっぷ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポイ活】ファミペイを利用して固定資産税を少しお得に払う方法]]></title>
-        <id>https://kokoyayablog.com/?p=4785</id>
-        <link href="https://kokoyayablog.com/poikatsu-famipay-koteishisanzei-otok-pay/"/>
-        <updated>2023-04-17T14:48:00.000Z</updated>
-        <summary type="html"><![CDATA[固定資産税をファミペイで支払うことが可能とご存知ですか？筆者の僕は2019年からファミペイで固定資産税を仕払し少しだけお得に生活しています。この記事ではファミペイで固定資産税を払う際に少しだけお得になる4つの方法を紹介しています。これまで現金で固定資産税を払っていた方は、この記事の方法のうち1つでも実践していただけると少しお得に支払うことができますよ。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
