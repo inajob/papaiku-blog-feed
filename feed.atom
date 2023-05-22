@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T14:17:24.796Z</id>
+    <id>urn:2023-05-22T15:18:55.272Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-22T14:17:24.796Z</updated>
+    <updated>2023-05-22T15:18:55.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -115,7 +115,7 @@ https://lit.link/yama25utsukarano
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【これだけ揃えればOK】家庭菜園の初心者が畑別に必要な道具]]></title>
+        <title type="html"><![CDATA[【これだけ揃えればOK】家庭菜園を始める初心者が必要な道具まとめ]]></title>
         <id>https://35saiji.com/?p=2473</id>
         <link href="https://35saiji.com/home-garden-tools"/>
         <updated>2023-05-21T21:07:39.000Z</updated>
