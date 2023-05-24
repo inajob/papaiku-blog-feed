@@ -96,6 +96,16 @@
       "siteUrl": "https://kokoyayablog.com",
       "articles": [
         {
+          "id": "https://kokoyayablog.com/?p=5742",
+          "author": "ここやや",
+          "description": "ロックマンエグゼアドバンスドコレクションのSteam版はアプリを利用するとスマホでプレイが可能です。この記事ではSteamLinkアプリiOS版を利用しロックマンエグゼアドバンスドコレクションをiPhoneで遊ぶ方法を紹介しています。GBAで遊んでいた頃のように気軽にエグゼで遊びたい方の参考になると思います。",
+          "link": "https://kokoyayablog.com/playing-megaman-exe-advanced-collection-on-smartphone-via-steamlink/",
+          "publishedOn": "2023-05-24T01:29:26.000Z",
+          "wordCount": 15662,
+          "title": "【SteamLink】ロックマンエグゼアドバンスドコレクションをスマートフォンで遊ぶ方法",
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/05/アイキャッチSteamLinkアドコレ.jpg"
+        },
+        {
           "id": "https://kokoyayablog.com/?p=5622",
           "author": "ここやや",
           "description": "楽天ペイで自動車税、軽自動車税を払う方法について実際の写真を用いて紹介します。楽天ペイで自動車税、軽自動車税を支払う際にそのまま払うより得する方法や、不具合が出た際の対処法を紹介しています。また、ご自身の自動車税の支払い以外に家族に届いた自動車税の支払いが可能か確認しました。実際の写真を用いて紹介していますので支払いの手順が不安な方も参個にご覧ください。",
@@ -111,7 +121,7 @@
           "description": "スイッチ、3DS無しでポケモンバンクからポケモンホームへポケモンをひっこしする方法について解説します。ポケモンバンクへ預けているポケモンはスイッチや3DSなしで移動が可能です。ただし無料ではなく有料のため金額などにも解説しています。また、少し手間もかかりますが、できる限り無料に近づける方法についても解説しています。",
           "link": "https://kokoyayablog.com/how-to-transfer-pokemon-from-bank-to-home-without-switch-3ds/",
           "publishedOn": "2023-05-10T01:34:04.000Z",
-          "wordCount": 15662,
+          "wordCount": 15665,
           "title": "【スイッチ、3DS無し】ポケモンバンクからポケモンホームへポケモンをひっこしする方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/05/Pokemon-HOME.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "2023年4月14日にロックマンエグゼアドバンスドコレクションが発売されました！PCでもプレイ可能ですが、対象のOSはWindowsのみとなっていました。筆者のPCはMacですがBootCamp機能を利用しWindowsOSを入れロックマンエグゼアドバンスドコレクションがプレイ可能か確認しました。ロックマンエグゼアドバンスドコレクションを購入したいが、PCの環境がMacでできないと諦めていた方やBootCamp環境できちんと動作するか不安な方の参考になると思います。よけばご覧ください。",
           "link": "https://kokoyayablog.com/megaman-exe-advanced-collection-verification-on-mac-with-bootcamp-windows/",
           "publishedOn": "2023-04-29T09:24:17.000Z",
-          "wordCount": 15617,
+          "wordCount": 15620,
           "title": "【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/ロックマンエグゼアドバンスドコレクションBootCampの.jpg"
         }
@@ -138,7 +148,7 @@
           "description": "こんにちはオトダンです。 今回は、育児中にほとんどのパパ、ママが経験するであろう腰痛・肩凝りの原因と解消方法を記事にしました。 以上の悩みについて育児中の腰痛・肩凝りの解決方法を伝えさせて頂きます。 子育て中のパパ、ママ...\n【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介 first appeared on otodanblog.",
           "link": "https://irodorulife.com/massage-childrearing/",
           "publishedOn": "2023-05-21T15:36:12.000Z",
-          "wordCount": 1416,
+          "wordCount": 1408,
           "title": "【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介",
           "imageUrl": null
         },
@@ -178,7 +188,7 @@
           "description": "こんにちはオトダンです。 今回は育児ストレス解決法について記事を書きました。 というのも、我が家も3歳の双子男児を絶賛育児中なのですが、毎日がお祭り騒ぎ…笑 そう、育児はとてもやりがいがありますが、同時に疲れとストレスも...\n育児疲れから抜け出す方法とストレス解消グッズを紹介 first appeared on otodanblog.",
           "link": "https://irodorulife.com/childcare-stress-relief/",
           "publishedOn": "2023-05-11T15:16:56.000Z",
-          "wordCount": 1279,
+          "wordCount": 1267,
           "title": "育児疲れから抜け出す方法とストレス解消グッズを紹介",
           "imageUrl": null
         },
