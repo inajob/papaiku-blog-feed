@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T15:17:52.390Z</id>
+    <id>urn:2023-05-25T16:24:06.995Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-25T15:17:52.390Z</updated>
+    <updated>2023-05-25T16:24:06.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[失敗しない家具の選び方｜家具や家電のレンタル・サブスクのairRoom]]></title>
+        <id>https://irodorulife.com/?p=2703</id>
+        <link href="https://irodorulife.com/furniture-subscription/"/>
+        <updated>2023-05-24T15:29:49.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダンです。 今回は、引越し・一人暮らし(単身赴任)で失敗しない家具の選び方について記事を書きました。 では、早速見ていきましょう〜。 失敗しない家具の選び方 まず初めに 家具を選ぶときに失敗しないために、い...
+失敗しない家具の選び方｜家具や家電のレンタル・サブスクのairRoom first appeared on otodanblog.]]></summary>
+        <author>
+            <name>otodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【SteamLink】ロックマンエグゼアドバンスドコレクションをスマートフォンで遊ぶ方法]]></title>
         <id>https://kokoyayablog.com/?p=5742</id>
