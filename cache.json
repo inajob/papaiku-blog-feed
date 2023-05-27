@@ -47,12 +47,22 @@
       "siteUrl": "https://35saiji.com",
       "articles": [
         {
+          "id": "https://35saiji.com/?p=2570",
+          "author": "いのっぷ",
+          "description": "「家庭菜園を始めたけど、どうやって作業したらいいか分からない。」 「肥料は何を、どのくらい入れたら良いか教えてほしい。」 「見よう見まねでやってみたけど、これでいいのかな・・・。」 この記事はこのような方に家庭菜園の定植",
+          "link": "https://35saiji.com/preparing-to-plant-a-vegetable-garden",
+          "publishedOn": "2023-05-27T12:09:36.000Z",
+          "wordCount": 3091,
+          "title": "【初心者向け】家庭菜園の定植前に行う作業を解説（庭の土作り、肥料、マルチ等）",
+          "imageUrl": "https://35saiji.com/wp-content/uploads/2023/05/d2fbdbede96e0bfd5b3e89bc32861d88-e1675630568672.jpg"
+        },
+        {
           "id": "https://35saiji.com/?p=2473",
           "author": "いのっぷ",
           "description": "「家庭菜園を始めたいけど何を買えば良いか分からない。」 「道具を集めるのが大変で、家庭菜園に挑戦できない。」 「プランターだと、道具は何があればいいんだろう。」 この記事では畑別に最低限揃えるべき道具をまとめました。 そ",
           "link": "https://35saiji.com/home-garden-tools",
           "publishedOn": "2023-05-21T21:07:39.000Z",
-          "wordCount": 3361,
+          "wordCount": 3368,
           "title": "【これだけ揃えればOK】家庭菜園を始める初心者が必要な道具まとめ",
           "imageUrl": "https://35saiji.com/wp-content/uploads/2023/05/5eb4be82f49fce7954346e4b91042126-e1684861765710.jpg"
         },
@@ -62,7 +72,7 @@
           "description": "「家庭菜園を始めたいけど、どこで始めたらいいか分からない。」 「家庭菜園に興味はあるけど、継続する自信がない。」 「家庭菜園をする場所がない」 このような初心者の方を対象に、家庭菜園の畑選びをお手伝いする記事です。 経験",
           "link": "https://35saiji.com/field-selection-guide",
           "publishedOn": "2023-04-29T22:59:18.000Z",
-          "wordCount": 3345,
+          "wordCount": 3342,
           "title": "[初心者の畑選び]家庭菜園はプランター？庭で土作り？市民農園？シェア畑？",
           "imageUrl": "https://35saiji.com/wp-content/uploads/2023/04/4790687d1c31e765ae2d9cb11fccd370.png"
         }
@@ -91,7 +101,7 @@
           "description": "ロックマンエグゼアドバンスドコレクションのSteam版はアプリを利用するとスマホでプレイが可能です。この記事ではSteamLinkアプリiOS版を利用しロックマンエグゼアドバンスドコレクションをiPhoneで遊ぶ方法を紹介しています。GBAで遊んでいた頃のように気軽にエグゼで遊びたい方の参考になると思います。",
           "link": "https://kokoyayablog.com/playing-megaman-exe-advanced-collection-on-smartphone-via-steamlink/",
           "publishedOn": "2023-05-24T01:29:26.000Z",
-          "wordCount": 15751,
+          "wordCount": 15937,
           "title": "【SteamLink】ロックマンエグゼアドバンスドコレクションをスマートフォンで遊ぶ方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/05/アイキャッチSteamLinkアドコレ.jpg"
         },
@@ -158,7 +168,7 @@
           "description": "こんにちはオトダンです。 今回は、育児中にほとんどのパパ、ママが経験するであろう腰痛・肩凝りの原因と解消方法を記事にしました。 以上の悩みについて育児中の腰痛・肩凝りの解決方法を伝えさせて頂きます。 子育て中のパパ、ママ...\n【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介 first appeared on otodanblog.",
           "link": "https://irodorulife.com/massage-childrearing/",
           "publishedOn": "2023-05-21T15:36:12.000Z",
-          "wordCount": 1388,
+          "wordCount": 1410,
           "title": "【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介",
           "imageUrl": null
         },
@@ -305,7 +315,7 @@
           "description": "持ち家に住むか賃貸にするか悩みますね。 この迷いに対して、資産を増やすための手段として考えたらどうか？という点で本日は記載していきます。 この記事を読むと 持ち家にするか賃貸にするかの判断の一助となる ...\n資産の増やし方①：ローン分を利益に！私が考える持ち家vs賃貸 first appeared on まろの育児ときどき転職、ところにより副業.\nCopyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.",
           "link": "https://nicopoco.com/apartmet_investment",
           "publishedOn": "2023-05-10T14:06:38.000Z",
-          "wordCount": 917,
+          "wordCount": 915,
           "title": "資産の増やし方①：ローン分を利益に！私が考える持ち家vs賃貸",
           "imageUrl": null
         }

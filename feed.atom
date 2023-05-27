@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T11:14:01.568Z</id>
+    <id>urn:2023-05-27T12:32:52.105Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-27T11:14:01.568Z</updated>
+    <updated>2023-05-27T12:32:52.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】家庭菜園の定植前に行う作業を解説（庭の土作り、肥料、マルチ等）]]></title>
+        <id>https://35saiji.com/?p=2570</id>
+        <link href="https://35saiji.com/preparing-to-plant-a-vegetable-garden"/>
+        <updated>2023-05-27T12:09:36.000Z</updated>
+        <summary type="html"><![CDATA[「家庭菜園を始めたけど、どうやって作業したらいいか分からない。」 「肥料は何を、どのくらい入れたら良いか教えてほしい。」 「見よう見まねでやってみたけど、これでいいのかな・・・。」 この記事はこのような方に家庭菜園の定植]]></summary>
+        <author>
+            <name>いのっぷ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【学習おもちゃ】子ども用タブレットのおすすめ機種3選を紹介]]></title>
         <id>https://irodorulife.com/?p=2734</id>
