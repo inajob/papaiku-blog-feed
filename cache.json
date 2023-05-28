@@ -106,12 +106,22 @@
       "siteUrl": "https://kokoyayablog.com",
       "articles": [
         {
+          "id": "https://kokoyayablog.com/?p=5920",
+          "author": "ここやや",
+          "description": "SteamLinkというアプリは外出先から自宅PCのゲームをリモートプレイすることができます。外出先からリモートプレイをする際に通信料がどの程度かかるのか実際にプレイして確認しました。1時間リモートプレイした際の通信料やリモートプレイする際に起きた困ったことについて解説しています。",
+          "link": "https://kokoyayablog.com/steamlink-mobile-gaming-data-consumption-tested-on-the-go/",
+          "publishedOn": "2023-05-28T06:46:10.000Z",
+          "wordCount": 15708,
+          "title": "Steam Linkで外出先からゲームをプレイ！｜ギガ消費・通信量がどのくらいか試しました",
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/05/SteamLink外出先からアドコレ通信量.webp"
+        },
+        {
           "id": "https://kokoyayablog.com/?p=5742",
           "author": "ここやや",
           "description": "ロックマンエグゼアドバンスドコレクションのSteam版はアプリを利用するとスマホでプレイが可能です。この記事ではSteamLinkアプリiOS版を利用しロックマンエグゼアドバンスドコレクションをiPhoneで遊ぶ方法を紹介しています。GBAで遊んでいた頃のように気軽にエグゼで遊びたい方の参考になると思います。",
           "link": "https://kokoyayablog.com/playing-megaman-exe-advanced-collection-on-smartphone-via-steamlink/",
           "publishedOn": "2023-05-24T01:29:26.000Z",
-          "wordCount": 15937,
+          "wordCount": 15943,
           "title": "【SteamLink】ロックマンエグゼアドバンスドコレクションをスマートフォンで遊ぶ方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/05/アイキャッチSteamLinkアドコレ.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "スイッチ、3DS無しでポケモンバンクからポケモンホームへポケモンをひっこしする方法について解説します。ポケモンバンクへ預けているポケモンはスイッチや3DSなしで移動が可能です。ただし無料ではなく有料のため金額などにも解説しています。また、少し手間もかかりますが、できる限り無料に近づける方法についても解説しています。",
           "link": "https://kokoyayablog.com/how-to-transfer-pokemon-from-bank-to-home-without-switch-3ds/",
           "publishedOn": "2023-05-10T01:34:04.000Z",
-          "wordCount": 15940,
+          "wordCount": 15945,
           "title": "【スイッチ、3DS無し】ポケモンバンクからポケモンホームへポケモンをひっこしする方法",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/05/Pokemon-HOME.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "2023年4月14日にロックマンエグゼアドバンスドコレクションが発売されました！PCでもプレイ可能ですが、対象のOSはWindowsのみとなっていました。筆者のPCはMacですがBootCamp機能を利用しWindowsOSを入れロックマンエグゼアドバンスドコレクションがプレイ可能か確認しました。ロックマンエグゼアドバンスドコレクションを購入したいが、PCの環境がMacでできないと諦めていた方やBootCamp環境できちんと動作するか不安な方の参考になると思います。よけばご覧ください。",
           "link": "https://kokoyayablog.com/megaman-exe-advanced-collection-verification-on-mac-with-bootcamp-windows/",
           "publishedOn": "2023-04-29T09:24:17.000Z",
-          "wordCount": 15711,
+          "wordCount": 15716,
           "title": "【検証】MacにWindowsを入れロックマンエグゼアドバンスドコレクションが動作するか確認しました（BootCamp環境）",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/04/ロックマンエグゼアドバンスドコレクションBootCampの.jpg"
         }
@@ -178,7 +188,7 @@
           "description": "こんにちはオトダンです。 今回は、育児中にほとんどのパパ、ママが経験するであろう腰痛・肩凝りの原因と解消方法を記事にしました。 以上の悩みについて育児中の腰痛・肩凝りの解決方法を伝えさせて頂きます。 子育て中のパパ、ママ...\n【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介 first appeared on otodanblog.",
           "link": "https://irodorulife.com/massage-childrearing/",
           "publishedOn": "2023-05-21T15:36:12.000Z",
-          "wordCount": 1410,
+          "wordCount": 1422,
           "title": "【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "こんにちはオトダンです。 今回は育児ストレス解決法について記事を書きました。 というのも、我が家も3歳の双子男児を絶賛育児中なのですが、毎日がお祭り騒ぎ…笑 そう、育児はとてもやりがいがありますが、同時に疲れとストレスも...\n育児疲れから抜け出す方法とストレス解消グッズを紹介 first appeared on otodanblog.",
           "link": "https://irodorulife.com/childcare-stress-relief/",
           "publishedOn": "2023-05-11T15:16:56.000Z",
-          "wordCount": 1293,
+          "wordCount": 1269,
           "title": "育児疲れから抜け出す方法とストレス解消グッズを紹介",
           "imageUrl": null
         },
@@ -325,7 +335,7 @@
           "description": "持ち家に住むか賃貸にするか悩みますね。 この迷いに対して、資産を増やすための手段として考えたらどうか？という点で本日は記載していきます。 この記事を読むと 持ち家にするか賃貸にするかの判断の一助となる ...\n資産の増やし方①：ローン分を利益に！私が考える持ち家vs賃貸 first appeared on まろの育児ときどき転職、ところにより副業.\nCopyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.",
           "link": "https://nicopoco.com/apartmet_investment",
           "publishedOn": "2023-05-10T14:06:38.000Z",
-          "wordCount": 917,
+          "wordCount": 915,
           "title": "資産の増やし方①：ローン分を利益に！私が考える持ち家vs賃貸",
           "imageUrl": null
         }
