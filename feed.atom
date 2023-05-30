@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T14:17:03.369Z</id>
+    <id>urn:2023-05-30T15:18:50.422Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-05-30T14:17:03.369Z</updated>
+    <updated>2023-05-30T15:18:50.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[双子抱っこと家事による子育ての腰痛あるある]]></title>
+        <id>https://irodorulife.com/?p=2748</id>
+        <link href="https://irodorulife.com/twins-event/"/>
+        <updated>2023-05-30T12:46:12.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは♪ 只今、絶賛3歳になる双子男児の子育てに奮闘中のオトダン（Otodan_）です。 見出しに書いた通り今回は、双子子育ての腰痛あるあるについてサクッと書いてみようと思います… 【双子抱っこ】による子育ての腰痛あ...
+双子抱っこと家事による子育ての腰痛あるある first appeared on otodanblog.]]></summary>
+        <author>
+            <name>otodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Linkで外出先からゲームをプレイ！｜ギガ消費・通信量がどのくらいか試しました]]></title>
         <id>https://kokoyayablog.com/?p=5920</id>
