@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T21:15:54.714Z</id>
+    <id>urn:2023-06-02T22:17:05.981Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-02T21:15:54.715Z</updated>
+    <updated>2023-06-02T22:17:05.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[普通って、なんだろう？]]></title>
+        <id>https://decobocochan.com/?p=9709</id>
+        <link href="https://decobocochan.com/archives/9709"/>
+        <updated>2023-06-02T21:45:04.000Z</updated>
+        <summary type="html"><![CDATA[放課後等デイでのうそのようなホントの話 ある程度ぼかしてますが、だいたいこんなこと言われました この会話を聞いて あなたは、どう感じますか？ あ、今回は毒吐き⚠注意 本人に聞いてないんかーい！とココロの中で突っ込んでしま ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保護中: ヤザキメディカルのair seatはどのベビーカーにも取り付け・折り畳みできるのか検証してみた]]></title>
         <id>https://papaganbarumon.com/?p=1669</id>
