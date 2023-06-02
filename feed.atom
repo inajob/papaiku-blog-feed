@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T12:38:00.715Z</id>
+    <id>urn:2023-06-02T13:23:56.865Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-02T12:38:00.715Z</updated>
+    <updated>2023-06-02T13:23:56.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保護中: ヤザキメディカルのair seatはどのベビーカーにも取り付け・折り畳みできるのか検証してみた]]></title>
+        <id>https://papaganbarumon.com/?p=1669</id>
+        <link href="https://papaganbarumon.com/air-seat/"/>
+        <updated>2023-06-02T12:56:44.000Z</updated>
+        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
+        <author>
+            <name>ponkotupapa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子どもの虫歯予防のための5重のバリア ~そして歯磨き好きへ]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2023/06/02/200000</id>
