@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T07:16:07.764Z</id>
+    <id>urn:2023-06-02T08:22:03.792Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-02T07:16:07.764Z</updated>
+    <updated>2023-06-02T08:22:03.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -195,6 +195,16 @@ Kindle]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【5/21レポ】ひなぎく凸凹カフェ]]></title>
+        <id>https://decobocochan.com/?p=9664</id>
+        <link href="https://decobocochan.com/archives/9664"/>
+        <updated>2023-05-22T06:12:07.000Z</updated>
+        <summary type="html"><![CDATA[昨日は、福岡でリアル会場と Zoomで中継を結んでくださり オンラインゲストとして参加しました すでにレポがあがってました す、すばやい。ありがたや～ お話を聞いてくださり、ありがとうございました♥ 凸凹ちゃんって、なあ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Twitter スペース 潜在意識に効く『 絵本読み聞かせ 』]]></title>
         <id>https://note.com/mountainpeace/n/ndeda3e10afde</id>
         <link href="https://note.com/mountainpeace/n/ndeda3e10afde"/>
@@ -316,6 +326,16 @@ https://lit.link/yama25utsukarano
 【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロとのレッスン]]></title>
+        <id>https://decobocochan.com/?p=9676</id>
+        <link href="https://decobocochan.com/archives/9676"/>
+        <updated>2023-05-19T07:34:13.000Z</updated>
+        <summary type="html"><![CDATA[デザインは、ズブの素人なわたし デザインの学校へ行ったわけでもないので独学 最初はマネからはじめました 自分がひかれるチラシのね オトナになってからの勉強 いろんなとこのセミナーへ行ったり アドバイスをもらったり 作品を ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
