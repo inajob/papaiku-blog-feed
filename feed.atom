@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T05:17:24.636Z</id>
+    <id>urn:2023-06-02T06:22:59.267Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-02T05:17:24.636Z</updated>
+    <updated>2023-06-02T06:22:59.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -338,6 +338,16 @@ https://lit.link/yama25utsukarano
 【TRICK】育児に役立つ本 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GUEST】ひなぎく凸凹カフェ※終わりました]]></title>
+        <id>https://decobocochan.com/?p=9657</id>
+        <link href="https://decobocochan.com/archives/9657"/>
+        <updated>2023-05-14T05:51:49.000Z</updated>
+        <summary type="html"><![CDATA[皆さま、お久しぶりです💦 ブログをながらくお休みしておりました 体調を崩したとかではないので、大丈夫ですよ お仕事がかわったり 子どもたちがキッズケータイの機種変したり 卒入学の手続き+引継ぎ 放課後デイの変更 えぇ 理 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
