@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T09:18:26.185Z</id>
+    <id>urn:2023-06-05T10:20:44.209Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-05T09:18:26.186Z</updated>
+    <updated>2023-06-05T10:20:44.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,6 +14,16 @@
 子どもが自発的に学習意欲をもって勉強してくれるための魔法の方法9つ紹介 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自治体によって受験システムが「ちがう」]]></title>
+        <id>https://decobocochan.com/?p=9733</id>
+        <link href="https://decobocochan.com/archives/9733"/>
+        <updated>2023-06-04T09:45:54.000Z</updated>
+        <summary type="html"><![CDATA[去年、娘が中2の頃から動き出しているんだけども… 4月から中3になる長女の選択肢を広げるための下準備 特別支援学校によっては、中1から説明会やら 相談会に行かないと受験資格がコロナ前は、なかったそうです 昨年は、公立高校 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
