@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T23:18:17.451Z</id>
+    <id>urn:2023-06-06T01:54:37.439Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-05T23:18:17.451Z</updated>
+    <updated>2023-06-06T01:54:37.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【5/21ご感想】 ひなぎく凸凹カフェ]]></title>
+        <id>https://decobocochan.com/?p=9779</id>
+        <link href="https://decobocochan.com/archives/9779"/>
+        <updated>2023-06-06T01:05:45.000Z</updated>
+        <summary type="html"><![CDATA[未来地図でいっしょにチームとして活動している Kunさんにお誘いいただいて オンラインゲストとして参加しました ご感想をいただきましたので、ぜひお読みいただければと思います 今回のイベントをどこで知りましたか 講話内容は ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カチャカで家具を自動で動かせる！スマートホームの新しい形！]]></title>
         <id>https://kosodateofmaepchan.blogspot.com/2023/06/blog-post.html</id>
