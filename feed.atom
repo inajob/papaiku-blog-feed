@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T11:14:39.680Z</id>
+    <id>urn:2023-06-06T12:37:47.598Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-06T11:14:39.680Z</updated>
+    <updated>2023-06-06T12:37:47.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【組み合わせ自由】ファミマでレッドブル2本同時購入で50円割引キャンペーン中！！]]></title>
+        <id>https://kokoyayablog.com/?p=6037</id>
+        <link href="https://kokoyayablog.com/famima-redbull-2-cans-discount-campaign/"/>
+        <updated>2023-06-06T12:32:55.000Z</updated>
+        <summary type="html"><![CDATA[2023年6月6日(火)〜7月24日(月)までファミリーマートで対象のレッドブルを2本同時購入すると50円割引キャンペーンが実施されています。 250ml缶なら1本辺り188円で購入できるのでよく買う人にはお得なキャンペ […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/21ご感想】 ひなぎく凸凹カフェ]]></title>
         <id>https://decobocochan.com/?p=9779</id>
