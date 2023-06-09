@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T03:26:18.701Z</id>
+    <id>urn:2023-06-09T04:21:43.076Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-09T03:26:18.701Z</updated>
+    <updated>2023-06-09T04:21:43.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[夏休み最後の夜に(2023年version)]]></title>
+        <title type="html"><![CDATA[眠れぬ夜に「ひと言メッセージ」企画　夏休み最後の夜に(2023年version)]]></title>
         <id>https://decobocochan.com/?p=9865</id>
         <link href="https://decobocochan.com/archives/9865"/>
         <updated>2023-06-09T03:00:12.000Z</updated>
