@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T14:17:23.136Z</id>
+    <id>urn:2023-06-09T15:18:25.231Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-09T14:17:23.136Z</updated>
+    <updated>2023-06-09T15:18:25.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[高校だけが「道」じゃないよ]]></title>
+        <id>https://decobocochan.com/?p=9883</id>
+        <link href="https://decobocochan.com/archives/9883"/>
+        <updated>2023-06-09T15:03:55.000Z</updated>
+        <summary type="html"><![CDATA[自治体によって受験システムが「ちがう」で 高校の種類と内申点の計算方法についてご説明しました アクセス数がいつものコラムよりも良かった やはり需要があるんだなぁと感じました でも、日ごろから言っているのは 高校だけが選択 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[眠れぬ夜に「ひと言メッセージ」企画　夏休み最後の夜に(2023年version)]]></title>
         <id>https://decobocochan.com/?p=9865</id>
@@ -517,16 +527,6 @@ https://lit.link/yama25utsukarano
 【腰痛・肩凝り解消アイテム】子育て中の隙間時間に自宅で簡単にできるケアとマッサージ機を紹介 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロとのレッスン]]></title>
-        <id>https://decobocochan.com/?p=9676</id>
-        <link href="https://decobocochan.com/archives/9676"/>
-        <updated>2023-05-19T07:34:13.000Z</updated>
-        <summary type="html"><![CDATA[デザインは、ズブの素人なわたし デザインの学校へ行ったわけでもないので独学 最初はマネからはじめました 自分がひかれるチラシのね オトナになってからの勉強 いろんなとこのセミナーへ行ったり アドバイスをもらったり 作品を ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
