@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T13:19:29.307Z</id>
+    <id>urn:2023-06-10T14:15:15.261Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-10T13:19:29.307Z</updated>
+    <updated>2023-06-10T14:15:15.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[真夏日の暑さ対策｜子どもが熱中症になってしまった時の対処法｜暑さ予防に役立つアイテム5選]]></title>
+        <id>https://irodorulife.com/?p=2795</id>
+        <link href="https://irodorulife.com/child-heatstroke-measures/"/>
+        <updated>2023-06-10T13:44:14.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはオトダン(Otodan_)です。 今回は、真夏日の熱中症対策に便利なアイテムの紹介と子どもが熱中症になってしまった時の対処をお伝えします。 この記事を読んで安全で楽しい夏休み生活を子どもたちと送って頂けると幸い...
+真夏日の暑さ対策｜子どもが熱中症になってしまった時の対処法｜暑さ予防に役立つアイテム5選 first appeared on otodanblog.]]></summary>
+        <author>
+            <name>otodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校だけが「道」じゃないよ]]></title>
         <id>https://decobocochan.com/?p=9883</id>
@@ -547,17 +558,6 @@ https://lit.link/yama25utsukarano
         <updated>2023-05-14T14:39:35.000Z</updated>
         <summary type="html"><![CDATA[こんにちはオトダンです。 最近、育児に役立つ本を久しぶりに見つけた気がするので紹介します！ TRICK TRICK エスター・ヴォジスキーの本は、「トリック思考」という考え方を提唱した本です。 この本には、ビジネスや人生...
 【TRICK】育児に役立つ本 first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【自宅で簡単】SOELUパーソナルトレーニングで産後ダイエット]]></title>
-        <id>https://irodorulife.com/?p=2613</id>
-        <link href="https://irodorulife.com/soelu-diet/"/>
-        <updated>2023-05-12T14:56:51.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはオトダンです。 今回は産後ダイエットを考えている方や、オンラインパーソナルトレーニングのメリット・デメリットを紹介します。 こんな方にオンラインパーソナルトレーニングはオススメ 以上がパーソナルトレーニングの利...
-【自宅で簡単】SOELUパーソナルトレーニングで産後ダイエット first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
         </author>
