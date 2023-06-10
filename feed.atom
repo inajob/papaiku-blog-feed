@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T20:19:00.817Z</id>
+    <id>urn:2023-06-10T21:14:57.422Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-10T20:19:00.817Z</updated>
+    <updated>2023-06-10T21:14:57.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想【7】]]></title>
+        <id>https://decobocochan.com/?p=8687</id>
+        <link href="https://decobocochan.com/archives/8687"/>
+        <updated>2023-06-10T21:09:29.000Z</updated>
+        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用スライド あれもこれも言いたい！となると どんどんスライドふえていくよね ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真夏日の暑さ対策｜子どもが熱中症になってしまった時の対処法｜暑さ予防に役立つアイテム5選]]></title>
         <id>https://irodorulife.com/?p=2795</id>
@@ -404,16 +414,6 @@ Kindle]]></summary>
         <summary type="html"><![CDATA[4歳と2歳の娘を連れてショッピングセンターに行きました。時間調整のために子供向けのゲームコーナーに立ち寄ってゲームを楽しんでいたところ、服が破損する事態が発生しました。 ゲーム機は安全に作られているのですが、思わぬところで不具合が発生したということで、親が注意しないといけないと感た出来事を紹介します。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5/21レポ】ひなぎく凸凹カフェ]]></title>
-        <id>https://decobocochan.com/?p=9664</id>
-        <link href="https://decobocochan.com/archives/9664"/>
-        <updated>2023-05-22T06:12:07.000Z</updated>
-        <summary type="html"><![CDATA[昨日は、福岡でリアル会場と Zoomで中継を結んでくださり オンラインゲストとして参加しました すでにレポがあがってました す、すばやい。ありがたや～ お話を聞いてくださり、ありがとうございました♥ 凸凹ちゃんって、なあ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
