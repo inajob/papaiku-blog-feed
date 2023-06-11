@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T23:17:15.173Z</id>
+    <id>urn:2023-06-11T02:01:50.830Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-10T23:17:15.173Z</updated>
+    <updated>2023-06-11T02:01:50.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -560,16 +560,6 @@ https://lit.link/yama25utsukarano
 【TRICK】育児に役立つ本 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レビュー】楽天ペイで請求書払い！自動車税と軽自動車税を実際に払ってみました]]></title>
-        <id>https://kokoyayablog.com/?p=5622</id>
-        <link href="https://kokoyayablog.com/review-rakuten-pay-paying-bills-automobile-tax-light-vehicle-tax/"/>
-        <updated>2023-05-12T13:34:15.000Z</updated>
-        <summary type="html"><![CDATA[楽天ペイで自動車税、軽自動車税を払う方法について実際の写真を用いて紹介します。楽天ペイで自動車税、軽自動車税を支払う際にそのまま払うより得する方法や、不具合が出た際の対処法を紹介しています。また、ご自身の自動車税の支払い以外に家族に届いた自動車税の支払いが可能か確認しました。実際の写真を用いて紹介していますので支払いの手順が不安な方も参個にご覧ください。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
