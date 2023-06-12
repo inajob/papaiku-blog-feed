@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T20:18:33.703Z</id>
+    <id>urn:2023-06-12T22:17:16.787Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-12T20:18:33.703Z</updated>
+    <updated>2023-06-12T22:17:16.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3年目の移動支援養成講座、講師]]></title>
+        <id>https://decobocochan.com/?p=9934</id>
+        <link href="https://decobocochan.com/archives/9934"/>
+        <updated>2023-06-12T22:05:22.000Z</updated>
+        <summary type="html"><![CDATA[移動支援養成講座の講師をしてきました 今年で3年目 1年で2〜3回、開催されてます 今年は、6月と8月 8月の夏休みは、高校生対象で開催予定 川西市の高校生も受講できるそうなので、ぜひこのチャンスに受けてみてね 11月に ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[すごろく手順書をつくってみよう]]></title>
         <id>https://decobocochan.com/?p=9922</id>
@@ -373,16 +383,6 @@ Kindle]]></summary>
 【学習おもちゃ】子ども用タブレットのおすすめ機種3選を紹介 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[★重要★公式LINE移行について]]></title>
-        <id>https://decobocochan.com/?p=9692</id>
-        <link href="https://decobocochan.com/archives/9692"/>
-        <updated>2023-05-25T08:46:30.000Z</updated>
-        <summary type="html"><![CDATA[6月から公式LINEのシステムが変更になり 無料の一斉配信数が1000通から200通に 激減します ワタシの場合は、月に1通も配信できないことに…なります💦 BandやLINEオプチャなど他のアプリをためして 6カ月ほど ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
