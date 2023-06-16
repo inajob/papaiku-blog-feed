@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T04:21:35.658Z</id>
+    <id>urn:2023-06-16T05:17:26.244Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-16T04:21:35.658Z</updated>
+    <updated>2023-06-16T05:17:26.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【シェア・拡散希望です】凸凹ちゃんが受診できる病院情報]]></title>
+        <id>https://decobocochan.com/?p=10035</id>
+        <link href="https://decobocochan.com/archives/10035"/>
+        <updated>2023-06-16T05:06:32.000Z</updated>
+        <summary type="html"><![CDATA[当サイトで医療機関の凸凹ちゃんが受診できる病院情報の掲載をとりまとめようと思います みなさまに病院の情報収集のご協力をお願いしたくて、blogを書かせていただきました 個人で活動しておりますので、都道府県別とかしかできな ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年7月セミナー・イベント情報]]></title>
         <id>https://decobocochan.com/?p=9970</id>
@@ -235,16 +245,6 @@
         <summary type="html"><![CDATA[子どもの歯磨きの習慣づけは、ほとんどの家庭で頭の痛い問題だと思います。やらなければいけないけれど、子どもが嫌がる。嫌がるから無理やりやると、子どもはもっと歯磨きを嫌いになる、という悪循環 簡単にやる方法があれば理想的ですが、虫歯予防に王道なし。地道にやり続けるしかないのですが、より虫歯予防効果を高める方法を積み重ねたところ、5重のバリアを張ることになりました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7周年企画】リアル2days凸凹カフェ]]></title>
-        <id>https://decobocochan.com/?p=9609</id>
-        <link href="https://decobocochan.com/archives/9609"/>
-        <updated>2023-06-02T02:51:45.000Z</updated>
-        <summary type="html"><![CDATA[あつまれ！凸凹ちゃんの活動は、6月で7周年となります これもひとえに応援くださる皆さまのお陰さまです 感謝の気持ちをこめて 初心にもどり、 リアル2days開催決定！ 凸凹カフェもお部屋の予約がとれたので 6月7月のご予 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
