@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T10:19:37.459Z</id>
+    <id>urn:2023-06-16T11:14:45.200Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-16T10:19:37.459Z</updated>
+    <updated>2023-06-16T11:14:45.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[洗濯乾燥が長くて途方に暮れた時に試したら、2時間短縮した方法]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/06/16/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/06/16/200000"/>
+        <updated>2023-06-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[家事を楽にするための三種の神器と言われているのがドラム式洗濯乾燥機、ロボット掃除機、そして食洗器です。 そして例年より早く梅雨が訪れたことにより、ドラム式洗濯乾燥機の時短効果はにわかに上がっています。 そのように家庭生活の必須家電となりつつあるドラム式洗濯乾燥機ですが、古くなってきて乾燥時間があまりにも長くなったという問題と、それがまさかの方法で解決した、という事例を紹介します。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【シェア・拡散希望です】凸凹ちゃんが受診できる病院情報]]></title>
         <id>https://decobocochan.com/?p=10035</id>
