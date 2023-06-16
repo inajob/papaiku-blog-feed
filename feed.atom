@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T11:14:45.200Z</id>
+    <id>urn:2023-06-16T12:36:12.809Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-16T11:14:45.200Z</updated>
+    <updated>2023-06-16T12:36:12.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【非M1】Macで統合版マイクラを遊ぶ方法！ParallelsDesktopを利用]]></title>
+        <id>https://kokoyayablog.com/?p=6092</id>
+        <link href="https://kokoyayablog.com/how-to-play-bedrockedition-minecraft-on-intelcorei5-macbookair-with-parallels-desktop/"/>
+        <updated>2023-06-16T11:48:15.000Z</updated>
+        <summary type="html"><![CDATA[統合版マイクラはMacOSで遊ぶことができません。しかしParallelsDesktopというソフトを利用すると仮想環境でWindowsを動作させる事が可能です。仮想環境を利用するとMacでも統合版マイクラを遊ぶことができます。この記事ではMacBook AirにWindows11を導入し統合版マイクラが動作するのか、マルチプレイができるのか確認しています。]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洗濯乾燥が長くて途方に暮れた時に試したら、2時間短縮した方法]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2023/06/16/200000</id>
