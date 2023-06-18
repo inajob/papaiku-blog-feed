@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-18T09:16:42.274Z</id>
+    <id>urn:2023-06-18T10:18:55.200Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-18T09:16:42.274Z</updated>
+    <updated>2023-06-18T10:18:55.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【miraicafeレポ】わたしたち卒業します]]></title>
+        <id>https://decobocochan.com/?p=10104</id>
+        <link href="https://decobocochan.com/archives/10104"/>
+        <updated>2023-06-18T09:31:15.000Z</updated>
+        <summary type="html"><![CDATA[miraicafeは、カフェをモチーフとしたオンライン不登校親の会 さて、今回のmiraicafe 今回のトークスタッフは、7名 本日、パパ相談員であるトミヒロさんが ご参加予定でしたが、急用ができたので 残念ながら、欠 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[育児中の睡眠不足｜原因と症状と解消法｜短時間で質の高い睡眠ができる枕を紹介]]></title>
         <id>https://irodorulife.com/?p=2810</id>
@@ -255,16 +265,6 @@
         <link href="https://decobocochan.com/archives/9733"/>
         <updated>2023-06-04T09:45:54.000Z</updated>
         <summary type="html"><![CDATA[去年、娘が中2の頃から動き出しているんだけども… 4月から中3になる長女の選択肢を広げるための下準備 特別支援学校によっては、中1から説明会やら 相談会に行かないと受験資格がコロナ前は、なかったそうです 昨年は、公立高校 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通って、なんだろう？]]></title>
-        <id>https://decobocochan.com/?p=9709</id>
-        <link href="https://decobocochan.com/archives/9709"/>
-        <updated>2023-06-02T21:45:04.000Z</updated>
-        <summary type="html"><![CDATA[放課後等デイでのうそのようなホントの話 ある程度ぼかしてますが、だいたいこんなこと言われました この会話を聞いて あなたは、どう感じますか？ あ、今回は毒吐き⚠注意 本人に聞いてないんかーい！とココロの中で突っ込んでしま ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
