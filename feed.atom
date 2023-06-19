@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-19T20:18:36.711Z</id>
+    <id>urn:2023-06-19T21:16:23.555Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-19T20:18:36.711Z</updated>
+    <updated>2023-06-19T21:16:23.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マンツーマン鑑定ご感想【8】]]></title>
+        <id>https://decobocochan.com/?p=9994</id>
+        <link href="https://decobocochan.com/archives/9994"/>
+        <updated>2023-06-19T20:22:48.000Z</updated>
+        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用スライド あれもこれも言いたい！となると どんどんスライドふえていくよね ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[育て方で発達障害にはならない、よ]]></title>
         <id>https://decobocochan.com/?p=9977</id>
@@ -167,16 +177,6 @@
         <summary type="html"><![CDATA[2023年6月6日(火)〜7月24日(月)までファミリーマートで対象のレッドブルを2本同時購入すると50円割引キャンペーンが実施されています。 250ml缶なら1本辺り188円で購入できるのでよく買う人にはお得なキャンペ […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5/21ご感想】 ひなぎく凸凹カフェ]]></title>
-        <id>https://decobocochan.com/?p=9779</id>
-        <link href="https://decobocochan.com/archives/9779"/>
-        <updated>2023-06-06T01:05:45.000Z</updated>
-        <summary type="html"><![CDATA[未来地図でいっしょにチームとして活動している Kunさんにお誘いいただいて オンラインゲストとして参加しました ご感想をいただきましたので、ぜひお読みいただければと思います 今回のイベントをどこで知りましたか 講話内容は ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
