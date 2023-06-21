@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T22:17:14.659Z</id>
+    <id>urn:2023-06-21T23:18:16.332Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-21T22:17:14.659Z</updated>
+    <updated>2023-06-21T23:18:16.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -446,16 +446,6 @@ Kindle]]></summary>
         <summary type="html"><![CDATA[ロックマンエグゼアドバンスドコレクションのSteam版はアプリを利用するとスマホでプレイが可能です。この記事ではSteamLinkアプリiOS版を利用しロックマンエグゼアドバンスドコレクションをiPhoneで遊ぶ方法を紹介しています。GBAで遊んでいた頃のように気軽にエグゼで遊びたい方の参考になると思います。]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幼児がゲームコーナーで遊んだら服が破損、まさかの原因に驚愕]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/05/23/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/05/23/200000"/>
-        <updated>2023-05-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[4歳と2歳の娘を連れてショッピングセンターに行きました。時間調整のために子供向けのゲームコーナーに立ち寄ってゲームを楽しんでいたところ、服が破損する事態が発生しました。 ゲーム機は安全に作られているのですが、思わぬところで不具合が発生したということで、親が注意しないといけないと感た出来事を紹介します。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
