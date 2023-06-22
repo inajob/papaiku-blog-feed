@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T15:18:21.168Z</id>
+    <id>urn:2023-06-22T16:23:14.008Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-22T15:18:21.168Z</updated>
+    <updated>2023-06-22T16:23:14.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -67,7 +67,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【非M1】Macで統合版マイクラを遊ぶ方法！ParallelsDesktopを利用]]></title>
+        <title type="html"><![CDATA[Macで統合版マイクラを遊ぶ方法！ParallelsDesktopを利用]]></title>
         <id>https://kokoyayablog.com/?p=6092</id>
         <link href="https://kokoyayablog.com/how-to-play-bedrockedition-minecraft-on-intelcorei5-macbookair-with-parallels-desktop/"/>
         <updated>2023-06-16T11:48:15.000Z</updated>
