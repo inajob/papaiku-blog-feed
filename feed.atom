@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T20:22:07.236Z</id>
+    <id>urn:2023-06-22T21:18:20.978Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-22T20:22:07.236Z</updated>
+    <updated>2023-06-22T21:18:20.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スケジュールの落とし穴]]></title>
+        <id>https://decobocochan.com/?p=10178</id>
+        <link href="https://decobocochan.com/archives/10178"/>
+        <updated>2023-06-22T20:55:05.000Z</updated>
+        <summary type="html"><![CDATA[スケジュールで見通しを伝えるけど、見てくれない 最初は、見てたけど…だんだん見なくなった なぁんて、ことありませんか？ まず、そもそも スケジュールの見通しを子どもは必要としているのか？ （家族や支援者の）押しつけになっ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保育所等訪問支援を知ってますか？]]></title>
         <id>https://decobocochan.com/?p=10164</id>
@@ -133,16 +143,6 @@
         <link href="https://decobocochan.com/archives/9922"/>
         <updated>2023-06-11T21:14:13.000Z</updated>
         <summary type="html"><![CDATA[3月のゲリラcaféでお話しした「すごろく手順書」は 結構、他の人にも好評だったので 作成する凸凹カフェをしようかな？？と思ってます 8月の凸凹カフェは、 すごろく手順書をつくってみよう 8月くらいに作って 9月から利用 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マンツーマン鑑定ご感想【7】]]></title>
-        <id>https://decobocochan.com/?p=8687</id>
-        <link href="https://decobocochan.com/archives/8687"/>
-        <updated>2023-06-10T21:09:29.000Z</updated>
-        <summary type="html"><![CDATA[生年月日より260種類kinの中の たった1つ あなただけのkinナンバーを知り 家族や周りの方の関係性を知ることができます オンラインセッション用スライド あれもこれも言いたい！となると どんどんスライドふえていくよね ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
