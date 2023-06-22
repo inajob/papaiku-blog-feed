@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T01:46:55.337Z</id>
+    <id>urn:2023-06-22T02:44:21.263Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-22T01:46:55.337Z</updated>
+    <updated>2023-06-22T02:44:21.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保育所等訪問支援]]></title>
+        <id>https://decobocochan.com/?p=10164</id>
+        <link href="https://decobocochan.com/archives/10164"/>
+        <updated>2023-06-22T02:05:51.000Z</updated>
+        <summary type="html"><![CDATA[凸凹カフェでも以前取り上げた 保育所等訪問支援についてよくアクセスやお問い合わせがくるのでまとめました ★相談先については、こちらをご覧ください 保育所等訪問支援とは 保育所・学校などを利用中の児童が、 保育所・学校など ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[興味をそそられるまで、どこまでおとしこめる？]]></title>
         <id>https://decobocochan.com/?p=9995</id>
@@ -146,16 +156,6 @@
 真夏日の暑さ対策｜子どもが熱中症になってしまった時の対処法｜暑さ予防に役立つアイテム5選 first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校だけが「道」じゃないよ]]></title>
-        <id>https://decobocochan.com/?p=9883</id>
-        <link href="https://decobocochan.com/archives/9883"/>
-        <updated>2023-06-09T15:03:55.000Z</updated>
-        <summary type="html"><![CDATA[自治体によって受験システムが「ちがう」で 高校の種類と内申点の計算方法についてご説明しました アクセス数がいつものコラムよりも良かった やはり需要があるんだなぁと感じました でも、日ごろから言っているのは 高校だけが選択 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
