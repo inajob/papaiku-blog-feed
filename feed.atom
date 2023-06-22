@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T13:23:18.064Z</id>
+    <id>urn:2023-06-22T14:17:02.257Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-22T13:23:18.064Z</updated>
+    <updated>2023-06-22T14:17:02.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://decobocochan.com/?p=10164</id>
         <link href="https://decobocochan.com/archives/10164"/>
         <updated>2023-06-22T02:05:51.000Z</updated>
-        <summary type="html"><![CDATA[凸凹カフェでも以前取り上げた 保育所等訪問支援についてよくアクセスやお問い合わせがくるのでまとめました ★相談先については、こちらをご覧ください 保育所等訪問支援とは 保育所・学校などを利用中の児童が、 保育所・学校など ...]]></summary>
+        <summary type="html"><![CDATA[凸凹カフェでも以前取り上げた保育所等訪問支援についてよくアクセスやお問い合わせがくるのでまとめました ★相談先については、こちらをご覧ください 保育所等訪問支援とは 保育所・学校などを利用中の児童が、保育所・学校などにお ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
@@ -436,16 +436,6 @@ Kindle]]></summary>
 失敗しない家具の選び方｜家具や家電のレンタル・サブスクのairRoom first appeared on otodanblog.]]></summary>
         <author>
             <name>otodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【SteamLink】ロックマンエグゼアドバンスドコレクションをスマートフォンで遊ぶ方法]]></title>
-        <id>https://kokoyayablog.com/?p=5742</id>
-        <link href="https://kokoyayablog.com/playing-megaman-exe-advanced-collection-on-smartphone-via-steamlink/"/>
-        <updated>2023-05-24T01:29:26.000Z</updated>
-        <summary type="html"><![CDATA[ロックマンエグゼアドバンスドコレクションのSteam版はアプリを利用するとスマホでプレイが可能です。この記事ではSteamLinkアプリiOS版を利用しロックマンエグゼアドバンスドコレクションをiPhoneで遊ぶ方法を紹介しています。GBAで遊んでいた頃のように気軽にエグゼで遊びたい方の参考になると思います。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
