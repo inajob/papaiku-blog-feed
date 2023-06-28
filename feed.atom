@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T03:02:17.759Z</id>
+    <id>urn:2023-06-28T04:25:39.538Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-06-28T03:02:17.759Z</updated>
+    <updated>2023-06-28T04:25:39.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Macで統合版マイクラを遊ぶ方法｜BootCamp機能を利用]]></title>
+        <id>https://kokoyayablog.com/?p=6086</id>
+        <link href="https://kokoyayablog.com/how-to-play-bedrockedition-minecraft-on-intelcorei5-mac-with-bootcamp/"/>
+        <updated>2023-06-28T04:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Macでは統合版マイクラを遊ぶことができません。解決策としてMacにWindowsを入れれば統合版マイクラで遊ぶことが可能です。そこでMacにWindowsを入れ統合版マイクラが動作するか確認しました。BootCampという機能を利用しMacBook AirにWindows10を導入。その後統合版マイクラが動作するのか、マルチプレイができるのか確認しています。]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子どもにどの団体競技のスポーツの習い事を始めさせたら良いのか迷っている｜【結論】総合キッズスポーツスクールのビーマスポーツ教室がオススメ]]></title>
         <id>https://irodorulife.com/?p=2821</id>
@@ -92,7 +102,7 @@
         <id>https://kokoyayablog.com/?p=6092</id>
         <link href="https://kokoyayablog.com/how-to-play-bedrockedition-minecraft-on-intelcorei5-macbookair-with-parallels-desktop/"/>
         <updated>2023-06-16T11:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Macでは統合版マイクラを遊ぶことができません。そこでMacにWindowsを入れ統合版マイクラが動作するか確認しました。ParallelsDesktopというソフトを利用しMacBook AirにWindows11を導入。その後統合版マイクラが動作するのか、マルチプレイができるのか確認しています。]]></summary>
+        <summary type="html"><![CDATA[Macでは統合版マイクラを遊ぶことができません。解決策としてMacにWindowsを入れれば統合版マイクラで遊ぶことが可能です。そこでMacにWindowsを入れ統合版マイクラが動作するか確認しました。ParallelsDesktopというソフトを利用しMacBook AirにWindows11を導入。その後統合版マイクラが動作するのか、マルチプレイができるのか確認しています。]]></summary>
         <author>
             <name>ここやや</name>
         </author>
