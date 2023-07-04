@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-03T23:21:16.058Z</id>
+    <id>urn:2023-07-04T01:59:19.914Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-03T23:21:16.058Z</updated>
+    <updated>2023-07-04T01:59:19.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -382,17 +382,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
       (公式HP)]]></summary>
         <author>
             <name>すらぱぱチャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子どもが自発的に学習意欲をもって勉強してくれるための魔法の方法9つ紹介]]></title>
-        <id>https://irodorulife.com/?p=2778</id>
-        <link href="https://irodorulife.com/child-study/"/>
-        <updated>2023-06-04T13:50:18.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはオトダン(Otodan_)です。 今回は、子どもが自発的な学習意欲をもって勉強してくれるための魔法の方法9つ紹介をします。 この記事を読み終わったあとは、以上のようや悩みが解決してくれてると幸いです。 それでは...
-子どもが自発的に学習意欲をもって勉強してくれるための魔法の方法9つ紹介 first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
         </author>
     </entry>
 </feed>
