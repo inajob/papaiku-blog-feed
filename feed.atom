@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T08:26:07.607Z</id>
+    <id>urn:2023-07-07T09:20:44.098Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-07T08:26:07.607Z</updated>
+    <updated>2023-07-07T09:20:44.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2023年】Amazonプライムデーのオトクな買い方・オススメ商品]]></title>
+        <id>https://oton-tech.com/?p=5100</id>
+        <link href="https://oton-tech.com/amazon-prime-day/"/>
+        <updated>2023-07-07T09:13:30.000Z</updated>
+        <summary type="html"><![CDATA[2001年からAmazonを使い始めAmazon歴22年のおかさん（@OtonTech）です。 Amazonの大型イベントの一つ、”Amazon prime day（Amazonプライムデー）”が2023年7月11日（金 […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#29『 子どもにかかるお金大全 』音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/nb05c4f87a4a4</id>
