@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T15:19:35.278Z</id>
+    <id>urn:2023-07-08T16:25:17.489Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-08T15:19:35.278Z</updated>
+    <updated>2023-07-08T16:25:17.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2023】1本139円！プライムデーでレッドブルが安い｜先行セール対象]]></title>
+        <id>https://kokoyayablog.com/?p=6977</id>
+        <link href="https://kokoyayablog.com/prime-day-2023-early-access-redbull-sale-139-yen-per-can/"/>
+        <updated>2023-07-08T15:33:28.000Z</updated>
+        <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー アマゾンプライム会員限定のプライムデーが2023年7月11日0:00から開催されます！ 年に一度のプライムデー、今年からプライムデー先行セールも開催され実質7月9日〜7月12日ま […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年6月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=3099</id>
