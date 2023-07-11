@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T08:26:41.375Z</id>
+    <id>urn:2023-07-11T09:20:24.536Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-11T08:26:41.375Z</updated>
+    <updated>2023-07-11T09:20:24.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -342,16 +342,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/9934"/>
         <updated>2023-06-12T22:05:22.000Z</updated>
         <summary type="html"><![CDATA[移動支援養成講座の講師をしてきました 今年で3年目 1年で2〜3回、開催されてます 今年は、6月と8月 8月の夏休みは、高校生対象で開催予定 川西市の高校生も受講できるそうなので、ぜひこのチャンスに受けてみてね 11月に ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[すごろく手順書をつくってみよう]]></title>
-        <id>https://decobocochan.com/?p=9922</id>
-        <link href="https://decobocochan.com/archives/9922"/>
-        <updated>2023-06-11T21:14:13.000Z</updated>
-        <summary type="html"><![CDATA[3月のゲリラcaféでお話しした「すごろく手順書」は 結構、他の人にも好評だったので 作成する凸凹カフェをしようかな？？と思ってます 8月の凸凹カフェは、 すごろく手順書をつくってみよう 8月くらいに作って 9月から利用 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
