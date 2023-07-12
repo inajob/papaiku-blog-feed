@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T09:20:29.840Z</id>
+    <id>urn:2023-07-12T10:22:53.602Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-12T09:20:29.840Z</updated>
+    <updated>2023-07-12T10:22:53.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -342,16 +342,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/9970"/>
         <updated>2023-06-14T22:44:20.000Z</updated>
         <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3年目の移動支援養成講座、講師]]></title>
-        <id>https://decobocochan.com/?p=9934</id>
-        <link href="https://decobocochan.com/archives/9934"/>
-        <updated>2023-06-12T22:05:22.000Z</updated>
-        <summary type="html"><![CDATA[移動支援養成講座の講師をしてきました 今年で3年目 1年で2〜3回、開催されてます 今年は、6月と8月 8月の夏休みは、高校生対象で開催予定 川西市の高校生も受講できるそうなので、ぜひこのチャンスに受けてみてね 11月に ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
