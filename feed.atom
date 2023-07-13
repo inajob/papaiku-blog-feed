@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T15:20:27.064Z</id>
+    <id>urn:2023-07-13T16:26:45.231Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-13T15:20:27.064Z</updated>
+    <updated>2023-07-13T16:26:45.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[お金の就職先を決めるということ]]></title>
+        <id>https://nicopoco.com/?p=2404</id>
+        <link href="https://nicopoco.com/money_job"/>
+        <updated>2023-07-13T15:37:44.000Z</updated>
+        <summary type="html"><![CDATA[仕事をしていると自分の時間を売って対価（お金）を得ていることに気づきます。 いつから自分が自分の時間を売って対価を得るようになったか・・・ 今改めて考えてみると。 それは就職や事業、また、アルバイトを ...
+お金の就職先を決めるということ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楽天ペイで住民税を払う手順｜期間限定ポイントも使えます【画像で解説】]]></title>
         <id>https://kokoyayablog.com/?p=6818</id>
