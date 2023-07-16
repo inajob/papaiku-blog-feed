@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-16T07:17:41.069Z</id>
+    <id>urn:2023-07-16T08:23:37.803Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-16T07:17:41.069Z</updated>
+    <updated>2023-07-16T08:23:37.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -65,16 +65,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー アマゾンプライム会員限定のプライムデー先行セールが2023年7月9日0:00から開催されます！ プライムデーセールはアマゾンプライム会員のお祭り的なセールで、Amazonデバイス […]]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023年】Amazonプライムデーのオトクな買い方・オススメ商品]]></title>
-        <id>https://oton-tech.com/?p=5100</id>
-        <link href="https://oton-tech.com/amazon-prime-day/"/>
-        <updated>2023-07-07T09:13:30.000Z</updated>
-        <summary type="html"><![CDATA[2001年からAmazonを使い始めAmazon歴22年のおかさん（@OtonTech）です。 Amazonの大型イベントの一つ、”Amazon prime day（Amazonプライムデー）”が2023年7月11日（金 […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
     <entry>
