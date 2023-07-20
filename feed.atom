@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T17:16:38.710Z</id>
+    <id>urn:2023-07-20T18:23:54.174Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-20T17:16:38.710Z</updated>
+    <updated>2023-07-20T18:23:54.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -252,16 +252,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/10164"/>
         <updated>2023-06-22T02:05:51.000Z</updated>
         <summary type="html"><![CDATA[凸凹カフェでも以前取り上げた保育所等訪問支援についてよくアクセスやお問い合わせがくるのでまとめました ★相談先については、こちらをご覧ください 保育所等訪問支援とは 保育所・学校などを利用中の児童が、保育所・学校などにお ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[興味をそそられるまで、どこまでおとしこめる？]]></title>
-        <id>https://decobocochan.com/?p=9995</id>
-        <link href="https://decobocochan.com/archives/9995"/>
-        <updated>2023-06-21T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[おなじ特性でも それぞれ味わい豊かなユニークさをもつ、わが子たち あいまいな指示が苦手でも、理由はちがう 例えば この部屋でなんでもいいから好きなものを画用紙に書いて 書けたら、どうして選んだのか教えてね との指示があっ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
