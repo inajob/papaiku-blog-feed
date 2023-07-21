@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T13:21:46.457Z</id>
+    <id>urn:2023-07-21T14:17:37.220Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-21T13:21:46.457Z</updated>
+    <updated>2023-07-21T14:17:37.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -242,16 +242,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/10178"/>
         <updated>2023-06-22T20:55:05.000Z</updated>
         <summary type="html"><![CDATA[スケジュールで見通しを伝えるけど、見てくれない 最初は、見てたけど…だんだん見なくなった なぁんて、ことありませんか？ まず、そもそも スケジュールの見通しを子どもは必要としているのか？ （家族や支援者の）押しつけになっ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保育所等訪問支援を知ってますか？]]></title>
-        <id>https://decobocochan.com/?p=10164</id>
-        <link href="https://decobocochan.com/archives/10164"/>
-        <updated>2023-06-22T02:05:51.000Z</updated>
-        <summary type="html"><![CDATA[凸凹カフェでも以前取り上げた保育所等訪問支援についてよくアクセスやお問い合わせがくるのでまとめました ★相談先については、こちらをご覧ください 保育所等訪問支援とは 保育所・学校などを利用中の児童が、保育所・学校などにお ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
