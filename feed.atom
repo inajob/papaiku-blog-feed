@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T14:15:19.032Z</id>
+    <id>urn:2023-07-22T15:17:16.907Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-22T14:15:19.032Z</updated>
+    <updated>2023-07-22T15:17:16.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スマホ版マイクラでサインインできない時にためす12の方法【統合版:PE】]]></title>
+        <id>https://kokoyayablog.com/?p=7098</id>
+        <link href="https://kokoyayablog.com/12-tips-for-fixing-sign-in-issues-on-minecraft-pocket-edition-bedrock-edition/"/>
+        <updated>2023-07-22T15:04:09.000Z</updated>
+        <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー 子供とマインクラフトをやろうと思い、iPhoneにマイクラを入れマイクロソフトアカウントを入力しましたが、サインインから進めなかったり、最初の画面に戻ったりします。 さらには、エ […]]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父が行く3歳児健診、子どもの様子を訊かれて困らないために準備すべきこと]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2023/07/19/200000</id>
