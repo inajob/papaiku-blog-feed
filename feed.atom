@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-23T04:20:47.802Z</id>
+    <id>urn:2023-07-23T05:17:26.459Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-23T04:20:47.802Z</updated>
+    <updated>2023-07-23T05:17:26.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -233,17 +233,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[Macでは統合版マイクラを遊ぶことができません。解決策としてMacにWindowsを入れれば統合版マイクラで遊ぶことが可能です。そこでMacにWindowsを入れ統合版マイクラが動作するか確認しました。BootCampという機能を利用しMacBook AirにWindows10を導入。その後統合版マイクラが動作するのか、マルチプレイができるのか確認しています。]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子どもにどの団体競技のスポーツの習い事を始めさせたら良いのか迷っている｜【結論】総合キッズスポーツスクールのビーマスポーツ教室がオススメ]]></title>
-        <id>https://irodorulife.com/?p=2821</id>
-        <link href="https://irodorulife.com/child-lesson-biimasports/"/>
-        <updated>2023-06-23T16:36:53.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはオトダン（Otodan_）です。 今回は子どもにどの団体競技のスポーツの習い事を始めさせたら良いのか迷っている方のヒントになる記事を書きました。 以上の悩みを今回の記事で解決します。 早速、結論からお伝えすると...
-子どもにどの団体競技のスポーツの習い事を始めさせたら良いのか迷っている｜【結論】総合キッズスポーツスクールのビーマスポーツ教室がオススメ first appeared on otodanblog.]]></summary>
-        <author>
-            <name>otodan</name>
         </author>
     </entry>
 </feed>
