@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T14:18:17.038Z</id>
+    <id>urn:2023-07-24T15:19:49.392Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-24T14:18:17.038Z</updated>
+    <updated>2023-07-24T15:19:49.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【旅行】実話：飛行機の中の過ごし方を月齢毎に比較してみた。]]></title>
+        <id>https://nicopoco.com/?p=590</id>
+        <link href="https://nicopoco.com/air-plane"/>
+        <updated>2023-07-24T14:37:11.000Z</updated>
+        <summary type="html"><![CDATA[表題のタイトルにあわせて色々と経験談を話していきます。 【生後4ヶ月】フライト約１時間半 知り合いが羽田↔札幌間往復のフライトで離陸時にミルクをあげてみみぬきをしたと聞きました。 これを ...
+【旅行】実話：飛行機の中の過ごし方を月齢毎に比較してみた。 first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマホ版マイクラでサインインできない時にためす12の方法【統合版:PE】]]></title>
         <id>https://kokoyayablog.com/?p=7098</id>
@@ -23,18 +35,6 @@
         <summary type="html"><![CDATA[次女が3歳になり、3歳児健康診査の案内が送られてきました。乳幼児健診時の保護者は単なる引率者ではないため、親力が試されます。 そのようなイベントに父親が立ち向かうにはどうしておくべきか、父親目線で書いていきます。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お金の就職先を決めるということ]]></title>
-        <id>https://nicopoco.com/?p=2404</id>
-        <link href="https://nicopoco.com/money_job"/>
-        <updated>2023-07-13T15:37:44.000Z</updated>
-        <summary type="html"><![CDATA[仕事をしていると自分の時間を売って対価（お金）を得ていることに気づきます。 いつから自分が自分の時間を売って対価を得るようになったか・・・ 今改めて考えてみると。 それは就職や事業、また、アルバイトを ...
-お金の就職先を決めるということ first appeared on まろの育児ときどき転職、ところにより副業.
-Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
     <entry>
