@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T14:17:19.441Z</id>
+    <id>urn:2023-07-26T15:18:49.346Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-26T14:17:19.441Z</updated>
+    <updated>2023-07-26T15:18:49.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[赤ちゃんと海外旅行：生後11カ月の子どもといくヨーロッパ]]></title>
+        <id>https://nicopoco.com/?p=847</id>
+        <link href="https://nicopoco.com/journeywithbaby11month"/>
+        <updated>2023-07-26T14:35:27.000Z</updated>
+        <summary type="html"><![CDATA[転職のいいところがあるとすれば、自分の時間に余裕ができることです。 この記事を読んで 是非お子さんと一緒に海外へ！！ 楽しく海外へ！！ 転職を決めて休み期間を２週間捻出し、ヨーロッパへ とはいえ、私は ...
+赤ちゃんと海外旅行：生後11カ月の子どもといくヨーロッパ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【旅行】実話：飛行機の中の過ごし方を月齢毎に比較してみた。]]></title>
         <id>https://nicopoco.com/?p=590</id>
