@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-29T20:16:50.119Z</id>
+    <id>urn:2023-07-29T21:14:05.963Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-29T20:16:50.119Z</updated>
+    <updated>2023-07-29T21:14:05.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[水分補給3つのポイント]]></title>
+        <id>https://decobocochan.com/?p=10514</id>
+        <link href="https://decobocochan.com/archives/10514"/>
+        <updated>2023-07-29T21:04:38.000Z</updated>
+        <summary type="html"><![CDATA[連日、暑い日がつづきますね 「こまめに水分補給をしてください」とニュースでながれるようになりました さて、こまめって具体的にどれくらいでしょう？ ポイントは、3つ ①のどがかわく前に飲む よく言われますが、のどがかわいた ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年8月セミナー・イベント情報]]></title>
         <id>https://decobocochan.com/?p=10518</id>
