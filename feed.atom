@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-30T15:16:38.001Z</id>
+    <id>urn:2023-07-30T16:21:28.331Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-30T15:16:38.001Z</updated>
+    <updated>2023-07-30T16:21:28.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[みんなで一緒に考える！ 凸凹ちゃんを育てるママのアイデアシェア]]></title>
+        <id>https://decobocochan.com/?p=10581</id>
+        <link href="https://decobocochan.com/archives/10581"/>
+        <updated>2023-07-30T15:45:09.000Z</updated>
+        <summary type="html"><![CDATA[ゲリラカフェをしていて 思ったのが わが子は、レアケースをひきあてまくってる…ん…だなぁ、と そんなトコなかなかありませんよ、と言われること多いわが家 いいえ…ココにありますwww 学校の担任を発達外来のドクターのとこま ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水分補給3つのポイント]]></title>
         <id>https://decobocochan.com/?p=10514</id>
