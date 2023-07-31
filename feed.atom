@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T04:21:27.225Z</id>
+    <id>urn:2023-07-31T05:17:29.338Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-07-31T04:21:27.225Z</updated>
+    <updated>2023-07-31T05:17:29.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -67,6 +67,16 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー 子供とマインクラフトをやろうと思い、iPhoneにマイクラを入れマイクロソフトアカウントを入力しましたが、サインインから進めなかったり、最初の画面に戻ったりします。 さらには、エ […]]]></summary>
         <author>
             <name>ここやや</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[みんなのサマーセミナー2023にでます！]]></title>
+        <id>https://decobocochan.com/?p=10596</id>
+        <link href="https://decobocochan.com/archives/10596"/>
+        <updated>2023-07-20T05:03:30.000Z</updated>
+        <summary type="html"><![CDATA[いま流行りのコロナでドミノたおし、してました あっちゃこっちゃに連絡して…忘れてないと思ってたら8月の予定予約を2件ほどスッカリ忘れてました💦 まぁ、ボケボケさんだから仕方ない 「誰でもセンセイ、誰でもセイト」 が合言葉 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
