@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T22:16:52.486Z</id>
+    <id>urn:2023-08-02T23:17:00.711Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-02T22:16:52.486Z</updated>
+    <updated>2023-08-02T23:17:00.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -160,16 +160,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
 　202…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[くさい誕生日になった、4歳娘から父への誕生日祝い]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/07/04/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/07/04/200000"/>
-        <updated>2023-07-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[子どもの誕生日は楽しいことがたくさんあります。大人の誕生日は必ずしも楽しいことばかりではありませんが…それでも毎年やってきます。 4歳の長女は自分の誕生日だけでなく、親や兄弟の誕生日も祝ってくれるようになりました。 幼い子どもが親の誕生日を祝ってくれるのは喜ばしいことこの上ないのですが、結果として子どもの素直さが印象的なイベントになりました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
