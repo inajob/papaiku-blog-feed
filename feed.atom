@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T01:31:45.851Z</id>
+    <id>urn:2023-08-09T02:32:16.540Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-09T01:31:45.851Z</updated>
+    <updated>2023-08-09T02:32:16.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -115,16 +115,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <link href="https://kokoyayablog.com/how-to-pay-municipal-tax-with-rakutenpay-step-by-step-guide-with-images/"/>
         <updated>2023-07-12T02:11:26.000Z</updated>
         <summary type="html"><![CDATA[2023年4月17日(月)から楽天ペイ請求書払いで、地方税統一QRコード「eL-QR」が利用可能になり、住民税、自動車税、固定資産税など様々な税金を楽天ペイで支払えるようになりました。 便利そうとは思うものの そう思う方 […]]]></summary>
-        <author>
-            <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023】Amazonプライムデーお買い得なセール対象商品の探し方]]></title>
-        <id>https://kokoyayablog.com/?p=7007</id>
-        <link href="https://kokoyayablog.com/2023-amazon-prime-day-how-to-find-great-deals-on-sale-items/"/>
-        <updated>2023-07-10T14:20:36.000Z</updated>
-        <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー 7月11日追記しました。 アマゾンプライム会員限定のプライムデーが2023年7月11日0:00〜7月12日まで開催されます！ さっそくAmazonの公式サイトを見ましたがセール品 […]]]></summary>
         <author>
             <name>ここやや</name>
         </author>
