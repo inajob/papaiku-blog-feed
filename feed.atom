@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T06:23:38.614Z</id>
+    <id>urn:2023-08-10T07:17:09.811Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-10T06:23:38.614Z</updated>
+    <updated>2023-08-10T07:17:09.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[【el-QR】楽天ペイ請求書払いで地方税を払いつつポイントをお得にためる方法]]></title>
-        <id>https://kokoyayablog.com/?p=6869</id>
-        <link href="https://kokoyayablog.com/el-qr-rakuten-pay-local-tax-payment-earn-points-guide/"/>
-        <updated>2023-08-06T01:01:39.000Z</updated>
-        <summary type="html"><![CDATA[4月から楽天ペイがel-QR対応になり、税金の支払いができるようになりました。 僕は8月までに固定資産税、自動車税、住民税、を楽天ペイで払い合計1,400ポイントを獲得しています。※楽天ポイント、FamiPayボーナス合 […]]]></summary>
-        <author>
-            <name>ここやや</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年7月度】長期投資実績＆子育て費用公開！]]></title>
         <id>https://tasogare-home.com/?p=3118</id>
@@ -80,16 +70,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[スマホ版マイクラでサインインできない時にためす12の方法【統合版:PE】]]></title>
-        <id>https://kokoyayablog.com/?p=7098</id>
-        <link href="https://kokoyayablog.com/12-tips-for-fixing-sign-in-issues-on-minecraft-pocket-edition-bedrock-edition/"/>
-        <updated>2023-07-22T15:04:09.000Z</updated>
-        <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー 子供とマインクラフトをやろうと思い、iPhoneにマイクラを入れマイクロソフトアカウントを入力しましたが、サインインから進めなかったり、最初の画面に戻ったりします。 さらには、エ […]]]></summary>
-        <author>
-            <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[みんなのサマーセミナー2023にでます！]]></title>
         <id>https://decobocochan.com/?p=10596</id>
         <link href="https://decobocochan.com/archives/10596"/>
@@ -107,16 +87,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[次女が3歳になり、3歳児健康診査の案内が送られてきました。乳幼児健診時の保護者は単なる引率者ではないため、親力が試されます。 そのようなイベントに父親が立ち向かうにはどうしておくべきか、父親目線で書いていきます。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【el-QR】楽天ペイで住民税を払う手順と注意点を紹介｜ポイントも使える]]></title>
-        <id>https://kokoyayablog.com/?p=6818</id>
-        <link href="https://kokoyayablog.com/how-to-pay-municipal-tax-with-rakutenpay-step-by-step-guide-with-images/"/>
-        <updated>2023-07-12T02:11:26.000Z</updated>
-        <summary type="html"><![CDATA[2023年4月17日(月)から楽天ペイ請求書払いで、地方税統一QRコード「eL-QR」が利用可能になり、住民税、自動車税、固定資産税など様々な税金を楽天ペイで支払えるようになりました。 便利そうとは思うものの そう思う方 […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
