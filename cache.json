@@ -29,7 +29,7 @@
           "description": "ゲリラカフェをしていて 思ったのが わが子は、レアケースをひきあてまくってる…ん…だなぁ、と そんなトコなかなかありませんよ、と言われること多いわが家 いいえ…ココにありますwww 学校の担任を発達外来のドクターのとこま ...",
           "link": "https://decobocochan.com/archives/10581",
           "publishedOn": "2023-07-30T15:45:09.000Z",
-          "wordCount": 1439,
+          "wordCount": 1437,
           "title": "みんなで一緒に考える！ 凸凹ちゃんを育てるママのアイデアシェア",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/07/dd3bba51e9264bff2622eb7803c703b1.jpg"
         },
@@ -110,7 +110,7 @@
           "description": "必ずご確認ください：プライバシーポリシー 子供とマインクラフトをやろうと思い、iPhoneにマイクラを入れマイクロソフトアカウントを入力しましたが、サインインから進めなかったり、最初の画面に戻ったりします。 さらには、エ […]",
           "link": "https://kokoyayablog.com/12-tips-for-fixing-sign-in-issues-on-minecraft-pocket-edition-bedrock-edition/",
           "publishedOn": "2023-07-22T15:04:09.000Z",
-          "wordCount": 11651,
+          "wordCount": 11652,
           "title": "スマホ版マイクラでサインインできない時にためす12の方法【統合版:PE】",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/07/スマホ版マイクラでサインインできない時にためす12の対策【統合版PE】.webp"
         }
@@ -165,12 +165,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2023/08/14/200000",
+          "author": null,
+          "description": "ダイソーには数多くの品物が低価格で提供されており、とても便利です。ちょっとした品物はまずダイソーで探して、日常的に利用しています。 そんな中、気に入っている商品を買い足したら品質面で「おやっ」と思うことがあり、比較検証することにしました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2023/08/14/200000",
+          "publishedOn": "2023-08-14T11:00:00.000Z",
+          "wordCount": 600,
+          "title": "ダイソー商品を買い足したら品質が変わっていたので比較検証",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20230814/20230814140839.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2023/07/19/200000",
           "author": null,
           "description": "次女が3歳になり、3歳児健康診査の案内が送られてきました。乳幼児健診時の保護者は単なる引率者ではないため、親力が試されます。 そのようなイベントに父親が立ち向かうにはどうしておくべきか、父親目線で書いていきます。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2023/07/19/200000",
           "publishedOn": "2023-07-19T11:00:00.000Z",
-          "wordCount": 586,
+          "wordCount": 591,
           "title": "父が行く3歳児健診、子どもの様子を訊かれて困らないために準備すべきこと",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20230719/20230719145313.jpg"
         }
