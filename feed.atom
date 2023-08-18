@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-18T20:17:19.551Z</id>
+    <id>urn:2023-08-18T21:14:35.116Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-18T20:17:19.551Z</updated>
+    <updated>2023-08-18T21:14:35.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ポケモンスリープはパパママ向けのゲーム！子育て世代の満足要素満載]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/08/19/053000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/08/19/053000"/>
+        <updated>2023-08-18T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンスリープというスマートフォンアプリが7月にリリースされました。その名の通りポケモンと睡眠をテーマにしたゲームで、基本的に無料でプレイできます。試しに1ヶ月ほど利用してみたところ、子育て世代にフィットする要素が満載で、毎日忙しくしているパパやママに是非試してほしいアプリです。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『 僕にサウナはいらない 』音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/ndd99aabb387f</id>
