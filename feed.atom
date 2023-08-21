@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T06:22:33.723Z</id>
+    <id>urn:2023-08-21T07:16:04.186Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-21T06:22:33.723Z</updated>
+    <updated>2023-08-21T07:16:04.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2023年9月セミナー・イベント情報]]></title>
+        <id>https://decobocochan.com/?p=10635</id>
+        <link href="https://decobocochan.com/archives/10635"/>
+        <updated>2023-08-21T07:00:38.000Z</updated>
+        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[# 34 『 Kindle magazine 創刊号 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n48c59096ce4a</id>
@@ -326,6 +336,16 @@ https://onl.sc/jMS8Wtm
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[言葉にならない想いが、ココにある]]></title>
+        <id>https://decobocochan.com/?p=10639</id>
+        <link href="https://decobocochan.com/archives/10639"/>
+        <updated>2023-08-09T05:40:08.000Z</updated>
+        <summary type="html"><![CDATA[去年までは、ネットでだけ募集してました 未来地図にもご協力いただきました 今年は、ひとりでいつもより早めに準備しました Googleフォームに サンクスカード ちょっとしたプレゼントなどなど そして… はじめてリアルの友 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
