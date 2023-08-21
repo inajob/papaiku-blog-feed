@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T02:21:18.411Z</id>
+    <id>urn:2023-08-21T03:17:53.705Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-21T02:21:18.411Z</updated>
+    <updated>2023-08-21T03:17:53.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -400,16 +400,6 @@ Copyright © 2023 まろの育児ときどき転職、ところにより副業 A
 Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホ版マイクラでサインインできない時にためす12の方法【統合版:PE】]]></title>
-        <id>https://kokoyayablog.com/?p=7098</id>
-        <link href="https://kokoyayablog.com/12-tips-for-fixing-sign-in-issues-on-minecraft-pocket-edition-bedrock-edition/"/>
-        <updated>2023-07-22T15:04:09.000Z</updated>
-        <summary type="html"><![CDATA[必ずご確認ください：プライバシーポリシー 子供とマインクラフトをやろうと思い、iPhoneにマイクラを入れマイクロソフトアカウントを入力しましたが、サインインから進めなかったり、最初の画面に戻ったりします。 さらには、エ […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
