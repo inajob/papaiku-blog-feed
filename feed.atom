@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T11:14:29.042Z</id>
+    <id>urn:2023-08-28T12:34:54.807Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-08-28T11:14:29.042Z</updated>
+    <updated>2023-08-28T12:34:54.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ココロが疲れたら休もうよ]]></title>
+        <id>https://decobocochan.com/?p=10801</id>
+        <link href="https://decobocochan.com/archives/10801"/>
+        <updated>2023-08-28T11:44:54.000Z</updated>
+        <summary type="html"><![CDATA[昨日から始業式 もう授業もはじまったよ という地域もあるかと思います うちの地域は、まだ夏休み…だけどね ココロが しんどい つらい と感じることあるよね だけど なんにも感じなくなることだって…あるよ なにもしてないの ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#37 『 家とお金の新常識 』音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/n2c3dcf836925</id>
