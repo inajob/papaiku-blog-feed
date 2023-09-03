@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-03T09:15:23.170Z</id>
+    <id>urn:2023-09-03T10:17:38.337Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-03T09:15:23.170Z</updated>
+    <updated>2023-09-03T10:17:38.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【統合版】ConoHaメモリ1GBプランでマイクラは重い?マルチプレイで検証]]></title>
+        <id>https://kokoyayablog.com/?p=7789</id>
+        <link href="https://kokoyayablog.com/testing-minecraft-performance-on-conoha-for-game-1gb-memory-plan-multiplayer/"/>
+        <updated>2023-09-03T10:03:32.000Z</updated>
+        <summary type="html"><![CDATA[ConoHaforGAMEでマイクラサーバーを立てる際メモリ選びは重要です。もし少ないと移動で精一杯、少しの操作で視点が大きく動き酔ってしまうことも。この記事ではメモリ1GBのサーバーでマイクラは重いのか実際に試しました。料金を安く済ませたい、1GBプランで動作するか不安な方はぜひ最後まで読んでみてください。]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ココロが疲れたら休もうよ]]></title>
         <id>https://decobocochan.com/?p=10801</id>
