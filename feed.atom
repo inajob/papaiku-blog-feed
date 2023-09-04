@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T12:34:38.585Z</id>
+    <id>urn:2023-09-04T13:21:34.778Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-04T12:34:38.585Z</updated>
+    <updated>2023-09-04T13:21:34.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -650,16 +650,6 @@ https://onl.sc/jMS8Wtm
         <summary type="html"><![CDATA[「誰でもセンセイ、誰でもセイト」 が合言葉の夏の学びの祭典。 みんなのサマーセミナー2023にセンセイとして行ってきました！ 駅前からのぼりがいっぱい！ はじめて行く高校でも だれもがわかりやすいよう 道にのぼりを立てて ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【el-QR】楽天ペイ請求書払いで地方税を払いつつポイントをお得にためる方法]]></title>
-        <id>https://kokoyayablog.com/?p=6869</id>
-        <link href="https://kokoyayablog.com/el-qr-rakuten-pay-local-tax-payment-earn-points-guide/"/>
-        <updated>2023-08-06T01:01:39.000Z</updated>
-        <summary type="html"><![CDATA[4月から楽天ペイがel-QR対応になり、税金の支払いができるようになりました。 僕は8月までに固定資産税、自動車税、住民税、を楽天ペイで払い合計1,400ポイントを獲得しています。※楽天ポイント、FamiPayボーナス合 […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
