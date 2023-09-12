@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T22:17:39.427Z</id>
+    <id>urn:2023-09-12T23:17:19.047Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-12T22:17:39.427Z</updated>
+    <updated>2023-09-12T23:17:19.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -858,16 +858,6 @@ https://amzn.to/3FRMTeq
         <summary type="html"><![CDATA[8月15日お盆に近畿は、台風直撃しました 嵐のような豪雨の中…あなたはナニを思いますか？ 夏休み、そろそろ終わりますか？ それとも新学期がはじまったでしょうか？眠れない夜をすごしている 明けない夜に絶望している しんどい ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイソー商品を買い足したら品質が変わっていたので比較検証]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/08/14/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/08/14/200000"/>
-        <updated>2023-08-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ダイソーには数多くの品物が低価格で提供されており、とても便利です。ちょっとした品物はまずダイソーで探して、日常的に利用しています。 そんな中、気に入っている商品を買い足したら品質面で「おやっ」と思うことがあり、比較検証することにしました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
