@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T07:15:02.276Z</id>
+    <id>urn:2023-09-24T08:20:01.612Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-24T07:15:02.276Z</updated>
+    <updated>2023-09-24T08:20:01.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【商品レビュー】コロナ、インフルエンザ抗原検査キットは便利]]></title>
+        <id>https://nicopoco.com/?p=2439</id>
+        <link href="https://nicopoco.com/kit_covid_flu"/>
+        <updated>2023-09-24T07:19:54.000Z</updated>
+        <summary type="html"><![CDATA[2023年9月にインフルエンザA型に罹患したのですが、その時に発熱外来に行けずにちょっと便利だったグッズを紹介します。 2022年12月頃にコロナ・インフル同時検査キットが発売されたらしく、 コロナ・ ...
+【商品レビュー】コロナ、インフルエンザ抗原検査キットは便利 first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#48『 阪神岡田監督に学ぶビジネスリーダーの条件 』音声レビュー ♪]]></title>
         <id>https://note.com/mountainpeace/n/n34f6881621f4</id>

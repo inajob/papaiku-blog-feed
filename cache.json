@@ -91,7 +91,7 @@
           "description": "ConoHaforGAMEでマイクラサーバーを立てる際メモリ選びは重要です。もし少ないと移動で精一杯、少しの操作で視点が大きく動き酔ってしまうことも。この記事ではメモリ1GBのサーバーでマイクラは重いのか実際に試しました。料金を安く済ませたい、1GBプランで動作するか不安な方はぜひ最後まで読んでみてください。",
           "link": "https://kokoyayablog.com/testing-minecraft-performance-on-conoha-for-game-1gb-memory-plan-multiplayer/",
           "publishedOn": "2023-09-03T10:03:32.000Z",
-          "wordCount": 13334,
+          "wordCount": 13337,
           "title": "【1ヶ月無料】ConoHa for GAMEでマイクラサーバーを作成する手順｜統合版マイクラ",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/09/【統合版】ConoHaメモリ1GBプランでマイクラは重いマルチプレイで検証.webp"
         }
@@ -287,7 +287,18 @@
       "title": "まろの育児ときどき転職、ところにより副業",
       "feedUrl": "https://nicopoco.com/feed",
       "siteUrl": "https://nicopoco.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nicopoco.com/?p=2439",
+          "author": "MARO",
+          "description": "2023年9月にインフルエンザA型に罹患したのですが、その時に発熱外来に行けずにちょっと便利だったグッズを紹介します。 2022年12月頃にコロナ・インフル同時検査キットが発売されたらしく、 コロナ・ ...\n【商品レビュー】コロナ、インフルエンザ抗原検査キットは便利 first appeared on まろの育児ときどき転職、ところにより副業.\nCopyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.",
+          "link": "https://nicopoco.com/kit_covid_flu",
+          "publishedOn": "2023-09-24T07:19:54.000Z",
+          "wordCount": 890,
+          "title": "【商品レビュー】コロナ、インフルエンザ抗原検査キットは便利",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "イクジマンBlog",
