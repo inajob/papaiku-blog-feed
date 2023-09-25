@@ -35,12 +35,22 @@
       "siteUrl": "https://decobocochan.com",
       "articles": [
         {
+          "id": "https://decobocochan.com/?p=10636",
+          "author": "りょう育ママ",
+          "description": "「凸凹ちゃん育てててるように見えないね」 って、最近よく言われるようになりました 自分なりの努力した結果！なんだけど 「会うたび顔がかわるね」ともwww だって、わたしがくたびれた姿見て だれが家庭療育やりたいと思うのだ ...",
+          "link": "https://decobocochan.com/archives/10636",
+          "publishedOn": "2023-09-25T21:04:36.000Z",
+          "wordCount": 1497,
+          "title": "メイクも服装も戦闘服と言われるけど…",
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/09/391da12a8650ac00e5282d3f8ee87da4.jpg"
+        },
+        {
           "id": "https://decobocochan.com/?p=10862",
           "author": "りょう育ママ",
           "description": "講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...",
           "link": "https://decobocochan.com/archives/10862",
           "publishedOn": "2023-09-25T06:56:12.000Z",
-          "wordCount": 1396,
+          "wordCount": 1398,
           "title": "2023年10月セミナー・イベント情報",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/09/95857b2fa2e987d0aa413f9d8c85a7c9.jpg"
         },
@@ -50,7 +60,7 @@
           "description": "新学期もはじまったけど 夏休みとかわらず ワタワタ、オロオロ、バタバタしている毎日 夏休みの方がプリント少なくて (わたしが)おだやかにすごせるのになぁ〜と思いました リクエストがありましたので、今回の凸凹カフェは、リア ...",
           "link": "https://decobocochan.com/archives/10840",
           "publishedOn": "2023-09-13T12:50:36.000Z",
-          "wordCount": 1423,
+          "wordCount": 1424,
           "title": "10/9（月・祝）凸凹ちゃんを育てるママのアイデアシェア会【リアル】",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/09/IMG_20230912_194234_305.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "ConoHaforGAMEでマイクラサーバーを立てる際メモリ選びは重要です。もし少ないと移動で精一杯、少しの操作で視点が大きく動き酔ってしまうことも。この記事ではメモリ1GBのサーバーでマイクラは重いのか実際に試しました。料金を安く済ませたい、1GBプランで動作するか不安な方はぜひ最後まで読んでみてください。",
           "link": "https://kokoyayablog.com/testing-minecraft-performance-on-conoha-for-game-1gb-memory-plan-multiplayer/",
           "publishedOn": "2023-09-03T10:03:32.000Z",
-          "wordCount": 13336,
+          "wordCount": 13334,
           "title": "【1ヶ月無料】ConoHa for GAMEでマイクラサーバーを作成する手順｜統合版マイクラ",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/09/【統合版】ConoHaメモリ1GBプランでマイクラは重いマルチプレイで検証.webp"
         }

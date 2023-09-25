@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-25T20:18:35.445Z</id>
+    <id>urn:2023-09-25T21:15:00.679Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-25T20:18:35.445Z</updated>
+    <updated>2023-09-25T21:15:00.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メイクも服装も戦闘服と言われるけど…]]></title>
+        <id>https://decobocochan.com/?p=10636</id>
+        <link href="https://decobocochan.com/archives/10636"/>
+        <updated>2023-09-25T21:04:36.000Z</updated>
+        <summary type="html"><![CDATA[「凸凹ちゃん育てててるように見えないね」 って、最近よく言われるようになりました 自分なりの努力した結果！なんだけど 「会うたび顔がかわるね」ともwww だって、わたしがくたびれた姿見て だれが家庭療育やりたいと思うのだ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年10月セミナー・イベント情報]]></title>
         <id>https://decobocochan.com/?p=10862</id>
