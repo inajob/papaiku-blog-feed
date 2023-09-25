@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-25T07:16:51.780Z</id>
+    <id>urn:2023-09-25T08:23:49.798Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-25T07:16:51.780Z</updated>
+    <updated>2023-09-25T08:23:49.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -221,7 +221,7 @@ https://youtu.be/8suvlmCNw-g?si=lmTGMObfrutmzcan
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[凸凹ちゃんを育てるママのアイデアシェア会【リアル】]]></title>
+        <title type="html"><![CDATA[10/9（月・祝）凸凹ちゃんを育てるママのアイデアシェア会【リアル】]]></title>
         <id>https://decobocochan.com/?p=10840</id>
         <link href="https://decobocochan.com/archives/10840"/>
         <updated>2023-09-13T12:50:36.000Z</updated>
