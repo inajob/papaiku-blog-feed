@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T01:17:17.512Z</id>
+    <id>urn:2023-09-26T02:23:38.234Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-09-26T01:17:17.512Z</updated>
+    <updated>2023-09-26T02:23:38.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -617,6 +617,16 @@ https://vt.tiktok.com/ZSLcCa7nL/
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2023年8月度】長期投資実績＆子育て費用公開！]]></title>
+        <id>https://tasogare-home.com/?p=3129</id>
+        <link href="https://tasogare-home.com/investmentperformance-2308/"/>
+        <updated>2023-09-04T13:56:16.000Z</updated>
+        <summary type="html"><![CDATA[2歳の娘をもつ30代夫婦の投資と子育ての実費についての月次まとめ記事です！ 長期視点にていくつか投資をしており、本記事では投資実績と子育て費用の実費を公開します。将来的に子育て費用を投資から賄うことを計画しており、この二]]></summary>
+        <author>
+            <name>黄昏ほーむ</name>
         </author>
     </entry>
     <entry>
