@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T21:15:52.165Z</id>
+    <id>urn:2023-10-02T22:17:06.476Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-02T21:15:52.165Z</updated>
+    <updated>2023-10-02T22:17:06.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -743,16 +743,6 @@ https://amzn.to/3FRMTeq
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1ヶ月無料】ConoHa for GAMEでマイクラサーバーを作成する手順｜統合版マイクラ]]></title>
-        <id>https://kokoyayablog.com/?p=7789</id>
-        <link href="https://kokoyayablog.com/testing-minecraft-performance-on-conoha-for-game-1gb-memory-plan-multiplayer/"/>
-        <updated>2023-09-03T10:03:32.000Z</updated>
-        <summary type="html"><![CDATA[ConoHaforGAMEでマイクラサーバーを立てる際メモリ選びは重要です。もし少ないと移動で精一杯、少しの操作で視点が大きく動き酔ってしまうことも。この記事ではメモリ1GBのサーバーでマイクラは重いのか実際に試しました。料金を安く済ませたい、1GBプランで動作するか不安な方はぜひ最後まで読んでみてください。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
