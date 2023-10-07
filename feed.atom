@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T15:16:07.685Z</id>
+    <id>urn:2023-10-07T16:21:11.549Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-07T15:16:07.685Z</updated>
+    <updated>2023-10-07T16:21:11.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -520,16 +520,6 @@ https://onl.tw/BNMcdJb
 例えば。宮崎駿監督の『 もののけ姫 』。主人公のアシタカが弓矢を…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【男性育休体験記（1年間取得）】「上司や同僚に丁寧に仕事を引き継ぐことで一年間育休を取得」、ユウさん]]></title>
-        <id>https://papaikuq.com/?p=3882</id>
-        <link href="https://papaikuq.com/?p=3882"/>
-        <updated>2023-09-08T03:27:54.000Z</updated>
-        <summary type="html"><![CDATA[プロフィール ・名前：ユウ・具体的な育休取得期間：2022年9月〜2023年10月まで・居住地：島根県・職業：会社員（1001人以上）・業種：学術研究・専門・技術サービス業・育休取得時の家族構成：パパ39歳、ママ35歳、 […]]]></summary>
-        <author>
-            <name>シカゴリラ</name>
         </author>
     </entry>
 </feed>
