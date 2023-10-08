@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-08T08:20:26.118Z</id>
+    <id>urn:2023-10-08T09:15:42.948Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-08T08:20:26.118Z</updated>
+    <updated>2023-10-08T09:15:42.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -477,16 +477,6 @@ https://pin.it/1RbCmXx
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野菜嫌いの子どもが自分から野菜を取った！盛り付けも楽になる出し方の工夫]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/09/09/060000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/09/09/060000"/>
-        <updated>2023-09-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9月になっても暑い日が続いていますが、いかがお過ごしでしょうか。 暑い時に食べたくなるのは冷やし中華、しかしわが子は肉も野菜も嫌い...見栄えよく盛り付けても取り除かれるのなら楽しよう、と料理の出し方を変えたら、自分から野菜などを手に取って食べてくれました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
