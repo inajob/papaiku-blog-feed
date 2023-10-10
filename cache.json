@@ -49,7 +49,7 @@
           "description": "新学期もはじまったけど 夏休みとかわらず ワタワタ、オロオロ、バタバタしている毎日 夏休みの方がプリント少なくて (わたしが)おだやかにすごせるのになぁ〜と思いました リクエストがありましたので、今回の凸凹カフェは、リア ...",
           "link": "https://decobocochan.com/archives/10840",
           "publishedOn": "2023-09-13T12:50:36.000Z",
-          "wordCount": 1423,
+          "wordCount": 1424,
           "title": "10/9（月・祝）凸凹ちゃんを育てるママのアイデアシェア会【リアル】",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/09/IMG_20230912_194234_305.jpg"
         }
@@ -90,7 +90,7 @@
           "description": "Xserverからゲーム専用のレンタルサーバー Xserver for Game が登場しました！他のレンタルサーバーでワールドを作っていましたが、簡単移行設定があるということで、実際に乗り換えを試してみました。ワールドを移行した際の挙動なども動画で解説していますので、Xserver for Gameでマイクラのサーバーを立ててみたいという方は、ぜひ最後まで読んでみてください。",
           "link": "https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/",
           "publishedOn": "2023-10-08T07:36:32.000Z",
-          "wordCount": 13485,
+          "wordCount": 13482,
           "title": "Xserver for Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も可能！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/Xserver-for-Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も可能！.webp"
         }
@@ -183,7 +183,18 @@
       "title": "共働きで2人姉妹を育てる父親の生き残り戦略",
       "feedUrl": "https://brushwoodcape.hatenablog.com/feed",
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2023/10/10/200000",
+          "author": null,
+          "description": "コロナ禍の収束でリモートワーク推進の最大要因が解消され、オフィス回帰や出社義務化が進んでいます。 仕事の大きな時短術であるリモートワークはできなくなってしまうのか?短期のトレンドに惑わされないよう、現状の裏側を考えていきます。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2023/10/10/200000",
+          "publishedOn": "2023-10-10T11:00:00.000Z",
+          "wordCount": 617,
+          "title": "オフィス回帰で共働き子育て家庭がピンチ!? 時流に惑わされない考え方",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20231010/20231010150820.jpg"
+        }
+      ]
     },
     {
       "title": "早起きパパのカジメン生活",

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T10:20:11.062Z</id>
+    <id>urn:2023-10-10T11:15:00.321Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-10T10:20:11.062Z</updated>
+    <updated>2023-10-10T11:15:00.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[オフィス回帰で共働き子育て家庭がピンチ!? 時流に惑わされない考え方]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2023/10/10/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2023/10/10/200000"/>
+        <updated>2023-10-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍の収束でリモートワーク推進の最大要因が解消され、オフィス回帰や出社義務化が進んでいます。 仕事の大きな時短術であるリモートワークはできなくなってしまうのか?短期のトレンドに惑わされないよう、現状の裏側を考えていきます。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#54『 適職の地図 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n79e328cd0262</id>
