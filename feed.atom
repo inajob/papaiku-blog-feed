@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T07:16:38.543Z</id>
+    <id>urn:2023-10-10T08:22:59.494Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-10T07:16:38.544Z</updated>
+    <updated>2023-10-10T08:22:59.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#54『 適職の地図 』音声レビュー]]></title>
+        <id>https://note.com/mountainpeace/n/n79e328cd0262</id>
+        <link href="https://note.com/mountainpeace/n/n79e328cd0262"/>
+        <updated>2023-10-10T08:07:35.000Z</updated>
+        <summary type="html"><![CDATA[#54『 適職の地図 』音声レビュー
+
+＼ つまづいた人こそ読んで欲しい本 ／
+
+「 強み発掘コンサルタント 」土谷 愛さんの“ 自分だけの強みが遊ぶように見つかる ”『 適職の地図 』を読ませて頂きました。本書を読んで１番心動かされたことなどをお話出来たら、と思います👇
+
+『 適職の地図 』
+https://amzn.to/3tqpKNq
+
+x ver.👇
+https://x.com/yama_kindle/status/1711593838522036364?s=46
+
+stamd.fm ver.👇
+https://stand.fm/episodes/6524ccbaeb3f4a0cb0cf040a
+
+YouTube ver.👇
+https://youtu.be/qI9DM6JOX3s?si=vbNGDMZ0gVR6JamA
+
+facebook ver.👇
+https://m.facebook.com/story.php?story_fbid=pfbid02AmGbbvAAoX7NdnuyUdeXorn9N7hZhVhq4MJVN9iHwS7mvmBzMhYVUKAVwbr2vqNkl&id=100031417001710
+
+Instagram ver.👇
+https://www.instagram.com/reel/CyNKjdPS5wV/?igshid=MWZjMTM2ODFkZg==
+
+Pinterest ver.👇
+https://pin.it/6ivarJC
+
+TikTok ver.👇
+https://vt.tiktok.com/ZSNY2XjwB/
+
+【 １番心動かされたこと 】
+
+個人的なお話で恐縮ですが、自分のこれからの方向性に悩んでいる時に本書に出会いました。自分の強みの発見、才能の見つけ方、仕事の探し方など様々な本を読みましたが、本書…]]></summary>
+        <author>
+            <name>やま｜耳読書家 de kindle作家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xserver for Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も可能！]]></title>
         <id>https://kokoyayablog.com/?p=8551</id>
