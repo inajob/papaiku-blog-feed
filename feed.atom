@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-15T13:18:48.407Z</id>
+    <id>urn:2023-10-15T14:15:19.046Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-15T13:18:48.407Z</updated>
+    <updated>2023-10-15T14:15:19.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#57『 攻めと守りのお金の図鑑 』音声レビュー]]></title>
+        <id>https://note.com/mountainpeace/n/nc5467d51763c</id>
+        <link href="https://note.com/mountainpeace/n/nc5467d51763c"/>
+        <updated>2023-10-15T13:45:43.000Z</updated>
+        <summary type="html"><![CDATA[#57『 攻めと守りのお金の図鑑 』音声レビュー
+
+＼ 新 NISA の教科書 ／
+
+ねこみちさんの『 攻めと守りのお金の図鑑 』を読ませて頂きました。図解が豊富で見やすく、お金に対しての全体的な理解がかなり深まりました。2024 年に向けて、読んでおきたい１冊です。以下レビューとなります👇
+
+『 攻めと守りのお金の図鑑 』
+https://amzn.to/3tuwji4
+
+Ｘver.👇
+https://x.com/yama_kindle/status/1713393226466619608?s=46
+
+YouTube ver.👇
+https://youtu.be/NEX1B2PWXN8?si=DGFB2b3YK6hS1o1e
+
+stand.fm ver.👇
+https://stand.fm/episodes/652b4bb420c187ca87feef61
+
+facebook ver.👇
+https://m.facebook.com/story.php?story_fbid=pfbid0A3t9bjrMRMtDK82QHdxPv5TxnYWekgekt9TXr2LWqYVBm1hUHt6AvbDMF31qZCGYl&id=100031417001710
+
+Instagram ver.👇
+https://www.instagram.com/reel/CyadSC6SyW3/?igshid=MzRlODBiNWFlZA==
+
+Threads ver.👇
+https://www.threads.net/@yama_kindle/post/CyaddwGyPCW/?igshid=MzRlODBiNWFlZA==
+
+本書の特徴としましては、「 お金の図鑑 」というタイトル通り、目で見てわかりやすい図解が豊富です。初心者の方でも、内容が理解しやすいです。
+
+また、202…]]></summary>
+        <author>
+            <name>やま｜耳読書家 de kindle作家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xserver for Gameのワールド簡単移行設定で失敗する時の対処法！]]></title>
         <id>https://kokoyayablog.com/?p=8859</id>
