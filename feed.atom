@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T18:23:47.062Z</id>
+    <id>urn:2023-10-24T19:14:10.202Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-24T18:23:47.062Z</updated>
+    <updated>2023-10-24T19:14:10.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -554,16 +554,6 @@ https://stand.fm/episodes/651d1492d528dc4f69f35801
         <link href="https://decobocochan.com/archives/10636"/>
         <updated>2023-09-25T21:04:36.000Z</updated>
         <summary type="html"><![CDATA[「凸凹ちゃん育てててるように見えないね」 って、最近よく言われるようになりました 自分なりの努力した結果！なんだけど 「会うたび顔がかわるね」ともwww だって、わたしがくたびれた姿見て だれが家庭療育やりたいと思うのだ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年10月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=10862</id>
-        <link href="https://decobocochan.com/archives/10862"/>
-        <updated>2023-09-25T06:56:12.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
