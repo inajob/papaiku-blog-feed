@@ -1,10 +1,21 @@
 {
   "sources": [
     {
-      "title": "男性育休のすすめ",
+      "title": "【パパ育コミュ】リサーチ部門",
       "feedUrl": "https://papaikuq.com/?feed=rss2",
       "siteUrl": "https://papaikuq.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://papaikuq.com/?p=3895",
+          "author": "シカゴリラ",
+          "description": "初めまして、パパ育リサーチ部門オープンチャット分析チームです。 2023年度、パパ育では、下記を目標に育休やパパの育児についての興味を調査する活動をしております！ パパの育児や育休に関する現役パパ目線で情報発信 オープン […]",
+          "link": "https://papaikuq.com/?p=3895",
+          "publishedOn": "2023-10-25T14:13:53.000Z",
+          "wordCount": 1599,
+          "title": "【リサーチ部門】パパの興味はどこだ！？オープンチャットを分析してみた！",
+          "imageUrl": "https://papaikuq.com/wp-content/uploads/2023/10/image.png"
+        }
+      ]
     },
     {
       "title": "おとんTechブログ",
@@ -69,7 +80,7 @@
           "description": "Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。",
           "link": "https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/",
           "publishedOn": "2023-10-15T13:01:47.000Z",
-          "wordCount": 13455,
+          "wordCount": 13456,
           "title": "Xserver for Gameのワールド簡単移行設定で失敗する時の対処法！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/XserverforGame簡単移行設定.webp"
         },
