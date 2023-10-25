@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T14:17:01.770Z</id>
+    <id>urn:2023-10-25T15:18:32.222Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-25T14:17:01.770Z</updated>
+    <updated>2023-10-25T15:18:32.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[育児のうつうつ#1「パパの育休取得で、ママの産後の”うつうつとした気持ち”が楽になる⁉」]]></title>
+        <id>https://papaikuq.com/?p=3912</id>
+        <link href="https://papaikuq.com/?p=3912"/>
+        <updated>2023-10-25T15:13:04.000Z</updated>
+        <summary type="html"><![CDATA[パパの育児や育休取得が声高に叫ばれていますが、パパが育児に積極的に携わることに懐疑的な声もあったりします。 「育休を取得したパパが家でゴロゴロとしている取るだけ育休」「余分な口出しをしてママの神経を逆なでしてしまい夫婦関 […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【リサーチ部門】パパの興味はどこだ！？オープンチャットを分析してみた！]]></title>
         <id>https://papaikuq.com/?p=3895</id>
