@@ -111,7 +111,7 @@
           "description": "Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。",
           "link": "https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/",
           "publishedOn": "2023-10-15T13:01:47.000Z",
-          "wordCount": 13440,
+          "wordCount": 13449,
           "title": "Xserver for Gameのワールド簡単移行設定で失敗する時の対処法！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/XserverforGame簡単移行設定.webp"
         },
@@ -121,7 +121,7 @@
           "description": "Xserverからゲーム専用のレンタルサーバー Xserver for Game が登場しました！他のレンタルサーバーでワールドを作っていましたが、簡単移行設定があるということで、実際に乗り換えを試してみました。ワールドを移行した際の挙動なども動画で解説していますので、Xserver for Gameでマイクラのサーバーを立ててみたいという方は、ぜひ最後まで読んでみてください。",
           "link": "https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/",
           "publishedOn": "2023-10-08T07:36:32.000Z",
-          "wordCount": 13472,
+          "wordCount": 13483,
           "title": "Xserver for Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も簡単！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/Xserver-for-Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も可能！.webp"
         }
@@ -138,6 +138,16 @@
       "feedUrl": "https://note.com/mountainpeace/rss",
       "siteUrl": "https://note.com/mountainpeace",
       "articles": [
+        {
+          "id": "https://note.com/mountainpeace/n/nf5dea78113a5",
+          "author": null,
+          "description": "＼ 文章には人柄がでる ／\n\n11 年半「 報道ステーション 」を担当した元放送作家 ミツさんの新刊を読みました。具体例が多く、理解しやすかったです。「 人を動かすための文章 」の書き方が学べました。「 文章は楽しい 」そう思うきっかけになりました👇\n\n\n『 図解 文章を書く前に読む本 』\nhttps://onl.bz/6CrTUbK\n\n【 ７つのプラットフォームで拡散中。\n　リンク先は巻末に👇 】\n\n\n【 文章には内面が映し出される 】\n\n本書のこの表現にとても共感しました。\n\n普段何気なく読んでいる文章。その文字には、その人らしさが伝わってくるなぁ、と改めて本書を読んで感じました。\n\n先日小学 2 年生の長男から手紙をもらう機会がありました。文字そのものから、書いた当時の状況、本人の感じていることが、雰囲気で伝わってくるんですよね。とても微笑ましかったです。\n\n僕は書籍レビューが趣味みたいなものなので、1 日 1 冊位のペースで本を読みます。本を読みながら、作家の方が、どのような考えで本を執筆したのか。どのような背景で、出版に至ったかなどを、想像することがよくあります。\n\n【 文章には人柄がでる 】\n\nと強く感じたことがありました。実際に作家さんとリアルにお会いした時でした。\n\n本を読んで予め想像は出来ていました。しかし、初対面のため、会うまでは、緊張感がありました。実際に作家仲間の方とお会いした時、とてもスムーズにお会い出来たのを覚えています。\n\n【 初めて会った気がしない 】\n\n文章から本人の人柄、内面性を本能的に感じとっていたのだと思います。\n\n普段から元気な方の文章は、読んでいても楽しそうな雰囲気を感じるものです。データ分析や、まとめるのが上手い方からは、説得力のある文章を感じることが出来ます。\n\n本書では、着飾ることなく、自分の感情を出来るだけ素直に表現す…",
+          "link": "https://note.com/mountainpeace/n/nf5dea78113a5",
+          "publishedOn": "2023-10-31T12:16:19.000Z",
+          "wordCount": 1556,
+          "title": "#68『 図解 文章を書く前に読む本 』音声レビュー",
+          "imageUrl": "https://i.ytimg.com/vi/x2IzEaVEL6s/0.jpg?width=800"
+        },
         {
           "id": "https://note.com/mountainpeace/n/ne279816ba9da",
           "author": null,
