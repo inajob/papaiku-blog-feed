@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T12:34:21.340Z</id>
+    <id>urn:2023-10-31T13:21:03.081Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-31T12:34:21.340Z</updated>
+    <updated>2023-10-31T13:21:03.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -523,7 +523,7 @@ https://www.threads.net/@yama_kindle/post/CyaddwGyPCW/?igshid=MzRlODBiNWFlZA==
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xserver for Gameのワールド簡単移行設定で失敗する時の対処法！]]></title>
+        <title type="html"><![CDATA[【Xserver for Game】ワールド簡単移行設定で失敗する際の対処法！]]></title>
         <id>https://kokoyayablog.com/?p=8859</id>
         <link href="https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/"/>
         <updated>2023-10-15T13:01:47.000Z</updated>
@@ -667,7 +667,7 @@ https://vt.tiktok.com/ZSNY2XjwB/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xserver for Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も簡単！]]></title>
+        <title type="html"><![CDATA[【Xserver for Game】統合版マイクラサーバーを立てる手順｜ワールド移行もできる！]]></title>
         <id>https://kokoyayablog.com/?p=8551</id>
         <link href="https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/"/>
         <updated>2023-10-08T07:36:32.000Z</updated>
