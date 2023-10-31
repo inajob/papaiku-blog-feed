@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T13:21:03.081Z</id>
+    <id>urn:2023-10-31T14:17:14.575Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-10-31T13:21:03.081Z</updated>
+    <updated>2023-10-31T14:17:14.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -667,7 +667,7 @@ https://vt.tiktok.com/ZSNY2XjwB/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Xserver for Game】統合版マイクラサーバーを立てる手順｜ワールド移行もできる！]]></title>
+        <title type="html"><![CDATA[【Xserver for Game】統合版マイクラサーバーを立てる手順｜ワールド移行も可能！]]></title>
         <id>https://kokoyayablog.com/?p=8551</id>
         <link href="https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/"/>
         <updated>2023-10-08T07:36:32.000Z</updated>
