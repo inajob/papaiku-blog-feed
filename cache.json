@@ -111,7 +111,7 @@
           "description": "Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。",
           "link": "https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/",
           "publishedOn": "2023-10-15T13:01:47.000Z",
-          "wordCount": 13446,
+          "wordCount": 13447,
           "title": "【Xserver for Game】ワールド簡単移行設定で失敗する際の対処法！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/XserverforGame簡単移行設定.webp"
         },
@@ -121,7 +121,7 @@
           "description": "Xserverからゲーム専用のレンタルサーバー Xserver for Game が登場しました！他のレンタルサーバーでワールドを作っていましたが、簡単移行設定があるということで、実際に乗り換えを試してみました。ワールドを移行した際の挙動なども動画で解説していますので、Xserver for Gameでマイクラのサーバーを立ててみたいという方は、ぜひ最後まで読んでみてください。",
           "link": "https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/",
           "publishedOn": "2023-10-08T07:36:32.000Z",
-          "wordCount": 13484,
+          "wordCount": 13485,
           "title": "【Xserver for Game】統合版マイクラサーバーを立てる手順｜ワールド移行も可能！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/Xserver-for-Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も可能！.webp"
         }
@@ -287,16 +287,6 @@
           "wordCount": 1500,
           "title": "#53『 デジタル・フロンティア 』音声レビュー♪",
           "imageUrl": "https://i.ytimg.com/vi/xmiFKya6Bhk/0.jpg?width=800"
-        },
-        {
-          "id": "https://note.com/mountainpeace/n/n5048cc9df6db",
-          "author": null,
-          "description": "#52『 神 雑談力 』音声レビュー ♪\n\n元お笑い芸人で、株式会社 俺 の代表取締役社長、中北 朋宏さんの新刊『 神 雑談力 』を音声レビューさせて頂きました。お笑いの世界にも興味が持てましたし、今日から使える実践的なコミュニケーション術も知ることが出来ました！\n\n『 神 雑談力 』\nhttps://amzn.to/46BWcLg\n\nYouTube ver.👇\nhttps://youtu.be/HmBJShboeeA?si=xyLpWfnWKZ0YBWrU\n\nstamd.fm ver.👇\nhttps://stand.fm/episodes/651d1492d528dc4f69f35801\n\n本書『 神 雑談力 』を身につけることで、「 自分が何をしたいのか。強みや才能をどう活かせばいいのか。」「 どういう人間関係を作れば自己実現力が最大限に高まるのか 」を学ぶことが出来ます。\n\nまたお笑い芸人さんとしての経験から、自分も相手も活かしながら、人よりも一歩抜きん出るコミュニケーション術を身につけることが出来ます。\n\n本書を読んで 1 番強く心を動かされた場面などを中心に「 神 雑談力 」の身につけ方を紹介していけたらと思っています。\n\n\n「 神 雑談力 」を身につけるには、大きく３つのフェーズがあると言います。\n\nその３つとは、\n\n①この人は良い印象だ\n　という「 関係開始 」のフェーズ\n\n２つ目、\n②この人をもっと知りたい\n　と思わせる「 関係継続 」のフェーズ\n\n３つ目が、\n③この人の力になりたい\n　と思わせる「 関係深耕（しんこう）」\n　の３つのフェーズです。\n\nこの３つのフェーズを、元お笑い芸人さんらしく、実体験をもとに、芸人さんが、売れていくまでの過程、人気芸人さんになっていくまでの道のりを例え話にしてくれているので、具体的でとてもわかりやすかったです。\n\nまず…",
-          "link": "https://note.com/mountainpeace/n/n5048cc9df6db",
-          "publishedOn": "2023-10-04T11:39:04.000Z",
-          "wordCount": 1465,
-          "title": "#52『 神 雑談力 』音声レビュー ♪",
-          "imageUrl": "https://i.ytimg.com/vi/HmBJShboeeA/0.jpg?width=800"
         }
       ]
     },
