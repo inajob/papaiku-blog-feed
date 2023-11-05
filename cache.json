@@ -121,7 +121,7 @@
           "description": "Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。",
           "link": "https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/",
           "publishedOn": "2023-10-15T13:01:47.000Z",
-          "wordCount": 13448,
+          "wordCount": 13440,
           "title": "【Xserver for Game】ワールド簡単移行設定で失敗する際の対処法！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/XserverforGame簡単移行設定.webp"
         },
@@ -131,7 +131,7 @@
           "description": "Xserverからゲーム専用のレンタルサーバー Xserver for Game が登場しました！他のレンタルサーバーでワールドを作っていましたが、簡単移行設定があるということで、実際に乗り換えを試してみました。ワールドを移行した際の挙動なども動画で解説していますので、Xserver for Gameでマイクラのサーバーを立ててみたいという方は、ぜひ最後まで読んでみてください。",
           "link": "https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/",
           "publishedOn": "2023-10-08T07:36:32.000Z",
-          "wordCount": 13476,
+          "wordCount": 13479,
           "title": "【Xserver for Game】統合版マイクラサーバーを立てる手順｜ワールド移行も可能！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/Xserver-for-Gameでマイクラサーバーを立てる手順｜他サーバーからワールド移行も可能！.webp"
         }
@@ -307,16 +307,6 @@
           "wordCount": 1444,
           "title": "#54『 適職の地図 』音声レビュー",
           "imageUrl": "https://i.ytimg.com/vi/qI9DM6JOX3s/0.jpg?width=800"
-        },
-        {
-          "id": "https://note.com/mountainpeace/n/n5cc25e42d921",
-          "author": null,
-          "description": "#53『 デジタル・フロンティア 』音声レビュー♪\n\n＼ あなたの知らない東南アジア ／\n\n ID 普及率が100 ％、地方でのお買い物も全て、お店でデジタル決済が可能。地方でもオンラインで遠隔診療が受けられ、住みやすさが増す東南アジア。世界は今、シンガポール、インドネシアに注目しつつあります👇\n\n『 デジタル・フロンティア 』\nhttps://amzn.to/46BWwcP\n\nstamd.fm ver.👇\nhttps://stand.fm/episodes/6520bf1f842263a54b882a35\n\nYouTube ver.👇\nhttps://youtu.be/xmiFKya6Bhk?si=NA4Hxt-J_Um-192e\n\nfacebook ver.👇\nhttps://m.facebook.com/story.php?story_fbid=pfbid0wG1iPSe9BLbRKuZzehJ6nYdjtPnuVWF2TSVpLcLtwRRSVNaCdR63PVRhEHXTavSel&id=100031417001710\n\nInstagram ver.👇\nhttps://www.instagram.com/reel/CyFS2MrS7F6/?igshid=MWZjMTM2ODFkZg==\n\nPinterest ver.👇\nhttps://pin.it/72sbjJh\n\nTikTok ver.👇\nhttps://vt.tiktok.com/ZSNNnJFgk/\n\nThread ver.👇\nhttps://www.threads.net/@yama_kindle/post/CyFThqXLhke/?igshid=MzRlODBiNWFlZA==\n\n\n世界では「 リージョン化 」という新しい動きが生まれつつあります。日本で言うと、自動車や家電を大量生産して…",
-          "link": "https://note.com/mountainpeace/n/n5cc25e42d921",
-          "publishedOn": "2023-10-07T05:05:50.000Z",
-          "wordCount": 1500,
-          "title": "#53『 デジタル・フロンティア 』音声レビュー♪",
-          "imageUrl": "https://i.ytimg.com/vi/xmiFKya6Bhk/0.jpg?width=800"
         }
       ]
     },
