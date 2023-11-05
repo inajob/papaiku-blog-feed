@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T14:14:59.514Z</id>
+    <id>urn:2023-11-05T15:16:25.365Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-05T14:14:59.514Z</updated>
+    <updated>2023-11-05T15:16:25.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“プレパパ応援チャンネル”ジョージさんに「パパの育休事情」や「チャンネル運営」など色々と裏事情を教えて頂きました。]]></title>
+        <id>https://papaikuq.com/?p=3922</id>
+        <link href="https://papaikuq.com/?p=3922"/>
+        <updated>2023-11-05T14:32:04.000Z</updated>
+        <summary type="html"><![CDATA[パパ育コミュのリサーチ部門ではパパの育児や育休に携わる方々にインタビューをさせて頂きながら、令和のパパにまつわるリアルな声を現役パパ目線でお届けしていきたいと思います。 YouTubeチャンネル「プレパパ応援チャンネル」 […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#71『 Kindle magazine vol.1 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n13f7ca545ced</id>
