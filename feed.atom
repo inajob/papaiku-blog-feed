@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-06T19:14:30.950Z</id>
+    <id>urn:2023-11-06T20:18:40.730Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-06T19:14:30.950Z</updated>
+    <updated>2023-11-06T20:18:40.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1097,16 +1097,6 @@ https://vt.tiktok.com/ZSNY2XjwB/
 個人的なお話で恐縮ですが、自分のこれからの方向性に悩んでいる時に本書に出会いました。自分の強みの発見、才能の見つけ方、仕事の探し方など様々な本を読みましたが、本書…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Xserver for Game】統合版マイクラサーバーを立てる手順｜ワールド移行も可能！]]></title>
-        <id>https://kokoyayablog.com/?p=8551</id>
-        <link href="https://kokoyayablog.com/xserver-for-game-minecraft-server-setup-and-world-migration/"/>
-        <updated>2023-10-08T07:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Xserverからゲーム専用のレンタルサーバー Xserver for Game が登場しました！他のレンタルサーバーでワールドを作っていましたが、簡単移行設定があるということで、実際に乗り換えを試してみました。ワールドを移行した際の挙動なども動画で解説していますので、Xserver for Gameでマイクラのサーバーを立ててみたいという方は、ぜひ最後まで読んでみてください。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
