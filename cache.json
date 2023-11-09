@@ -121,7 +121,7 @@
           "description": "Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。",
           "link": "https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/",
           "publishedOn": "2023-10-15T13:01:47.000Z",
-          "wordCount": 13440,
+          "wordCount": 13447,
           "title": "【Xserver for Game】ワールド簡単移行設定で失敗する際の対処法！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/XserverforGame簡単移行設定.webp"
         }
@@ -138,6 +138,16 @@
       "feedUrl": "https://note.com/mountainpeace/rss",
       "siteUrl": "https://note.com/mountainpeace",
       "articles": [
+        {
+          "id": "https://note.com/mountainpeace/n/na25405b4f648",
+          "author": null,
+          "description": "stand.fm\n        \n    \n\n続きをみる",
+          "link": "https://note.com/mountainpeace/n/na25405b4f648",
+          "publishedOn": "2023-11-09T04:36:19.000Z",
+          "wordCount": 2621,
+          "title": "#3『 暗黒 の高校生活 』原稿一部公開",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/121219621/rectangle_large_type_2_c24b97f08fe90f7f3392878bc7888079.png?width=800"
+        },
         {
           "id": "https://note.com/mountainpeace/n/n7f321544adb9",
           "author": null,
