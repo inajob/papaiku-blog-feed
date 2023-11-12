@@ -60,9 +60,9 @@
           "description": "講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...",
           "link": "https://decobocochan.com/archives/10939",
           "publishedOn": "2023-10-29T12:35:42.000Z",
-          "wordCount": null,
+          "wordCount": 1414,
           "title": "2023年11月セミナー・イベント情報",
-          "imageUrl": null
+          "imageUrl": "https://decobocochan.com/wp-content/uploads/2023/10/d455873700699765cfec4b0480cb11c0.png"
         }
       ]
     },
@@ -101,9 +101,9 @@
           "description": "2023年10月3日(火)〜10月30日(月)までファミリーマートで対象のレッドブル購入時に50円割引クーポンがもらえるキャンペーンが開催中です！ 店頭ではレッドブルいづれか1個買うと50円割引券もらえる！と記載がありま […]",
           "link": "https://kokoyayablog.com/famima-redbull-50-yen-discount-coupon-campaign-october-2023/",
           "publishedOn": "2023-10-23T14:20:15.000Z",
-          "wordCount": null,
+          "wordCount": 13270,
           "title": "【ファミマ】レッドブル1本購入で50円引きクーポンが貰えるキャンペーン中！(2023年10月3日~2023年10月30日)",
-          "imageUrl": null
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/Amazonプライムデーレッドブルのコピー.webp"
         },
         {
           "id": "https://kokoyayablog.com/?p=8859",
@@ -111,11 +111,17 @@
           "description": "Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。",
           "link": "https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/",
           "publishedOn": "2023-10-15T13:01:47.000Z",
-          "wordCount": null,
+          "wordCount": 13438,
           "title": "【Xserver for Game】ワールド簡単移行設定で失敗する際の対処法！",
-          "imageUrl": null
+          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/10/XserverforGame簡単移行設定.webp"
         }
       ]
+    },
+    {
+      "title": "otodanblog",
+      "feedUrl": "https://irodorulife.com/feed/",
+      "siteUrl": "https://irodorulife.com",
+      "articles": []
     },
     {
       "title": "やま｜耳読書家 de kindle作家",
@@ -410,9 +416,27 @@
       ]
     },
     {
+      "title": "イクダン先生",
+      "feedUrl": "https://hongzhijintian.com/feed/",
+      "siteUrl": "https://hongzhijintian.com",
+      "articles": []
+    },
+    {
       "title": "黄昏ほーむblog",
       "feedUrl": "https://tasogare-home.com/feed/",
       "siteUrl": "https://tasogare-home.com",
+      "articles": []
+    },
+    {
+      "title": "パドレブログ",
+      "feedUrl": "https://r-padre.com/feed",
+      "siteUrl": "https://r-padre.com",
+      "articles": []
+    },
+    {
+      "title": "おっとさん　おとうさん",
+      "feedUrl": "https://www.zutti-aspooh.com/feed/",
+      "siteUrl": "https://www.zutti-aspooh.com",
       "articles": []
     }
   ],
