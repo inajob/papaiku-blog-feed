@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-13T23:18:27.344Z</id>
+    <id>urn:2023-11-14T01:18:40.800Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-13T23:18:27.344Z</updated>
+    <updated>2023-11-14T01:18:40.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1351,16 +1351,6 @@ https://www.threads.net/@yama_kindle/post/CyaddwGyPCW/?igshid=MzRlODBiNWFlZA==
 また、202…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Xserver for Game】ワールド簡単移行設定で失敗する際の対処法！]]></title>
-        <id>https://kokoyayablog.com/?p=8859</id>
-        <link href="https://kokoyayablog.com/world-migration-troubleshooting-for-xserver-for-game-setup/"/>
-        <updated>2023-10-15T13:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Xserver for Gameでは他のサーバーからマイクラのワールドを移行する、簡単移行設定と言う機能があります。しかし、他のサーバーからワールドを移行する際に失敗することもあります。この記事ではConoHa for GAMEからXserver for Gameへワールドを移行する際に失敗を繰り返した筆者が対処法を紹介いたします。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
