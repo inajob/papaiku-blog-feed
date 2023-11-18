@@ -41,7 +41,18 @@
       "title": "おとんTechブログ",
       "feedUrl": "https://oton-tech.com/feed/",
       "siteUrl": "https://oton-tech.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://oton-tech.com/?p=4451",
+          "author": "okasan",
+          "description": "2001年から20年以上Amazonを使い続けている、おかさん（@OtonTech）です。 いよいよ、年に一度のAmazonの大イベント、”Amazonブラックフライデー”が2023年11月24日（金）0時から開催されま […]",
+          "link": "https://oton-tech.com/amazon-brackfriday/",
+          "publishedOn": "2023-11-18T06:58:21.000Z",
+          "wordCount": 12486,
+          "title": "【2023年】Amazonブラックフライデーのオトクな買い方・オススメ商品",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/11/Amazon_brack_friday_2023.jpg"
+        }
+      ]
     },
     {
       "title": "こやたか|隙間時間でスキルアップできる！",

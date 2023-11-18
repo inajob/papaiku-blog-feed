@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T06:22:04.435Z</id>
+    <id>urn:2023-11-18T07:15:24.408Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-18T06:22:04.435Z</updated>
+    <updated>2023-11-18T07:15:24.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2023年】Amazonブラックフライデーのオトクな買い方・オススメ商品]]></title>
+        <id>https://oton-tech.com/?p=4451</id>
+        <link href="https://oton-tech.com/amazon-brackfriday/"/>
+        <updated>2023-11-18T06:58:21.000Z</updated>
+        <summary type="html"><![CDATA[2001年から20年以上Amazonを使い続けている、おかさん（@OtonTech）です。 いよいよ、年に一度のAmazonの大イベント、”Amazonブラックフライデー”が2023年11月24日（金）0時から開催されま […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#80『 親子副業 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n395e3e553329</id>
