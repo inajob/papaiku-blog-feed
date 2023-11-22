@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T01:22:54.351Z</id>
+    <id>urn:2023-11-22T02:33:02.866Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-22T01:22:54.351Z</updated>
+    <updated>2023-11-22T02:33:02.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1210,16 +1210,6 @@ https://youtu.be/Ba3EUjVLJqs?si=Rkazlj-9iqIB2Md6
         <summary type="html"><![CDATA[子供の写真や動画を祖父母（自分の親）に送る時、どのようにしていますか？スマートフォンで撮ってLINEで共有するのが手軽ですが、時間が経つと写真にたどり着くのが大変になったり、画像が開けなかったり… 写真の共有がしやすくて、機械操作に疎いシニアでも使えて、月額料金もかからない方法を探したら、安価なデジタルフォトフレームで実現しました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ファミマ】レッドブル1本購入で50円引きクーポンが貰えるキャンペーン中！(2023年10月3日~2023年10月30日)]]></title>
-        <id>https://kokoyayablog.com/?p=8988</id>
-        <link href="https://kokoyayablog.com/famima-redbull-50-yen-discount-coupon-campaign-october-2023/"/>
-        <updated>2023-10-23T14:20:15.000Z</updated>
-        <summary type="html"><![CDATA[2023年10月3日(火)〜10月30日(月)までファミリーマートで対象のレッドブル購入時に50円割引クーポンがもらえるキャンペーンが開催中です！ 店頭ではレッドブルいづれか1個買うと50円割引券もらえる！と記載がありま […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
