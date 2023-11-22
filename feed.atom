@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T22:17:07.687Z</id>
+    <id>urn:2023-11-22T23:18:51.142Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-22T22:17:07.687Z</updated>
+    <updated>2023-11-22T23:18:51.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1200,16 +1200,6 @@ https://youtu.be/Ba3EUjVLJqs?si=Rkazlj-9iqIB2Md6
         <summary type="html"><![CDATA[初めまして、パパ育リサーチ部門オープンチャット分析チームです。 2023年度、パパ育では、下記を目標に育休やパパの育児についての興味を調査する活動をしております！ パパの育児や育休に関する現役パパ目線で情報発信 オープン […]]]></summary>
         <author>
             <name>シカゴリラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルフォトフレームで祖父母への写真共有が捗る！月額費用なしでOK]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/10/24/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/10/24/200000"/>
-        <updated>2023-10-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[子供の写真や動画を祖父母（自分の親）に送る時、どのようにしていますか？スマートフォンで撮ってLINEで共有するのが手軽ですが、時間が経つと写真にたどり着くのが大変になったり、画像が開けなかったり… 写真の共有がしやすくて、機械操作に疎いシニアでも使えて、月額料金もかからない方法を探したら、安価なデジタルフォトフレームで実現しました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
