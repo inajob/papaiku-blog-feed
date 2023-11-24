@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-24T01:18:25.146Z</id>
+    <id>urn:2023-11-24T02:27:34.557Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-24T01:18:25.146Z</updated>
+    <updated>2023-11-24T02:27:34.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1188,16 +1188,6 @@ https://youtu.be/Ba3EUjVLJqs?si=Rkazlj-9iqIB2Md6
         <link href="https://papaikuq.com/?p=3912"/>
         <updated>2023-10-25T15:13:04.000Z</updated>
         <summary type="html"><![CDATA[パパの育児や育休取得が声高に叫ばれていますが、パパが育児に積極的に携わることに懐疑的な声もあったりします。 「育休を取得したパパが家でゴロゴロとしている取るだけ育休」「余分な口出しをしてママの神経を逆なでしてしまい夫婦関 […]]]></summary>
-        <author>
-            <name>シカゴリラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【リサーチ部門】パパの興味はどこだ！？オープンチャットを分析してみた！]]></title>
-        <id>https://papaikuq.com/?p=3895</id>
-        <link href="https://papaikuq.com/?p=3895"/>
-        <updated>2023-10-25T14:13:53.000Z</updated>
-        <summary type="html"><![CDATA[初めまして、パパ育リサーチ部門オープンチャット分析チームです。 2023年度、パパ育では、下記を目標に育休やパパの育児についての興味を調査する活動をしております！ パパの育児や育休に関する現役パパ目線で情報発信 オープン […]]]></summary>
         <author>
             <name>シカゴリラ</name>
         </author>
