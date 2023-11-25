@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-25T11:14:17.633Z</id>
+    <id>urn:2023-11-25T12:32:12.696Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-25T11:14:17.633Z</updated>
+    <updated>2023-11-25T12:32:12.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ルーティング番号があるWISEで米国証券の配当金を受け取る方法]]></title>
+        <id>https://nicopoco.com/?p=2484</id>
+        <link href="https://nicopoco.com/wise"/>
+        <updated>2023-11-25T12:14:38.000Z</updated>
+        <summary type="html"><![CDATA[私はメリルリンチバンクオブアメリカの証券口座を持っているのですが、投資にあまり活用できておりません。 というのも、そこからの再投資をするためには、Dividend Reinvestment(配当金の再 ...
+ルーティング番号があるWISEで米国証券の配当金を受け取る方法 first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#81『 制約をチャンスに変える アイデアの紡ぎ方 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/nf0fa80e3dce9</id>
