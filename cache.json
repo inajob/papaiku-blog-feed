@@ -320,12 +320,6 @@
       ]
     },
     {
-      "title": "イクジマンBlog",
-      "feedUrl": "https://ikuziman.com/feed/",
-      "siteUrl": "https://ikuziman.com",
-      "articles": []
-    },
-    {
       "title": "マサブログ",
       "feedUrl": "http://rssblog.ameba.jp/ma3100815/rss20.xml",
       "siteUrl": "https://ameblo.jp/ma3100815/",
