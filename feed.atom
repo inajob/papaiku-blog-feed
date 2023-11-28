@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-27T23:18:37.239Z</id>
+    <id>urn:2023-11-28T01:21:49.256Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-27T23:18:37.239Z</updated>
+    <updated>2023-11-28T01:21:49.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1262,16 +1262,6 @@ Kindle 出版の原稿は、主に Word 原稿を使用します。
 本業を含めると Word 使用…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年11月セミナー・イベント情報]]></title>
-        <id>https://decobocochan.com/?p=10939</id>
-        <link href="https://decobocochan.com/archives/10939"/>
-        <updated>2023-10-29T12:35:42.000Z</updated>
-        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
