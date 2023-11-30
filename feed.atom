@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T14:18:14.250Z</id>
+    <id>urn:2023-11-30T15:18:41.117Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-11-30T14:18:14.250Z</updated>
+    <updated>2023-11-30T15:18:41.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保護中: iPhone15が発売された今！あえてiPhone12を買うべき2つの理由]]></title>
+        <id>https://kokoyayablog.com/?p=9156</id>
+        <link href="https://kokoyayablog.com/iphone15%e3%81%8c%e7%99%ba%e5%a3%b2%e3%81%95%e3%82%8c%e3%81%9f%e4%bb%8a%ef%bc%81%e3%81%82%e3%81%88%e3%81%a6iphone12%e3%82%92%e8%b2%b7%e3%81%86%e3%81%b9%e3%81%8d2%e3%81%a4%e3%81%ae%e7%90%86%e7%94%b1/"/>
+        <updated>2023-11-30T14:54:59.000Z</updated>
+        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
+        <author>
+            <name>ここやや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#83『 弱いままのキミでバズる 学校では教えてくれない SNS という武器 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n3d88a31e814b</id>
