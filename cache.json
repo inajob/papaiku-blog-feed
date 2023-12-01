@@ -1,17 +1,44 @@
 {
   "sources": [
     {
+      "title": "【パパ育コミュ】リサーチ部門",
+      "feedUrl": "https://papaikuq.com/?feed=rss2",
+      "siteUrl": "https://papaikuq.com",
+      "articles": [
+        {
+          "id": "https://papaikuq.com/?p=3922",
+          "author": "シカゴリラ",
+          "description": "パパ育コミュのリサーチ部門ではパパの育児や育休に携わる方々にインタビューをさせて頂きながら、令和のパパにまつわるリアルな声を現役パパ目線でお届けしていきたいと思います。 YouTubeチャンネル「プレパパ応援チャンネル」 […]",
+          "link": "https://papaikuq.com/?p=3922",
+          "publishedOn": "2023-11-05T14:32:04.000Z",
+          "wordCount": 1693,
+          "title": "“プレパパ応援チャンネル”ジョージさんに「パパの育休事情」や「チャンネル運営」など色々と裏事情を教えて頂きました。",
+          "imageUrl": "https://papaikuq.com/wp-content/uploads/2023/11/育児のうつうつ.png"
+        }
+      ]
+    },
+    {
       "title": "おとんTechブログ",
       "feedUrl": "https://oton-tech.com/feed/",
       "siteUrl": "https://oton-tech.com",
       "articles": [
+        {
+          "id": "https://oton-tech.com/?p=2817",
+          "author": "okasan",
+          "description": "EvernoteからNotionへ乗り換えようと思ったときに、 と考える人は多いのではないでしょうか？ また、実際にデータ移行を試してみたけど、 という方も多いと思います。 この記事では、 を紹介します。 Evernot […]",
+          "link": "https://oton-tech.com/evernote-to-notion/",
+          "publishedOn": "2023-12-01T11:20:54.000Z",
+          "wordCount": 12073,
+          "title": "EvernoteのデータをNotionへ移行、エラーなど注意点は？",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2023/12/Evernote2Notion_min.png"
+        },
         {
           "id": "https://oton-tech.com/?p=3802",
           "author": "okasan",
           "description": "2010年から10年以上Evernoteの有料プランを使い続けている私ですが、ここ数年のEvernoteの動きや、機能面での質の低下、などから、他のメモアプリへの乗り換えを検討し始めました。 現時点でも、Evernote […]",
           "link": "https://oton-tech.com/alternative-tools-for-evernote/",
           "publishedOn": "2023-11-26T08:35:31.000Z",
-          "wordCount": 12118,
+          "wordCount": 12122,
           "title": "Evernoteから乗り換え検討、NotionとUpNoteが候補",
           "imageUrl": "https://oton-tech.com/wp-content/uploads/2022/01/alternative-tools-for-evernote_min.png"
         },
@@ -84,7 +111,7 @@
           "description": "この投稿はパスワードで保護されているため抜粋文はありません。",
           "link": "https://kokoyayablog.com/iphone15%e3%81%8c%e7%99%ba%e5%a3%b2%e3%81%95%e3%82%8c%e3%81%9f%e4%bb%8a%ef%bc%81%e3%81%82%e3%81%88%e3%81%a6iphone12%e3%82%92%e8%b2%b7%e3%81%86%e3%81%b9%e3%81%8d2%e3%81%a4%e3%81%ae%e7%90%86%e7%94%b1/",
           "publishedOn": "2023-11-30T14:54:59.000Z",
-          "wordCount": 13298,
+          "wordCount": 13294,
           "title": "保護中: iPhone15が発売された今！あえてiPhone12を買うべき2つの理由",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2023/12/名称未設定のデザインのコピーのコピー.jpg"
         }
@@ -356,7 +383,7 @@
           "description": "家族が増える喜びのなか、不安がよぎるのがお金のこと。 子どもの養育費や住宅ローン、毎月の固定費などに加えて上がり続ける物価、これまで以上に大きくなる生活コストを考えると急に不安が押し寄せていきますよね。 この記事では、4",
           "link": "https://papaganbarumon.com/money-career/",
           "publishedOn": "2023-11-09T05:26:34.000Z",
-          "wordCount": 2627,
+          "wordCount": 2626,
           "title": "【体験談】育休パパがマネーキャリアのFP相談で育休や家計の悩みを解決！",
           "imageUrl": "https://papaganbarumon.com/wp-content/uploads/2023/11/8ef1315ea6238cd6b89226b0450acc70.jpg"
         }

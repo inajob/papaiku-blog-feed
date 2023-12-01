@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T11:15:49.032Z</id>
+    <id>urn:2023-12-01T12:35:27.182Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-01T11:15:49.032Z</updated>
+    <updated>2023-12-01T12:35:27.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EvernoteのデータをNotionへ移行、エラーなど注意点は？]]></title>
+        <id>https://oton-tech.com/?p=2817</id>
+        <link href="https://oton-tech.com/evernote-to-notion/"/>
+        <updated>2023-12-01T11:20:54.000Z</updated>
+        <summary type="html"><![CDATA[EvernoteからNotionへ乗り換えようと思ったときに、 と考える人は多いのではないでしょうか？ また、実際にデータ移行を試してみたけど、 という方も多いと思います。 この記事では、 を紹介します。 Evernot […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[靴の洗濯機で泥だらけの靴もしっかりキレイ、200円で手間をアウトソース]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2023/12/01/200000</id>
@@ -1073,6 +1083,16 @@ https://amzn.to/49qJsJB
 【 手書き効果は 1250 倍…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“プレパパ応援チャンネル”ジョージさんに「パパの育休事情」や「チャンネル運営」など色々と裏事情を教えて頂きました。]]></title>
+        <id>https://papaikuq.com/?p=3922</id>
+        <link href="https://papaikuq.com/?p=3922"/>
+        <updated>2023-11-05T14:32:04.000Z</updated>
+        <summary type="html"><![CDATA[パパ育コミュのリサーチ部門ではパパの育児や育休に携わる方々にインタビューをさせて頂きながら、令和のパパにまつわるリアルな声を現役パパ目線でお届けしていきたいと思います。 YouTubeチャンネル「プレパパ応援チャンネル」 […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
         </author>
     </entry>
     <entry>
