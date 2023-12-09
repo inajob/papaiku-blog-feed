@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-09T05:17:26.268Z</id>
+    <id>urn:2023-12-09T06:22:51.280Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-09T05:17:26.268Z</updated>
+    <updated>2023-12-09T06:22:51.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新NISAがはじまる前に、「投資の達人になる投資講座」の感想]]></title>
+        <id>https://nicopoco.com/?p=2495</id>
+        <link href="https://nicopoco.com/invest_personal"/>
+        <updated>2023-12-09T06:11:55.000Z</updated>
+        <summary type="html"><![CDATA[投資に関するオンラインビジネスを結構みてきたので、今回はどうかな～と思いながら、 投資の達人になる投資講座を聞いてみました。 初回１時間は無料で聞けるので、ひとまず投資が気になっている方にはお勧めです ...
+新NISAがはじまる前に、「投資の達人になる投資講座」の感想 first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#86『 超完全版 YouTube 大全 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n4d7a670bf8cd</id>
