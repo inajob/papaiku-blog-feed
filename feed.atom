@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T01:21:31.668Z</id>
+    <id>urn:2023-12-13T02:30:49.714Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-13T01:21:31.668Z</updated>
+    <updated>2023-12-13T02:30:49.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2023年12月セミナー・イベント情報]]></title>
+        <id>https://decobocochan.com/?p=11007</id>
+        <link href="https://decobocochan.com/archives/11007"/>
+        <updated>2023-12-13T02:19:43.000Z</updated>
+        <summary type="html"><![CDATA[講演会情報は、ブログに🆙したあとも即時情報を追加しています 気になるかたは、定期的にチェックくださいね 現時点で開催される予定のもの・中止のイベントも🆙してます。 当日、開催されるかご確認のうえ、感染対策をしてからご参加 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新NISAがはじまる前に、「投資の達人になる投資講座」の感想]]></title>
         <id>https://nicopoco.com/?p=2495</id>
