@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-23T23:18:02.502Z</id>
+    <id>urn:2023-12-24T01:24:07.352Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-23T23:18:02.502Z</updated>
+    <updated>2023-12-24T01:24:07.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【リサーチ部門】育休サバイバルブック2024出版プロジェクト]]></title>
+        <id>https://papaikuq.com/?p=3947</id>
+        <link href="https://papaikuq.com/?p=3947"/>
+        <updated>2023-12-23T23:41:18.000Z</updated>
+        <summary type="html"><![CDATA[男性育休の失敗談をまとめた育休サバイバルブックを2021年に出版し好評を頂いております。 昨今のパパの育児や育休にまつわる変化を盛り込むために再度改定作業を行い「育休サバイバルブック2024」を出版したいと考えております […]]]></summary>
+        <author>
+            <name>シカゴリラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EvernoteのデータをUpNoteへ移行、注意すべき点も紹介]]></title>
         <id>https://oton-tech.com/?p=3052</id>
