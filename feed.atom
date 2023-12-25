@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-24T23:18:08.662Z</id>
+    <id>urn:2023-12-25T01:20:24.843Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-24T23:18:08.662Z</updated>
+    <updated>2023-12-25T01:20:24.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -420,28 +420,6 @@ https://amzn.to/3SXgXxd
         <summary type="html"><![CDATA[2010年から10年以上Evernoteの有料プランを使い続けている私ですが、ここ数年のEvernoteの動きや、機能面での質の低下、などから、他のメモアプリへの乗り換えを検討し始めました。 現時点でも、Evernote […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023深大寺そばまつり】今年も開催！深大寺そば巡り！]]></title>
-        <id>https://oton-tech.com/?p=4401</id>
-        <link href="https://oton-tech.com/jindaiji-soba-festival/"/>
-        <updated>2023-11-25T13:17:43.000Z</updated>
-        <summary type="html"><![CDATA[今年も恒例の『深大寺そばまつり（第42回）』が開催されます！ この記事では地元民の私が、2023年11月25日（土）～12月3日（日）に開催の、深大寺そばまつりについて紹介します。 2023年の深大寺そばまつり（第42回 […]]]></summary>
-        <author>
-            <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ルーティング番号があるWISEで米国証券の配当金を受け取る方法]]></title>
-        <id>https://nicopoco.com/?p=2484</id>
-        <link href="https://nicopoco.com/wise"/>
-        <updated>2023-11-25T12:14:38.000Z</updated>
-        <summary type="html"><![CDATA[私はメリルリンチバンクオブアメリカの証券口座を持っているのですが、投資にあまり活用できておりません。 というのも、そこからの再投資をするためには、Dividend Reinvestment(配当金の再 ...
-ルーティング番号があるWISEで米国証券の配当金を受け取る方法 first appeared on まろの育児ときどき転職、ところにより副業.
-Copyright © 2023 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
