@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T20:18:37.917Z</id>
+    <id>urn:2023-12-25T21:15:26.478Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-25T20:18:37.917Z</updated>
+    <updated>2023-12-25T21:15:26.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -410,16 +410,6 @@ https://amzn.to/3SXgXxd
 「 僕のようにポンコツでも、前に進めるかもしれない。世の中には、自分と似たような境遇でも、仕事ができる人に変わった人がいる。その体験…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evernoteから乗り換え検討、NotionとUpNoteが候補]]></title>
-        <id>https://oton-tech.com/?p=3802</id>
-        <link href="https://oton-tech.com/alternative-tools-for-evernote/"/>
-        <updated>2023-11-26T08:35:31.000Z</updated>
-        <summary type="html"><![CDATA[2010年から10年以上Evernoteの有料プランを使い続けている私ですが、ここ数年のEvernoteの動きや、機能面での質の低下、などから、他のメモアプリへの乗り換えを検討し始めました。 現時点でも、Evernote […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
