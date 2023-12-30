@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T22:16:47.363Z</id>
+    <id>urn:2023-12-30T23:17:11.070Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-30T22:16:47.363Z</updated>
+    <updated>2023-12-30T23:17:11.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -251,16 +251,6 @@ https://amzn.to/3GzaGR2
         <summary type="html"><![CDATA[EvernoteからNotionへ乗り換えようと思ったときに、 と考える人は多いのではないでしょうか？ また、実際にデータ移行を試してみたけど、 という方も多いと思います。 この記事では、 を紹介します。 Evernot […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靴の洗濯機で泥だらけの靴もしっかりキレイ、200円で手間をアウトソース]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2023/12/01/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2023/12/01/200000"/>
-        <updated>2023-12-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[子供の靴がひどく汚れるので非常に困っています。汚されやすいし、家庭用洗濯機で洗えないし、小さくて洗いにくい。 そう感じている中、コインランドリーで靴も洗えることが分かり、アウトソースしたら一転して楽になりました。安価で手洗いより高品質なので最高です。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
