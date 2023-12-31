@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T23:17:11.070Z</id>
+    <id>urn:2023-12-31T01:25:14.364Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2023-12-30T23:17:11.070Z</updated>
+    <updated>2023-12-31T01:25:14.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -241,16 +241,6 @@ https://amzn.to/3GzaGR2
         <summary type="html"><![CDATA[「子育ても自分の人生も心の底から楽しむためにできること」を教えて頂きました。 上条厚子さん子育て支援NPO法人ママライフバランスの代表理事兼オンラインスクール親のがっこう代表。自治体への受託事業、企業への研修事業、個人向 […]]]></summary>
         <author>
             <name>シカゴリラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EvernoteのデータをNotionへ移行、エラーなど注意点は？]]></title>
-        <id>https://oton-tech.com/?p=2817</id>
-        <link href="https://oton-tech.com/evernote-to-notion/"/>
-        <updated>2023-12-01T11:20:54.000Z</updated>
-        <summary type="html"><![CDATA[EvernoteからNotionへ乗り換えようと思ったときに、 と考える人は多いのではないでしょうか？ また、実際にデータ移行を試してみたけど、 という方も多いと思います。 この記事では、 を紹介します。 Evernot […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
