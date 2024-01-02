@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T18:23:35.545Z</id>
+    <id>urn:2024-01-02T19:14:33.577Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-02T18:23:35.545Z</updated>
+    <updated>2024-01-02T19:14:33.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -231,16 +231,6 @@ https://amzn.to/3GzaGR2
         <summary type="html"><![CDATA[ビックカメラが無料で配布しているポスターカレンダーの2024年版が店頭に置かれる時期になりました。初めて手に入れて眺めたところ、季節や地理、歴史など知育になる情報が満載でした。子育て家庭で近くにビックカメラがあれば、毎日役立つ（かもしれない）カレンダーです。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“親のがっこう”上条さんに「子育ても自分の人生も心の底から楽しむためにできること」を教えて頂きました。]]></title>
-        <id>https://papaikuq.com/?p=3934</id>
-        <link href="https://papaikuq.com/?p=3934"/>
-        <updated>2023-12-04T06:34:50.000Z</updated>
-        <summary type="html"><![CDATA[「子育ても自分の人生も心の底から楽しむためにできること」を教えて頂きました。 上条厚子さん子育て支援NPO法人ママライフバランスの代表理事兼オンラインスクール親のがっこう代表。自治体への受託事業、企業への研修事業、個人向 […]]]></summary>
-        <author>
-            <name>シカゴリラ</name>
         </author>
     </entry>
 </feed>
