@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-11T15:19:54.812Z</id>
+    <id>urn:2024-01-11T16:25:06.666Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-11T15:19:54.812Z</updated>
+    <updated>2024-01-11T16:25:06.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -169,16 +169,6 @@ https://amzn.to/3FRMTeq
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンライン忘年会]]></title>
-        <id>https://decobocochan.com/?p=11061</id>
-        <link href="https://decobocochan.com/archives/11061"/>
-        <updated>2023-12-13T03:42:35.000Z</updated>
-        <summary type="html"><![CDATA[ほぼ1か月…ブログの更新してませんでしたが… まぁ、すげかった 流行りにのっかる子どもたち インフルエンザドミノ 長女→次男→長男 その後… わたしが副鼻腔炎😭 咳きこむけど、風邪ではない リスケしまくる その間に 「1 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
