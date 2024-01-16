@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T13:22:08.963Z</id>
+    <id>urn:2024-01-16T14:18:05.281Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-16T13:22:08.963Z</updated>
+    <updated>2024-01-16T14:18:05.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[まるげりKindle用の公式LINE（ライン）始めました！]]></title>
+        <id>https://marugeriswitch.com/?p=4785</id>
+        <link href="https://marugeriswitch.com/kindle-line/"/>
+        <updated>2024-01-16T13:56:46.000Z</updated>
+        <summary type="html"><![CDATA[このたび、まるげりは、、、 Kindle用の公式ラインを始めました！ こちらから公式LINEに登録できます>> まるげりKindle用の公式LINEへの登録お願いします まるげりのKindle用公式LINEに登録すると  […]]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#89『 世界一シンプルな書き方の教室 』 音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/nca74326296a1</id>
