@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T18:24:11.512Z</id>
+    <id>urn:2024-01-17T19:15:28.828Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-17T18:24:11.512Z</updated>
+    <updated>2024-01-17T19:15:28.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -174,18 +174,6 @@ https://amzn.to/3FRMTeq
         <summary type="html"><![CDATA[10年以上使ってきたEvernoteから、他のメモアプリへの乗り換え検討をしています。 『Evernoteから乗り換え検討、NotionとUpNoteが候補』の記事でも書いたように、NotionとUpNoteを試しており […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新NISA資金、投資信託を売って別の投信に乗り換える際の注意事項]]></title>
-        <id>https://nicopoco.com/?p=2512</id>
-        <link href="https://nicopoco.com/toushi_shintaku_001"/>
-        <updated>2023-12-19T06:47:43.000Z</updated>
-        <summary type="html"><![CDATA[最近積み上げてきた投資信託の信託報酬が気になってるんです。ちょうど見直そうとしていたところなので、一緒に見直してみましょ。 投資信託を見直す前にいったん以下の順に考えていきましょ。 目的と戦略の一致  ...
-新NISA資金、投資信託を売って別の投信に乗り換える際の注意事項 first appeared on まろの育児ときどき転職、ところにより副業.
-Copyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
-        <author>
-            <name>MARO</name>
         </author>
     </entry>
 </feed>
