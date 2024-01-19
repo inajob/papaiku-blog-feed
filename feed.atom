@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T08:23:40.123Z</id>
+    <id>urn:2024-01-19T09:18:56.210Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-19T08:23:40.123Z</updated>
+    <updated>2024-01-19T09:18:56.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保護中: WordPressショートカット大全-特典動画集]]></title>
+        <id>https://marugeriswitch.com/?p=4721</id>
+        <link href="https://marugeriswitch.com/encyclopedia-of-wordpress-shortcuts-present/"/>
+        <updated>2024-01-19T08:29:12.000Z</updated>
+        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[まるげりKindle用の公式LINE（ライン）始めました！]]></title>
         <id>https://marugeriswitch.com/?p=4785</id>
