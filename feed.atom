@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T11:16:40.553Z</id>
+    <id>urn:2024-01-24T12:36:59.915Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-24T11:16:40.553Z</updated>
+    <updated>2024-01-24T12:36:59.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】Kindle Unlimitedの登録方法・Kindle書籍の買い方]]></title>
+        <id>https://marugeriswitch.com/?p=4794</id>
+        <link href="https://marugeriswitch.com/kindle-unlimited-book-buy/"/>
+        <updated>2024-01-24T11:32:12.000Z</updated>
+        <summary type="html"><![CDATA[先日、うれしいDMをいただきました。 まるげりの本を買ってみたいんだけど、Kindle本ってどうやって買ったらわからないから教えてくれない？ 買ってみたいといっていただけてうれしい…♪ …でも確かに、Kindleで電子書 […]]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保護中: WordPressショートカット大全-特典動画集]]></title>
         <id>https://marugeriswitch.com/?p=4721</id>

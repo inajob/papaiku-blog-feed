@@ -11,7 +11,7 @@
           "description": "育児うつというと、ママの産後うつに焦点があてられることが多いのですが、実はパパも育児うつを経験することがあります。 加えて、その割合は思ったよりも多く、実に5割にのぼったりします。 今回はパパ育コミュが実施したパパママ2 […]",
           "link": "https://papaikuq.com/?p=3960",
           "publishedOn": "2024-01-10T21:40:56.000Z",
-          "wordCount": 1692,
+          "wordCount": 1689,
           "title": "【パパ調査】知らないと危ない⁉「パパの育児うつ」～260名のアンケート結果とインタビュー～",
           "imageUrl": "https://papaikuq.com/wp-content/uploads/2024/01/育児のうつうつ-3.jpg"
         }
@@ -53,14 +53,24 @@
       "siteUrl": "https://marugeriswitch.com",
       "articles": [
         {
+          "id": "https://marugeriswitch.com/?p=4794",
+          "author": "まるげり",
+          "description": "先日、うれしいDMをいただきました。 まるげりの本を買ってみたいんだけど、Kindle本ってどうやって買ったらわからないから教えてくれない？ 買ってみたいといっていただけてうれしい…♪ …でも確かに、Kindleで電子書 […]",
+          "link": "https://marugeriswitch.com/kindle-unlimited-book-buy/",
+          "publishedOn": "2024-01-24T11:32:12.000Z",
+          "wordCount": 1399,
+          "title": "【初心者向け】Kindle Unlimitedの登録方法・Kindle書籍の買い方",
+          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2024/01/kindleunlimited.jpg"
+        },
+        {
           "id": "https://marugeriswitch.com/?p=4721",
           "author": "まるげり",
           "description": "この投稿はパスワードで保護されているため抜粋文はありません。",
           "link": "https://marugeriswitch.com/encyclopedia-of-wordpress-shortcuts-present/",
           "publishedOn": "2024-01-19T08:29:12.000Z",
-          "wordCount": 1090,
+          "wordCount": 1099,
           "title": "保護中: WordPressショートカット大全-特典動画集",
-          "imageUrl": null
+          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2024/01/tokutendouga.jpg"
         },
         {
           "id": "https://marugeriswitch.com/?p=4785",
@@ -68,9 +78,9 @@
           "description": "このたび、まるげりは、、、 Kindle用の公式ラインを始めました！ こちらから公式LINEに登録できます>> まるげりKindle用の公式LINEへの登録お願いします まるげりのKindle用公式LINEに登録すると  […]",
           "link": "https://marugeriswitch.com/kindle-line/",
           "publishedOn": "2024-01-16T13:56:46.000Z",
-          "wordCount": 1117,
+          "wordCount": 1124,
           "title": "まるげりKindle用の公式LINE（ライン）始めました！",
-          "imageUrl": null
+          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2024/01/tomodachibosyuutyuu.jpg"
         }
       ]
     },
@@ -91,7 +101,7 @@
           "description": "マイクラで手軽にマルチプレイをする方法として、フレンド機能を使う方法がありますが、ワールドのホストが不在時は遊べないという欠点があります。そこで、レンタルサーバー上にワールドを作成すると、24時間いつでもワールドに入ることができ好きな時間に遊ぶことができます。この記事では、子供達と2年間マイクラで遊んでる筆者が、様々なサーバーを契約し、各サーバーごとの特徴を紹介します。この記事を読めばどのサーバーが自分にあったサーバーか知ることができます。",
           "link": "https://kokoyayablog.com/recommended-multi-servers-minecraft-bedrock-edition/",
           "publishedOn": "2024-01-08T14:21:21.000Z",
-          "wordCount": 13971,
+          "wordCount": 13967,
           "title": "統合版マイクラのおすすめマルチサーバー4選！【各サーバーの特徴も解説】",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/01/統合版マイクラおすすめサーバー4選！.png"
         }
