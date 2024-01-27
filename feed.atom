@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T23:18:49.886Z</id>
+    <id>urn:2024-01-27T01:15:20.824Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-26T23:18:49.886Z</updated>
+    <updated>2024-01-27T01:15:20.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UpNoteは使えるメモアプリ！買い方から使い方まで徹底解説]]></title>
+        <id>https://oton-tech.com/?p=5402</id>
+        <link href="https://oton-tech.com/upnote/"/>
+        <updated>2024-01-27T01:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Evernoteのヘビーユーザでしたが、『Evernoteから乗り換え検討、NotionとUpNoteが候補』で紹介したように他のメモアプリを試しています。 UpNoteは見た目もEvernoteに近く、Notionとと […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#91『 チベットへゆく 仏教の謎を解く旅 』 音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/nb6207d74b2f3</id>
