@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-27T10:18:26.209Z</id>
+    <id>urn:2024-01-27T11:13:36.973Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-01-27T10:18:26.209Z</updated>
+    <updated>2024-01-27T11:13:36.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[混浴制限年齢が20年ぶりに引き下げ、異性の子どもは何歳までOK？]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/01/27/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/01/27/200000"/>
+        <updated>2024-01-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[長女が5歳になり、服装や遊びの好みなど、男女差を感じるようになってきました。 家族で銭湯に行く際にどちらの親が子どもを連れていくかという話になり、条例を調べたところ直近で制限年齢が大幅に引き下げられたことが判明しました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UpNoteは使えるメモアプリ！買い方から使い方まで徹底解説]]></title>
         <id>https://oton-tech.com/?p=5402</id>
