@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-07T12:32:04.629Z</id>
+    <id>urn:2024-02-07T13:19:08.476Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-02-07T12:32:04.629Z</updated>
+    <updated>2024-02-07T13:19:08.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！]]></title>
+        <id>https://oton-tech.com/?p=5489</id>
+        <link href="https://oton-tech.com/notion/"/>
+        <updated>2024-02-07T12:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「しもばしらってどの柱?」幼児の考える力と経験の重要性を感じた日]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/02/02/200000</id>
