@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-15T19:15:13.140Z</id>
+    <id>urn:2024-02-15T20:17:03.221Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-02-15T19:15:13.140Z</updated>
+    <updated>2024-02-15T20:17:03.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[【パルワールド】マルチプレイにおすすめのレンタルサーバー3選（Palworld）]]></title>
-        <id>https://kokoyayablog.com/?p=9477</id>
-        <link href="https://kokoyayablog.com/palworld-multiplayer-optimal-rental-servers-3-picks/"/>
-        <updated>2024-02-12T04:55:56.000Z</updated>
-        <summary type="html"><![CDATA[発売から大ヒット中のパルワールド。その魅力の一つがマルチプレイですが、公式サーバーで簡単では知らない方が入ってきてしまったり、障害発生時はサーバーに接続することができないといった問題があります。解決策としてレンタルサーバーを使用する方法があり、この記事ではおすすめサーバー3つを紹介しています。記事を参考にすることで仲間内だけで安定して楽しく遊ぶことができるようになります。]]></summary>
-        <author>
-            <name>ここやや</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[#92『 ドクターこあらのカメラの本 』 音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n9d76e62c36f1</id>
