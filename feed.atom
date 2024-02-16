@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-16T11:14:25.920Z</id>
+    <id>urn:2024-02-16T12:32:28.524Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-02-16T11:14:25.920Z</updated>
+    <updated>2024-02-16T12:32:28.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[神奈川県大磯町にお試し移住してみた。手軽にできる？プレッシャーはない？実体験談]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/02/16/203000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/02/16/203000"/>
+        <updated>2024-02-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[幼児姉妹を育てている父親です。子育ての選択肢を広げるため、お試し移住をしてみました。少し不安もありましたが、やってみたら非常に良い体験になりました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【パルワールド】マルチプレイにおすすめのレンタルサーバー3選（Palworld）]]></title>
         <id>https://kokoyayablog.com/?p=9477</id>
