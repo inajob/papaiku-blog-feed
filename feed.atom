@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-25T12:30:32.988Z</id>
+    <id>urn:2024-02-25T13:18:32.545Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-02-25T12:30:32.988Z</updated>
+    <updated>2024-02-25T13:18:32.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -165,16 +165,6 @@ https://amzn.to/49fWEAA
         <summary type="html"><![CDATA[長女が5歳になり、服装や遊びの好みなど、男女差を感じるようになってきました。 家族で銭湯に行く際にどちらの親が子どもを連れていくかという話になり、条例を調べたところ直近で制限年齢が大幅に引き下げられたことが判明しました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UpNoteは使えるメモアプリ！買い方から使い方まで徹底解説]]></title>
-        <id>https://oton-tech.com/?p=5402</id>
-        <link href="https://oton-tech.com/upnote/"/>
-        <updated>2024-01-27T01:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Evernoteのヘビーユーザでしたが、『Evernoteから乗り換え検討、NotionとUpNoteが候補』で紹介したように他のメモアプリを試しています。 UpNoteは見た目もEvernoteに近く、Notionとと […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
