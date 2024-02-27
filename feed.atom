@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T03:19:26.944Z</id>
+    <id>urn:2024-02-27T04:21:28.449Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-02-27T03:19:26.945Z</updated>
+    <updated>2024-02-27T04:21:28.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保護中: 【読者限定特典プレゼント】そのアドセンス審査、ちょっと待った！]]></title>
+        <id>https://marugeriswitch.com/?p=4905</id>
+        <link href="https://marugeriswitch.com/adsense-wait-a-minute-tokuten/"/>
+        <updated>2024-02-27T03:22:42.000Z</updated>
+        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#93『 究極の免疫セルフケア 』音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n97e78f31a75e</id>
