@@ -96,23 +96,6 @@
       "articles": []
     },
     {
-      "title": "育休パパのがんばりノート",
-      "feedUrl": "https://kokoyayablog.com/feed/",
-      "siteUrl": "https://kokoyayablog.com",
-      "articles": [
-        {
-          "id": "https://kokoyayablog.com/?p=9477",
-          "author": "ここやや",
-          "description": "発売から大ヒット中のパルワールド。その魅力の一つがマルチプレイですが、公式サーバーで簡単では知らない方が入ってきてしまったり、障害発生時はサーバーに接続することができないといった問題があります。解決策としてレンタルサーバーを使用する方法があり、この記事ではおすすめサーバー3つを紹介しています。記事を参考にすることで仲間内だけで安定して楽しく遊ぶことができるようになります。",
-          "link": "https://kokoyayablog.com/palworld-multiplayer-optimal-rental-servers-3-picks/",
-          "publishedOn": "2024-02-12T04:55:56.000Z",
-          "wordCount": 14279,
-          "title": "【料金比較】パルワールドのマルチプレイにおすすめのレンタルサーバー3選（Palworld）",
-          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/02/【パルワールド】マルチプレイにおすすめのレンタルサーバー3選（Palworld）.webp"
-        }
-      ]
-    },
-    {
       "title": "otodanblog",
       "feedUrl": "https://irodorulife.com/feed/",
       "siteUrl": "https://irodorulife.com",
@@ -212,12 +195,6 @@
       "title": "黄昏ほーむblog",
       "feedUrl": "https://tasogare-home.com/feed/",
       "siteUrl": "https://tasogare-home.com",
-      "articles": []
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
       "articles": []
     },
     {
