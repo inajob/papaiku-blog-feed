@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-01T15:19:04.941Z</id>
+    <id>urn:2024-03-01T16:22:05.523Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-01T15:19:04.941Z</updated>
+    <updated>2024-03-01T16:22:05.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -155,16 +155,6 @@ https://amzn.to/49fWEAA
         <summary type="html"><![CDATA[冬の寒い朝、5歳の長女と霜柱を見つけに行ったところ、長女のイメージが現物と大きく違ったので、実体験は大切だと感じました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護中: 【読者特典】かけ算九九暗記術15の「便利なリンク集」]]></title>
-        <id>https://marugeriswitch.com/?p=4825</id>
-        <link href="https://marugeriswitch.com/kuku-tokuten/"/>
-        <updated>2024-02-01T03:35:23.000Z</updated>
-        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
-        <author>
-            <name>まるげり</name>
         </author>
     </entry>
 </feed>
