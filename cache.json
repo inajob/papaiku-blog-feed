@@ -17,14 +17,14 @@
           "description": "Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]",
           "link": "https://oton-tech.com/notion/",
           "publishedOn": "2024-02-07T12:33:49.000Z",
-          "wordCount": 11856,
+          "wordCount": null,
           "title": "Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！",
           "enclosure": {
             "url": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_block.mp4",
             "length": "1714383",
             "type": "video/mp4"
           },
-          "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_eyecatch_min.png"
+          "imageUrl": null
         }
       ]
     },
@@ -35,21 +35,9 @@
       "articles": []
     },
     {
-      "title": "あつまれ！凸凹ちゃん「発達障害？ううん凸凹（でこぼこ）ちゃんだよ」",
-      "feedUrl": "https://decobocochan.com/feed",
-      "siteUrl": "https://decobocochan.com",
-      "articles": []
-    },
-    {
       "title": "すらぱぱチャンネル",
       "feedUrl": "https://kosodateofmaepchan.blogspot.com/feeds/posts/default",
       "siteUrl": "https://kosodateofmaepchan.blogspot.com/",
-      "articles": []
-    },
-    {
-      "title": "いのっぷ村",
-      "feedUrl": "https://35saiji.com/feed",
-      "siteUrl": "https://35saiji.com",
       "articles": []
     },
     {
@@ -63,7 +51,7 @@
           "description": "この投稿はパスワードで保護されているため抜粋文はありません。",
           "link": "https://marugeriswitch.com/adsense-wait-a-minute-tokuten/",
           "publishedOn": "2024-02-27T03:22:42.000Z",
-          "wordCount": 1106,
+          "wordCount": null,
           "title": "保護中: 【読者限定特典プレゼント】そのアドセンス審査、ちょっと待った！〜インプレッション制でアドセンスはどう変わる？〜",
           "imageUrl": null
         },
@@ -73,9 +61,9 @@
           "description": "この投稿はパスワードで保護されているため抜粋文はありません。",
           "link": "https://marugeriswitch.com/ichinose-present/",
           "publishedOn": "2024-02-21T06:20:26.000Z",
-          "wordCount": 1105,
+          "wordCount": null,
           "title": "保護中: いちのせさん「キーワード選定とSEOサイトアイデア」の購入者特典！",
-          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2024/02/11.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://marugeriswitch.com/?p=4825",
@@ -83,9 +71,9 @@
           "description": "この投稿はパスワードで保護されているため抜粋文はありません。",
           "link": "https://marugeriswitch.com/kuku-tokuten/",
           "publishedOn": "2024-02-01T03:35:23.000Z",
-          "wordCount": 1108,
+          "wordCount": null,
           "title": "保護中: 【読者特典】かけ算九九暗記術15の「便利なリンク集」",
-          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2024/02/kakezankukuankijutu.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -93,29 +81,6 @@
       "title": "たからん",
       "feedUrl": "https://note.com/takaranran_mk/rss",
       "siteUrl": "https://note.com/takaranran_mk",
-      "articles": []
-    },
-    {
-      "title": "育休パパのがんばりノート",
-      "feedUrl": "https://kokoyayablog.com/feed/",
-      "siteUrl": "https://kokoyayablog.com",
-      "articles": [
-        {
-          "id": "https://kokoyayablog.com/?p=9477",
-          "author": "ここやや",
-          "description": "発売から大ヒット中のパルワールド。その魅力の一つがマルチプレイですが、公式サーバーで簡単では知らない方が入ってきてしまったり、障害発生時はサーバーに接続することができないといった問題があります。解決策としてレンタルサーバーを使用する方法があり、この記事ではおすすめサーバー3つを紹介しています。記事を参考にすることで仲間内だけで安定して楽しく遊ぶことができるようになります。",
-          "link": "https://kokoyayablog.com/palworld-multiplayer-optimal-rental-servers-3-picks/",
-          "publishedOn": "2024-02-12T04:55:56.000Z",
-          "wordCount": 14273,
-          "title": "【料金比較】パルワールドのマルチプレイにおすすめのレンタルサーバー3選（Palworld）",
-          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/02/【パルワールド】マルチプレイにおすすめのレンタルサーバー3選（Palworld）.webp"
-        }
-      ]
-    },
-    {
-      "title": "otodanblog",
-      "feedUrl": "https://irodorulife.com/feed/",
-      "siteUrl": "https://irodorulife.com",
       "articles": []
     },
     {
@@ -129,7 +94,7 @@
           "description": "＼ 水と塩でフローに入れる ／\n\n元お笑い芸人さん、その後治療家に転身。プロアスリートから芸能人を筆頭に約 6 万人の方の体の不調を治療してきた方、松本 恒平さんの著書『 究極の免疫セルフケア 』を読ませて頂きました。\n\nハイパフォーマンスな人が実践する\n『 究極の免疫セルフケア 』\n\n松本 恒平 著\n清水 智之 医師 監修\n飛鳥新社 出版\nhttps://amzn.to/49iA6yR\n\n\n【 子供がいつもハイエナジーな理由 】\n\n本書を読んで一番感動したところ。それは子供がいつもハイエナジーな理由が明確にわかったことです。\n\n僕には5歳と8歳の男の子がいます。何でそんなに元気なの？と不思議に思うくらい、朝起きた時から、子供って元気なんです。初対面の人でも物怖じしない、同じ年代の子とすぐ仲良しになる。「 どっからそのハイテンションな元気が湧いてくるの？」とずっと疑問でした。\n\n本書にその答えが書いてありました。\n\nそれは「 第3の体液 」って呼ばれる脳脊髄液が脳に占める割合が、大人よりも高いから、とのことなんです。\n\n脳脊髄液とは、血液やリンパ液と同じ体液の１つです。頭の中で人間の脳は、この脳脊髄液の中にプカプカと浮かぶように存在していると言われています。\n\nこの脳脊髄液のお陰で、脳は外からの衝撃を和らげる働きがあります。\n\nこの脳脊髄液の占める割合が、赤ちゃんはなんと約 85%、子供は約 80%、大人は 70％、中高年以上の方は60%、高齢の方になると約 50％までに減るのだそうです。\n\nこの脳脊髄液が豊富で、潤滑に回っている状況が、子供がいつもハイエナジーな理由なんだそうです。脳脊髄液が占める割合を上げることで、あの元気な状態、エネルギーが溢れてくるんですね。\n\n年と共に割合が減少してしまう脳脊髄液、この割合を増やして行く方法があるんです。その方法があますことなく書か…",
           "link": "https://note.com/mountainpeace/n/n97e78f31a75e",
           "publishedOn": "2024-02-21T12:48:41.000Z",
-          "wordCount": 1446,
+          "wordCount": null,
           "title": "#93『 究極の免疫セルフケア 』音声レビュー",
           "imageUrl": "https://i.ytimg.com/vi/_EGHJZIJBp4/0.jpg?width=800"
         },
@@ -139,7 +104,7 @@
           "description": "＼ 幸福度 200 %上がるカメラの使い方 ／\n\n外資系企業の会社員で、シニアアナリストとして働く、ドクターこあらさん @DY811_koala の商業出版書籍『 ドクターこあらのカメラの本 』こちらの本のレビューをさせて頂きました📚👇\n\n#92『 ドクターこあらのカメラの本 』\nドクターコアラ 著\n安藤 幸司 監修\n株式会社 エムディエヌコーポレーション\nhttps://amzn.to/49fWEAA\n\n※ Amazon アフィリエイト参加中です。収益は作家さんの書籍購入代として使わせていただきます！\n\n【 ７つのプラットフォームで拡散中。\n　リンク先は巻末に👇 】\n\n\n＼ 幸福度 200 %上がるカメラの使い方 ／\n\n【 スマホの使い方が明らかに変わります 】\n\n本書は、カメラにハマった著者が、カメラの選び方から使い方、写真から動画編集まで、可愛らしいイラストで解説してくれる本です。\n\nしかし、カメラ好きだけでなく、スマートフォンのカメラにも応用できる、おすすめ情報が、満載の本なのです。\n僕は本書によって、カメラの活用方法が明らかに変わりました。\n\nカメラを使用することで、自分や家族を幸せにすることが出来ると気づいたのです。\n\n本書にとっても感謝しています。\n\n中でも最も影響を受けたところから、2 つ程お話させて頂きます。\n\n①【 月に１回両親にプレゼントをしよう 】\n\n本書で紹介されていた スマホ アプリ なのですが「 レター 」というアプリって、皆さんご存知でしたでしょうか？\n\nスマートフォンの画像をハガキにしてくれるアプリなんです。\n画像の中から 1 枚選ぶと、カレンダー付きのハガキにしてくれます。\nそれを、プレゼントとして宛先まで送ってくれるアプリなんです。いいですよね。\n\n本書でこのアプリを初めて知って、早速使ってみました。\n\nお気に入りの１枚を選択。3…",
           "link": "https://note.com/mountainpeace/n/n9d76e62c36f1",
           "publishedOn": "2024-02-11T08:27:37.000Z",
-          "wordCount": 1519,
+          "wordCount": null,
           "title": "#92『 ドクターこあらのカメラの本 』 音声レビュー",
           "imageUrl": "https://i.ytimg.com/vi/XYcxknZL1NA/0.jpg?width=800"
         }
@@ -156,9 +121,9 @@
           "description": "幼児姉妹を育てている父親です。子育ての選択肢を広げるため、お試し移住をしてみました。少し不安もありましたが、やってみたら非常に良い体験になりました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/02/16/203000",
           "publishedOn": "2024-02-16T11:30:00.000Z",
-          "wordCount": 618,
+          "wordCount": null,
           "title": "神奈川県大磯町にお試し移住してみた。手軽にできる？プレッシャーはない？実体験談",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240206/20240206124955.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/02/02/200000",
@@ -166,9 +131,9 @@
           "description": "冬の寒い朝、5歳の長女と霜柱を見つけに行ったところ、長女のイメージが現物と大きく違ったので、実体験は大切だと感じました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/02/02/200000",
           "publishedOn": "2024-02-02T11:00:00.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "「しもばしらってどの柱?」幼児の考える力と経験の重要性を感じた日",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240201/20240201114353.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -179,51 +144,9 @@
       "articles": []
     },
     {
-      "title": "まろの育児ときどき転職、ところにより副業",
-      "feedUrl": "https://nicopoco.com/feed",
-      "siteUrl": "https://nicopoco.com",
-      "articles": []
-    },
-    {
       "title": "マサブログ",
       "feedUrl": "http://rssblog.ameba.jp/ma3100815/rss20.xml",
       "siteUrl": "https://ameblo.jp/ma3100815/",
-      "articles": []
-    },
-    {
-      "title": "育休先生ブログをはじめる",
-      "feedUrl": "https://ny-lifework.com/feed/",
-      "siteUrl": "https://ny-lifework.com",
-      "articles": []
-    },
-    {
-      "title": "パパ、がんばるもん！～育休パパのハテナ？を解決～",
-      "feedUrl": "https://papaganbarumon.com/feed/",
-      "siteUrl": "https://papaganbarumon.com",
-      "articles": []
-    },
-    {
-      "title": "イクダン先生",
-      "feedUrl": "https://hongzhijintian.com/feed/",
-      "siteUrl": "https://hongzhijintian.com",
-      "articles": []
-    },
-    {
-      "title": "黄昏ほーむblog",
-      "feedUrl": "https://tasogare-home.com/feed/",
-      "siteUrl": "https://tasogare-home.com",
-      "articles": []
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
-      "articles": []
-    },
-    {
-      "title": "おっとさん　おとうさん",
-      "feedUrl": "https://www.zutti-aspooh.com/feed/",
-      "siteUrl": "https://www.zutti-aspooh.com",
       "articles": []
     }
   ],
