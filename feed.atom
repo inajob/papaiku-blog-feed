@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T22:17:31.170Z</id>
+    <id>urn:2024-03-02T23:17:50.616Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-02T22:17:31.170Z</updated>
+    <updated>2024-03-02T23:17:50.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -155,16 +155,6 @@ https://amzn.to/49fWEAA
         <summary type="html"><![CDATA[Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]]]></summary>
         <author>
             <name>okasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「しもばしらってどの柱?」幼児の考える力と経験の重要性を感じた日]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/02/02/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/02/02/200000"/>
-        <updated>2024-02-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[冬の寒い朝、5歳の長女と霜柱を見つけに行ったところ、長女のイメージが現物と大きく違ったので、実体験は大切だと感じました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
