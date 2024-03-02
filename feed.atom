@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T08:20:24.943Z</id>
+    <id>urn:2024-03-02T09:15:45.487Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-02T08:20:24.943Z</updated>
+    <updated>2024-03-02T09:15:45.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -135,6 +135,16 @@ https://amzn.to/49fWEAA
 お気に入りの１枚を選択。3…]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notionでリマインダーを設定する方法、忘れ防止にも最適！]]></title>
+        <id>https://oton-tech.com/?p=5539</id>
+        <link href="https://oton-tech.com/notion-howto-reminder/"/>
+        <updated>2024-02-09T12:16:32.000Z</updated>
+        <summary type="html"><![CDATA[メモアプリやタスク／TODO管理アプリでの“リマインダー”、使っていますか？ 個人的にはリマインダーを多用しており、なくてはならない機能と思っています（メリットは後ほど紹介します）。 これまで、『 […]]]></summary>
+        <author>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>

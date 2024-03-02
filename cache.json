@@ -12,12 +12,27 @@
       "siteUrl": "https://oton-tech.com",
       "articles": [
         {
+          "id": "https://oton-tech.com/?p=5539",
+          "author": "okasan",
+          "description": "メモアプリやタスク／TODO管理アプリでの“リマインダー”、使っていますか？ 個人的にはリマインダーを多用しており、なくてはならない機能と思っています（メリットは後ほど紹介します）。 これまで、『 […]",
+          "link": "https://oton-tech.com/notion-howto-reminder/",
+          "publishedOn": "2024-02-09T12:16:32.000Z",
+          "wordCount": 11849,
+          "title": "Notionでリマインダーを設定する方法、忘れ防止にも最適！",
+          "enclosure": {
+            "url": "https://oton-tech.com/wp-content/uploads/2024/03/notion_remind_command.mp4",
+            "length": "779437",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/02/notion_reminder_eyecatch.png"
+        },
+        {
           "id": "https://oton-tech.com/?p=5489",
           "author": "okasan",
           "description": "Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]",
           "link": "https://oton-tech.com/notion/",
           "publishedOn": "2024-02-07T12:33:49.000Z",
-          "wordCount": 11856,
+          "wordCount": 11859,
           "title": "Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！",
           "enclosure": {
             "url": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_block.mp4",
