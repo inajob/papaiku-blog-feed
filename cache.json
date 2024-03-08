@@ -25,21 +25,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/02/notion_reminder_eyecatch.png"
-        },
-        {
-          "id": "https://oton-tech.com/?p=5489",
-          "author": "okasan",
-          "description": "Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]",
-          "link": "https://oton-tech.com/notion/",
-          "publishedOn": "2024-02-07T12:33:49.000Z",
-          "wordCount": 11820,
-          "title": "Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！",
-          "enclosure": {
-            "url": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_block.mp4",
-            "length": "1714383",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_eyecatch_min.png"
         }
       ]
     },
@@ -111,7 +96,7 @@
           "description": "発売から大ヒット中のパルワールド。その魅力の一つがマルチプレイですが、公式サーバーで簡単では知らない方が入ってきてしまったり、障害発生時はサーバーに接続することができないといった問題があります。解決策としてレンタルサーバーを使用する方法があり、この記事ではおすすめサーバー3つを紹介しています。記事を参考にすることで仲間内だけで安定して楽しく遊ぶことができるようになります。",
           "link": "https://kokoyayablog.com/palworld-multiplayer-optimal-rental-servers-3-picks/",
           "publishedOn": "2024-02-12T04:55:56.000Z",
-          "wordCount": 14293,
+          "wordCount": 14278,
           "title": "【料金比較】パルワールドのマルチプレイにおすすめのレンタルサーバー3選（Palworld）",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/02/【パルワールド】マルチプレイにおすすめのレンタルサーバー3選（Palworld）.webp"
         }
