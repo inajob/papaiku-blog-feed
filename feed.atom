@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-10T08:22:15.098Z</id>
+    <id>urn:2024-03-10T09:19:21.198Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-10T08:22:15.098Z</updated>
+    <updated>2024-03-10T09:19:21.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notionでサブスク管理が超便利！合計金額やリマインダーも！]]></title>
+        <id>https://oton-tech.com/?p=5643</id>
+        <link href="https://oton-tech.com/notion-manage-subscription/"/>
+        <updated>2024-03-10T09:13:59.000Z</updated>
+        <summary type="html"><![CDATA[音楽配信サービス、動画配信サービス、SNSの有料サービス、など、皆さんも複数のサブスクリプションを契約して使っているのではないでしょうか？ 私も10個以上のサブスクリプションサービスを使っていますが、以前から管理をどうす […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#94 『 イクメンが夫婦仲を悪化させる本当の理由 』 音声レビュー]]></title>
         <id>https://note.com/mountainpeace/n/nfb1effcd4a3a</id>
