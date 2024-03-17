@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-16T23:19:04.225Z</id>
+    <id>urn:2024-03-17T01:20:59.984Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-16T23:19:04.225Z</updated>
+    <updated>2024-03-17T01:20:59.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -233,16 +233,6 @@ https://amzn.to/49iA6yR
         <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
         <author>
             <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神奈川県大磯町にお試し移住してみた。手軽にできる？プレッシャーはない？実体験談]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/02/16/203000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/02/16/203000"/>
-        <updated>2024-02-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[幼児姉妹を育てている父親です。子育ての選択肢を広げるため、お試し移住をしてみました。少し不安もありましたが、やってみたら非常に良い体験になりました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
