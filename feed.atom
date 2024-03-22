@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-22T10:20:06.264Z</id>
+    <id>urn:2024-03-22T11:15:33.676Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-22T10:20:06.264Z</updated>
+    <updated>2024-03-22T11:15:33.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[妊娠初期に夫がやるべき2種類のこと。後期より大事な初期の対応]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/03/22/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/03/22/200000"/>
+        <updated>2024-03-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[妻の妊娠判明に続き、妊娠初期の夫の対応について書いていきます。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【リベットクリーム】1ヶ月でー3kg！！ バターコーヒーで楽ちん腸活ダイエット]]></title>
         <id>https://hongzhijintian.com/?p=1120</id>
