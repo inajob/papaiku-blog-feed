@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T15:19:39.454Z</id>
+    <id>urn:2024-03-27T16:24:11.458Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-27T15:19:39.454Z</updated>
+    <updated>2024-03-27T16:24:11.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -193,16 +193,6 @@ https://amzn.to/3FRMTeq
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護中: 【読者限定特典プレゼント】そのアドセンス審査、ちょっと待った！〜インプレッション制でアドセンスはどう変わる？〜]]></title>
-        <id>https://marugeriswitch.com/?p=4905</id>
-        <link href="https://marugeriswitch.com/adsense-wait-a-minute-tokuten/"/>
-        <updated>2024-02-27T03:22:42.000Z</updated>
-        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
-        <author>
-            <name>まるげり</name>
         </author>
     </entry>
 </feed>
