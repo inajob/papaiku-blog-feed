@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-29T10:20:03.322Z</id>
+    <id>urn:2024-03-29T11:17:55.464Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-03-29T10:20:03.322Z</updated>
+    <updated>2024-03-29T11:17:55.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[フルタイム共働きパパの在宅勤務＆フルコミット育児の1日]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/03/29/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/03/29/200000"/>
+        <updated>2024-03-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[子供たちは5歳と3歳の2人姉妹、核家族・祖父母サポートなしでフルタイム共働き 家庭生活を回すには父親も家事育児にフルコミットするしかない！ということで、そんな在宅勤務の1日を紹介します。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[妊娠初期に夫がやるべき2種類のこと。後期より大事な初期の対応]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/03/22/200000</id>

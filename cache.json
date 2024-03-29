@@ -105,12 +105,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2024/03/29/200000",
+          "author": null,
+          "description": "子供たちは5歳と3歳の2人姉妹、核家族・祖父母サポートなしでフルタイム共働き 家庭生活を回すには父親も家事育児にフルコミットするしかない！ということで、そんな在宅勤務の1日を紹介します。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2024/03/29/200000",
+          "publishedOn": "2024-03-29T11:00:00.000Z",
+          "wordCount": 650,
+          "title": "フルタイム共働きパパの在宅勤務＆フルコミット育児の1日",
+          "imageUrl": "https://gyutte.jp/wp-content/uploads/2024/03/3752155_m.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/03/22/200000",
           "author": null,
           "description": "妻の妊娠判明に続き、妊娠初期の夫の対応について書いていきます。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/03/22/200000",
           "publishedOn": "2024-03-22T11:00:00.000Z",
-          "wordCount": 589,
+          "wordCount": 591,
           "title": "妊娠初期に夫がやるべき2種類のこと。後期より大事な初期の対応",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240321/20240321120624.jpg"
         },
