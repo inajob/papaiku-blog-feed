@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T17:18:36.649Z</id>
+    <id>urn:2024-04-08T18:26:00.945Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-04-08T17:18:36.649Z</updated>
+    <updated>2024-04-08T18:26:00.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -88,16 +88,6 @@ Copyright © 2024 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[幼児育児に奮闘している身ですが、次の準備をする必要が出てきました。 上の子の育児経験も踏まえ、プレパパがやるべきことを妊娠初期からほぼリアルタイムに発信していきます。 妻の妊娠が判明しても、早まってはいけない。初期は慎重に見守る いきなり暗い話になりますが、かなり重要なのが流産となる可能性を認識しておくことです。 日本産科婦人科学会が出している情報によると、医療機関で確認された妊娠の15％前後が流産になります。 また厚生労働省が行った調査研究の結果では、流産が判明した時の妊娠週数は13週目までが85.7%を占め、妊娠初期は流産となるリスクが高いと言えます。 そのため妊娠検査薬の結果や産婦人科で…]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notionでサブスク管理が超便利！合計金額やリマインダーも！]]></title>
-        <id>https://oton-tech.com/?p=5643</id>
-        <link href="https://oton-tech.com/notion-manage-subscription/"/>
-        <updated>2024-03-10T09:13:59.000Z</updated>
-        <summary type="html"><![CDATA[音楽配信サービス、動画配信サービス、SNSの有料サービス、など、皆さんも複数のサブスクリプションを契約して使っているのではないでしょうか？ 私も10個以上のサブスクリプションサービスを使っていますが、以前から管理をどうす […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
