@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-13T14:16:04.093Z</id>
+    <id>urn:2024-04-13T15:13:55.198Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-04-13T14:16:04.093Z</updated>
+    <updated>2024-04-13T15:13:55.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -68,16 +68,6 @@ moomoo証券口座を開いたので使い勝手レビュー first appeared on �
 Copyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【特典記事】「絵本読み聞かせ」から「ひとり読み」へ移行させる5つの方法]]></title>
-        <id>https://marugeriswitch.com/?p=4922</id>
-        <link href="https://marugeriswitch.com/reading-alone-tokuten/"/>
-        <updated>2024-03-15T02:24:10.000Z</updated>
-        <summary type="html"><![CDATA[拙著『子どもの一人読み・読書習慣付け方BOOK「絵本読み聞かせ」から「ひとり読み」へ移行させる5つの方法』を手にとっていただきありがとうございます。 この記事では、 を紹介させていただきます。 著作権の関係でお見せできな […]]]></summary>
-        <author>
-            <name>まるげり</name>
         </author>
     </entry>
 </feed>
