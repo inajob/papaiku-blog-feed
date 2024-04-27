@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-27T22:17:52.888Z</id>
+    <id>urn:2024-04-27T23:18:41.097Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-04-27T22:17:52.888Z</updated>
+    <updated>2024-04-27T23:18:41.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,16 +23,6 @@
         <summary type="html"><![CDATA[Steamのゲームはセールで半額以下になることも多く、待っていれば安く買うことが可能ですが…新作はいち早くプレイしたい！セールまで待てない！という方へSteamのゲームを新作のゲームでもほんの少し安く買う方法を紹介します。大幅な値引きではありませんが、ポテチ、コーラなどゲームのお供分ぐらいは安くできるので、少しでも安く購入したい方はぜひご覧ください。]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フルタイム共働きパパの在宅勤務＆フルコミット育児の1日]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/03/29/200000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/03/29/200000"/>
-        <updated>2024-03-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[子供たちは5歳と3歳の2人姉妹、核家族・祖父母サポートなしでフルタイム共働き 家庭生活を回すには父親も家事育児にフルコミットするしかない！ということで、そんな在宅勤務の1日を紹介します。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
