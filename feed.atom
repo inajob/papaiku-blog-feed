@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-02T11:15:44.460Z</id>
+    <id>urn:2024-05-02T12:35:37.548Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-05-02T11:15:44.460Z</updated>
+    <updated>2024-05-02T12:35:37.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[出産・子育て応援交付金が2023年に支給開始。どう活用すればいい？]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000"/>
+        <updated>2024-05-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[妊娠初期の妻と2人の子どもとの生活に忙しくしていたところ、1通の郵便が届きました。出産・子育て応援交付金という名目の書類でした。どんな制度なのか、どう活用すべきかを考察します。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notionのテンプレートの使い方／作り方]]></title>
         <id>https://oton-tech.com/?p=5633</id>
