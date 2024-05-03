@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-03T21:17:22.787Z</id>
+    <id>urn:2024-05-03T22:18:47.103Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-05-03T21:17:22.787Z</updated>
+    <updated>2024-05-03T22:18:47.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[海外旅行に使える回線Ubigiが優秀すぎた話]]></title>
+        <id>https://nicopoco.com/?p=2602</id>
+        <link href="https://nicopoco.com/trip01"/>
+        <updated>2024-05-03T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[海外でインターネットにつなぐのが簡単な時代になりました。 コロナ以降のテクノロジーの変化が大きい気がします。 コロナ明けに海外に行った際に使ったのはGlobal Wifiだったのですが、３週間でだいた ...
+海外旅行に使える回線Ubigiが優秀すぎた話 first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出産・子育て応援交付金が2023年に支給開始。どう活用すればいい？]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000</id>
