@@ -83,12 +83,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000",
+          "author": null,
+          "description": "この度、育休取得予定を上司に報告しました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000",
+          "publishedOn": "2024-05-10T11:30:00.000Z",
+          "wordCount": 608,
+          "title": "男性育休取得を上司に報告するのはどのタイミング？注意点は？",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240502/20240502162046.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000",
           "author": null,
           "description": "妊娠初期の妻と2人の子どもとの生活に忙しくしていたところ、1通の郵便が届きました。出産・子育て応援交付金という名目の書類でした。どんな制度なのか、どう活用すべきかを考察します。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000",
           "publishedOn": "2024-05-02T11:30:00.000Z",
-          "wordCount": 600,
+          "wordCount": 602,
           "title": "出産・子育て応援交付金が2023年に支給開始。どう活用すればいい？",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240502/20240502161352.jpg"
         }
