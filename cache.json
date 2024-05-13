@@ -10,18 +10,7 @@
       "title": "おとんTechブログ",
       "feedUrl": "https://oton-tech.com/feed/",
       "siteUrl": "https://oton-tech.com",
-      "articles": [
-        {
-          "id": "https://oton-tech.com/?p=5633",
-          "author": "okasan",
-          "description": "Notionのテンプレート、使っていますか？ 仕事であれば、議事録やタスク管理、プロジェクト管理といった何度も使う文書が多々あり、プライベートでも読書リスト、映画リスト、TODO管理など同じフォーマットで何度も使うものが […]",
-          "link": "https://oton-tech.com/howto-notion-template/",
-          "publishedOn": "2024-04-14T07:56:52.000Z",
-          "wordCount": 12571,
-          "title": "Notionのテンプレートの使い方／作り方",
-          "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/04/notion_template_eyecatch_min.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "こやたか|隙間時間でスキルアップできる！",
