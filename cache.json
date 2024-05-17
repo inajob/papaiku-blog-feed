@@ -40,7 +40,18 @@
       "title": "まるげりスイッチ",
       "feedUrl": "https://marugeriswitch.com/feed/",
       "siteUrl": "https://marugeriswitch.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://marugeriswitch.com/?p=4956",
+          "author": "まるげり",
+          "description": "ドラマ「14歳の母」を家族で見ても大丈夫かな？ 気まずいシーンがあると嫌だなぁ。 と思っている人も多いのではないでしょうか。 この記事では、ドラマ「14歳の母」に気まずいシーンがあるかどうかを紹介します。 これから家族で […]",
+          "link": "https://marugeriswitch.com/14mather/",
+          "publishedOn": "2024-05-17T07:31:43.000Z",
+          "wordCount": 1179,
+          "title": "ドラマ「14歳の母」に気まずいシーンはある？検証してみた",
+          "imageUrl": "https://marugeriswitch.com/wp-content/uploads/2024/05/258.jpg"
+        }
+      ]
     },
     {
       "title": "たからん",
