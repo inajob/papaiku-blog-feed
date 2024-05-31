@@ -37,12 +37,6 @@
       "articles": []
     },
     {
-      "title": "まるげりスイッチ",
-      "feedUrl": "https://marugeriswitch.com/feed/",
-      "siteUrl": "https://marugeriswitch.com",
-      "articles": []
-    },
-    {
       "title": "たからん",
       "feedUrl": "https://note.com/takaranran_mk/rss",
       "siteUrl": "https://note.com/takaranran_mk",
@@ -59,17 +53,11 @@
           "description": "今回の記事では、創業20年以上の老舗中古PCメーカー PC WRAP（PCラップ）について解説します。 PC WRAPで販売されるパソコンは、中古にもかかわらず3年間の長期保証がついたり、7日以内であれば、どんな理由でも […]",
           "link": "https://kokoyayablog.com/pc-wrap-review-features-and-3-year-warranty/",
           "publishedOn": "2024-05-30T14:34:41.000Z",
-          "wordCount": 14510,
+          "wordCount": null,
           "title": "【３年の長期保証が魅力】中古PCショップPC WRAPの特徴を解説！",
-          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/05/4【３年の長期保証が魅力】中古PCショップPC-WRAPの特徴を解説！.webp"
+          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "otodanblog",
-      "feedUrl": "https://irodorulife.com/feed/",
-      "siteUrl": "https://irodorulife.com",
-      "articles": []
     },
     {
       "title": "やま｜耳読書家 de kindle作家",
@@ -88,9 +76,9 @@
           "description": "この度、育休取得予定を上司に報告しました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000",
           "publishedOn": "2024-05-10T11:30:00.000Z",
-          "wordCount": 608,
+          "wordCount": null,
           "title": "男性育休取得を上司に報告するのはどのタイミング？注意点は？",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240502/20240502162046.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000",
@@ -98,9 +86,9 @@
           "description": "妊娠初期の妻と2人の子どもとの生活に忙しくしていたところ、1通の郵便が届きました。出産・子育て応援交付金という名目の書類でした。どんな制度なのか、どう活用すべきかを考察します。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/05/02/203000",
           "publishedOn": "2024-05-02T11:30:00.000Z",
-          "wordCount": 602,
+          "wordCount": null,
           "title": "出産・子育て応援交付金が2023年に支給開始。どう活用すればいい？",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240502/20240502161352.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -121,7 +109,7 @@
           "description": "海外でインターネットにつなぐのが簡単な時代になりました。 コロナ以降のテクノロジーの変化が大きい気がします。 コロナ明けに海外に行った際に使ったのはGlobal Wifiだったのですが、３週間でだいた ...\n海外旅行に使える回線Ubigiが優秀すぎた話 first appeared on まろの育児ときどき転職、ところにより副業.\nCopyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.",
           "link": "https://nicopoco.com/trip01",
           "publishedOn": "2024-05-03T21:54:00.000Z",
-          "wordCount": 1775,
+          "wordCount": null,
           "title": "海外旅行に使える回線Ubigiが優秀すぎた話",
           "imageUrl": null
         }
@@ -149,18 +137,6 @@
       "title": "イクダン先生",
       "feedUrl": "https://hongzhijintian.com/feed/",
       "siteUrl": "https://hongzhijintian.com",
-      "articles": []
-    },
-    {
-      "title": "黄昏ほーむblog",
-      "feedUrl": "https://tasogare-home.com/feed/",
-      "siteUrl": "https://tasogare-home.com",
-      "articles": []
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
       "articles": []
     },
     {
