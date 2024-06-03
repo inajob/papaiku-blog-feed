@@ -59,7 +59,7 @@
           "description": "今回の記事では、創業20年以上の老舗中古PCメーカー PC WRAP（PCラップ）について解説します。 PC WRAPで販売されるパソコンは、中古にもかかわらず3年間の長期保証がついたり、7日以内であれば、どんな理由でも […]",
           "link": "https://kokoyayablog.com/pc-wrap-review-features-and-3-year-warranty/",
           "publishedOn": "2024-05-30T14:34:41.000Z",
-          "wordCount": 14522,
+          "wordCount": 14513,
           "title": "【３年の長期保証が魅力】中古PCショップPC WRAPの特徴を解説！",
           "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/05/4【３年の長期保証が魅力】中古PCショップPC-WRAPの特徴を解説！.webp"
         }
@@ -83,12 +83,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2024/06/03/124500",
+          "author": null,
+          "description": "3人目は妊娠5カ月になりました。 妊娠中の妻が定期的に行く妊婦検診に同伴し、子どもにもその様子を見せたところ、いろいろと得るものがありました。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2024/06/03/124500",
+          "publishedOn": "2024-06-03T03:45:00.000Z",
+          "wordCount": 603,
+          "title": "妻の妊婦検診に夫と子どもがついて行ったら、いいことづくめだった",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240603/20240603123324.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000",
           "author": null,
           "description": "この度、育休取得予定を上司に報告しました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000",
           "publishedOn": "2024-05-10T11:30:00.000Z",
-          "wordCount": 608,
+          "wordCount": 613,
           "title": "男性育休取得を上司に報告するのはどのタイミング？注意点は？",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240502/20240502162046.jpg"
         }
