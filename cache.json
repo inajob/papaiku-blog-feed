@@ -29,9 +29,9 @@
           "description": "そろそろ新学期の疲れがではじめる頃 ひさびさにリアルの凸凹カフェを開催します☆ 4月、5月とドタバタしてましたが 8周年となる、6月は 皆さんとお会いしたいなぁと （あわてて💦）段取りしました お申し込みは、LINEアカ ...",
           "link": "https://decobocochan.com/archives/11179",
           "publishedOn": "2024-05-14T23:00:11.000Z",
-          "wordCount": 1362,
+          "wordCount": null,
           "title": "6月の凸凹カフェのご案内",
-          "imageUrl": "https://decobocochan.com/wp-content/uploads/2024/06/o1080081015438591117.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -70,9 +70,9 @@
           "description": "今回の記事では、創業20年以上の老舗中古PCメーカー PC WRAP（PCラップ）について解説します。 PC WRAPで販売されるパソコンは、中古にもかかわらず3年間の長期保証がついたり、7日以内であれば、どんな理由でも […]",
           "link": "https://kokoyayablog.com/pc-wrap-review-features-and-3-year-warranty/",
           "publishedOn": "2024-05-30T14:34:41.000Z",
-          "wordCount": 14625,
+          "wordCount": null,
           "title": "【３年の長期保証が魅力】中古PCショップPC WRAPの特徴を解説！",
-          "imageUrl": "https://kokoyayablog.com/wp-content/uploads/2024/05/4【３年の長期保証が魅力】中古PCショップPC-WRAPの特徴を解説！.webp"
+          "imageUrl": null
         }
       ]
     },
@@ -155,12 +155,6 @@
       "title": "黄昏ほーむblog",
       "feedUrl": "https://tasogare-home.com/feed/",
       "siteUrl": "https://tasogare-home.com",
-      "articles": []
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
       "articles": []
     },
     {
