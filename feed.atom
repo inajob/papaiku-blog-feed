@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-08T23:20:07.430Z</id>
+    <id>urn:2024-06-09T01:37:40.086Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-06-08T23:20:07.430Z</updated>
+    <updated>2024-06-09T01:37:40.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,16 +33,6 @@
         <summary type="html"><![CDATA[そろそろ新学期の疲れがではじめる頃 ひさびさにリアルの凸凹カフェを開催します☆ 4月、5月とドタバタしてましたが 8周年となる、6月は 皆さんとお会いしたいなぁと （あわてて💦）段取りしました お申し込みは、LINEアカ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男性育休取得を上司に報告するのはどのタイミング？注意点は？]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/05/10/203000"/>
-        <updated>2024-05-10T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、育休取得予定を上司に報告しました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
