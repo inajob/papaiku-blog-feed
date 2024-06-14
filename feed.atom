@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-14T10:20:36.866Z</id>
+    <id>urn:2024-06-14T11:16:23.187Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-06-14T10:20:36.866Z</updated>
+    <updated>2024-06-14T11:16:23.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[パパは保育士とどのように会話すべきか、保育士に訊いて悩みが氷解した]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/06/14/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/06/14/200000"/>
+        <updated>2024-06-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[長女は保育園の年長になりました。 0歳児クラスから保育園の送り迎えをしていて、5年前と比べて送り迎えをするパパをよく見るようになったと感じています。 父親の送り迎えが珍しくなくなると、今度は父親と母親で保育士への接し方の違いが気になってきました。 そのことを保護者面談で保育士に訊いてみたところ、保育園での日々のコミュニケーションの悩みが解決しました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[妻の妊婦検診に夫と子どもがついて行ったら、いいことづくめだった]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/06/03/124500</id>
