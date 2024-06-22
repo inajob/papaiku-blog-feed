@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-22T07:19:10.744Z</id>
+    <id>urn:2024-06-22T08:24:08.922Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-06-22T07:19:10.744Z</updated>
+    <updated>2024-06-22T08:24:08.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,16 +23,6 @@
         <summary type="html"><![CDATA[3人目は妊娠5カ月になりました。 妊娠中の妻が定期的に行く妊婦検診に同伴し、子どもにもその様子を見せたところ、いろいろと得るものがありました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【３年の長期保証が魅力】中古PCショップPC WRAPの特徴を解説！]]></title>
-        <id>https://kokoyayablog.com/?p=10359</id>
-        <link href="https://kokoyayablog.com/pc-wrap-review-features-and-3-year-warranty/"/>
-        <updated>2024-05-30T14:34:41.000Z</updated>
-        <summary type="html"><![CDATA[今回の記事では、創業20年以上の老舗中古PCメーカー PC WRAP（PCラップ）について解説します。 PC WRAPで販売されるパソコンは、中古にもかかわらず3年間の長期保証がついたり、7日以内であれば、どんな理由でも […]]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
