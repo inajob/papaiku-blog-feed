@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T15:20:19.542Z</id>
+    <id>urn:2024-07-02T16:26:44.761Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-07-02T15:20:19.542Z</updated>
+    <updated>2024-07-02T16:26:44.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,16 +11,6 @@
         <link href="https://brushwoodcape.hatenablog.com/entry/2024/06/14/200000"/>
         <updated>2024-06-14T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[長女は保育園の年長になりました。 0歳児クラスから保育園の送り迎えをしていて、5年前と比べて送り迎えをするパパをよく見るようになったと感じています。 父親の送り迎えが珍しくなくなると、今度は父親と母親で保育士への接し方の違いが気になってきました。 そのことを保護者面談で保育士に訊いてみたところ、保育園での日々のコミュニケーションの悩みが解決しました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妻の妊婦検診に夫と子どもがついて行ったら、いいことづくめだった]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/06/03/124500</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/06/03/124500"/>
-        <updated>2024-06-03T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[3人目は妊娠5カ月になりました。 妊娠中の妻が定期的に行く妊婦検診に同伴し、子どもにもその様子を見せたところ、いろいろと得るものがありました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
