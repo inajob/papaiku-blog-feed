@@ -49,12 +49,6 @@
       "articles": []
     },
     {
-      "title": "育休パパのがんばりノート",
-      "feedUrl": "https://kokoyayablog.com/feed/",
-      "siteUrl": "https://kokoyayablog.com",
-      "articles": []
-    },
-    {
       "title": "otodanblog",
       "feedUrl": "https://irodorulife.com/feed/",
       "siteUrl": "https://irodorulife.com",
@@ -77,9 +71,9 @@
           "description": "厚生労働省が全国の出産施設を探せるサイトを5月末に公開しました。 どのような情報があるのか確認し、プレパパはどのように活用すべきかを考えます。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/07/04/164933",
           "publishedOn": "2024-07-04T07:49:33.000Z",
-          "wordCount": 608,
+          "wordCount": null,
           "title": "「出産なび」で出産施設探し。プレパパが見るべき情報はある？",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240704/20240704164454.png"
+          "imageUrl": null
         },
         {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/06/14/200000",
@@ -87,9 +81,9 @@
           "description": "長女は保育園の年長になりました。 0歳児クラスから保育園の送り迎えをしていて、5年前と比べて送り迎えをするパパをよく見るようになったと感じています。 父親の送り迎えが珍しくなくなると、今度は父親と母親で保育士への接し方の違いが気になってきました。 そのことを保護者面談で保育士に訊いてみたところ、保育園での日々のコミュニケーションの悩みが解決しました。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/06/14/200000",
           "publishedOn": "2024-06-14T11:00:00.000Z",
-          "wordCount": 615,
+          "wordCount": null,
           "title": "パパは保育士とどのように会話すべきか、保育士に訊いて悩みが氷解した",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/B/BrushwoodCape/20240324/20240324054520.png"
+          "imageUrl": null
         }
       ]
     },
@@ -112,12 +106,6 @@
       "articles": []
     },
     {
-      "title": "育休先生ブログをはじめる",
-      "feedUrl": "https://ny-lifework.com/feed/",
-      "siteUrl": "https://ny-lifework.com",
-      "articles": []
-    },
-    {
       "title": "パパ、がんばるもん！～育休パパのハテナ？を解決～",
       "feedUrl": "https://papaganbarumon.com/feed/",
       "siteUrl": "https://papaganbarumon.com",
@@ -133,12 +121,6 @@
       "title": "黄昏ほーむblog",
       "feedUrl": "https://tasogare-home.com/feed/",
       "siteUrl": "https://tasogare-home.com",
-      "articles": []
-    },
-    {
-      "title": "パドレブログ",
-      "feedUrl": "https://r-padre.com/feed",
-      "siteUrl": "https://r-padre.com",
       "articles": []
     },
     {
