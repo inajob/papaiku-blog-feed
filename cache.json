@@ -37,12 +37,6 @@
       "articles": []
     },
     {
-      "title": "まるげりスイッチ",
-      "feedUrl": "https://marugeriswitch.com/feed/",
-      "siteUrl": "https://marugeriswitch.com",
-      "articles": []
-    },
-    {
       "title": "たからん",
       "feedUrl": "https://note.com/takaranran_mk/rss",
       "siteUrl": "https://note.com/takaranran_mk",
@@ -109,6 +103,23 @@
       "feedUrl": "https://faxwatch.hatenablog.com/feed",
       "siteUrl": "https://faxwatch.hatenablog.com/",
       "articles": []
+    },
+    {
+      "title": "まろの育児ときどき転職、ところにより副業",
+      "feedUrl": "https://nicopoco.com/feed",
+      "siteUrl": "https://nicopoco.com",
+      "articles": [
+        {
+          "id": "https://nicopoco.com/?p=2610",
+          "author": "MARO",
+          "description": "ウィブル証券は、日本に上陸したばかりの新興証券会社で、米国株の情報収集や個別株投資に特化しています。 まずは、ウィブル証券のメリットとデメリットをご紹介します。 ウィブル証券のメリット 数百円から購入 ...\nウィブル証券についてレビューしてみる first appeared on まろの育児ときどき転職、ところにより副業.\nCopyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.",
+          "link": "https://nicopoco.com/webull_1",
+          "publishedOn": "2024-07-07T05:33:19.000Z",
+          "wordCount": 1816,
+          "title": "ウィブル証券についてレビューしてみる",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "マサブログ",
