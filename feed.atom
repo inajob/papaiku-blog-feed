@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-02T19:16:37.401Z</id>
+    <id>urn:2024-08-02T20:21:45.642Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-08-02T19:16:37.401Z</updated>
+    <updated>2024-08-02T20:21:45.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -45,16 +45,6 @@ Copyright © 2024 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[2024年7月2日〜7月29日までファミリーマートでレッドブル購入時に50円引き割引券がもらえるキャンペーン中です。公式サイトにキャンペーンの詳細が載っていなかったので、様々な購入方法で50円引きクーポンが使えるのか、もらえるのか確認しました。]]></summary>
         <author>
             <name>ここやや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「出産なび」で出産施設探し。プレパパが見るべき情報はある？]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/07/04/164933</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/07/04/164933"/>
-        <updated>2024-07-04T07:49:33.000Z</updated>
-        <summary type="html"><![CDATA[厚生労働省が全国の出産施設を探せるサイトを5月末に公開しました。 どのような情報があるのか確認し、プレパパはどのように活用すべきかを考えます。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
