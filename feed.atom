@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-03T10:20:15.882Z</id>
+    <id>urn:2024-08-03T11:16:54.667Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-08-03T10:20:15.882Z</updated>
+    <updated>2024-08-03T11:16:54.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[子持ちプレパパが出産前に用意したもの。メリハリ消費で子育て準備]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/08/03/192522</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/08/03/192522"/>
+        <updated>2024-08-03T10:25:22.000Z</updated>
+        <summary type="html"><![CDATA[2人子育て中で3人目の誕生が近づいてきました。 赤ちゃんをラクに育てるためにはベビーカーなど必要なものが多い、かつ生まれた後に24時間育児対応しながら揃えるのは大変ということで、前もってベビー用品を計画的に集めています。 3人目でベビー用品の勘所も分かってきたので、コストパフォーマンス重視です。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紙とペンだけで実現！3歳でも自発的に靴をそろえるようになったひと工夫]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/07/19/190000</id>
