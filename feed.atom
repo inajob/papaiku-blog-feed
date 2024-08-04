@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-04T18:25:40.662Z</id>
+    <id>urn:2024-08-04T23:21:42.249Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-08-04T18:25:40.662Z</updated>
+    <updated>2024-08-04T23:21:42.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -45,16 +45,6 @@
 Copyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ファミマ】レッドブル1本購入で50円引きクーポンが貰えるキャンペーン中！(2024年7月2日~2024年7月29日)]]></title>
-        <id>https://kokoyayablog.com/?p=10669</id>
-        <link href="https://kokoyayablog.com/famima-redbull-50-yen-discount-coupon-campaign-october-20240702/"/>
-        <updated>2024-07-06T06:44:49.000Z</updated>
-        <summary type="html"><![CDATA[2024年7月2日〜7月29日までファミリーマートでレッドブル購入時に50円引き割引券がもらえるキャンペーン中です。公式サイトにキャンペーンの詳細が載っていなかったので、様々な購入方法で50円引きクーポンが使えるのか、もらえるのか確認しました。]]></summary>
-        <author>
-            <name>ここやや</name>
         </author>
     </entry>
 </feed>
