@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-24T14:18:57.799Z</id>
+    <id>urn:2024-08-24T15:21:08.413Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-08-24T14:18:57.799Z</updated>
+    <updated>2024-08-24T15:21:08.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[12歳になった君に送るお金のお話]]></title>
+        <id>https://nicopoco.com/?p=2626</id>
+        <link href="https://nicopoco.com/money_lecture"/>
+        <updated>2024-08-24T14:45:35.000Z</updated>
+        <summary type="html"><![CDATA[10歳の子どもにお金の話をしましたが、少し早すぎたので、2年後を見越してちょっと書いていこうと思います。 10歳の君に、今日、人が持っているリソースは全部で６個だよという話をしたけど、 ちょっと早すぎ ...
+12歳になった君に送るお金のお話 first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2024 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#0『 自己紹介 』]]></title>
         <id>https://note.com/mountainpeace/n/n86baf281d071</id>
