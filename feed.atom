@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-25T12:37:54.294Z</id>
+    <id>urn:2024-08-25T13:21:10.440Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-08-25T12:37:54.294Z</updated>
+    <updated>2024-08-25T13:21:10.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[産前休暇の妻が毎日疲弊しているので、夫として仕事と育児と家事をやる]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/08/25/215833</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/08/25/215833"/>
+        <updated>2024-08-25T12:58:33.000Z</updated>
+        <summary type="html"><![CDATA[3人目の子どもの誕生が近づいてきました。 妻は産前休業に入り家で過ごしていますが、家庭内の分担は共働きステータスの時より私に偏っています。 妊娠の大変さと、それを支える大変さを感じる日々です。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12歳になった君に送るお金のお話]]></title>
         <id>https://nicopoco.com/?p=2626</id>
