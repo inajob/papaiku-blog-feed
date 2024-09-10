@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-10T19:17:59.868Z</id>
+    <id>urn:2024-09-10T20:23:39.225Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-09-10T19:17:59.868Z</updated>
+    <updated>2024-09-10T20:23:39.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[初日の勢いを止めずに家と自分の手入れを1日かけてやる（育休2日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/09/10/233000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/09/10/233000"/>
+        <updated>2024-09-10T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[育休、というか出産準備期間の初日は子供部屋の荷物整理や自分の散髪などのタスクを進めました。2日目も頑張っています。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[眠れぬ夜に「ひと言メッセージ」企画～あなたの想いを届けてみませんか？～]]></title>
         <id>https://decobocochan.com/?p=11258</id>
