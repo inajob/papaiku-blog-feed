@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-17T05:21:16.602Z</id>
+    <id>urn:2024-09-17T06:27:34.175Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-09-17T05:21:16.602Z</updated>
+    <updated>2024-09-17T06:27:34.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[末っ子誕生前、週末は上の子のケアに専念する（育休8日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/09/16/200000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/09/16/200000"/>
+        <updated>2024-09-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[長期育休編が開始して1週間、3連休がやってきました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初日の勢いを止めずに家と自分の手入れを1日かけてやる（育休2日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/09/10/233000</id>
