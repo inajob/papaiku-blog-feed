@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-21T12:39:47.294Z</id>
+    <id>urn:2024-09-21T13:23:55.904Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-09-21T12:39:47.294Z</updated>
+    <updated>2024-09-21T13:23:55.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[男性でも産前休業して大正解！妻の評価爆上がりで産後クライシス予防（育休13日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/09/21/215930</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/09/21/215930"/>
+        <updated>2024-09-21T12:59:30.000Z</updated>
+        <summary type="html"><![CDATA[男性ですが産休を取りました。そうしたら効果絶大でした。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[末っ子誕生前、週末は上の子のケアに専念する（育休8日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/09/16/200000</id>
