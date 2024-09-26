@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-26T19:18:10.740Z</id>
+    <id>urn:2024-09-26T20:24:29.280Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-09-26T19:18:10.740Z</updated>
+    <updated>2024-09-26T20:24:29.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[計画分娩のために妻は入院、父子生活がスタート。順調と思われたが…（男性育休19日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/09/27/050010</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/09/27/050010"/>
+        <updated>2024-09-26T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[祖父母サポートなし、上の子ありの出産のため、出産日とその後数日は父子生活です。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出産前の上の子は期待と不安で精一杯、父親に求められる立ち回り（育休18日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/09/26/120000</id>

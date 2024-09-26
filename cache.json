@@ -83,12 +83,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2024/09/27/050010",
+          "author": null,
+          "description": "祖父母サポートなし、上の子ありの出産のため、出産日とその後数日は父子生活です。",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2024/09/27/050010",
+          "publishedOn": "2024-09-26T20:00:10.000Z",
+          "wordCount": 607,
+          "title": "計画分娩のために妻は入院、父子生活がスタート。順調と思われたが…（男性育休19日目）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/feb940b7e93bc357bb18b3a13eef09923fb825e8/backend=imagemagick;height=1200;version=1;width=1200/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FB%2FBrushwoodCape%2F20240927%2F20240927042456.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2024/09/26/120000",
           "author": null,
           "description": "上の子にとって、赤ちゃんが生まれて自分が兄や姉になることが楽しみな反面、不安も大きいようです。 出産が近い時期には、父親の役割が大事になってきそうです。",
           "link": "https://brushwoodcape.hatenablog.com/entry/2024/09/26/120000",
           "publishedOn": "2024-09-26T03:00:00.000Z",
-          "wordCount": 609,
+          "wordCount": 611,
           "title": "出産前の上の子は期待と不安で精一杯、父親に求められる立ち回り（育休18日目）",
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/69d8615daed490e525321456cc1e446a4db63e3f/backend=imagemagick;height=1200;version=1;width=1200/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FB%2FBrushwoodCape%2F20240926%2F20240926081601.jpg"
         },
