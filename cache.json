@@ -29,7 +29,7 @@
           "description": "夜をひとりで明かすのが、こわい…そんな日がありませんか？ 長い夜にひと言メッセージを読んでいたら、朝になっていた そんな一助に慣れればと思い企画しました。 毎年、夏休みの最後の夜に開催しておりましたが、このひと言が胸に刺 ...",
           "link": "https://decobocochan.com/archives/11258",
           "publishedOn": "2024-09-10T01:56:15.000Z",
-          "wordCount": 1447,
+          "wordCount": 1448,
           "title": "眠れぬ夜に「ひと言メッセージ」企画～あなたの想いを届けてみませんか？～",
           "imageUrl": "https://decobocochan.com/wp-content/uploads/2024/09/52cc1f8ce9e0658cad8963226be19c13.png"
         }
@@ -57,6 +57,12 @@
       "title": "たからん",
       "feedUrl": "https://note.com/takaranran_mk/rss",
       "siteUrl": "https://note.com/takaranran_mk",
+      "articles": []
+    },
+    {
+      "title": "育休パパのがんばりノート",
+      "feedUrl": "https://kokoyayablog.com/feed/",
+      "siteUrl": "https://kokoyayablog.com",
       "articles": []
     },
     {
@@ -171,6 +177,12 @@
       "articles": []
     },
     {
+      "title": "マサブログ",
+      "feedUrl": "http://rssblog.ameba.jp/ma3100815/rss20.xml",
+      "siteUrl": "https://ameblo.jp/ma3100815/",
+      "articles": []
+    },
+    {
       "title": "育休先生ブログをはじめる",
       "feedUrl": "https://ny-lifework.com/feed/",
       "siteUrl": "https://ny-lifework.com",
@@ -192,6 +204,12 @@
       "title": "黄昏ほーむblog",
       "feedUrl": "https://tasogare-home.com/feed/",
       "siteUrl": "https://tasogare-home.com",
+      "articles": []
+    },
+    {
+      "title": "パドレブログ",
+      "feedUrl": "https://r-padre.com/feed",
+      "siteUrl": "https://r-padre.com",
       "articles": []
     },
     {
