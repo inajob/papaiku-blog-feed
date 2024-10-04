@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-03T23:22:48.170Z</id>
+    <id>urn:2024-10-04T01:47:26.279Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-10-03T23:22:48.170Z</updated>
+    <updated>2024-10-04T01:47:26.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,16 +81,6 @@
         <link href="https://brushwoodcape.hatenablog.com/entry/2024/09/09/222958"/>
         <updated>2024-09-09T13:29:58.000Z</updated>
         <summary type="html"><![CDATA[半年を超える育休の準備を始めました。]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育休期間は出勤率低下で有給付与数が減る!? 育休中の勤怠取り扱い]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/09/04/203000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/09/04/203000"/>
-        <updated>2024-09-04T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[第3子の出生に合わせて半年ほどの長期育休を取得しようとしています。 育休取得手続きをしていて、ふと「長期育休だと年間の出勤率は下がって、次の年の有給付与日数が減るのでは？」と心配になったので、実態を調べました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
