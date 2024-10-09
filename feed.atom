@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T19:18:25.232Z</id>
+    <id>urn:2024-10-09T20:24:20.673Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-10-09T19:18:25.232Z</updated>
+    <updated>2024-10-09T20:24:20.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[分娩室まで行ったのに出産立ち合いできず…万全を期しても起きたハプニング（男性育休32日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/10/10/042416</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/10/10/042416"/>
+        <updated>2024-10-09T19:24:16.000Z</updated>
+        <summary type="html"><![CDATA[出産立ち合いのために計画分娩にし、仕事は休み、産院の立ち合いルールも完璧にクリアして分娩室までたどり着いたのですが、誕生の瞬間に立ち会えませんでした。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！]]></title>
         <id>https://oton-tech.com/?p=5489</id>
