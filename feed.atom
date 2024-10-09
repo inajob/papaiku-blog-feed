@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T13:29:46.516Z</id>
+    <id>urn:2024-10-09T14:21:43.140Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-10-09T13:29:46.516Z</updated>
+    <updated>2024-10-09T14:21:43.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,16 +83,6 @@
         <summary type="html"><![CDATA[育休、というか出産準備期間の初日は子供部屋の荷物整理や自分の散髪などのタスクを進めました。2日目も頑張っています。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眠れぬ夜に「ひと言メッセージ」企画～あなたの想いを届けてみませんか？～]]></title>
-        <id>https://decobocochan.com/?p=11258</id>
-        <link href="https://decobocochan.com/archives/11258"/>
-        <updated>2024-09-10T01:56:15.000Z</updated>
-        <summary type="html"><![CDATA[夜をひとりで明かすのが、こわい…そんな日がありませんか？ 長い夜にひと言メッセージを読んでいたら、朝になっていた そんな一助に慣れればと思い企画しました。 毎年、夏休みの最後の夜に開催しておりましたが、このひと言が胸に刺 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
