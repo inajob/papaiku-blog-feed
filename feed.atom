@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T08:29:29.818Z</id>
+    <id>urn:2024-10-09T09:25:13.388Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-10-09T08:29:29.818Z</updated>
+    <updated>2024-10-09T09:25:13.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！]]></title>
+        <id>https://oton-tech.com/?p=5489</id>
+        <link href="https://oton-tech.com/notion/"/>
+        <updated>2024-10-07T12:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[計画分娩のために妻は入院、父子生活がスタート。順調と思われたが…（男性育休19日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/09/27/050010</id>
@@ -53,6 +63,16 @@
         <summary type="html"><![CDATA[長期育休編が開始して1週間、3連休がやってきました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notionのテンプレートの使い方／作り方]]></title>
+        <id>https://oton-tech.com/?p=5633</id>
+        <link href="https://oton-tech.com/howto-notion-template/"/>
+        <updated>2024-09-14T07:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Notionのテンプレート、使っていますか？ 仕事であれば、議事録やタスク管理、プロジェクト管理といった何度も使う文書が多々あり、プライベートでも読書リスト、映画リスト、TODO管理など同じフォーマットで何度も使うものが […]]]></summary>
+        <author>
+            <name>okasan</name>
         </author>
     </entry>
     <entry>

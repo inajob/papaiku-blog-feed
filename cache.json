@@ -10,7 +10,33 @@
       "title": "おとんTechブログ",
       "feedUrl": "https://oton-tech.com/feed/",
       "siteUrl": "https://oton-tech.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://oton-tech.com/?p=5489",
+          "author": "okasan",
+          "description": "Notionとは、メモ、文書管理、タスク管理、データベース、などに使えるクラウド型のアプリです。 個人・チームで使え、「オールインワンのワークスペース」という言い方がされていますが、まさにその通りです。 多くの機能を持っ […]",
+          "link": "https://oton-tech.com/notion/",
+          "publishedOn": "2024-10-07T12:33:49.000Z",
+          "wordCount": 12563,
+          "title": "Notionとは？メモにTODO管理、プロジェクト管理と万能アプリ！",
+          "enclosure": {
+            "url": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_block.mp4",
+            "length": "1714383",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/02/Notion_eyecatch_min.png"
+        },
+        {
+          "id": "https://oton-tech.com/?p=5633",
+          "author": "okasan",
+          "description": "Notionのテンプレート、使っていますか？ 仕事であれば、議事録やタスク管理、プロジェクト管理といった何度も使う文書が多々あり、プライベートでも読書リスト、映画リスト、TODO管理など同じフォーマットで何度も使うものが […]",
+          "link": "https://oton-tech.com/howto-notion-template/",
+          "publishedOn": "2024-09-14T07:56:52.000Z",
+          "wordCount": 12573,
+          "title": "Notionのテンプレートの使い方／作り方",
+          "imageUrl": "https://oton-tech.com/wp-content/uploads/2024/04/notion_template_eyecatch_min.png"
+        }
+      ]
     },
     {
       "title": "こやたか|隙間時間でスキルアップできる！",
