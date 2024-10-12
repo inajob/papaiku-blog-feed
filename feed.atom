@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-12T03:25:40.258Z</id>
+    <id>urn:2024-10-12T04:26:44.765Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-10-12T03:25:40.258Z</updated>
+    <updated>2024-10-12T04:26:44.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『ダンダダン』に出てくるお札は深大寺の元三大師さま！]]></title>
+        <id>https://oton-tech.com/?p=5749</id>
+        <link href="https://oton-tech.com/dandadan-jindaiji-ofuda/"/>
+        <updated>2024-10-12T03:41:24.000Z</updated>
+        <summary type="html"><![CDATA[漫画・アニメ『ダンダダン』に良く登場する鬼っぽいイラストのお札、実は深大寺の元三大師像が描かれた魔除けのおふだである降魔札（ごうまふだ）というものです。 この記事では、『ダンダダン』に登場するお札について紹介していきます […]]]></summary>
+        <author>
+            <name>okasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分娩室まで行ったのに出産立ち合いできず…万全を期しても起きたハプニング（男性育休32日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/10/10/042416</id>
