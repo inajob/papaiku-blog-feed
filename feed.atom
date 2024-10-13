@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-13T19:19:56.896Z</id>
+    <id>urn:2024-10-13T20:23:10.057Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-10-13T19:19:56.896Z</updated>
+    <updated>2024-10-13T20:23:10.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,16 +83,6 @@
         <summary type="html"><![CDATA[長期育休編が開始して1週間、3連休がやってきました。]]></summary>
         <author>
             <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notionのテンプレートの使い方／作り方]]></title>
-        <id>https://oton-tech.com/?p=5633</id>
-        <link href="https://oton-tech.com/howto-notion-template/"/>
-        <updated>2024-09-14T07:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Notionのテンプレート、使っていますか？ 仕事であれば、議事録やタスク管理、プロジェクト管理といった何度も使う文書が多々あり、プライベートでも読書リスト、映画リスト、TODO管理など同じフォーマットで何度も使うものが […]]]></summary>
-        <author>
-            <name>okasan</name>
         </author>
     </entry>
 </feed>
