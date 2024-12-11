@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T04:29:41.850Z</id>
+    <id>urn:2024-12-11T05:24:35.602Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2024-12-11T04:29:41.850Z</updated>
+    <updated>2024-12-11T05:24:35.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[赤ちゃん誕生の記念にベビーボックスが届いた。中身や注意点は⁉（男性育休55日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2024/12/11/134743</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2024/12/11/134743"/>
+        <updated>2024-12-11T04:47:43.000Z</updated>
+        <summary type="html"><![CDATA[ベビーボックスという贈り物が我が家に届きました。無料でもらえるものなのですが、申請が必要で地域による違いもあるようです。もらえる条件や中身を紹介します。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男性育休で産後の妻に3食&間食・昼寝付きの生活を提供した結果（男性育休39日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2024/11/25/193000</id>
