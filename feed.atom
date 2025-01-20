@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-20T06:31:36.306Z</id>
+    <id>urn:2025-01-20T07:21:12.087Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-01-20T06:31:36.306Z</updated>
+    <updated>2025-01-20T07:21:12.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,16 +82,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家 de kindle作家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝4時のおむつ替え、うんち飛び散り事件簿。子の尻拭いは親の務め（男性育休68日目）]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2024/12/24/120000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2024/12/24/120000"/>
-        <updated>2024-12-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
