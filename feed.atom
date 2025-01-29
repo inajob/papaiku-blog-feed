@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-29T01:44:16.377Z</id>
+    <id>urn:2025-01-29T02:47:50.457Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-01-29T01:44:16.377Z</updated>
+    <updated>2025-01-29T02:47:50.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新生児育児で親の睡眠はどのくらい悪化するのか、わが家のデータで検証]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2025/01/29/113000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2025/01/29/113000"/>
+        <updated>2025-01-29T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[子供が生まれると、親はしばらく24時間体制になります。体調変化、特に睡眠不足をわが家の生体データで振り返ってみました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成果に繋がるアウトプットの手引き書]]></title>
         <id>https://note.com/mountainpeace/n/n85da69416619</id>
