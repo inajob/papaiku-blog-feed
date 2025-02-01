@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-01T20:23:03.484Z</id>
+    <id>urn:2025-02-01T21:19:13.242Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-01T20:23:03.484Z</updated>
+    <updated>2025-02-01T21:19:13.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[生後3ヶ月までのハードな育児で最も役立った機械]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2025/02/02/060000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2025/02/02/060000"/>
+        <updated>2025-02-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[乳児期の育児は生後3ヶ月を過ぎるとかなり楽になります。それまでの期間を乗り切るのに、小さな機械が重宝しました。]]></summary>
+        <author>
+            <name>共働きで2人姉妹を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＼ 結果を出す時間術、学べます ／]]></title>
         <id>https://note.com/mountainpeace/n/n693104e9471c</id>
