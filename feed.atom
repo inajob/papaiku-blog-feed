@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-02T02:50:42.986Z</id>
+    <id>urn:2025-02-02T03:25:47.083Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-02T02:50:42.986Z</updated>
+    <updated>2025-02-02T03:25:47.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＼オタ芸との出会い人生を変えた／
+...]]></title>
+        <id>https://note.com/mountainpeace/n/nd729ee275ba9</id>
+        <link href="https://note.com/mountainpeace/n/nd729ee275ba9"/>
+        <updated>2025-02-02T02:58:54.000Z</updated>
+        <summary type="html"><![CDATA[＼オタ芸との出会い人生を変えた／
+入社2ヶ月目で月の残業が100時間を超える状態だった著者「イベントに参加、オタ芸をする」という目的を持ち人生が変わります。定時帰りを達成しつつ、現在は管理職で活躍中。オタクという切口にクスッとしながら、ぐんぐん惹き込まれました📚#1日1冊 2冊目
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生後3ヶ月までのハードな育児で最も役立った機械]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2025/02/02/060000</id>
