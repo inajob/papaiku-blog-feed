@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-02T07:18:33.042Z</id>
+    <id>urn:2025-02-02T08:25:59.245Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-02T07:18:33.042Z</updated>
+    <updated>2025-02-02T08:25:59.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＼ 夢のような組織が日本にあった／...]]></title>
+        <id>https://note.com/mountainpeace/n/naa96ab0c2022</id>
+        <link href="https://note.com/mountainpeace/n/naa96ab0c2022"/>
+        <updated>2025-02-02T07:21:26.000Z</updated>
+        <summary type="html"><![CDATA[＼ 夢のような組織が日本にあった／
+1日10分で読める本の要約サービス『 flier（フライヤー）』創業者、大賀康史さんの本『ティール組織』を採用。資本主義の色合強い会社では、株主が一番重要とされる。当組織では従業員→顧客→株主が優先順位。読んで元気になる書籍 #1日1冊 1冊目
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＼オタ芸との出会い人生を変えた／
 ...]]></title>
