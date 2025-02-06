@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-06T09:23:30.980Z</id>
+    <id>urn:2025-02-06T10:24:20.709Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-06T09:23:30.980Z</updated>
+    <updated>2025-02-06T10:24:20.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＼脳のパフォーマンス最大限に発揮／]]></title>
+        <id>https://note.com/mountainpeace/n/n739fc54b77fd</id>
+        <link href="https://note.com/mountainpeace/n/n739fc54b77fd"/>
+        <updated>2025-02-06T09:27:24.000Z</updated>
+        <summary type="html"><![CDATA[#110『 めんどくさいが消える脳の使い方 』
+　　　書籍レビュー
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長期男性育休の半分が経過、育休が家庭に貢献していることを実感（男性育休153日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2025/02/06/120000</id>
