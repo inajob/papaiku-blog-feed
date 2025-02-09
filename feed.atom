@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-09T12:39:27.280Z</id>
+    <id>urn:2025-02-09T13:22:24.869Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-09T12:39:27.280Z</updated>
+    <updated>2025-02-09T13:22:24.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＼読書は僕たちをGoogleマップにする／]]></title>
+        <id>https://note.com/mountainpeace/n/n8d1aebfbcdd1</id>
+        <link href="https://note.com/mountainpeace/n/n8d1aebfbcdd1"/>
+        <updated>2025-02-09T13:06:37.000Z</updated>
+        <summary type="html"><![CDATA[#112『 未来のきみを変える読書術
+　　　〜なぜ本を読むのか？〜 』
+皆さん、こんにちは。耳読書家で 書籍レビューアのやまと申します。高校生の頃から自律神経が人一倍弱く、目が疲れやすいため、本を読みたくても読めない人生を送って来ました。
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＼ 没入力は潜在能力を覚醒させる ／]]></title>
         <id>https://note.com/mountainpeace/n/n9aab87937b07</id>
