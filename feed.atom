@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-09T11:17:23.010Z</id>
+    <id>urn:2025-02-09T12:39:27.280Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-09T11:17:23.010Z</updated>
+    <updated>2025-02-09T12:39:27.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＼ 没入力は潜在能力を覚醒させる ／]]></title>
+        <id>https://note.com/mountainpeace/n/n9aab87937b07</id>
+        <link href="https://note.com/mountainpeace/n/n9aab87937b07"/>
+        <updated>2025-02-09T12:20:38.000Z</updated>
+        <summary type="html"><![CDATA[#111『 集中力を超える「 没入力 」を
+　　　手に入れる』書籍レビュー
+皆さん、こんにちは。耳読書家で 書籍レビューアのやまと申します。高校生の頃から自律神経が人一倍弱く、目が疲れやすいため、本を読みたくても読めない人生を送って来ました。
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＼脳のパフォーマンス最大限に発揮／]]></title>
         <id>https://note.com/mountainpeace/n/n739fc54b77fd</id>
@@ -546,20 +560,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
 そんな言葉の魅力、日本語の魅力で本書は溢れています。そんな著者の【 好き 】がこの一冊に込められています。
 
 読み進めていくて、ついつい、人に薦めたくなったり、教えたくなってしまう言葉がたくさん紹介されていました。
-続きをみる]]></summary>
-        <author>
-            <name>やま｜耳読書家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/c8EMlulGVtY?si=Lmbu7SXFZX-3_GyA]]></title>
-        <id>https://note.com/mountainpeace/n/nb47aa1889b1d</id>
-        <link href="https://note.com/mountainpeace/n/nb47aa1889b1d"/>
-        <updated>2025-01-10T23:32:55.000Z</updated>
-        <summary type="html"><![CDATA[＼ 結果を出す時間術、学べます ／
-アンデス・ハンセン著『 運動脳 』中野信子著『 科学がつきとめた運のいい人 』樺沢紫苑 著『 アウトプット大全 』など、多数の超有名書籍のブックデザイナー、井上新八さん新刊『 時間のデザイン 』を読ませて頂きました！
-
-#PR #時間のデザイン #サンクチュアリ出版
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家</name>
