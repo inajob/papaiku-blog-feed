@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T11:18:49.156Z</id>
+    <id>urn:2025-02-12T12:44:32.640Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-02-12T11:18:49.156Z</updated>
+    <updated>2025-02-12T12:44:32.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[＼チームに対する考え激変する良書／]]></title>
+        <id>https://note.com/mountainpeace/n/n03834485e609</id>
+        <link href="https://note.com/mountainpeace/n/n03834485e609"/>
+        <updated>2025-02-12T12:34:19.000Z</updated>
+        <summary type="html"><![CDATA[#113『戦略的いい人残念ないい人の考え方』
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＼読書は僕たちをGoogleマップにする／]]></title>
         <id>https://note.com/mountainpeace/n/n8d1aebfbcdd1</id>
