@@ -231,12 +231,22 @@
       "siteUrl": "https://brushwoodcape.hatenablog.com/",
       "articles": [
         {
+          "id": "https://brushwoodcape.hatenablog.com/entry/2025/02/15/060000",
+          "author": null,
+          "description": "短時間保育で登園時間が変わって起床が遅くなるのをどうにかするための取り組みと、その結果",
+          "link": "https://brushwoodcape.hatenablog.com/entry/2025/02/15/060000",
+          "publishedOn": "2025-02-14T21:00:00.000Z",
+          "wordCount": 637,
+          "title": "育休中の短時間保育、上の子の生活リズムを整えるには父親がキーポイント!?（男性育休162日目）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/9569bc01a17f9fc39a361f5e53c5c7fc637f077d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FB%2FBrushwoodCape%2F20250214%2F20250214135312.jpg"
+        },
+        {
           "id": "https://brushwoodcape.hatenablog.com/entry/2025/02/06/120000",
           "author": null,
           "description": "育休中なのに毎日忙しく、気づいたらいろいろ過ぎていた",
           "link": "https://brushwoodcape.hatenablog.com/entry/2025/02/06/120000",
           "publishedOn": "2025-02-06T03:00:00.000Z",
-          "wordCount": 624,
+          "wordCount": 626,
           "title": "長期男性育休の半分が経過、育休が家庭に貢献していることを実感（男性育休153日目）",
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d873517dc6f75620e26cd5cf92815459a6c4de9a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FB%2FBrushwoodCape%2F20250206%2F20250206094226.jpg"
         },
@@ -279,7 +289,7 @@
           "description": "この記事で私は自分が如何にうまく資産運用していなかったかをさらけ出すことになりますが、 同じことをしてしまっている、多くの親御さんに保険を見直してほしいという思いで書きます。 実は一昨年と去年にかけて ...\n積立型の終身保険と学資保険はおススメしない～保険の見直しをしました～ first appeared on まろの育児ときどき転職、ところにより副業.\nCopyright © 2025 まろの育児ときどき転職、ところにより副業 All Rights Reserved.",
           "link": "https://nicopoco.com/hoken",
           "publishedOn": "2025-02-02T19:45:23.000Z",
-          "wordCount": 1814,
+          "wordCount": 1817,
           "title": "積立型の終身保険と学資保険はおススメしない～保険の見直しをしました～",
           "imageUrl": null
         }
