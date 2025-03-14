@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T23:22:16.111Z</id>
+    <id>urn:2025-03-14T01:51:33.959Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-03-13T23:22:16.111Z</updated>
+    <updated>2025-03-14T01:51:33.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -339,18 +339,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
         <summary type="html"><![CDATA[短時間保育で登園時間が変わって起床が遅くなるのをどうにかするための取り組みと、その結果]]></summary>
         <author>
             <name>共働きで子供3人を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼チームに対する考え激変する良書／]]></title>
-        <id>https://note.com/mountainpeace/n/n03834485e609</id>
-        <link href="https://note.com/mountainpeace/n/n03834485e609"/>
-        <updated>2025-02-12T12:34:19.000Z</updated>
-        <summary type="html"><![CDATA[#113『戦略的いい人残念ないい人の考え方』
-
-続きをみる]]></summary>
-        <author>
-            <name>やま｜耳読書家</name>
         </author>
     </entry>
 </feed>
