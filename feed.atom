@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-23T10:23:13.971Z</id>
+    <id>urn:2025-03-23T11:19:47.104Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-03-23T10:23:13.971Z</updated>
+    <updated>2025-03-23T11:19:47.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[保護中: 「120日で2万PV達成ブログ」で使ったSEO知識10選]]></title>
+        <id>https://marugeriswitch.com/?p=4997</id>
+        <link href="https://marugeriswitch.com/120day-present2/"/>
+        <updated>2025-03-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「120日で2万PVブログ」のジャンル・記事数・その他もろもろ公開します]]></title>
         <id>https://marugeriswitch.com/?p=5025</id>
