@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-23T11:19:47.104Z</id>
+    <id>urn:2025-03-23T12:43:40.005Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-03-23T11:19:47.104Z</updated>
+    <updated>2025-03-23T12:43:40.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『 本を出そう、本を出そう、出したらどうなった？ 』ショートVer.]]></title>
+        <id>https://note.com/mountainpeace/n/n5dbdaf956bde</id>
+        <link href="https://note.com/mountainpeace/n/n5dbdaf956bde"/>
+        <updated>2025-03-23T11:27:15.000Z</updated>
+        <summary type="html"><![CDATA[＼ 本を出す人を日本一応援する編集者 ／
+    
+        
+            
+
+        
+    
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保護中: 「120日で2万PV達成ブログ」で使ったSEO知識10選]]></title>
         <id>https://marugeriswitch.com/?p=4997</id>
@@ -636,19 +654,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
         <updated>2025-02-23T23:10:50.000Z</updated>
         <summary type="html"><![CDATA[#116『 怠惰なんて存在しない〜終わりなき
 　　　生産競争から抜け出すための幸福論〜 』
-
-続きをみる]]></summary>
-        <author>
-            <name>やま｜耳読書家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ 人生を変える本だった ／]]></title>
-        <id>https://note.com/mountainpeace/n/n7f009c303398</id>
-        <link href="https://note.com/mountainpeace/n/n7f009c303398"/>
-        <updated>2025-02-23T04:04:50.000Z</updated>
-        <summary type="html"><![CDATA[皆さん、こんにちは。耳読書家で 書籍レビューアのやまと申します。高校生の頃から自律神経が人一倍弱く、目が疲れやすいため、本を読みたくても読めない人生を送って来ました。
-40歳の時に耳読書に出会い人生が変わります。耳からも本が読めることを知り、夢中になって2年間で約800冊の本を聴きました。現在では、1日1冊、目で本が読めるようになりました。
 
 続きをみる]]></summary>
         <author>
