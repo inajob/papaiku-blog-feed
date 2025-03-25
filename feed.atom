@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-25T10:27:16.171Z</id>
+    <id>urn:2025-03-25T11:21:09.580Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-03-25T10:27:16.171Z</updated>
+    <updated>2025-03-25T11:21:09.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ライティング以外のブログAI活用法7選]]></title>
+        <id>https://marugeriswitch.com/?p=5077</id>
+        <link href="https://marugeriswitch.com/120day-present4/"/>
+        <updated>2025-03-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、無料プレゼント第4弾です どうも！ 小3の息子と小1の娘が春休みに入り、ブログ執筆がまったく進まなくなった「まるげり」です。 パパママ世代のみなさんは、長期休暇ホント大変ですよね。。。 約2週間、家で子どもた […]]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保護中: 1日中ブログを書き続けるための7つの秘訣]]></title>
         <id>https://marugeriswitch.com/?p=5047</id>
@@ -652,19 +662,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
 　　　生産競争から抜け出すための幸福論〜 』
 
 本書を読むと、これまで労働者を管理する側には都合の良かった「 労働 」に対する価値観が大きく変わろうとしているのが分かります。ぜひ本書を羅針盤にして、時代の潮流という大海原を乗り超えていきましょう📚✨
-続きをみる]]></summary>
-        <author>
-            <name>やま｜耳読書家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＼ 資産家側にとって不都合な真実 ／]]></title>
-        <id>https://note.com/mountainpeace/n/na7f41d53a01f</id>
-        <link href="https://note.com/mountainpeace/n/na7f41d53a01f"/>
-        <updated>2025-02-23T23:10:50.000Z</updated>
-        <summary type="html"><![CDATA[#116『 怠惰なんて存在しない〜終わりなき
-　　　生産競争から抜け出すための幸福論〜 』
-
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家</name>
