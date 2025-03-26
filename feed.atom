@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-26T10:26:01.342Z</id>
+    <id>urn:2025-03-26T11:19:42.946Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-03-26T10:26:01.342Z</updated>
+    <updated>2025-03-26T11:19:42.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEO上位表示できたAIライティングのやり方〜リサーチ編〜]]></title>
+        <id>https://marugeriswitch.com/?p=5075</id>
+        <link href="https://marugeriswitch.com/120day-present5/"/>
+        <updated>2025-03-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも！ 2025年は20個のSEO集客ブログを作ろうと奮闘している、ブログ4年生のまるげりです！ 現在2ブログ完成（1つはこの企画の「120日2万PVブログ」、もう1つは現在3,000PV超え）、3ブログ着手中の、合計 […]]]></summary>
+        <author>
+            <name>まるげり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ライティング以外のブログAI活用法7選]]></title>
         <id>https://marugeriswitch.com/?p=5077</id>
