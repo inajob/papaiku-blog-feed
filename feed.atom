@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-28T08:31:12.115Z</id>
+    <id>urn:2025-03-28T09:26:56.835Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-03-28T08:31:12.115Z</updated>
+    <updated>2025-03-28T09:26:56.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#125『 結局、いいかげん人ほどうまくいく 』]]></title>
+        <id>https://note.com/mountainpeace/n/n6acafb4b846c</id>
+        <link href="https://note.com/mountainpeace/n/n6acafb4b846c"/>
+        <updated>2025-03-28T08:45:31.000Z</updated>
+        <summary type="html"><![CDATA[皆さん、こんにちは。耳読書家で 書籍レビューアのやまと申します。高校生の頃から自律神経が人一倍弱く、目が疲れやすいため、本を読みたくても読めない人生を送って来ました。
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEOで上位表示できたAIライティングのやり方〜執筆編〜]]></title>
         <id>https://marugeriswitch.com/?p=5054</id>
