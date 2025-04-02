@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-02T11:20:01.598Z</id>
+    <id>urn:2025-04-02T12:51:08.323Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-04-02T11:20:01.598Z</updated>
+    <updated>2025-04-02T12:51:08.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[長期男性育休の半分が経過、育休が家庭に貢献していることを実感（男性育休208日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2025/04/02/211028</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2025/04/02/211028"/>
+        <updated>2025-04-02T12:10:28.000Z</updated>
+        <summary type="html"><![CDATA[毎日忙しくしていますが、ようやく途中経過を振り返れるようになりました。]]></summary>
+        <author>
+            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#126『 本を出そう、本を出そう、出したらどうなった？ 』レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n6d5aee4e62d0</id>
