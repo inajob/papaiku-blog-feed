@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T21:22:37.469Z</id>
+    <id>urn:2025-04-03T22:23:22.587Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-04-03T21:22:37.469Z</updated>
+    <updated>2025-04-03T22:23:22.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『 すごいメタ思考 』ショートver.]]></title>
+        <id>https://note.com/mountainpeace/n/n43ed8da1a1ab</id>
+        <link href="https://note.com/mountainpeace/n/n43ed8da1a1ab"/>
+        <updated>2025-04-03T21:59:50.000Z</updated>
+        <summary type="html"><![CDATA[#127『 すごいメタ思考 』ショートver.
+    
+        
+            
+
+        
+    
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長期男性育休の半分が経過、育休が家庭に貢献していることを実感（男性育休208日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2025/04/02/211028</id>
