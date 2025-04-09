@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-09T01:56:16.531Z</id>
+    <id>urn:2025-04-09T03:05:20.692Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-04-09T01:56:16.531Z</updated>
+    <updated>2025-04-09T03:05:20.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[父親がベビーマッサージ教室に行ったら、体の悩みが改善した（男性育休215日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2025/04/09/113000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2025/04/09/113000"/>
+        <updated>2025-04-09T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[育休中の父親が育児のあれこれに挑戦して感じたことを紹介していきます。]]></summary>
+        <author>
+            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#127『 すごいメタ思考 』レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n126d4a1f5cb1</id>
