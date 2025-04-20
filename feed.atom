@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T22:24:16.771Z</id>
+    <id>urn:2025-04-20T23:22:11.827Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-04-20T22:24:16.771Z</updated>
+    <updated>2025-04-20T23:22:11.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -453,16 +453,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
         <link href="https://marugeriswitch.com/120day-present2/"/>
         <updated>2025-03-23T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
-        <author>
-            <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「120日で2万PVブログ」のジャンル・記事数・その他もろもろ公開します]]></title>
-        <id>https://marugeriswitch.com/?p=5025</id>
-        <link href="https://marugeriswitch.com/120day-present1/"/>
-        <updated>2025-03-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[どうも！ブログ4年生のまるげりです。 先日、2024年12月1日に新ブログを始めました。（新規ドメイン） 「120日で2万PVにすること」を目標に掲げて、毎日コツコツ執筆＆PVの様子をアップし続けました↓ その結果、 1 […]]]></summary>
         <author>
             <name>まるげり</name>
         </author>
