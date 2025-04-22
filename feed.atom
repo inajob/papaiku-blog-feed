@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-21T23:23:24.793Z</id>
+    <id>urn:2025-04-22T01:59:02.473Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-04-21T23:23:24.793Z</updated>
+    <updated>2025-04-22T01:59:02.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -445,24 +445,6 @@ https://youtu.be/x4UItQbyL3w?si=VJPDQrjKkfW7h2Kw
         <summary type="html"><![CDATA[この投稿はパスワードで保護されているため抜粋文はありません。]]></summary>
         <author>
             <name>まるげり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『 本を出そう、本を出そう、出したらどうなった？ 』ショートVer.]]></title>
-        <id>https://note.com/mountainpeace/n/n5dbdaf956bde</id>
-        <link href="https://note.com/mountainpeace/n/n5dbdaf956bde"/>
-        <updated>2025-03-23T11:27:15.000Z</updated>
-        <summary type="html"><![CDATA[＼ 本を出す人を日本一応援する編集者 ／
-    
-        
-            
-
-        
-    
-
-続きをみる]]></summary>
-        <author>
-            <name>やま｜耳読書家</name>
         </author>
     </entry>
 </feed>
