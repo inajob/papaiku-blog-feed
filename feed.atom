@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T14:25:55.593Z</id>
+    <id>urn:2025-05-06T15:33:04.277Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-06T14:25:55.593Z</updated>
+    <updated>2025-05-06T15:33:04.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年5月　JEPQ投資　楽天証券は何営業日後の支払いか？]]></title>
+        <id>https://nicopoco.com/?p=2668</id>
+        <link href="https://nicopoco.com/jepq"/>
+        <updated>2025-05-06T14:33:06.000Z</updated>
+        <summary type="html"><![CDATA[JEPQ（JPMorgan Nasdaq Equity Premium Income ETF）は、米国のナスダック市場を中心とした高配当ETFで、 カバード・コール戦略を用いることでインカム（配当収入 ...
+2025年5月　JEPQ投資　楽天証券は何営業日後の支払いか？ first appeared on まろの育児ときどき転職、ところにより副業.
+Copyright © 2025 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
+        <author>
+            <name>MARO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『 けんたろ式見るだけことば雑学辞典 』ショートver.]]></title>
         <id>https://note.com/mountainpeace/n/n2538a8c1db43</id>
