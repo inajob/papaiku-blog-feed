@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T14:24:01.954Z</id>
+    <id>urn:2025-05-08T15:28:11.018Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-08T14:24:01.954Z</updated>
+    <updated>2025-05-08T15:28:11.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -229,16 +229,6 @@ https://amzn.to/3Ryadnw
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[父親がベビーマッサージ教室に行ったら、体の悩みが改善した（男性育休215日目）]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2025/04/09/113000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2025/04/09/113000"/>
-        <updated>2025-04-09T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[育休中の父親が育児のあれこれに挑戦して感じたことを紹介していきます。]]></summary>
-        <author>
-            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
