@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T04:30:27.076Z</id>
+    <id>urn:2025-05-09T05:25:25.808Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-09T04:30:27.076Z</updated>
+    <updated>2025-05-09T05:25:25.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[5月の凸凹カフェ「福祉のこと、ちょっとだけ知ってみよう」]]></title>
-        <id>https://decobocochan.com/?p=11289</id>
-        <link href="https://decobocochan.com/archives/11289"/>
-        <updated>2025-05-09T04:27:13.000Z</updated>
-        <summary type="html"><![CDATA[「福祉ってなんだか難しそう…」 そんな声にお応えして、ゆるっと話せる凸凹カフェを開催します。 福祉の制度や支援について、 ほんの少し知るだけでも こどもとの関わり方や、 選択肢の見え方が変わるかもしれません。 こどものこ ...]]></summary>
+        <title type="html"><![CDATA[長男の頭突き、威力すごすぎ問題。]]></title>
+        <id>https://decobocochan.com/?p=11315</id>
+        <link href="https://decobocochan.com/archives/11315"/>
+        <updated>2025-05-09T05:10:10.000Z</updated>
+        <summary type="html"><![CDATA[長男に頭突きをくらい、歯にズキン…。 かまえていなかったから衝撃がものすごかった。 わたしが本を読んでて呼ばれたから振り返ったら、長男の頭があった…くらいの日常…えぇ、日常です ゆらいではいないけど、なんか痛い。 念のた ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンライン凸凹カフェ開催しました！]]></title>
+        <id>https://decobocochan.com/?p=11307</id>
+        <link href="https://decobocochan.com/archives/11307"/>
+        <updated>2025-05-08T05:05:10.000Z</updated>
+        <summary type="html"><![CDATA[3月11日は、久しぶりのオンライン凸凹カフェでした。 はじめましての方もおられました。 迷って 迷って 申し込んでくれたのかな？と 思うと胸がいっぱいになります。 はじめての場所、はじめての人たち…に こどものこと 自分 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】ラジオ番組に出演します！ご縁がつながる「あすへの扉 ヒラク！」]]></title>
+        <id>https://decobocochan.com/?p=11301</id>
+        <link href="https://decobocochan.com/archives/11301"/>
+        <updated>2025-05-07T04:57:09.000Z</updated>
+        <summary type="html"><![CDATA[コロナ前からのご縁でお付き合いのある、マルチに活躍されている“マシャさん”から、ある日こんなメッセージをいただきました。 「私のラジオ番組『一生100年時代の歩き方』にご出演いただけませんか？」 お声かけいただくのは、今 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
@@ -25,6 +45,26 @@
 Copyright © 2025 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たった5分で大騒動！？]]></title>
+        <id>https://decobocochan.com/?p=11295</id>
+        <link href="https://decobocochan.com/archives/11295"/>
+        <updated>2025-05-06T04:45:48.000Z</updated>
+        <summary type="html"><![CDATA[先日、わたしが外出する準備をしていたときのこと。 たった5分の間に、家の中はカオス状態に…！ ・次男 → 泣きわめく ・長女 → 近所迷惑を気にして、次男の口をふさぐ ・長男 → 離れてオロオロ …どんな状況！？ さすが ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月の凸凹カフェ「福祉のこと、ちょっとだけ知ってみよう」]]></title>
+        <id>https://decobocochan.com/?p=11289</id>
+        <link href="https://decobocochan.com/archives/11289"/>
+        <updated>2025-05-05T04:27:13.000Z</updated>
+        <summary type="html"><![CDATA[「福祉ってなんだか難しそう…」 そんな声にお応えして、ゆるっと話せる凸凹カフェを開催します。 福祉の制度や支援について、 ほんの少し知るだけでも こどもとの関わり方や、 選択肢の見え方が変わるかもしれません。 こどものこ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
