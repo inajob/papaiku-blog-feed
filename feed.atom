@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-11T10:24:17.242Z</id>
+    <id>urn:2025-05-11T11:18:36.367Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-11T10:24:17.242Z</updated>
+    <updated>2025-05-11T11:18:36.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『 手放すことで人生が好転する 』ショートver.]]></title>
+        <id>https://note.com/mountainpeace/n/n19a9476aaa29</id>
+        <link href="https://note.com/mountainpeace/n/n19a9476aaa29"/>
+        <updated>2025-05-11T10:57:04.000Z</updated>
+        <summary type="html"><![CDATA[＼ ストーリーにすると人生は価値になる ／
+    
+        
+            
+
+        
+    
+
+続きをみる]]></summary>
+        <author>
+            <name>やま｜耳読書家</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5歳と行くスイス鉄道旅！マッターホルンから氷河、博物館まで親子で大満喫]]></title>
         <id>https://nicopoco.com/?p=2712</id>
