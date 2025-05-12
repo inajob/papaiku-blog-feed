@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T07:25:37.006Z</id>
+    <id>urn:2025-05-12T08:34:37.417Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-12T07:25:37.006Z</updated>
+    <updated>2025-05-12T08:34:37.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[育児に悩んでいるママが、ちょっとラクになれるヒントとは？]]></title>
+        <id>https://decobocochan.com/?p=11323</id>
+        <link href="https://decobocochan.com/archives/11323"/>
+        <updated>2025-05-11T08:33:06.000Z</updated>
+        <summary type="html"><![CDATA[発達の凸凹があるこどもを育てるママへ。 「ママが笑顔なら、こどもも笑顔に」ってよく聞くけれど…✔ いつも笑顔でいるなんて無理✔ またこどもを怒ってしまった…✔ わたしってダメだな…と落ち込んでしまう そんなふうに感じるこ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +79,16 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
 Copyright © 2025 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凸凹ちゃんママと、つながるには？]]></title>
+        <id>https://decobocochan.com/?p=11320</id>
+        <link href="https://decobocochan.com/archives/11320"/>
+        <updated>2025-05-10T08:29:32.000Z</updated>
+        <summary type="html"><![CDATA[「この子、ちょっと周りと違うのかな？」 「めちゃくちゃ育てにくいんですけど…」そう思い始めたとき、わたしは不安でたまらなかった。 こどもがかわいいと思えない時期もあり、罪悪感だらけになったこともある 発達のことを調べるほ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
