@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T08:34:37.417Z</id>
+    <id>urn:2025-05-12T09:28:47.685Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-12T08:34:37.418Z</updated>
+    <updated>2025-05-12T09:28:47.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[こどもたち全員、思春期突入！]]></title>
+        <id>https://decobocochan.com/?p=11330</id>
+        <link href="https://decobocochan.com/archives/11330"/>
+        <updated>2025-05-12T08:42:17.000Z</updated>
+        <summary type="html"><![CDATA[去年は、新しい仕事を始めたり、長女が高校に入学したりと、バタバタの1年。 手続きや振込金におののきながら、なんとか乗り越えました。 そして、ついに… こどもたち全員、思春期突入💨 ブログに書かれるのはイヤらしいので、話し ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『 手放すことで人生が好転する 』ショートver.]]></title>
         <id>https://note.com/mountainpeace/n/n19a9476aaa29</id>
