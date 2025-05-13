@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-13T08:34:35.658Z</id>
+    <id>urn:2025-05-13T09:28:22.083Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-13T08:34:35.658Z</updated>
+    <updated>2025-05-13T09:28:22.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[卒業してもしなくても、仲良し。]]></title>
+        <id>https://decobocochan.com/?p=11346</id>
+        <link href="https://decobocochan.com/archives/11346"/>
+        <updated>2025-05-13T09:10:23.000Z</updated>
+        <summary type="html"><![CDATA[元未来地図関西メンバーの陽さんとまひろさんは、意外と？近くにいる。 「それいいね！」となったら、ささっと集まれる距離感。 今回は、わたしの友人で手仕事作家のふみかさんのところへ。 彼女、すごいんです。 オーダーメイドもO ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夫婦ダブル育休で3人目の子育てを楽しもうと思ったら辛かった話（男性育休249日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2025/05/13/143643</id>
