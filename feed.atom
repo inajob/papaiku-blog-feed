@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-14T08:33:48.521Z</id>
+    <id>urn:2025-05-14T09:27:31.367Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-14T08:33:48.521Z</updated>
+    <updated>2025-05-14T09:27:31.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[高校選び、ひとりで完結した中学生]]></title>
+        <id>https://decobocochan.com/?p=11333</id>
+        <link href="https://decobocochan.com/archives/11333"/>
+        <updated>2025-05-14T08:46:09.000Z</updated>
+        <summary type="html"><![CDATA[去年は、進路の話を娘とたっぷりしました。 長女に「ママはどうやって高校を決めたの？」と聞かれたのですが…… いや、参考にならんぞ？（笑） 塾も高校も、自分で決めた中学生時代 わたしが高校受験を意識し始めたのは、中学2年生 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卒業してもしなくても、仲良し。]]></title>
         <id>https://decobocochan.com/?p=11346</id>
