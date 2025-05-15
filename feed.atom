@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T08:33:53.306Z</id>
+    <id>urn:2025-05-15T09:27:49.852Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-15T08:33:53.306Z</updated>
+    <updated>2025-05-15T09:27:49.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[わたしはわたし、あなたはあなた]]></title>
+        <id>https://decobocochan.com/?p=11357</id>
+        <link href="https://decobocochan.com/archives/11357"/>
+        <updated>2025-05-15T09:14:25.000Z</updated>
+        <summary type="html"><![CDATA[親としてはつい「こうすればいいのに」って思っちゃう。 思うくらいは、自由でありたい。 たとえ親子でも、別々の存在。 「こうあるべき」と押しつけたところで、うまくいかない。 でも、だからといってあきらめるわけじゃなくて―― ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校選び、ひとりで完結した中学生]]></title>
         <id>https://decobocochan.com/?p=11333</id>
@@ -179,16 +189,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/11295"/>
         <updated>2025-05-06T04:45:48.000Z</updated>
         <summary type="html"><![CDATA[先日、わたしが外出する準備をしていたときのこと。 たった5分の間に、家の中はカオス状態に…！ ・次男 → 泣きわめく ・長女 → 近所迷惑を気にして、次男の口をふさぐ ・長男 → 離れてオロオロ …どんな状況！？ さすが ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月の凸凹カフェ「福祉のこと、ちょっとだけ知ってみよう」]]></title>
-        <id>https://decobocochan.com/?p=11289</id>
-        <link href="https://decobocochan.com/archives/11289"/>
-        <updated>2025-05-05T04:27:13.000Z</updated>
-        <summary type="html"><![CDATA[「福祉ってなんだか難しそう…」 そんな声にお応えして、ゆるっと話せる凸凹カフェを開催します。 福祉の制度や支援について、 ほんの少し知るだけでも こどもとの関わり方や、 選択肢の見え方が変わるかもしれません。 こどものこ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
