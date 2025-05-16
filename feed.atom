@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-16T20:27:38.393Z</id>
+    <id>urn:2025-05-16T21:23:11.872Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-16T20:27:38.393Z</updated>
+    <updated>2025-05-16T21:23:11.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3人目ベビーを育てていて痛感したこと。何回目でも子育ては新たな発見がある（男性育休253日目）]]></title>
+        <id>https://brushwoodcape.hatenablog.com/entry/2025/05/17/060000</id>
+        <link href="https://brushwoodcape.hatenablog.com/entry/2025/05/17/060000"/>
+        <updated>2025-05-16T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[個性は人それぞれ。兄弟で似ているところもあれば、全く異なるところもある。]]></summary>
+        <author>
+            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父がメガネを外したら…]]></title>
         <id>https://decobocochan.com/?p=11337</id>
