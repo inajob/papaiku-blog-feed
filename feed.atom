@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-16T08:33:51.538Z</id>
+    <id>urn:2025-05-16T09:27:17.402Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-16T08:33:51.538Z</updated>
+    <updated>2025-05-16T09:27:17.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[父がメガネを外したら…]]></title>
+        <id>https://decobocochan.com/?p=11337</id>
+        <link href="https://decobocochan.com/archives/11337"/>
+        <updated>2025-05-16T08:49:51.000Z</updated>
+        <summary type="html"><![CDATA[お風呂の中でもメガネを手放さない父。 そんな父がメガネを外した姿は、こどもたちにとって激レアだったようで…。 夫がメガネを外した瞬間、こどもたちのコメントが炸裂！ 顔がちがう！ 父の目は、もうちょっと小さい… しわくちゃ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わたしはわたし、あなたはあなた]]></title>
         <id>https://decobocochan.com/?p=11357</id>
@@ -181,16 +191,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
 Copyright © 2025 まろの育児ときどき転職、ところにより副業 All Rights Reserved.]]></summary>
         <author>
             <name>MARO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[たった5分で大騒動！？]]></title>
-        <id>https://decobocochan.com/?p=11295</id>
-        <link href="https://decobocochan.com/archives/11295"/>
-        <updated>2025-05-06T04:45:48.000Z</updated>
-        <summary type="html"><![CDATA[先日、わたしが外出する準備をしていたときのこと。 たった5分の間に、家の中はカオス状態に…！ ・次男 → 泣きわめく ・長女 → 近所迷惑を気にして、次男の口をふさぐ ・長男 → 離れてオロオロ …どんな状況！？ さすが ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
