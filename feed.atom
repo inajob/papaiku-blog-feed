@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-26T09:51:24.044Z</id>
+    <id>urn:2025-05-26T10:30:12.402Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-26T09:51:24.044Z</updated>
+    <updated>2025-05-26T10:30:12.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[どこなら彼女が安心できる？むずかしかった高校選び]]></title>
+        <id>https://decobocochan.com/?p=11387</id>
+        <link href="https://decobocochan.com/archives/11387"/>
+        <updated>2025-05-26T10:27:39.000Z</updated>
+        <summary type="html"><![CDATA[娘の高校選びは、想像以上にむずかしかった。 理由はひとつ。 どこなら彼女が安心して通えるか？ ※めちゃくちゃ大事だけど、入学してみないと正直わからない 昔と違って、高校の選択肢はぐんと広がっています。 校区外の高校へもい ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「デザインが苦手…」から卒業しませんか？]]></title>
         <id>https://decobocochan.com/?p=11447</id>
@@ -132,16 +142,6 @@
         <summary type="html"><![CDATA[個性は人それぞれ。兄弟で似ているところもあれば、全く異なるところもある。]]></summary>
         <author>
             <name>共働きで子供3人を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[父がメガネを外したら…]]></title>
-        <id>https://decobocochan.com/?p=11337</id>
-        <link href="https://decobocochan.com/archives/11337"/>
-        <updated>2025-05-16T08:49:51.000Z</updated>
-        <summary type="html"><![CDATA[お風呂の中でもメガネを手放さない父。 そんな父がメガネを外した姿は、こどもたちにとって激レアだったようで…。 夫がメガネを外した瞬間、こどもたちのコメントが炸裂！ 顔がちがう！ 父の目は、もうちょっと小さい… しわくちゃ ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
