@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T09:28:06.376Z</id>
+    <id>urn:2025-05-28T10:28:50.661Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-28T09:28:06.376Z</updated>
+    <updated>2025-05-28T10:28:50.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[たまには夫の話をしてみよう]]></title>
+        <id>https://decobocochan.com/?p=11391</id>
+        <link href="https://decobocochan.com/archives/11391"/>
+        <updated>2025-05-28T10:28:17.000Z</updated>
+        <summary type="html"><![CDATA[先日、凸凹バーで夫の話題が出たので、たまには書いてみようかなと思います。 あ、ちゃんと夫はいます。一応(？！)夫婦円満だと思います…今のところwww そもそも彼とは、会社の同期。 入社当時は、お互いの存在すら知らない程度 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤ちゃんが生まれたら、請求書の水道使用量が1万リットル変わっていて仰天（男性育休264日目）]]></title>
         <id>https://brushwoodcape.hatenablog.com/entry/2025/05/28/092234</id>
@@ -130,16 +140,6 @@
         <link href="https://decobocochan.com/archives/11367"/>
         <updated>2025-05-19T09:07:03.000Z</updated>
         <summary type="html"><![CDATA[「どの高校がいいのかわからない」 「何を基準に決めたらいいの？」 「通ったことないのに…」 進路を考える(当時)中3の娘が、ふとつぶやきました。 行ったことのない学校を選ぶのは難しい。 自分に合うのか 通えるのか 友達は ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お手伝いをするよりも食べたい！がまさる]]></title>
-        <id>https://decobocochan.com/?p=11372</id>
-        <link href="https://decobocochan.com/archives/11372"/>
-        <updated>2025-05-18T08:44:15.000Z</updated>
-        <summary type="html"><![CDATA[ある日のこと。 「夕飯、何が食べたい？」と聞くと、 長男は元気よく「ハンバーグ！」と答えました🍴✨ 仕事終わりのわたしにはハンバーグはちょっとハードルが高い💦 牛丼にしない？と聞けばよかっ…た…💦 「じゃあ、お手伝いする ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
