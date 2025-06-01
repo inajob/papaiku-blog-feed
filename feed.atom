@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-31T23:24:01.963Z</id>
+    <id>urn:2025-06-01T02:30:11.568Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-05-31T23:24:01.963Z</updated>
+    <updated>2025-06-01T02:30:11.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[忘れても大丈夫な仕組みをつくろう。]]></title>
+        <id>https://decobocochan.com/?p=11454</id>
+        <link href="https://decobocochan.com/archives/11454"/>
+        <updated>2025-06-01T01:15:45.000Z</updated>
+        <summary type="html"><![CDATA[給食セット、毎日ちゃんと出してくれない…。 忘れ物があると気持ちがざわざわ。 叱るより「仕組み」でラクになれた話。 お道具箱の予備、給食セットのルール、 “忘れても大丈夫”な家づくりについて書きました。 ちょっとの工夫で ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[受験生に休みなし、親も休みなし]]></title>
         <id>https://decobocochan.com/?p=11445</id>
@@ -152,16 +162,6 @@
         <link href="https://decobocochan.com/archives/11406"/>
         <updated>2025-05-23T09:33:16.000Z</updated>
         <summary type="html"><![CDATA[オンライン開催2回目は、「凸凹バー」 夜の時間に開催しました。 前回は、こちら 「BAR」ということで、主催のわたしも ワインを片手にリラックスしての参加。 安いワインではありますが（笑） 春はココロがゆらぎやすい季節。 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校進路のことを書く前に、まずは塾選びについて]]></title>
-        <id>https://decobocochan.com/?p=11393</id>
-        <link href="https://decobocochan.com/archives/11393"/>
-        <updated>2025-05-22T09:32:35.000Z</updated>
-        <summary type="html"><![CDATA[高校進路の続きを書く前に、まずは塾選びについて🏫 中学2年生の三学期終了後、春期講習から塾に通い始めた娘。 いくつか体験に行く予定だったけれど、 最初の塾がとても気に入り、そのまま入塾を決めました。 もともと、1対1か1 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
