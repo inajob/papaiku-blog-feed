@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-01T23:23:55.314Z</id>
+    <id>urn:2025-06-02T02:10:25.959Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-01T23:23:55.314Z</updated>
+    <updated>2025-06-02T02:10:25.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[合格のその先にある現実…私立受験と“おとなのお金”の話]]></title>
+        <id>https://decobocochan.com/?p=11452</id>
+        <link href="https://decobocochan.com/archives/11452"/>
+        <updated>2025-06-02T01:18:26.000Z</updated>
+        <summary type="html"><![CDATA[私立の受験は、まず筆記試験から始まりました。 娘が受験した学校は 1日目が筆記、2日目に面接。 そして3日目には採点が行われ、 そのあとすぐに、合否の結果が発送されました。 えぇ。インターネットでわかるのではなく郵送。ヤ ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忘れても大丈夫な仕組みをつくろう。]]></title>
         <id>https://decobocochan.com/?p=11454</id>
@@ -152,16 +162,6 @@
         <link href="https://decobocochan.com/archives/11424"/>
         <updated>2025-05-24T10:17:08.000Z</updated>
         <summary type="html"><![CDATA[「うちの子、もしかして特別支援学級の方が安心して過ごせるのかな…」 そんなふうに悩んだことはありませんか？ 「通常の学級でやっていけるのかな？」 「特別支援学級って何？」 「どんな子が通うの？」 「普通のクラスとどう違う ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Report】凸凹バー]]></title>
-        <id>https://decobocochan.com/?p=11406</id>
-        <link href="https://decobocochan.com/archives/11406"/>
-        <updated>2025-05-23T09:33:16.000Z</updated>
-        <summary type="html"><![CDATA[オンライン開催2回目は、「凸凹バー」 夜の時間に開催しました。 前回は、こちら 「BAR」ということで、主催のわたしも ワインを片手にリラックスしての参加。 安いワインではありますが（笑） 春はココロがゆらぎやすい季節。 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
