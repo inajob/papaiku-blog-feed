@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-02T23:25:31.540Z</id>
+    <id>urn:2025-06-03T02:06:54.471Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-02T23:25:31.540Z</updated>
+    <updated>2025-06-03T02:06:54.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「薬を飲ませるべき？」と悩んだあなたへ。]]></title>
+        <id>https://decobocochan.com/?p=11456</id>
+        <link href="https://decobocochan.com/archives/11456"/>
+        <updated>2025-06-03T01:26:13.000Z</updated>
+        <summary type="html"><![CDATA[ADHD（注意欠陥多動性障害）やASD（自閉スペクトラム症）のお薬を飲むケースが増えてきました。 副作用や依存症、断薬のたいへんさもありますので、かかりつけ医の説明をしっかり受けてください。 薬を飲ませるべきか迷って、何 ...]]></summary>
+        <author>
+            <name>りょう育ママ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合格のその先にある現実…私立受験と“おとなのお金”の話]]></title>
         <id>https://decobocochan.com/?p=11452</id>
@@ -154,16 +164,6 @@
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特別支援学級ってうちの子に合うの？]]></title>
-        <id>https://decobocochan.com/?p=11424</id>
-        <link href="https://decobocochan.com/archives/11424"/>
-        <updated>2025-05-24T10:17:08.000Z</updated>
-        <summary type="html"><![CDATA[「うちの子、もしかして特別支援学級の方が安心して過ごせるのかな…」 そんなふうに悩んだことはありませんか？ 「通常の学級でやっていけるのかな？」 「特別支援学級って何？」 「どんな子が通うの？」 「普通のクラスとどう違う ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
     <entry>
