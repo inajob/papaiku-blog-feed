@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-09T22:25:43.680Z</id>
+    <id>urn:2025-06-09T23:25:15.938Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-09T22:25:43.681Z</updated>
+    <updated>2025-06-09T23:25:15.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -196,24 +196,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[こんなはずでは・・・]]></summary>
         <author>
             <name>共働きで子供3人を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『 手放すことで人生が好転する 』ショートver.]]></title>
-        <id>https://note.com/mountainpeace/n/n19a9476aaa29</id>
-        <link href="https://note.com/mountainpeace/n/n19a9476aaa29"/>
-        <updated>2025-05-11T10:57:04.000Z</updated>
-        <summary type="html"><![CDATA[＼ ストーリーにすると人生は価値になる ／
-    
-        
-            
-
-        
-    
-
-続きをみる]]></summary>
-        <author>
-            <name>やま｜耳読書家</name>
         </author>
     </entry>
 </feed>
