@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-11T17:23:36.608Z</id>
+    <id>urn:2025-06-11T18:37:04.558Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-11T17:23:36.608Z</updated>
+    <updated>2025-06-11T18:37:04.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -196,16 +196,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <link href="https://brushwoodcape.hatenablog.com/entry/2025/05/17/060000"/>
         <updated>2025-05-16T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[個性は人それぞれ。兄弟で似ているところもあれば、全く異なるところもある。]]></summary>
-        <author>
-            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夫婦ダブル育休で3人目の子育てを楽しもうと思ったら辛かった話（男性育休249日目）]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2025/05/13/143643</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2025/05/13/143643"/>
-        <updated>2025-05-13T05:36:43.000Z</updated>
-        <summary type="html"><![CDATA[こんなはずでは・・・]]></summary>
         <author>
             <name>共働きで子供3人を育てる父親の生き残り戦略</name>
         </author>
