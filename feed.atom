@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-15T08:30:53.112Z</id>
+    <id>urn:2025-06-15T09:25:41.614Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-15T08:30:53.112Z</updated>
+    <updated>2025-06-15T09:25:41.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -188,16 +188,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
 続きをみる]]></summary>
         <author>
             <name>やま｜耳読書家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3人目ベビーを育てていて痛感したこと。何回目でも子育ては新たな発見がある（男性育休253日目）]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2025/05/17/060000</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2025/05/17/060000"/>
-        <updated>2025-05-16T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[個性は人それぞれ。兄弟で似ているところもあれば、全く異なるところもある。]]></summary>
-        <author>
-            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
