@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-25T22:25:36.255Z</id>
+    <id>urn:2025-06-25T23:25:09.506Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-25T22:25:36.255Z</updated>
+    <updated>2025-06-25T23:25:09.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -139,16 +139,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[想像以上に水の使用量が多かった、日常生活に欠かせない家事]]></summary>
         <author>
             <name>共働きで子供3人を育てる父親の生き残り戦略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学びあうことのできる、存在]]></title>
-        <id>https://decobocochan.com/?p=11426</id>
-        <link href="https://decobocochan.com/archives/11426"/>
-        <updated>2025-05-27T10:27:56.000Z</updated>
-        <summary type="html"><![CDATA[先日、元未来地図スタッフ関西チームで学び合いをする機会がありました。 呑んでるだけでは、ないですよwww きっかけは、陽さんがFacebookに投稿していた「犯罪心理学」について。 興味があったので「ちょっと教えてほしい ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
