@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-26T11:22:55.413Z</id>
+    <id>urn:2025-06-26T12:55:31.914Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-26T11:22:55.413Z</updated>
+    <updated>2025-06-26T12:55:31.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -129,16 +129,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <summary type="html"><![CDATA[先日、凸凹バーで夫の話題が出たので、たまには書いてみようかなと思います。 あ、ちゃんと夫はいます。一応(？！)夫婦円満だと思います…今のところwww そもそも彼とは、会社の同期。 入社当時は、お互いの存在すら知らない程度 ...]]></summary>
         <author>
             <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤ちゃんが生まれたら、請求書の水道使用量が1万リットル変わっていて仰天（男性育休264日目）]]></title>
-        <id>https://brushwoodcape.hatenablog.com/entry/2025/05/28/092234</id>
-        <link href="https://brushwoodcape.hatenablog.com/entry/2025/05/28/092234"/>
-        <updated>2025-05-28T00:22:34.000Z</updated>
-        <summary type="html"><![CDATA[想像以上に水の使用量が多かった、日常生活に欠かせない家事]]></summary>
-        <author>
-            <name>共働きで子供3人を育てる父親の生き残り戦略</name>
         </author>
     </entry>
 </feed>
