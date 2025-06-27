@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-27T22:26:36.634Z</id>
+    <id>urn:2025-06-27T23:25:42.344Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-27T22:26:36.634Z</updated>
+    <updated>2025-06-27T23:25:42.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -109,16 +109,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
 続きをみる]]></summary>
         <author>
             <name>こやたか|隙間時間でスキルアップできる！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育児に悩んでいるママが、ちょっとラクになれるヒントとは？]]></title>
-        <id>https://decobocochan.com/?p=11379</id>
-        <link href="https://decobocochan.com/archives/11379"/>
-        <updated>2025-05-29T10:28:36.000Z</updated>
-        <summary type="html"><![CDATA[不安は悪いものじゃない 不安を感じるのは、ママがこどもを大切に思っている証拠✨ 不安は、感情。感情を否定しなくてもムリにおさえこまなくても大丈夫。 「こんなに悩むなんて、自分はダメな母親なのかも…」 わたしも何度も不安に ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
         </author>
     </entry>
 </feed>
