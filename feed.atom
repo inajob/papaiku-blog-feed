@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-29T12:50:42.444Z</id>
+    <id>urn:2025-06-29T13:32:38.588Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-06-29T12:50:42.444Z</updated>
+    <updated>2025-06-29T13:32:38.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -65,16 +65,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/11454"/>
         <updated>2025-06-01T01:15:45.000Z</updated>
         <summary type="html"><![CDATA[給食セット、毎日ちゃんと出してくれない…。 忘れ物があると気持ちがざわざわ。 叱るより「仕組み」でラクになれた話。 お道具箱の予備、給食セットのルール、 “忘れても大丈夫”な家づくりについて書きました。 ちょっとの工夫で ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受験生に休みなし、親も休みなし]]></title>
-        <id>https://decobocochan.com/?p=11445</id>
-        <link href="https://decobocochan.com/archives/11445"/>
-        <updated>2025-05-31T00:54:18.000Z</updated>
-        <summary type="html"><![CDATA[志望校が決まったからと言って… 受験生にとって「休み」は存在しない。 それは親も同じ。 お盆には夏期講習。 毎日の塾通い。 学校からの夏休みの課題もこなしながら、受験勉強に追われる日々。 長期休みのたびに二桁単位で出てい ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
