@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T12:55:51.672Z</id>
+    <id>urn:2025-07-01T13:38:12.340Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-07-01T12:55:51.672Z</updated>
+    <updated>2025-07-01T13:38:12.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -45,16 +45,6 @@ Copyright © 2025 まろの育児ときどき転職、ところにより副業 A
         <link href="https://decobocochan.com/archives/11456"/>
         <updated>2025-06-03T01:26:13.000Z</updated>
         <summary type="html"><![CDATA[ADHD（注意欠陥多動性障害）やASD（自閉スペクトラム症）のお薬を飲むケースが増えてきました。 副作用や依存症、断薬のたいへんさもありますので、かかりつけ医の説明をしっかり受けてください。 薬を飲ませるべきか迷って、何 ...]]></summary>
-        <author>
-            <name>りょう育ママ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合格のその先にある現実…私立受験と“おとなのお金”の話]]></title>
-        <id>https://decobocochan.com/?p=11452</id>
-        <link href="https://decobocochan.com/archives/11452"/>
-        <updated>2025-06-02T01:18:26.000Z</updated>
-        <summary type="html"><![CDATA[私立の受験は、まず筆記試験から始まりました。 娘が受験した学校は 1日目が筆記、2日目に面接。 そして3日目には採点が行われ、 そのあとすぐに、合否の結果が発送されました。 えぇ。インターネットでわかるのではなく郵送。ヤ ...]]></summary>
         <author>
             <name>りょう育ママ</name>
         </author>
