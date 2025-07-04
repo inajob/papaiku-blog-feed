@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-04T07:27:11.820Z</id>
+    <id>urn:2025-07-04T08:35:00.598Z</id>
     <title>パパ育ブログ部::（非公式）feed</title>
-    <updated>2025-07-04T07:27:11.820Z</updated>
+    <updated>2025-07-04T08:35:00.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#133『 天使の遺言 』レビュー]]></title>
+        <id>https://note.com/mountainpeace/n/n56d103bc4031</id>
+        <link href="https://note.com/mountainpeace/n/n56d103bc4031"/>
+        <updated>2025-07-04T08:30:27.000Z</updated>
+        <summary type="html"><![CDATA[＼ 本書を読んでから発言して頂きたい ／
+
+続きをみる]]></summary>
+        <author>
+            <name>やまの書籍レビュアー チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#132『 私が見た未来 完全版 』レビュー]]></title>
         <id>https://note.com/mountainpeace/n/n58113b67b02a</id>
